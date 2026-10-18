@@ -1,0 +1,13 @@
+{
+  "translated_pages": 1728,
+  "source_pages": 192,
+  "local_links_checked": 72054,
+  "media_references_checked": 11250,
+  "sitemap_entries": 1278,
+  "cache_fields": 33615,
+  "pending_fields": 0,
+  "provider": "google",
+  "actual_google_calls": 1243,
+  "actual_google_characters_sent": 5224084,
+  "issues": []
+}

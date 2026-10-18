@@ -1,0 +1,1837 @@
+﻿{
+    "requests":  [
+                     "http://127.0.0.1:8765/index.html",
+                     "http://127.0.0.1:8765/assets/site.css",
+                     "http://127.0.0.1:8765/assets/presentation.css",
+                     "http://127.0.0.1:8765/assets/design.css?v=state-content-20261016",
+                     "http://127.0.0.1:8765/assets/local-review-safety.js",
+                     "http://127.0.0.1:8765/assets/locales/home-blog/current.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/fonts/dm-sans.ttf",
+                     "http://127.0.0.1:8765/assets/images/service-details-paper-trail-services-html.webp",
+                     "http://127.0.0.1:8765/assets/fonts/libre-caslon-display.ttf",
+                     "http://127.0.0.1:8765/assets/translation-workflow/routes.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/translation-workflow/navigation.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/translation-workflow/display.css?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/images/paper-trail-logo.png",
+                     "http://127.0.0.1:8765/assets/video/home-poster.webp?v=opening-frame-20261016",
+                     "http://127.0.0.1:8765/assets/photos/past-due-bookkeeping-html.webp",
+                     "http://127.0.0.1:8765/assets/images/paper-trail-monthly-bookkeeping-html.webp",
+                     "http://127.0.0.1:8765/assets/photos/balancing-corrections-html.webp",
+                     "http://127.0.0.1:8765/assets/photos/tax-ready-bookkeeping-html.webp",
+                     "http://127.0.0.1:8765/assets/images/home-article-card-1.webp",
+                     "http://127.0.0.1:8765/assets/images/bank-credit-card-balancing-html.webp",
+                     "http://127.0.0.1:8765/assets/photos/transaction-categorization-html.webp",
+                     "http://127.0.0.1:8765/assets/images/home-article-card-4.webp",
+                     "http://127.0.0.1:8765/assets/site.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/design.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/video/home.mp4",
+                     "http://127.0.0.1:8765/favicon.ico",
+                     "http://127.0.0.1:8765/es/index.html",
+                     "http://127.0.0.1:8765/assets/site.css",
+                     "http://127.0.0.1:8765/assets/presentation.css",
+                     "http://127.0.0.1:8765/assets/design.css?v=state-content-20261016",
+                     "http://127.0.0.1:8765/assets/local-review-safety.js",
+                     "http://127.0.0.1:8765/assets/locales/home-blog/current.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/fonts/dm-sans.ttf",
+                     "http://127.0.0.1:8765/assets/images/service-details-paper-trail-services-html.webp",
+                     "http://127.0.0.1:8765/assets/fonts/libre-caslon-display.ttf",
+                     "http://127.0.0.1:8765/assets/translation-workflow/routes.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/translation-workflow/navigation.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/translation-workflow/display.css?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/images/paper-trail-logo.png",
+                     "http://127.0.0.1:8765/assets/video/home-poster.webp?v=opening-frame-20261016",
+                     "http://127.0.0.1:8765/assets/photos/past-due-bookkeeping-html.webp",
+                     "http://127.0.0.1:8765/assets/images/paper-trail-monthly-bookkeeping-html.webp",
+                     "http://127.0.0.1:8765/assets/photos/balancing-corrections-html.webp",
+                     "http://127.0.0.1:8765/assets/photos/tax-ready-bookkeeping-html.webp",
+                     "http://127.0.0.1:8765/assets/images/home-article-card-1.webp",
+                     "http://127.0.0.1:8765/assets/images/bank-credit-card-balancing-html.webp",
+                     "http://127.0.0.1:8765/assets/photos/transaction-categorization-html.webp",
+                     "http://127.0.0.1:8765/assets/images/home-article-card-4.webp",
+                     "http://127.0.0.1:8765/assets/google-translate-attribution.png",
+                     "http://127.0.0.1:8765/assets/site.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/design.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/video/home.mp4",
+                     "http://127.0.0.1:8765/fa/index.html",
+                     "http://127.0.0.1:8765/assets/site.css",
+                     "http://127.0.0.1:8765/assets/presentation.css",
+                     "http://127.0.0.1:8765/assets/design.css?v=state-content-20261016",
+                     "http://127.0.0.1:8765/assets/local-review-safety.js",
+                     "http://127.0.0.1:8765/assets/locales/home-blog/current.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/fonts/dm-sans.ttf",
+                     "http://127.0.0.1:8765/assets/images/service-details-paper-trail-services-html.webp",
+                     "http://127.0.0.1:8765/assets/fonts/libre-caslon-display.ttf",
+                     "http://127.0.0.1:8765/assets/translation-workflow/routes.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/translation-workflow/navigation.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/translation-workflow/display.css?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/images/paper-trail-logo.png",
+                     "http://127.0.0.1:8765/assets/video/home-poster.webp?v=opening-frame-20261016",
+                     "http://127.0.0.1:8765/assets/photos/past-due-bookkeeping-html.webp",
+                     "http://127.0.0.1:8765/assets/images/paper-trail-monthly-bookkeeping-html.webp",
+                     "http://127.0.0.1:8765/assets/photos/balancing-corrections-html.webp",
+                     "http://127.0.0.1:8765/assets/photos/tax-ready-bookkeeping-html.webp",
+                     "http://127.0.0.1:8765/assets/images/home-article-card-1.webp",
+                     "http://127.0.0.1:8765/assets/images/bank-credit-card-balancing-html.webp",
+                     "http://127.0.0.1:8765/assets/photos/transaction-categorization-html.webp",
+                     "http://127.0.0.1:8765/assets/images/home-article-card-4.webp",
+                     "http://127.0.0.1:8765/assets/google-translate-attribution.png",
+                     "http://127.0.0.1:8765/assets/site.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/design.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/video/home.mp4",
+                     "http://127.0.0.1:8765/hy/index.html",
+                     "http://127.0.0.1:8765/assets/site.css",
+                     "http://127.0.0.1:8765/assets/presentation.css",
+                     "http://127.0.0.1:8765/assets/design.css?v=state-content-20261016",
+                     "http://127.0.0.1:8765/assets/local-review-safety.js",
+                     "http://127.0.0.1:8765/assets/locales/home-blog/current.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/fonts/dm-sans.ttf",
+                     "http://127.0.0.1:8765/assets/images/service-details-paper-trail-services-html.webp",
+                     "http://127.0.0.1:8765/assets/fonts/libre-caslon-display.ttf",
+                     "http://127.0.0.1:8765/assets/translation-workflow/routes.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/translation-workflow/navigation.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/translation-workflow/display.css?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/images/paper-trail-logo.png",
+                     "http://127.0.0.1:8765/assets/video/home-poster.webp?v=opening-frame-20261016",
+                     "http://127.0.0.1:8765/assets/photos/past-due-bookkeeping-html.webp",
+                     "http://127.0.0.1:8765/assets/images/paper-trail-monthly-bookkeeping-html.webp",
+                     "http://127.0.0.1:8765/assets/photos/balancing-corrections-html.webp",
+                     "http://127.0.0.1:8765/assets/photos/tax-ready-bookkeeping-html.webp",
+                     "http://127.0.0.1:8765/assets/images/home-article-card-1.webp",
+                     "http://127.0.0.1:8765/assets/images/bank-credit-card-balancing-html.webp",
+                     "http://127.0.0.1:8765/assets/photos/transaction-categorization-html.webp",
+                     "http://127.0.0.1:8765/assets/images/home-article-card-4.webp",
+                     "http://127.0.0.1:8765/assets/google-translate-attribution.png",
+                     "http://127.0.0.1:8765/assets/site.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/design.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/video/home.mp4",
+                     "http://127.0.0.1:8765/zh-CN/index.html",
+                     "http://127.0.0.1:8765/assets/site.css",
+                     "http://127.0.0.1:8765/assets/presentation.css",
+                     "http://127.0.0.1:8765/assets/design.css?v=state-content-20261016",
+                     "http://127.0.0.1:8765/assets/local-review-safety.js",
+                     "http://127.0.0.1:8765/assets/locales/home-blog/current.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/fonts/dm-sans.ttf",
+                     "http://127.0.0.1:8765/assets/images/service-details-paper-trail-services-html.webp",
+                     "http://127.0.0.1:8765/assets/fonts/libre-caslon-display.ttf",
+                     "http://127.0.0.1:8765/assets/translation-workflow/routes.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/translation-workflow/navigation.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/translation-workflow/display.css?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/images/paper-trail-logo.png",
+                     "http://127.0.0.1:8765/assets/video/home-poster.webp?v=opening-frame-20261016",
+                     "http://127.0.0.1:8765/assets/photos/past-due-bookkeeping-html.webp",
+                     "http://127.0.0.1:8765/assets/images/paper-trail-monthly-bookkeeping-html.webp",
+                     "http://127.0.0.1:8765/assets/photos/balancing-corrections-html.webp",
+                     "http://127.0.0.1:8765/assets/photos/tax-ready-bookkeeping-html.webp",
+                     "http://127.0.0.1:8765/assets/images/home-article-card-1.webp",
+                     "http://127.0.0.1:8765/assets/images/bank-credit-card-balancing-html.webp",
+                     "http://127.0.0.1:8765/assets/photos/transaction-categorization-html.webp",
+                     "http://127.0.0.1:8765/assets/images/home-article-card-4.webp",
+                     "http://127.0.0.1:8765/assets/google-translate-attribution.png",
+                     "http://127.0.0.1:8765/assets/site.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/design.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/video/home.mp4",
+                     "http://127.0.0.1:8765/ko/index.html",
+                     "http://127.0.0.1:8765/assets/site.css",
+                     "http://127.0.0.1:8765/assets/presentation.css",
+                     "http://127.0.0.1:8765/assets/design.css?v=state-content-20261016",
+                     "http://127.0.0.1:8765/assets/local-review-safety.js",
+                     "http://127.0.0.1:8765/assets/locales/home-blog/current.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/fonts/dm-sans.ttf",
+                     "http://127.0.0.1:8765/assets/images/service-details-paper-trail-services-html.webp",
+                     "http://127.0.0.1:8765/assets/fonts/libre-caslon-display.ttf",
+                     "http://127.0.0.1:8765/assets/translation-workflow/routes.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/translation-workflow/navigation.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/translation-workflow/display.css?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/images/paper-trail-logo.png",
+                     "http://127.0.0.1:8765/assets/video/home-poster.webp?v=opening-frame-20261016",
+                     "http://127.0.0.1:8765/assets/photos/past-due-bookkeeping-html.webp",
+                     "http://127.0.0.1:8765/assets/images/paper-trail-monthly-bookkeeping-html.webp",
+                     "http://127.0.0.1:8765/assets/photos/balancing-corrections-html.webp",
+                     "http://127.0.0.1:8765/assets/photos/tax-ready-bookkeeping-html.webp",
+                     "http://127.0.0.1:8765/assets/images/home-article-card-1.webp",
+                     "http://127.0.0.1:8765/assets/images/bank-credit-card-balancing-html.webp",
+                     "http://127.0.0.1:8765/assets/photos/transaction-categorization-html.webp",
+                     "http://127.0.0.1:8765/assets/images/home-article-card-4.webp",
+                     "http://127.0.0.1:8765/assets/google-translate-attribution.png",
+                     "http://127.0.0.1:8765/assets/site.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/design.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/video/home.mp4",
+                     "http://127.0.0.1:8765/tl/index.html",
+                     "http://127.0.0.1:8765/assets/site.css",
+                     "http://127.0.0.1:8765/assets/presentation.css",
+                     "http://127.0.0.1:8765/assets/design.css?v=state-content-20261016",
+                     "http://127.0.0.1:8765/assets/local-review-safety.js",
+                     "http://127.0.0.1:8765/assets/locales/home-blog/current.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/fonts/dm-sans.ttf",
+                     "http://127.0.0.1:8765/assets/images/service-details-paper-trail-services-html.webp",
+                     "http://127.0.0.1:8765/assets/fonts/libre-caslon-display.ttf",
+                     "http://127.0.0.1:8765/assets/translation-workflow/routes.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/translation-workflow/navigation.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/translation-workflow/display.css?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/images/paper-trail-logo.png",
+                     "http://127.0.0.1:8765/assets/video/home-poster.webp?v=opening-frame-20261016",
+                     "http://127.0.0.1:8765/assets/photos/past-due-bookkeeping-html.webp",
+                     "http://127.0.0.1:8765/assets/images/paper-trail-monthly-bookkeeping-html.webp",
+                     "http://127.0.0.1:8765/assets/photos/balancing-corrections-html.webp",
+                     "http://127.0.0.1:8765/assets/photos/tax-ready-bookkeeping-html.webp",
+                     "http://127.0.0.1:8765/assets/images/home-article-card-1.webp",
+                     "http://127.0.0.1:8765/assets/images/bank-credit-card-balancing-html.webp",
+                     "http://127.0.0.1:8765/assets/photos/transaction-categorization-html.webp",
+                     "http://127.0.0.1:8765/assets/images/home-article-card-4.webp",
+                     "http://127.0.0.1:8765/assets/google-translate-attribution.png",
+                     "http://127.0.0.1:8765/assets/site.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/design.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/video/home.mp4",
+                     "http://127.0.0.1:8765/te/index.html",
+                     "http://127.0.0.1:8765/assets/site.css",
+                     "http://127.0.0.1:8765/assets/presentation.css",
+                     "http://127.0.0.1:8765/assets/design.css?v=state-content-20261016",
+                     "http://127.0.0.1:8765/assets/local-review-safety.js",
+                     "http://127.0.0.1:8765/assets/locales/home-blog/current.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/fonts/dm-sans.ttf",
+                     "http://127.0.0.1:8765/assets/images/service-details-paper-trail-services-html.webp",
+                     "http://127.0.0.1:8765/assets/fonts/libre-caslon-display.ttf",
+                     "http://127.0.0.1:8765/assets/translation-workflow/routes.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/translation-workflow/navigation.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/translation-workflow/display.css?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/images/paper-trail-logo.png",
+                     "http://127.0.0.1:8765/assets/video/home-poster.webp?v=opening-frame-20261016",
+                     "http://127.0.0.1:8765/assets/photos/past-due-bookkeeping-html.webp",
+                     "http://127.0.0.1:8765/assets/images/paper-trail-monthly-bookkeeping-html.webp",
+                     "http://127.0.0.1:8765/assets/photos/balancing-corrections-html.webp",
+                     "http://127.0.0.1:8765/assets/photos/tax-ready-bookkeeping-html.webp",
+                     "http://127.0.0.1:8765/assets/images/home-article-card-1.webp",
+                     "http://127.0.0.1:8765/assets/images/bank-credit-card-balancing-html.webp",
+                     "http://127.0.0.1:8765/assets/photos/transaction-categorization-html.webp",
+                     "http://127.0.0.1:8765/assets/images/home-article-card-4.webp",
+                     "http://127.0.0.1:8765/assets/google-translate-attribution.png",
+                     "http://127.0.0.1:8765/assets/site.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/design.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/video/home.mp4",
+                     "http://127.0.0.1:8765/ru/index.html",
+                     "http://127.0.0.1:8765/assets/site.css",
+                     "http://127.0.0.1:8765/assets/presentation.css",
+                     "http://127.0.0.1:8765/assets/design.css?v=state-content-20261016",
+                     "http://127.0.0.1:8765/assets/local-review-safety.js",
+                     "http://127.0.0.1:8765/assets/locales/home-blog/current.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/fonts/dm-sans.ttf",
+                     "http://127.0.0.1:8765/assets/images/service-details-paper-trail-services-html.webp",
+                     "http://127.0.0.1:8765/assets/fonts/libre-caslon-display.ttf",
+                     "http://127.0.0.1:8765/assets/translation-workflow/routes.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/translation-workflow/navigation.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/translation-workflow/display.css?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/images/paper-trail-logo.png",
+                     "http://127.0.0.1:8765/assets/video/home-poster.webp?v=opening-frame-20261016",
+                     "http://127.0.0.1:8765/assets/photos/past-due-bookkeeping-html.webp",
+                     "http://127.0.0.1:8765/assets/images/paper-trail-monthly-bookkeeping-html.webp",
+                     "http://127.0.0.1:8765/assets/photos/balancing-corrections-html.webp",
+                     "http://127.0.0.1:8765/assets/photos/tax-ready-bookkeeping-html.webp",
+                     "http://127.0.0.1:8765/assets/images/home-article-card-1.webp",
+                     "http://127.0.0.1:8765/assets/images/bank-credit-card-balancing-html.webp",
+                     "http://127.0.0.1:8765/assets/photos/transaction-categorization-html.webp",
+                     "http://127.0.0.1:8765/assets/images/home-article-card-4.webp",
+                     "http://127.0.0.1:8765/assets/google-translate-attribution.png",
+                     "http://127.0.0.1:8765/assets/site.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/design.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/video/home.mp4",
+                     "http://127.0.0.1:8765/ar/index.html",
+                     "http://127.0.0.1:8765/assets/site.css",
+                     "http://127.0.0.1:8765/assets/presentation.css",
+                     "http://127.0.0.1:8765/assets/design.css?v=state-content-20261016",
+                     "http://127.0.0.1:8765/assets/local-review-safety.js",
+                     "http://127.0.0.1:8765/assets/locales/home-blog/current.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/fonts/dm-sans.ttf",
+                     "http://127.0.0.1:8765/assets/images/service-details-paper-trail-services-html.webp",
+                     "http://127.0.0.1:8765/assets/fonts/libre-caslon-display.ttf",
+                     "http://127.0.0.1:8765/assets/translation-workflow/routes.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/translation-workflow/navigation.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/translation-workflow/display.css?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/images/paper-trail-logo.png",
+                     "http://127.0.0.1:8765/assets/video/home-poster.webp?v=opening-frame-20261016",
+                     "http://127.0.0.1:8765/assets/photos/past-due-bookkeeping-html.webp",
+                     "http://127.0.0.1:8765/assets/images/paper-trail-monthly-bookkeeping-html.webp",
+                     "http://127.0.0.1:8765/assets/photos/balancing-corrections-html.webp",
+                     "http://127.0.0.1:8765/assets/photos/tax-ready-bookkeeping-html.webp",
+                     "http://127.0.0.1:8765/assets/images/home-article-card-1.webp",
+                     "http://127.0.0.1:8765/assets/images/bank-credit-card-balancing-html.webp",
+                     "http://127.0.0.1:8765/assets/photos/transaction-categorization-html.webp",
+                     "http://127.0.0.1:8765/assets/images/home-article-card-4.webp",
+                     "http://127.0.0.1:8765/assets/google-translate-attribution.png",
+                     "http://127.0.0.1:8765/assets/site.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/design.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/video/home.mp4",
+                     "http://127.0.0.1:8765/index.html",
+                     "http://127.0.0.1:8765/assets/site.css",
+                     "http://127.0.0.1:8765/assets/presentation.css",
+                     "http://127.0.0.1:8765/assets/design.css?v=state-content-20261016",
+                     "http://127.0.0.1:8765/assets/local-review-safety.js",
+                     "http://127.0.0.1:8765/assets/locales/home-blog/current.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/fonts/dm-sans.ttf",
+                     "http://127.0.0.1:8765/assets/images/service-details-paper-trail-services-html.webp",
+                     "http://127.0.0.1:8765/assets/fonts/libre-caslon-display.ttf",
+                     "http://127.0.0.1:8765/assets/translation-workflow/routes.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/translation-workflow/navigation.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/translation-workflow/display.css?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/images/paper-trail-logo.png",
+                     "http://127.0.0.1:8765/assets/video/home-poster.webp?v=opening-frame-20261016",
+                     "http://127.0.0.1:8765/assets/photos/past-due-bookkeeping-html.webp",
+                     "http://127.0.0.1:8765/assets/images/paper-trail-monthly-bookkeeping-html.webp",
+                     "http://127.0.0.1:8765/assets/photos/balancing-corrections-html.webp",
+                     "http://127.0.0.1:8765/assets/photos/tax-ready-bookkeeping-html.webp",
+                     "http://127.0.0.1:8765/assets/images/home-article-card-1.webp",
+                     "http://127.0.0.1:8765/assets/images/bank-credit-card-balancing-html.webp",
+                     "http://127.0.0.1:8765/assets/photos/transaction-categorization-html.webp",
+                     "http://127.0.0.1:8765/assets/images/home-article-card-4.webp",
+                     "http://127.0.0.1:8765/assets/site.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/design.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/video/home.mp4",
+                     "http://127.0.0.1:8765/es/index.html",
+                     "http://127.0.0.1:8765/assets/site.css",
+                     "http://127.0.0.1:8765/assets/presentation.css",
+                     "http://127.0.0.1:8765/assets/design.css?v=state-content-20261016",
+                     "http://127.0.0.1:8765/assets/local-review-safety.js",
+                     "http://127.0.0.1:8765/assets/locales/home-blog/current.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/fonts/dm-sans.ttf",
+                     "http://127.0.0.1:8765/assets/images/service-details-paper-trail-services-html.webp",
+                     "http://127.0.0.1:8765/assets/fonts/libre-caslon-display.ttf",
+                     "http://127.0.0.1:8765/assets/translation-workflow/routes.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/translation-workflow/navigation.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/translation-workflow/display.css?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/images/paper-trail-logo.png",
+                     "http://127.0.0.1:8765/assets/video/home-poster.webp?v=opening-frame-20261016",
+                     "http://127.0.0.1:8765/assets/photos/past-due-bookkeeping-html.webp",
+                     "http://127.0.0.1:8765/assets/images/paper-trail-monthly-bookkeeping-html.webp",
+                     "http://127.0.0.1:8765/assets/photos/balancing-corrections-html.webp",
+                     "http://127.0.0.1:8765/assets/photos/tax-ready-bookkeeping-html.webp",
+                     "http://127.0.0.1:8765/assets/images/home-article-card-1.webp",
+                     "http://127.0.0.1:8765/assets/images/bank-credit-card-balancing-html.webp",
+                     "http://127.0.0.1:8765/assets/photos/transaction-categorization-html.webp",
+                     "http://127.0.0.1:8765/assets/images/home-article-card-4.webp",
+                     "http://127.0.0.1:8765/assets/google-translate-attribution.png",
+                     "http://127.0.0.1:8765/assets/site.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/design.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/video/home.mp4",
+                     "http://127.0.0.1:8765/fa/index.html",
+                     "http://127.0.0.1:8765/assets/site.css",
+                     "http://127.0.0.1:8765/assets/presentation.css",
+                     "http://127.0.0.1:8765/assets/design.css?v=state-content-20261016",
+                     "http://127.0.0.1:8765/assets/local-review-safety.js",
+                     "http://127.0.0.1:8765/assets/locales/home-blog/current.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/fonts/dm-sans.ttf",
+                     "http://127.0.0.1:8765/assets/images/service-details-paper-trail-services-html.webp",
+                     "http://127.0.0.1:8765/assets/fonts/libre-caslon-display.ttf",
+                     "http://127.0.0.1:8765/assets/translation-workflow/routes.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/translation-workflow/navigation.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/translation-workflow/display.css?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/images/paper-trail-logo.png",
+                     "http://127.0.0.1:8765/assets/video/home-poster.webp?v=opening-frame-20261016",
+                     "http://127.0.0.1:8765/assets/photos/past-due-bookkeeping-html.webp",
+                     "http://127.0.0.1:8765/assets/images/paper-trail-monthly-bookkeeping-html.webp",
+                     "http://127.0.0.1:8765/assets/photos/balancing-corrections-html.webp",
+                     "http://127.0.0.1:8765/assets/photos/tax-ready-bookkeeping-html.webp",
+                     "http://127.0.0.1:8765/assets/images/home-article-card-1.webp",
+                     "http://127.0.0.1:8765/assets/images/bank-credit-card-balancing-html.webp",
+                     "http://127.0.0.1:8765/assets/photos/transaction-categorization-html.webp",
+                     "http://127.0.0.1:8765/assets/images/home-article-card-4.webp",
+                     "http://127.0.0.1:8765/assets/google-translate-attribution.png",
+                     "http://127.0.0.1:8765/assets/site.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/design.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/video/home.mp4",
+                     "http://127.0.0.1:8765/hy/index.html",
+                     "http://127.0.0.1:8765/assets/site.css",
+                     "http://127.0.0.1:8765/assets/presentation.css",
+                     "http://127.0.0.1:8765/assets/design.css?v=state-content-20261016",
+                     "http://127.0.0.1:8765/assets/local-review-safety.js",
+                     "http://127.0.0.1:8765/assets/locales/home-blog/current.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/fonts/dm-sans.ttf",
+                     "http://127.0.0.1:8765/assets/images/service-details-paper-trail-services-html.webp",
+                     "http://127.0.0.1:8765/assets/fonts/libre-caslon-display.ttf",
+                     "http://127.0.0.1:8765/assets/translation-workflow/routes.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/translation-workflow/navigation.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/translation-workflow/display.css?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/images/paper-trail-logo.png",
+                     "http://127.0.0.1:8765/assets/video/home-poster.webp?v=opening-frame-20261016",
+                     "http://127.0.0.1:8765/assets/photos/past-due-bookkeeping-html.webp",
+                     "http://127.0.0.1:8765/assets/images/paper-trail-monthly-bookkeeping-html.webp",
+                     "http://127.0.0.1:8765/assets/photos/balancing-corrections-html.webp",
+                     "http://127.0.0.1:8765/assets/photos/tax-ready-bookkeeping-html.webp",
+                     "http://127.0.0.1:8765/assets/images/home-article-card-1.webp",
+                     "http://127.0.0.1:8765/assets/images/bank-credit-card-balancing-html.webp",
+                     "http://127.0.0.1:8765/assets/photos/transaction-categorization-html.webp",
+                     "http://127.0.0.1:8765/assets/images/home-article-card-4.webp",
+                     "http://127.0.0.1:8765/assets/google-translate-attribution.png",
+                     "http://127.0.0.1:8765/assets/site.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/design.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/video/home.mp4",
+                     "http://127.0.0.1:8765/zh-CN/index.html",
+                     "http://127.0.0.1:8765/assets/site.css",
+                     "http://127.0.0.1:8765/assets/presentation.css",
+                     "http://127.0.0.1:8765/assets/design.css?v=state-content-20261016",
+                     "http://127.0.0.1:8765/assets/local-review-safety.js",
+                     "http://127.0.0.1:8765/assets/locales/home-blog/current.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/fonts/dm-sans.ttf",
+                     "http://127.0.0.1:8765/assets/images/service-details-paper-trail-services-html.webp",
+                     "http://127.0.0.1:8765/assets/fonts/libre-caslon-display.ttf",
+                     "http://127.0.0.1:8765/assets/translation-workflow/routes.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/translation-workflow/navigation.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/translation-workflow/display.css?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/images/paper-trail-logo.png",
+                     "http://127.0.0.1:8765/assets/video/home-poster.webp?v=opening-frame-20261016",
+                     "http://127.0.0.1:8765/assets/photos/past-due-bookkeeping-html.webp",
+                     "http://127.0.0.1:8765/assets/images/paper-trail-monthly-bookkeeping-html.webp",
+                     "http://127.0.0.1:8765/assets/photos/balancing-corrections-html.webp",
+                     "http://127.0.0.1:8765/assets/photos/tax-ready-bookkeeping-html.webp",
+                     "http://127.0.0.1:8765/assets/images/home-article-card-1.webp",
+                     "http://127.0.0.1:8765/assets/images/bank-credit-card-balancing-html.webp",
+                     "http://127.0.0.1:8765/assets/photos/transaction-categorization-html.webp",
+                     "http://127.0.0.1:8765/assets/images/home-article-card-4.webp",
+                     "http://127.0.0.1:8765/assets/google-translate-attribution.png",
+                     "http://127.0.0.1:8765/assets/site.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/design.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/video/home.mp4",
+                     "http://127.0.0.1:8765/ko/index.html",
+                     "http://127.0.0.1:8765/assets/site.css",
+                     "http://127.0.0.1:8765/assets/presentation.css",
+                     "http://127.0.0.1:8765/assets/design.css?v=state-content-20261016",
+                     "http://127.0.0.1:8765/assets/local-review-safety.js",
+                     "http://127.0.0.1:8765/assets/locales/home-blog/current.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/fonts/dm-sans.ttf",
+                     "http://127.0.0.1:8765/assets/images/service-details-paper-trail-services-html.webp",
+                     "http://127.0.0.1:8765/assets/fonts/libre-caslon-display.ttf",
+                     "http://127.0.0.1:8765/assets/translation-workflow/routes.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/translation-workflow/navigation.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/translation-workflow/display.css?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/images/paper-trail-logo.png",
+                     "http://127.0.0.1:8765/assets/video/home-poster.webp?v=opening-frame-20261016",
+                     "http://127.0.0.1:8765/assets/photos/past-due-bookkeeping-html.webp",
+                     "http://127.0.0.1:8765/assets/images/paper-trail-monthly-bookkeeping-html.webp",
+                     "http://127.0.0.1:8765/assets/photos/balancing-corrections-html.webp",
+                     "http://127.0.0.1:8765/assets/photos/tax-ready-bookkeeping-html.webp",
+                     "http://127.0.0.1:8765/assets/images/home-article-card-1.webp",
+                     "http://127.0.0.1:8765/assets/images/bank-credit-card-balancing-html.webp",
+                     "http://127.0.0.1:8765/assets/photos/transaction-categorization-html.webp",
+                     "http://127.0.0.1:8765/assets/images/home-article-card-4.webp",
+                     "http://127.0.0.1:8765/assets/google-translate-attribution.png",
+                     "http://127.0.0.1:8765/assets/site.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/design.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/video/home.mp4",
+                     "http://127.0.0.1:8765/tl/index.html",
+                     "http://127.0.0.1:8765/assets/site.css",
+                     "http://127.0.0.1:8765/assets/presentation.css",
+                     "http://127.0.0.1:8765/assets/design.css?v=state-content-20261016",
+                     "http://127.0.0.1:8765/assets/local-review-safety.js",
+                     "http://127.0.0.1:8765/assets/locales/home-blog/current.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/fonts/dm-sans.ttf",
+                     "http://127.0.0.1:8765/assets/images/service-details-paper-trail-services-html.webp",
+                     "http://127.0.0.1:8765/assets/fonts/libre-caslon-display.ttf",
+                     "http://127.0.0.1:8765/assets/translation-workflow/routes.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/translation-workflow/navigation.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/translation-workflow/display.css?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/images/paper-trail-logo.png",
+                     "http://127.0.0.1:8765/assets/video/home-poster.webp?v=opening-frame-20261016",
+                     "http://127.0.0.1:8765/assets/photos/past-due-bookkeeping-html.webp",
+                     "http://127.0.0.1:8765/assets/images/paper-trail-monthly-bookkeeping-html.webp",
+                     "http://127.0.0.1:8765/assets/photos/balancing-corrections-html.webp",
+                     "http://127.0.0.1:8765/assets/photos/tax-ready-bookkeeping-html.webp",
+                     "http://127.0.0.1:8765/assets/images/home-article-card-1.webp",
+                     "http://127.0.0.1:8765/assets/images/bank-credit-card-balancing-html.webp",
+                     "http://127.0.0.1:8765/assets/photos/transaction-categorization-html.webp",
+                     "http://127.0.0.1:8765/assets/images/home-article-card-4.webp",
+                     "http://127.0.0.1:8765/assets/google-translate-attribution.png",
+                     "http://127.0.0.1:8765/assets/site.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/design.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/video/home.mp4",
+                     "http://127.0.0.1:8765/te/index.html",
+                     "http://127.0.0.1:8765/assets/site.css",
+                     "http://127.0.0.1:8765/assets/presentation.css",
+                     "http://127.0.0.1:8765/assets/design.css?v=state-content-20261016",
+                     "http://127.0.0.1:8765/assets/local-review-safety.js",
+                     "http://127.0.0.1:8765/assets/locales/home-blog/current.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/fonts/dm-sans.ttf",
+                     "http://127.0.0.1:8765/assets/images/service-details-paper-trail-services-html.webp",
+                     "http://127.0.0.1:8765/assets/fonts/libre-caslon-display.ttf",
+                     "http://127.0.0.1:8765/assets/translation-workflow/routes.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/translation-workflow/navigation.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/translation-workflow/display.css?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/images/paper-trail-logo.png",
+                     "http://127.0.0.1:8765/assets/video/home-poster.webp?v=opening-frame-20261016",
+                     "http://127.0.0.1:8765/assets/photos/past-due-bookkeeping-html.webp",
+                     "http://127.0.0.1:8765/assets/images/paper-trail-monthly-bookkeeping-html.webp",
+                     "http://127.0.0.1:8765/assets/photos/balancing-corrections-html.webp",
+                     "http://127.0.0.1:8765/assets/photos/tax-ready-bookkeeping-html.webp",
+                     "http://127.0.0.1:8765/assets/images/home-article-card-1.webp",
+                     "http://127.0.0.1:8765/assets/images/bank-credit-card-balancing-html.webp",
+                     "http://127.0.0.1:8765/assets/photos/transaction-categorization-html.webp",
+                     "http://127.0.0.1:8765/assets/images/home-article-card-4.webp",
+                     "http://127.0.0.1:8765/assets/google-translate-attribution.png",
+                     "http://127.0.0.1:8765/assets/site.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/design.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/video/home.mp4",
+                     "http://127.0.0.1:8765/ru/index.html",
+                     "http://127.0.0.1:8765/assets/site.css",
+                     "http://127.0.0.1:8765/assets/presentation.css",
+                     "http://127.0.0.1:8765/assets/design.css?v=state-content-20261016",
+                     "http://127.0.0.1:8765/assets/local-review-safety.js",
+                     "http://127.0.0.1:8765/assets/locales/home-blog/current.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/fonts/dm-sans.ttf",
+                     "http://127.0.0.1:8765/assets/images/service-details-paper-trail-services-html.webp",
+                     "http://127.0.0.1:8765/assets/fonts/libre-caslon-display.ttf",
+                     "http://127.0.0.1:8765/assets/translation-workflow/routes.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/translation-workflow/navigation.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/translation-workflow/display.css?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/images/paper-trail-logo.png",
+                     "http://127.0.0.1:8765/assets/video/home-poster.webp?v=opening-frame-20261016",
+                     "http://127.0.0.1:8765/assets/photos/past-due-bookkeeping-html.webp",
+                     "http://127.0.0.1:8765/assets/images/paper-trail-monthly-bookkeeping-html.webp",
+                     "http://127.0.0.1:8765/assets/photos/balancing-corrections-html.webp",
+                     "http://127.0.0.1:8765/assets/photos/tax-ready-bookkeeping-html.webp",
+                     "http://127.0.0.1:8765/assets/images/home-article-card-1.webp",
+                     "http://127.0.0.1:8765/assets/images/bank-credit-card-balancing-html.webp",
+                     "http://127.0.0.1:8765/assets/photos/transaction-categorization-html.webp",
+                     "http://127.0.0.1:8765/assets/images/home-article-card-4.webp",
+                     "http://127.0.0.1:8765/assets/google-translate-attribution.png",
+                     "http://127.0.0.1:8765/assets/site.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/design.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/video/home.mp4",
+                     "http://127.0.0.1:8765/ar/index.html",
+                     "http://127.0.0.1:8765/assets/site.css",
+                     "http://127.0.0.1:8765/assets/presentation.css",
+                     "http://127.0.0.1:8765/assets/design.css?v=state-content-20261016",
+                     "http://127.0.0.1:8765/assets/local-review-safety.js",
+                     "http://127.0.0.1:8765/assets/locales/home-blog/current.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/fonts/dm-sans.ttf",
+                     "http://127.0.0.1:8765/assets/images/service-details-paper-trail-services-html.webp",
+                     "http://127.0.0.1:8765/assets/fonts/libre-caslon-display.ttf",
+                     "http://127.0.0.1:8765/assets/translation-workflow/routes.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/translation-workflow/navigation.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/translation-workflow/display.css?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/images/paper-trail-logo.png",
+                     "http://127.0.0.1:8765/assets/video/home-poster.webp?v=opening-frame-20261016",
+                     "http://127.0.0.1:8765/assets/photos/past-due-bookkeeping-html.webp",
+                     "http://127.0.0.1:8765/assets/images/paper-trail-monthly-bookkeeping-html.webp",
+                     "http://127.0.0.1:8765/assets/photos/balancing-corrections-html.webp",
+                     "http://127.0.0.1:8765/assets/photos/tax-ready-bookkeeping-html.webp",
+                     "http://127.0.0.1:8765/assets/images/home-article-card-1.webp",
+                     "http://127.0.0.1:8765/assets/images/bank-credit-card-balancing-html.webp",
+                     "http://127.0.0.1:8765/assets/photos/transaction-categorization-html.webp",
+                     "http://127.0.0.1:8765/assets/images/home-article-card-4.webp",
+                     "http://127.0.0.1:8765/assets/google-translate-attribution.png",
+                     "http://127.0.0.1:8765/assets/site.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/design.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/video/home.mp4",
+                     "http://127.0.0.1:8765/index.html",
+                     "http://127.0.0.1:8765/assets/site.css",
+                     "http://127.0.0.1:8765/assets/presentation.css",
+                     "http://127.0.0.1:8765/assets/design.css?v=state-content-20261016",
+                     "http://127.0.0.1:8765/assets/local-review-safety.js",
+                     "http://127.0.0.1:8765/assets/locales/home-blog/current.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/fonts/dm-sans.ttf",
+                     "http://127.0.0.1:8765/assets/images/service-details-paper-trail-services-html.webp",
+                     "http://127.0.0.1:8765/assets/fonts/libre-caslon-display.ttf",
+                     "http://127.0.0.1:8765/assets/translation-workflow/routes.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/translation-workflow/navigation.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/translation-workflow/display.css?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/images/paper-trail-logo.png",
+                     "http://127.0.0.1:8765/assets/video/home-poster.webp?v=opening-frame-20261016",
+                     "http://127.0.0.1:8765/assets/photos/past-due-bookkeeping-html.webp",
+                     "http://127.0.0.1:8765/assets/images/paper-trail-monthly-bookkeeping-html.webp",
+                     "http://127.0.0.1:8765/assets/photos/balancing-corrections-html.webp",
+                     "http://127.0.0.1:8765/assets/photos/tax-ready-bookkeeping-html.webp",
+                     "http://127.0.0.1:8765/assets/images/home-article-card-1.webp",
+                     "http://127.0.0.1:8765/assets/images/bank-credit-card-balancing-html.webp",
+                     "http://127.0.0.1:8765/assets/photos/transaction-categorization-html.webp",
+                     "http://127.0.0.1:8765/assets/images/home-article-card-4.webp",
+                     "http://127.0.0.1:8765/assets/site.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/design.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/video/home.mp4",
+                     "http://127.0.0.1:8765/es/index.html",
+                     "http://127.0.0.1:8765/assets/site.css",
+                     "http://127.0.0.1:8765/assets/presentation.css",
+                     "http://127.0.0.1:8765/assets/design.css?v=state-content-20261016",
+                     "http://127.0.0.1:8765/assets/local-review-safety.js",
+                     "http://127.0.0.1:8765/assets/locales/home-blog/current.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/fonts/dm-sans.ttf",
+                     "http://127.0.0.1:8765/assets/images/service-details-paper-trail-services-html.webp",
+                     "http://127.0.0.1:8765/assets/fonts/libre-caslon-display.ttf",
+                     "http://127.0.0.1:8765/assets/translation-workflow/routes.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/translation-workflow/navigation.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/translation-workflow/display.css?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/images/paper-trail-logo.png",
+                     "http://127.0.0.1:8765/assets/video/home-poster.webp?v=opening-frame-20261016",
+                     "http://127.0.0.1:8765/assets/photos/past-due-bookkeeping-html.webp",
+                     "http://127.0.0.1:8765/assets/images/paper-trail-monthly-bookkeeping-html.webp",
+                     "http://127.0.0.1:8765/assets/photos/balancing-corrections-html.webp",
+                     "http://127.0.0.1:8765/assets/photos/tax-ready-bookkeeping-html.webp",
+                     "http://127.0.0.1:8765/assets/images/home-article-card-1.webp",
+                     "http://127.0.0.1:8765/assets/images/bank-credit-card-balancing-html.webp",
+                     "http://127.0.0.1:8765/assets/photos/transaction-categorization-html.webp",
+                     "http://127.0.0.1:8765/assets/images/home-article-card-4.webp",
+                     "http://127.0.0.1:8765/assets/google-translate-attribution.png",
+                     "http://127.0.0.1:8765/assets/site.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/design.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/video/home.mp4",
+                     "http://127.0.0.1:8765/fa/index.html",
+                     "http://127.0.0.1:8765/assets/site.css",
+                     "http://127.0.0.1:8765/assets/presentation.css",
+                     "http://127.0.0.1:8765/assets/design.css?v=state-content-20261016",
+                     "http://127.0.0.1:8765/assets/local-review-safety.js",
+                     "http://127.0.0.1:8765/assets/locales/home-blog/current.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/fonts/dm-sans.ttf",
+                     "http://127.0.0.1:8765/assets/images/service-details-paper-trail-services-html.webp",
+                     "http://127.0.0.1:8765/assets/fonts/libre-caslon-display.ttf",
+                     "http://127.0.0.1:8765/assets/translation-workflow/routes.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/translation-workflow/navigation.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/translation-workflow/display.css?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/images/paper-trail-logo.png",
+                     "http://127.0.0.1:8765/assets/video/home-poster.webp?v=opening-frame-20261016",
+                     "http://127.0.0.1:8765/assets/photos/past-due-bookkeeping-html.webp",
+                     "http://127.0.0.1:8765/assets/images/paper-trail-monthly-bookkeeping-html.webp",
+                     "http://127.0.0.1:8765/assets/photos/balancing-corrections-html.webp",
+                     "http://127.0.0.1:8765/assets/photos/tax-ready-bookkeeping-html.webp",
+                     "http://127.0.0.1:8765/assets/images/home-article-card-1.webp",
+                     "http://127.0.0.1:8765/assets/images/bank-credit-card-balancing-html.webp",
+                     "http://127.0.0.1:8765/assets/photos/transaction-categorization-html.webp",
+                     "http://127.0.0.1:8765/assets/images/home-article-card-4.webp",
+                     "http://127.0.0.1:8765/assets/google-translate-attribution.png",
+                     "http://127.0.0.1:8765/assets/site.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/design.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/video/home.mp4",
+                     "http://127.0.0.1:8765/hy/index.html",
+                     "http://127.0.0.1:8765/assets/site.css",
+                     "http://127.0.0.1:8765/assets/presentation.css",
+                     "http://127.0.0.1:8765/assets/design.css?v=state-content-20261016",
+                     "http://127.0.0.1:8765/assets/local-review-safety.js",
+                     "http://127.0.0.1:8765/assets/locales/home-blog/current.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/fonts/dm-sans.ttf",
+                     "http://127.0.0.1:8765/assets/images/service-details-paper-trail-services-html.webp",
+                     "http://127.0.0.1:8765/assets/fonts/libre-caslon-display.ttf",
+                     "http://127.0.0.1:8765/assets/translation-workflow/routes.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/translation-workflow/navigation.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/translation-workflow/display.css?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/images/paper-trail-logo.png",
+                     "http://127.0.0.1:8765/assets/video/home-poster.webp?v=opening-frame-20261016",
+                     "http://127.0.0.1:8765/assets/photos/past-due-bookkeeping-html.webp",
+                     "http://127.0.0.1:8765/assets/images/paper-trail-monthly-bookkeeping-html.webp",
+                     "http://127.0.0.1:8765/assets/photos/balancing-corrections-html.webp",
+                     "http://127.0.0.1:8765/assets/photos/tax-ready-bookkeeping-html.webp",
+                     "http://127.0.0.1:8765/assets/images/home-article-card-1.webp",
+                     "http://127.0.0.1:8765/assets/images/bank-credit-card-balancing-html.webp",
+                     "http://127.0.0.1:8765/assets/photos/transaction-categorization-html.webp",
+                     "http://127.0.0.1:8765/assets/images/home-article-card-4.webp",
+                     "http://127.0.0.1:8765/assets/google-translate-attribution.png",
+                     "http://127.0.0.1:8765/assets/site.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/design.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/video/home.mp4",
+                     "http://127.0.0.1:8765/zh-CN/index.html",
+                     "http://127.0.0.1:8765/assets/site.css",
+                     "http://127.0.0.1:8765/assets/presentation.css",
+                     "http://127.0.0.1:8765/assets/design.css?v=state-content-20261016",
+                     "http://127.0.0.1:8765/assets/local-review-safety.js",
+                     "http://127.0.0.1:8765/assets/locales/home-blog/current.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/fonts/dm-sans.ttf",
+                     "http://127.0.0.1:8765/assets/images/service-details-paper-trail-services-html.webp",
+                     "http://127.0.0.1:8765/assets/fonts/libre-caslon-display.ttf",
+                     "http://127.0.0.1:8765/assets/translation-workflow/routes.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/translation-workflow/navigation.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/translation-workflow/display.css?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/images/paper-trail-logo.png",
+                     "http://127.0.0.1:8765/assets/video/home-poster.webp?v=opening-frame-20261016",
+                     "http://127.0.0.1:8765/assets/photos/past-due-bookkeeping-html.webp",
+                     "http://127.0.0.1:8765/assets/images/paper-trail-monthly-bookkeeping-html.webp",
+                     "http://127.0.0.1:8765/assets/photos/balancing-corrections-html.webp",
+                     "http://127.0.0.1:8765/assets/photos/tax-ready-bookkeeping-html.webp",
+                     "http://127.0.0.1:8765/assets/images/home-article-card-1.webp",
+                     "http://127.0.0.1:8765/assets/images/bank-credit-card-balancing-html.webp",
+                     "http://127.0.0.1:8765/assets/photos/transaction-categorization-html.webp",
+                     "http://127.0.0.1:8765/assets/images/home-article-card-4.webp",
+                     "http://127.0.0.1:8765/assets/google-translate-attribution.png",
+                     "http://127.0.0.1:8765/assets/site.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/design.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/video/home.mp4",
+                     "http://127.0.0.1:8765/ko/index.html",
+                     "http://127.0.0.1:8765/assets/site.css",
+                     "http://127.0.0.1:8765/assets/presentation.css",
+                     "http://127.0.0.1:8765/assets/design.css?v=state-content-20261016",
+                     "http://127.0.0.1:8765/assets/local-review-safety.js",
+                     "http://127.0.0.1:8765/assets/locales/home-blog/current.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/fonts/dm-sans.ttf",
+                     "http://127.0.0.1:8765/assets/images/service-details-paper-trail-services-html.webp",
+                     "http://127.0.0.1:8765/assets/fonts/libre-caslon-display.ttf",
+                     "http://127.0.0.1:8765/assets/translation-workflow/routes.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/translation-workflow/navigation.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/translation-workflow/display.css?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/images/paper-trail-logo.png",
+                     "http://127.0.0.1:8765/assets/video/home-poster.webp?v=opening-frame-20261016",
+                     "http://127.0.0.1:8765/assets/photos/past-due-bookkeeping-html.webp",
+                     "http://127.0.0.1:8765/assets/images/paper-trail-monthly-bookkeeping-html.webp",
+                     "http://127.0.0.1:8765/assets/photos/balancing-corrections-html.webp",
+                     "http://127.0.0.1:8765/assets/photos/tax-ready-bookkeeping-html.webp",
+                     "http://127.0.0.1:8765/assets/images/home-article-card-1.webp",
+                     "http://127.0.0.1:8765/assets/images/bank-credit-card-balancing-html.webp",
+                     "http://127.0.0.1:8765/assets/photos/transaction-categorization-html.webp",
+                     "http://127.0.0.1:8765/assets/images/home-article-card-4.webp",
+                     "http://127.0.0.1:8765/assets/google-translate-attribution.png",
+                     "http://127.0.0.1:8765/assets/site.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/design.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/video/home.mp4",
+                     "http://127.0.0.1:8765/tl/index.html",
+                     "http://127.0.0.1:8765/assets/site.css",
+                     "http://127.0.0.1:8765/assets/presentation.css",
+                     "http://127.0.0.1:8765/assets/design.css?v=state-content-20261016",
+                     "http://127.0.0.1:8765/assets/local-review-safety.js",
+                     "http://127.0.0.1:8765/assets/locales/home-blog/current.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/fonts/dm-sans.ttf",
+                     "http://127.0.0.1:8765/assets/images/service-details-paper-trail-services-html.webp",
+                     "http://127.0.0.1:8765/assets/fonts/libre-caslon-display.ttf",
+                     "http://127.0.0.1:8765/assets/translation-workflow/routes.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/translation-workflow/navigation.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/translation-workflow/display.css?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/images/paper-trail-logo.png",
+                     "http://127.0.0.1:8765/assets/video/home-poster.webp?v=opening-frame-20261016",
+                     "http://127.0.0.1:8765/assets/photos/past-due-bookkeeping-html.webp",
+                     "http://127.0.0.1:8765/assets/images/paper-trail-monthly-bookkeeping-html.webp",
+                     "http://127.0.0.1:8765/assets/photos/balancing-corrections-html.webp",
+                     "http://127.0.0.1:8765/assets/photos/tax-ready-bookkeeping-html.webp",
+                     "http://127.0.0.1:8765/assets/images/home-article-card-1.webp",
+                     "http://127.0.0.1:8765/assets/images/bank-credit-card-balancing-html.webp",
+                     "http://127.0.0.1:8765/assets/photos/transaction-categorization-html.webp",
+                     "http://127.0.0.1:8765/assets/images/home-article-card-4.webp",
+                     "http://127.0.0.1:8765/assets/google-translate-attribution.png",
+                     "http://127.0.0.1:8765/assets/site.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/design.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/video/home.mp4",
+                     "http://127.0.0.1:8765/te/index.html",
+                     "http://127.0.0.1:8765/assets/site.css",
+                     "http://127.0.0.1:8765/assets/presentation.css",
+                     "http://127.0.0.1:8765/assets/design.css?v=state-content-20261016",
+                     "http://127.0.0.1:8765/assets/local-review-safety.js",
+                     "http://127.0.0.1:8765/assets/locales/home-blog/current.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/fonts/dm-sans.ttf",
+                     "http://127.0.0.1:8765/assets/images/service-details-paper-trail-services-html.webp",
+                     "http://127.0.0.1:8765/assets/fonts/libre-caslon-display.ttf",
+                     "http://127.0.0.1:8765/assets/translation-workflow/routes.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/translation-workflow/navigation.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/translation-workflow/display.css?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/images/paper-trail-logo.png",
+                     "http://127.0.0.1:8765/assets/video/home-poster.webp?v=opening-frame-20261016",
+                     "http://127.0.0.1:8765/assets/photos/past-due-bookkeeping-html.webp",
+                     "http://127.0.0.1:8765/assets/images/paper-trail-monthly-bookkeeping-html.webp",
+                     "http://127.0.0.1:8765/assets/photos/balancing-corrections-html.webp",
+                     "http://127.0.0.1:8765/assets/photos/tax-ready-bookkeeping-html.webp",
+                     "http://127.0.0.1:8765/assets/images/home-article-card-1.webp",
+                     "http://127.0.0.1:8765/assets/images/bank-credit-card-balancing-html.webp",
+                     "http://127.0.0.1:8765/assets/photos/transaction-categorization-html.webp",
+                     "http://127.0.0.1:8765/assets/images/home-article-card-4.webp",
+                     "http://127.0.0.1:8765/assets/google-translate-attribution.png",
+                     "http://127.0.0.1:8765/assets/site.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/design.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/video/home.mp4",
+                     "http://127.0.0.1:8765/ru/index.html",
+                     "http://127.0.0.1:8765/assets/site.css",
+                     "http://127.0.0.1:8765/assets/presentation.css",
+                     "http://127.0.0.1:8765/assets/design.css?v=state-content-20261016",
+                     "http://127.0.0.1:8765/assets/local-review-safety.js",
+                     "http://127.0.0.1:8765/assets/locales/home-blog/current.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/fonts/dm-sans.ttf",
+                     "http://127.0.0.1:8765/assets/images/service-details-paper-trail-services-html.webp",
+                     "http://127.0.0.1:8765/assets/fonts/libre-caslon-display.ttf",
+                     "http://127.0.0.1:8765/assets/translation-workflow/routes.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/translation-workflow/navigation.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/translation-workflow/display.css?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/images/paper-trail-logo.png",
+                     "http://127.0.0.1:8765/assets/video/home-poster.webp?v=opening-frame-20261016",
+                     "http://127.0.0.1:8765/assets/photos/past-due-bookkeeping-html.webp",
+                     "http://127.0.0.1:8765/assets/images/paper-trail-monthly-bookkeeping-html.webp",
+                     "http://127.0.0.1:8765/assets/photos/balancing-corrections-html.webp",
+                     "http://127.0.0.1:8765/assets/photos/tax-ready-bookkeeping-html.webp",
+                     "http://127.0.0.1:8765/assets/images/home-article-card-1.webp",
+                     "http://127.0.0.1:8765/assets/images/bank-credit-card-balancing-html.webp",
+                     "http://127.0.0.1:8765/assets/photos/transaction-categorization-html.webp",
+                     "http://127.0.0.1:8765/assets/images/home-article-card-4.webp",
+                     "http://127.0.0.1:8765/assets/google-translate-attribution.png",
+                     "http://127.0.0.1:8765/assets/site.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/design.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/video/home.mp4",
+                     "http://127.0.0.1:8765/ar/index.html",
+                     "http://127.0.0.1:8765/assets/site.css",
+                     "http://127.0.0.1:8765/assets/presentation.css",
+                     "http://127.0.0.1:8765/assets/design.css?v=state-content-20261016",
+                     "http://127.0.0.1:8765/assets/local-review-safety.js",
+                     "http://127.0.0.1:8765/assets/locales/home-blog/current.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/fonts/dm-sans.ttf",
+                     "http://127.0.0.1:8765/assets/images/service-details-paper-trail-services-html.webp",
+                     "http://127.0.0.1:8765/assets/fonts/libre-caslon-display.ttf",
+                     "http://127.0.0.1:8765/assets/translation-workflow/routes.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/translation-workflow/navigation.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/translation-workflow/display.css?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/images/paper-trail-logo.png",
+                     "http://127.0.0.1:8765/assets/video/home-poster.webp?v=opening-frame-20261016",
+                     "http://127.0.0.1:8765/assets/photos/past-due-bookkeeping-html.webp",
+                     "http://127.0.0.1:8765/assets/images/paper-trail-monthly-bookkeeping-html.webp",
+                     "http://127.0.0.1:8765/assets/photos/balancing-corrections-html.webp",
+                     "http://127.0.0.1:8765/assets/photos/tax-ready-bookkeeping-html.webp",
+                     "http://127.0.0.1:8765/assets/images/home-article-card-1.webp",
+                     "http://127.0.0.1:8765/assets/images/bank-credit-card-balancing-html.webp",
+                     "http://127.0.0.1:8765/assets/photos/transaction-categorization-html.webp",
+                     "http://127.0.0.1:8765/assets/images/home-article-card-4.webp",
+                     "http://127.0.0.1:8765/assets/google-translate-attribution.png",
+                     "http://127.0.0.1:8765/assets/site.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/design.js?v=8f58dfe0916388e2ae5ad9d3e1dad04640c9f562e54847699c947e69b04ac9aa",
+                     "http://127.0.0.1:8765/assets/video/home.mp4"
+                 ],
+    "exceptions":  [
+
+                   ],
+    "checks":  [
+                   {
+                       "error":  null,
+                       "result":  {
+                                      "primary":  true,
+                                      "links":  [
+                                                    {
+                                                        "href":  "index.html",
+                                                        "label":  "Home"
+                                                    },
+                                                    {
+                                                        "href":  "about.html",
+                                                        "label":  "About"
+                                                    },
+                                                    {
+                                                        "href":  "services.html",
+                                                        "label":  "Services"
+                                                    },
+                                                    {
+                                                        "href":  "notes.html",
+                                                        "label":  "Notes"
+                                                    },
+                                                    {
+                                                        "href":  "nationwide-bookkeeping.html",
+                                                        "label":  "Nationwide"
+                                                    }
+                                                ],
+                                      "contact":  true,
+                                      "cityCount":  10,
+                                      "thirdRow":  true,
+                                      "overflow":  false,
+                                      "desktopSingleRow":  false
+                                  },
+                       "width":  390,
+                       "language":  "en"
+                   },
+                   {
+                       "error":  null,
+                       "result":  {
+                                      "primary":  true,
+                                      "links":  [
+                                                    {
+                                                        "href":  "es/index.html",
+                                                        "label":  "Hogar"
+                                                    },
+                                                    {
+                                                        "href":  "es/about.html",
+                                                        "label":  "Acerca de"
+                                                    },
+                                                    {
+                                                        "href":  "es/services.html",
+                                                        "label":  "Servicios"
+                                                    },
+                                                    {
+                                                        "href":  "es/notes.html",
+                                                        "label":  "Notas"
+                                                    },
+                                                    {
+                                                        "href":  "es/nationwide-bookkeeping.html",
+                                                        "label":  "A escala nacional"
+                                                    }
+                                                ],
+                                      "contact":  true,
+                                      "cityCount":  10,
+                                      "thirdRow":  true,
+                                      "overflow":  false,
+                                      "desktopSingleRow":  false
+                                  },
+                       "width":  390,
+                       "language":  "es"
+                   },
+                   {
+                       "error":  null,
+                       "result":  {
+                                      "primary":  true,
+                                      "links":  [
+                                                    {
+                                                        "href":  "fa/index.html",
+                                                        "label":  "خانه"
+                                                    },
+                                                    {
+                                                        "href":  "fa/about.html",
+                                                        "label":  "درباره"
+                                                    },
+                                                    {
+                                                        "href":  "fa/services.html",
+                                                        "label":  "خدمات"
+                                                    },
+                                                    {
+                                                        "href":  "fa/notes.html",
+                                                        "label":  "یادداشت‌ها"
+                                                    },
+                                                    {
+                                                        "href":  "fa/nationwide-bookkeeping.html",
+                                                        "label":  "سراسری"
+                                                    }
+                                                ],
+                                      "contact":  true,
+                                      "cityCount":  10,
+                                      "thirdRow":  true,
+                                      "overflow":  false,
+                                      "desktopSingleRow":  false
+                                  },
+                       "width":  390,
+                       "language":  "fa"
+                   },
+                   {
+                       "error":  null,
+                       "result":  {
+                                      "primary":  true,
+                                      "links":  [
+                                                    {
+                                                        "href":  "hy/index.html",
+                                                        "label":  "Տուն"
+                                                    },
+                                                    {
+                                                        "href":  "hy/about.html",
+                                                        "label":  "Մասին"
+                                                    },
+                                                    {
+                                                        "href":  "hy/services.html",
+                                                        "label":  "Ծառայություններ"
+                                                    },
+                                                    {
+                                                        "href":  "hy/notes.html",
+                                                        "label":  "Նշումներ"
+                                                    },
+                                                    {
+                                                        "href":  "hy/nationwide-bookkeeping.html",
+                                                        "label":  "Ազգային"
+                                                    }
+                                                ],
+                                      "contact":  true,
+                                      "cityCount":  10,
+                                      "thirdRow":  true,
+                                      "overflow":  false,
+                                      "desktopSingleRow":  false
+                                  },
+                       "width":  390,
+                       "language":  "hy"
+                   },
+                   {
+                       "error":  null,
+                       "result":  {
+                                      "primary":  true,
+                                      "links":  [
+                                                    {
+                                                        "href":  "zh-CN/index.html",
+                                                        "label":  "家"
+                                                    },
+                                                    {
+                                                        "href":  "zh-CN/about.html",
+                                                        "label":  "关于"
+                                                    },
+                                                    {
+                                                        "href":  "zh-CN/services.html",
+                                                        "label":  "服务"
+                                                    },
+                                                    {
+                                                        "href":  "zh-CN/notes.html",
+                                                        "label":  "笔记"
+                                                    },
+                                                    {
+                                                        "href":  "zh-CN/nationwide-bookkeeping.html",
+                                                        "label":  "全国"
+                                                    }
+                                                ],
+                                      "contact":  true,
+                                      "cityCount":  10,
+                                      "thirdRow":  true,
+                                      "overflow":  false,
+                                      "desktopSingleRow":  false
+                                  },
+                       "width":  390,
+                       "language":  "zh-CN"
+                   },
+                   {
+                       "error":  null,
+                       "result":  {
+                                      "primary":  true,
+                                      "links":  [
+                                                    {
+                                                        "href":  "ko/index.html",
+                                                        "label":  "집"
+                                                    },
+                                                    {
+                                                        "href":  "ko/about.html",
+                                                        "label":  "에 대한"
+                                                    },
+                                                    {
+                                                        "href":  "ko/services.html",
+                                                        "label":  "서비스"
+                                                    },
+                                                    {
+                                                        "href":  "ko/notes.html",
+                                                        "label":  "메모"
+                                                    },
+                                                    {
+                                                        "href":  "ko/nationwide-bookkeeping.html",
+                                                        "label":  "전국적으로"
+                                                    }
+                                                ],
+                                      "contact":  true,
+                                      "cityCount":  10,
+                                      "thirdRow":  true,
+                                      "overflow":  false,
+                                      "desktopSingleRow":  false
+                                  },
+                       "width":  390,
+                       "language":  "ko"
+                   },
+                   {
+                       "error":  null,
+                       "result":  {
+                                      "primary":  true,
+                                      "links":  [
+                                                    {
+                                                        "href":  "tl/index.html",
+                                                        "label":  "Tahanan"
+                                                    },
+                                                    {
+                                                        "href":  "tl/about.html",
+                                                        "label":  "Tungkol sa"
+                                                    },
+                                                    {
+                                                        "href":  "tl/services.html",
+                                                        "label":  "Mga Serbisyo"
+                                                    },
+                                                    {
+                                                        "href":  "tl/notes.html",
+                                                        "label":  "Mga Tala"
+                                                    },
+                                                    {
+                                                        "href":  "tl/nationwide-bookkeeping.html",
+                                                        "label":  "Sa buong bansa"
+                                                    }
+                                                ],
+                                      "contact":  true,
+                                      "cityCount":  10,
+                                      "thirdRow":  true,
+                                      "overflow":  false,
+                                      "desktopSingleRow":  false
+                                  },
+                       "width":  390,
+                       "language":  "tl"
+                   },
+                   {
+                       "error":  null,
+                       "result":  {
+                                      "primary":  true,
+                                      "links":  [
+                                                    {
+                                                        "href":  "te/index.html",
+                                                        "label":  "హోమ్"
+                                                    },
+                                                    {
+                                                        "href":  "te/about.html",
+                                                        "label":  "గురించి"
+                                                    },
+                                                    {
+                                                        "href":  "te/services.html",
+                                                        "label":  "సేవలు"
+                                                    },
+                                                    {
+                                                        "href":  "te/notes.html",
+                                                        "label":  "గమనికలు"
+                                                    },
+                                                    {
+                                                        "href":  "te/nationwide-bookkeeping.html",
+                                                        "label":  "దేశవ్యాప్తంగా"
+                                                    }
+                                                ],
+                                      "contact":  true,
+                                      "cityCount":  10,
+                                      "thirdRow":  true,
+                                      "overflow":  false,
+                                      "desktopSingleRow":  false
+                                  },
+                       "width":  390,
+                       "language":  "te"
+                   },
+                   {
+                       "error":  null,
+                       "result":  {
+                                      "primary":  true,
+                                      "links":  [
+                                                    {
+                                                        "href":  "ru/index.html",
+                                                        "label":  "Дом"
+                                                    },
+                                                    {
+                                                        "href":  "ru/about.html",
+                                                        "label":  "О"
+                                                    },
+                                                    {
+                                                        "href":  "ru/services.html",
+                                                        "label":  "Услуги"
+                                                    },
+                                                    {
+                                                        "href":  "ru/notes.html",
+                                                        "label":  "Примечания"
+                                                    },
+                                                    {
+                                                        "href":  "ru/nationwide-bookkeeping.html",
+                                                        "label":  "По всей стране"
+                                                    }
+                                                ],
+                                      "contact":  true,
+                                      "cityCount":  10,
+                                      "thirdRow":  true,
+                                      "overflow":  false,
+                                      "desktopSingleRow":  false
+                                  },
+                       "width":  390,
+                       "language":  "ru"
+                   },
+                   {
+                       "error":  null,
+                       "result":  {
+                                      "primary":  true,
+                                      "links":  [
+                                                    {
+                                                        "href":  "ar/index.html",
+                                                        "label":  "بيت"
+                                                    },
+                                                    {
+                                                        "href":  "ar/about.html",
+                                                        "label":  "عن"
+                                                    },
+                                                    {
+                                                        "href":  "ar/services.html",
+                                                        "label":  "خدمات"
+                                                    },
+                                                    {
+                                                        "href":  "ar/notes.html",
+                                                        "label":  "ملحوظات"
+                                                    },
+                                                    {
+                                                        "href":  "ar/nationwide-bookkeeping.html",
+                                                        "label":  "على مستوى البلاد"
+                                                    }
+                                                ],
+                                      "contact":  true,
+                                      "cityCount":  10,
+                                      "thirdRow":  true,
+                                      "overflow":  false,
+                                      "desktopSingleRow":  false
+                                  },
+                       "width":  390,
+                       "language":  "ar"
+                   },
+                   {
+                       "error":  null,
+                       "result":  {
+                                      "primary":  true,
+                                      "links":  [
+                                                    {
+                                                        "href":  "index.html",
+                                                        "label":  "Home"
+                                                    },
+                                                    {
+                                                        "href":  "about.html",
+                                                        "label":  "About"
+                                                    },
+                                                    {
+                                                        "href":  "services.html",
+                                                        "label":  "Services"
+                                                    },
+                                                    {
+                                                        "href":  "notes.html",
+                                                        "label":  "Notes"
+                                                    },
+                                                    {
+                                                        "href":  "nationwide-bookkeeping.html",
+                                                        "label":  "Nationwide"
+                                                    }
+                                                ],
+                                      "contact":  true,
+                                      "cityCount":  10,
+                                      "thirdRow":  true,
+                                      "overflow":  false,
+                                      "desktopSingleRow":  false
+                                  },
+                       "width":  834,
+                       "language":  "en"
+                   },
+                   {
+                       "error":  null,
+                       "result":  {
+                                      "primary":  true,
+                                      "links":  [
+                                                    {
+                                                        "href":  "es/index.html",
+                                                        "label":  "Hogar"
+                                                    },
+                                                    {
+                                                        "href":  "es/about.html",
+                                                        "label":  "Acerca de"
+                                                    },
+                                                    {
+                                                        "href":  "es/services.html",
+                                                        "label":  "Servicios"
+                                                    },
+                                                    {
+                                                        "href":  "es/notes.html",
+                                                        "label":  "Notas"
+                                                    },
+                                                    {
+                                                        "href":  "es/nationwide-bookkeeping.html",
+                                                        "label":  "A escala nacional"
+                                                    }
+                                                ],
+                                      "contact":  true,
+                                      "cityCount":  10,
+                                      "thirdRow":  true,
+                                      "overflow":  false,
+                                      "desktopSingleRow":  false
+                                  },
+                       "width":  834,
+                       "language":  "es"
+                   },
+                   {
+                       "error":  null,
+                       "result":  {
+                                      "primary":  true,
+                                      "links":  [
+                                                    {
+                                                        "href":  "fa/index.html",
+                                                        "label":  "خانه"
+                                                    },
+                                                    {
+                                                        "href":  "fa/about.html",
+                                                        "label":  "درباره"
+                                                    },
+                                                    {
+                                                        "href":  "fa/services.html",
+                                                        "label":  "خدمات"
+                                                    },
+                                                    {
+                                                        "href":  "fa/notes.html",
+                                                        "label":  "یادداشت‌ها"
+                                                    },
+                                                    {
+                                                        "href":  "fa/nationwide-bookkeeping.html",
+                                                        "label":  "سراسری"
+                                                    }
+                                                ],
+                                      "contact":  true,
+                                      "cityCount":  10,
+                                      "thirdRow":  true,
+                                      "overflow":  false,
+                                      "desktopSingleRow":  true
+                                  },
+                       "width":  834,
+                       "language":  "fa"
+                   },
+                   {
+                       "error":  null,
+                       "result":  {
+                                      "primary":  true,
+                                      "links":  [
+                                                    {
+                                                        "href":  "hy/index.html",
+                                                        "label":  "Տուն"
+                                                    },
+                                                    {
+                                                        "href":  "hy/about.html",
+                                                        "label":  "Մասին"
+                                                    },
+                                                    {
+                                                        "href":  "hy/services.html",
+                                                        "label":  "Ծառայություններ"
+                                                    },
+                                                    {
+                                                        "href":  "hy/notes.html",
+                                                        "label":  "Նշումներ"
+                                                    },
+                                                    {
+                                                        "href":  "hy/nationwide-bookkeeping.html",
+                                                        "label":  "Ազգային"
+                                                    }
+                                                ],
+                                      "contact":  true,
+                                      "cityCount":  10,
+                                      "thirdRow":  true,
+                                      "overflow":  false,
+                                      "desktopSingleRow":  false
+                                  },
+                       "width":  834,
+                       "language":  "hy"
+                   },
+                   {
+                       "error":  null,
+                       "result":  {
+                                      "primary":  true,
+                                      "links":  [
+                                                    {
+                                                        "href":  "zh-CN/index.html",
+                                                        "label":  "家"
+                                                    },
+                                                    {
+                                                        "href":  "zh-CN/about.html",
+                                                        "label":  "关于"
+                                                    },
+                                                    {
+                                                        "href":  "zh-CN/services.html",
+                                                        "label":  "服务"
+                                                    },
+                                                    {
+                                                        "href":  "zh-CN/notes.html",
+                                                        "label":  "笔记"
+                                                    },
+                                                    {
+                                                        "href":  "zh-CN/nationwide-bookkeeping.html",
+                                                        "label":  "全国"
+                                                    }
+                                                ],
+                                      "contact":  true,
+                                      "cityCount":  10,
+                                      "thirdRow":  true,
+                                      "overflow":  false,
+                                      "desktopSingleRow":  true
+                                  },
+                       "width":  834,
+                       "language":  "zh-CN"
+                   },
+                   {
+                       "error":  null,
+                       "result":  {
+                                      "primary":  true,
+                                      "links":  [
+                                                    {
+                                                        "href":  "ko/index.html",
+                                                        "label":  "집"
+                                                    },
+                                                    {
+                                                        "href":  "ko/about.html",
+                                                        "label":  "에 대한"
+                                                    },
+                                                    {
+                                                        "href":  "ko/services.html",
+                                                        "label":  "서비스"
+                                                    },
+                                                    {
+                                                        "href":  "ko/notes.html",
+                                                        "label":  "메모"
+                                                    },
+                                                    {
+                                                        "href":  "ko/nationwide-bookkeeping.html",
+                                                        "label":  "전국적으로"
+                                                    }
+                                                ],
+                                      "contact":  true,
+                                      "cityCount":  10,
+                                      "thirdRow":  true,
+                                      "overflow":  false,
+                                      "desktopSingleRow":  true
+                                  },
+                       "width":  834,
+                       "language":  "ko"
+                   },
+                   {
+                       "error":  null,
+                       "result":  {
+                                      "primary":  true,
+                                      "links":  [
+                                                    {
+                                                        "href":  "tl/index.html",
+                                                        "label":  "Tahanan"
+                                                    },
+                                                    {
+                                                        "href":  "tl/about.html",
+                                                        "label":  "Tungkol sa"
+                                                    },
+                                                    {
+                                                        "href":  "tl/services.html",
+                                                        "label":  "Mga Serbisyo"
+                                                    },
+                                                    {
+                                                        "href":  "tl/notes.html",
+                                                        "label":  "Mga Tala"
+                                                    },
+                                                    {
+                                                        "href":  "tl/nationwide-bookkeeping.html",
+                                                        "label":  "Sa buong bansa"
+                                                    }
+                                                ],
+                                      "contact":  true,
+                                      "cityCount":  10,
+                                      "thirdRow":  true,
+                                      "overflow":  false,
+                                      "desktopSingleRow":  false
+                                  },
+                       "width":  834,
+                       "language":  "tl"
+                   },
+                   {
+                       "error":  null,
+                       "result":  {
+                                      "primary":  true,
+                                      "links":  [
+                                                    {
+                                                        "href":  "te/index.html",
+                                                        "label":  "హోమ్"
+                                                    },
+                                                    {
+                                                        "href":  "te/about.html",
+                                                        "label":  "గురించి"
+                                                    },
+                                                    {
+                                                        "href":  "te/services.html",
+                                                        "label":  "సేవలు"
+                                                    },
+                                                    {
+                                                        "href":  "te/notes.html",
+                                                        "label":  "గమనికలు"
+                                                    },
+                                                    {
+                                                        "href":  "te/nationwide-bookkeeping.html",
+                                                        "label":  "దేశవ్యాప్తంగా"
+                                                    }
+                                                ],
+                                      "contact":  true,
+                                      "cityCount":  10,
+                                      "thirdRow":  true,
+                                      "overflow":  false,
+                                      "desktopSingleRow":  false
+                                  },
+                       "width":  834,
+                       "language":  "te"
+                   },
+                   {
+                       "error":  null,
+                       "result":  {
+                                      "primary":  true,
+                                      "links":  [
+                                                    {
+                                                        "href":  "ru/index.html",
+                                                        "label":  "Дом"
+                                                    },
+                                                    {
+                                                        "href":  "ru/about.html",
+                                                        "label":  "О"
+                                                    },
+                                                    {
+                                                        "href":  "ru/services.html",
+                                                        "label":  "Услуги"
+                                                    },
+                                                    {
+                                                        "href":  "ru/notes.html",
+                                                        "label":  "Примечания"
+                                                    },
+                                                    {
+                                                        "href":  "ru/nationwide-bookkeeping.html",
+                                                        "label":  "По всей стране"
+                                                    }
+                                                ],
+                                      "contact":  true,
+                                      "cityCount":  10,
+                                      "thirdRow":  true,
+                                      "overflow":  false,
+                                      "desktopSingleRow":  false
+                                  },
+                       "width":  834,
+                       "language":  "ru"
+                   },
+                   {
+                       "error":  null,
+                       "result":  {
+                                      "primary":  true,
+                                      "links":  [
+                                                    {
+                                                        "href":  "ar/index.html",
+                                                        "label":  "بيت"
+                                                    },
+                                                    {
+                                                        "href":  "ar/about.html",
+                                                        "label":  "عن"
+                                                    },
+                                                    {
+                                                        "href":  "ar/services.html",
+                                                        "label":  "خدمات"
+                                                    },
+                                                    {
+                                                        "href":  "ar/notes.html",
+                                                        "label":  "ملحوظات"
+                                                    },
+                                                    {
+                                                        "href":  "ar/nationwide-bookkeeping.html",
+                                                        "label":  "على مستوى البلاد"
+                                                    }
+                                                ],
+                                      "contact":  true,
+                                      "cityCount":  10,
+                                      "thirdRow":  true,
+                                      "overflow":  false,
+                                      "desktopSingleRow":  false
+                                  },
+                       "width":  834,
+                       "language":  "ar"
+                   },
+                   {
+                       "error":  null,
+                       "result":  {
+                                      "primary":  true,
+                                      "links":  [
+                                                    {
+                                                        "href":  "index.html",
+                                                        "label":  "Home"
+                                                    },
+                                                    {
+                                                        "href":  "about.html",
+                                                        "label":  "About"
+                                                    },
+                                                    {
+                                                        "href":  "services.html",
+                                                        "label":  "Services"
+                                                    },
+                                                    {
+                                                        "href":  "notes.html",
+                                                        "label":  "Notes"
+                                                    },
+                                                    {
+                                                        "href":  "nationwide-bookkeeping.html",
+                                                        "label":  "Nationwide"
+                                                    }
+                                                ],
+                                      "contact":  true,
+                                      "cityCount":  10,
+                                      "thirdRow":  true,
+                                      "overflow":  false,
+                                      "desktopSingleRow":  true
+                                  },
+                       "width":  1440,
+                       "language":  "en"
+                   },
+                   {
+                       "error":  null,
+                       "result":  {
+                                      "primary":  true,
+                                      "links":  [
+                                                    {
+                                                        "href":  "es/index.html",
+                                                        "label":  "Hogar"
+                                                    },
+                                                    {
+                                                        "href":  "es/about.html",
+                                                        "label":  "Acerca de"
+                                                    },
+                                                    {
+                                                        "href":  "es/services.html",
+                                                        "label":  "Servicios"
+                                                    },
+                                                    {
+                                                        "href":  "es/notes.html",
+                                                        "label":  "Notas"
+                                                    },
+                                                    {
+                                                        "href":  "es/nationwide-bookkeeping.html",
+                                                        "label":  "A escala nacional"
+                                                    }
+                                                ],
+                                      "contact":  true,
+                                      "cityCount":  10,
+                                      "thirdRow":  true,
+                                      "overflow":  false,
+                                      "desktopSingleRow":  true
+                                  },
+                       "width":  1440,
+                       "language":  "es"
+                   },
+                   {
+                       "error":  null,
+                       "result":  {
+                                      "primary":  true,
+                                      "links":  [
+                                                    {
+                                                        "href":  "fa/index.html",
+                                                        "label":  "خانه"
+                                                    },
+                                                    {
+                                                        "href":  "fa/about.html",
+                                                        "label":  "درباره"
+                                                    },
+                                                    {
+                                                        "href":  "fa/services.html",
+                                                        "label":  "خدمات"
+                                                    },
+                                                    {
+                                                        "href":  "fa/notes.html",
+                                                        "label":  "یادداشت‌ها"
+                                                    },
+                                                    {
+                                                        "href":  "fa/nationwide-bookkeeping.html",
+                                                        "label":  "سراسری"
+                                                    }
+                                                ],
+                                      "contact":  true,
+                                      "cityCount":  10,
+                                      "thirdRow":  true,
+                                      "overflow":  false,
+                                      "desktopSingleRow":  true
+                                  },
+                       "width":  1440,
+                       "language":  "fa"
+                   },
+                   {
+                       "error":  null,
+                       "result":  {
+                                      "primary":  true,
+                                      "links":  [
+                                                    {
+                                                        "href":  "hy/index.html",
+                                                        "label":  "Տուն"
+                                                    },
+                                                    {
+                                                        "href":  "hy/about.html",
+                                                        "label":  "Մասին"
+                                                    },
+                                                    {
+                                                        "href":  "hy/services.html",
+                                                        "label":  "Ծառայություններ"
+                                                    },
+                                                    {
+                                                        "href":  "hy/notes.html",
+                                                        "label":  "Նշումներ"
+                                                    },
+                                                    {
+                                                        "href":  "hy/nationwide-bookkeeping.html",
+                                                        "label":  "Ազգային"
+                                                    }
+                                                ],
+                                      "contact":  true,
+                                      "cityCount":  10,
+                                      "thirdRow":  true,
+                                      "overflow":  false,
+                                      "desktopSingleRow":  true
+                                  },
+                       "width":  1440,
+                       "language":  "hy"
+                   },
+                   {
+                       "error":  null,
+                       "result":  {
+                                      "primary":  true,
+                                      "links":  [
+                                                    {
+                                                        "href":  "zh-CN/index.html",
+                                                        "label":  "家"
+                                                    },
+                                                    {
+                                                        "href":  "zh-CN/about.html",
+                                                        "label":  "关于"
+                                                    },
+                                                    {
+                                                        "href":  "zh-CN/services.html",
+                                                        "label":  "服务"
+                                                    },
+                                                    {
+                                                        "href":  "zh-CN/notes.html",
+                                                        "label":  "笔记"
+                                                    },
+                                                    {
+                                                        "href":  "zh-CN/nationwide-bookkeeping.html",
+                                                        "label":  "全国"
+                                                    }
+                                                ],
+                                      "contact":  true,
+                                      "cityCount":  10,
+                                      "thirdRow":  true,
+                                      "overflow":  false,
+                                      "desktopSingleRow":  true
+                                  },
+                       "width":  1440,
+                       "language":  "zh-CN"
+                   },
+                   {
+                       "error":  null,
+                       "result":  {
+                                      "primary":  true,
+                                      "links":  [
+                                                    {
+                                                        "href":  "ko/index.html",
+                                                        "label":  "집"
+                                                    },
+                                                    {
+                                                        "href":  "ko/about.html",
+                                                        "label":  "에 대한"
+                                                    },
+                                                    {
+                                                        "href":  "ko/services.html",
+                                                        "label":  "서비스"
+                                                    },
+                                                    {
+                                                        "href":  "ko/notes.html",
+                                                        "label":  "메모"
+                                                    },
+                                                    {
+                                                        "href":  "ko/nationwide-bookkeeping.html",
+                                                        "label":  "전국적으로"
+                                                    }
+                                                ],
+                                      "contact":  true,
+                                      "cityCount":  10,
+                                      "thirdRow":  true,
+                                      "overflow":  false,
+                                      "desktopSingleRow":  true
+                                  },
+                       "width":  1440,
+                       "language":  "ko"
+                   },
+                   {
+                       "error":  null,
+                       "result":  {
+                                      "primary":  true,
+                                      "links":  [
+                                                    {
+                                                        "href":  "tl/index.html",
+                                                        "label":  "Tahanan"
+                                                    },
+                                                    {
+                                                        "href":  "tl/about.html",
+                                                        "label":  "Tungkol sa"
+                                                    },
+                                                    {
+                                                        "href":  "tl/services.html",
+                                                        "label":  "Mga Serbisyo"
+                                                    },
+                                                    {
+                                                        "href":  "tl/notes.html",
+                                                        "label":  "Mga Tala"
+                                                    },
+                                                    {
+                                                        "href":  "tl/nationwide-bookkeeping.html",
+                                                        "label":  "Sa buong bansa"
+                                                    }
+                                                ],
+                                      "contact":  true,
+                                      "cityCount":  10,
+                                      "thirdRow":  true,
+                                      "overflow":  false,
+                                      "desktopSingleRow":  true
+                                  },
+                       "width":  1440,
+                       "language":  "tl"
+                   },
+                   {
+                       "error":  null,
+                       "result":  {
+                                      "primary":  true,
+                                      "links":  [
+                                                    {
+                                                        "href":  "te/index.html",
+                                                        "label":  "హోమ్"
+                                                    },
+                                                    {
+                                                        "href":  "te/about.html",
+                                                        "label":  "గురించి"
+                                                    },
+                                                    {
+                                                        "href":  "te/services.html",
+                                                        "label":  "సేవలు"
+                                                    },
+                                                    {
+                                                        "href":  "te/notes.html",
+                                                        "label":  "గమనికలు"
+                                                    },
+                                                    {
+                                                        "href":  "te/nationwide-bookkeeping.html",
+                                                        "label":  "దేశవ్యాప్తంగా"
+                                                    }
+                                                ],
+                                      "contact":  true,
+                                      "cityCount":  10,
+                                      "thirdRow":  true,
+                                      "overflow":  false,
+                                      "desktopSingleRow":  true
+                                  },
+                       "width":  1440,
+                       "language":  "te"
+                   },
+                   {
+                       "error":  null,
+                       "result":  {
+                                      "primary":  true,
+                                      "links":  [
+                                                    {
+                                                        "href":  "ru/index.html",
+                                                        "label":  "Дом"
+                                                    },
+                                                    {
+                                                        "href":  "ru/about.html",
+                                                        "label":  "О"
+                                                    },
+                                                    {
+                                                        "href":  "ru/services.html",
+                                                        "label":  "Услуги"
+                                                    },
+                                                    {
+                                                        "href":  "ru/notes.html",
+                                                        "label":  "Примечания"
+                                                    },
+                                                    {
+                                                        "href":  "ru/nationwide-bookkeeping.html",
+                                                        "label":  "По всей стране"
+                                                    }
+                                                ],
+                                      "contact":  true,
+                                      "cityCount":  10,
+                                      "thirdRow":  true,
+                                      "overflow":  false,
+                                      "desktopSingleRow":  true
+                                  },
+                       "width":  1440,
+                       "language":  "ru"
+                   },
+                   {
+                       "error":  null,
+                       "result":  {
+                                      "primary":  true,
+                                      "links":  [
+                                                    {
+                                                        "href":  "ar/index.html",
+                                                        "label":  "بيت"
+                                                    },
+                                                    {
+                                                        "href":  "ar/about.html",
+                                                        "label":  "عن"
+                                                    },
+                                                    {
+                                                        "href":  "ar/services.html",
+                                                        "label":  "خدمات"
+                                                    },
+                                                    {
+                                                        "href":  "ar/notes.html",
+                                                        "label":  "ملحوظات"
+                                                    },
+                                                    {
+                                                        "href":  "ar/nationwide-bookkeeping.html",
+                                                        "label":  "على مستوى البلاد"
+                                                    }
+                                                ],
+                                      "contact":  true,
+                                      "cityCount":  10,
+                                      "thirdRow":  true,
+                                      "overflow":  false,
+                                      "desktopSingleRow":  true
+                                  },
+                       "width":  1440,
+                       "language":  "ar"
+                   }
+               ]
+}

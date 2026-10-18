@@ -1,0 +1,175 @@
+﻿{
+    "checks":  [
+                   {
+                       "error":  null,
+                       "result":  {
+                                      "count":  10,
+                                      "singleRow":  true,
+                                      "fontSize":  "14px",
+                                      "pageOverflow":  false,
+                                      "scrolls":  true,
+                                      "startAccessible":  true,
+                                      "endAccessible":  true
+                                  },
+                       "width":  390,
+                       "language":  "en"
+                   },
+                   {
+                       "error":  null,
+                       "result":  {
+                                      "count":  10,
+                                      "singleRow":  true,
+                                      "fontSize":  "14px",
+                                      "pageOverflow":  false,
+                                      "scrolls":  true,
+                                      "startAccessible":  true,
+                                      "endAccessible":  true
+                                  },
+                       "width":  390,
+                       "language":  "es"
+                   },
+                   {
+                       "error":  null,
+                       "result":  {
+                                      "count":  10,
+                                      "singleRow":  true,
+                                      "fontSize":  "14px",
+                                      "pageOverflow":  false,
+                                      "scrolls":  true,
+                                      "startAccessible":  true,
+                                      "endAccessible":  true
+                                  },
+                       "width":  390,
+                       "language":  "hy"
+                   },
+                   {
+                       "error":  null,
+                       "result":  {
+                                      "count":  10,
+                                      "singleRow":  true,
+                                      "fontSize":  "14px",
+                                      "pageOverflow":  false,
+                                      "scrolls":  true,
+                                      "startAccessible":  true,
+                                      "endAccessible":  true
+                                  },
+                       "width":  834,
+                       "language":  "en"
+                   },
+                   {
+                       "error":  null,
+                       "result":  {
+                                      "count":  10,
+                                      "singleRow":  true,
+                                      "fontSize":  "14px",
+                                      "pageOverflow":  false,
+                                      "scrolls":  true,
+                                      "startAccessible":  true,
+                                      "endAccessible":  true
+                                  },
+                       "width":  834,
+                       "language":  "es"
+                   },
+                   {
+                       "error":  null,
+                       "result":  {
+                                      "count":  10,
+                                      "singleRow":  true,
+                                      "fontSize":  "14px",
+                                      "pageOverflow":  false,
+                                      "scrolls":  true,
+                                      "startAccessible":  true,
+                                      "endAccessible":  true
+                                  },
+                       "width":  834,
+                       "language":  "hy"
+                   },
+                   {
+                       "error":  null,
+                       "result":  {
+                                      "count":  10,
+                                      "singleRow":  true,
+                                      "fontSize":  "15px",
+                                      "pageOverflow":  false,
+                                      "scrolls":  false,
+                                      "startAccessible":  true,
+                                      "endAccessible":  true
+                                  },
+                       "width":  1280,
+                       "language":  "en"
+                   },
+                   {
+                       "error":  null,
+                       "result":  {
+                                      "count":  10,
+                                      "singleRow":  true,
+                                      "fontSize":  "15px",
+                                      "pageOverflow":  false,
+                                      "scrolls":  false,
+                                      "startAccessible":  true,
+                                      "endAccessible":  true
+                                  },
+                       "width":  1280,
+                       "language":  "es"
+                   },
+                   {
+                       "error":  null,
+                       "result":  {
+                                      "count":  10,
+                                      "singleRow":  true,
+                                      "fontSize":  "15px",
+                                      "pageOverflow":  false,
+                                      "scrolls":  false,
+                                      "startAccessible":  true,
+                                      "endAccessible":  true
+                                  },
+                       "width":  1280,
+                       "language":  "hy"
+                   },
+                   {
+                       "error":  null,
+                       "result":  {
+                                      "count":  10,
+                                      "singleRow":  true,
+                                      "fontSize":  "15px",
+                                      "pageOverflow":  false,
+                                      "scrolls":  false,
+                                      "startAccessible":  true,
+                                      "endAccessible":  true
+                                  },
+                       "width":  1440,
+                       "language":  "en"
+                   },
+                   {
+                       "error":  null,
+                       "result":  {
+                                      "count":  10,
+                                      "singleRow":  true,
+                                      "fontSize":  "15px",
+                                      "pageOverflow":  false,
+                                      "scrolls":  false,
+                                      "startAccessible":  true,
+                                      "endAccessible":  true
+                                  },
+                       "width":  1440,
+                       "language":  "es"
+                   },
+                   {
+                       "error":  null,
+                       "result":  {
+                                      "count":  10,
+                                      "singleRow":  true,
+                                      "fontSize":  "15px",
+                                      "pageOverflow":  false,
+                                      "scrolls":  false,
+                                      "startAccessible":  true,
+                                      "endAccessible":  true
+                                  },
+                       "width":  1440,
+                       "language":  "hy"
+                   }
+               ],
+    "exceptions":  [
+
+                   ]
+}

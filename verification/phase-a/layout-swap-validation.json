@@ -1,0 +1,534 @@
+﻿[
+    {
+        "state":  {
+                      "width":  1440,
+                      "scrollWidth":  1425,
+                      "services":  [
+                                       {
+                                           "card":  {
+                                                        "width":  1180,
+                                                        "height":  403
+                                                    },
+                                           "image":  {
+                                                         "width":  472,
+                                                         "height":  354
+                                                     },
+                                           "icon":  {
+                                                        "width":  72,
+                                                        "height":  72
+                                                    }
+                                       },
+                                       {
+                                           "card":  {
+                                                        "width":  1180,
+                                                        "height":  403
+                                                    },
+                                           "image":  {
+                                                         "width":  472,
+                                                         "height":  354
+                                                     },
+                                           "icon":  {
+                                                        "width":  72,
+                                                        "height":  72
+                                                    }
+                                       },
+                                       {
+                                           "card":  {
+                                                        "width":  1180,
+                                                        "height":  403
+                                                    },
+                                           "image":  {
+                                                         "width":  472,
+                                                         "height":  354
+                                                     },
+                                           "icon":  {
+                                                        "width":  72,
+                                                        "height":  72
+                                                    }
+                                       },
+                                       {
+                                           "card":  {
+                                                        "width":  1180,
+                                                        "height":  403
+                                                    },
+                                           "image":  {
+                                                         "width":  472,
+                                                         "height":  354
+                                                     },
+                                           "icon":  {
+                                                        "width":  72,
+                                                        "height":  72
+                                                    }
+                                       }
+                                   ],
+                      "notes":  [
+                                    {
+                                        "card":  {
+                                                     "width":  579,
+                                                     "height":  206.1875
+                                                 },
+                                        "image":  {
+                                                      "width":  248.109375,
+                                                      "height":  204.1875
+                                                  },
+                                        "icon":  {
+                                                     "width":  50,
+                                                     "height":  50
+                                                 }
+                                    },
+                                    {
+                                        "card":  {
+                                                     "width":  579,
+                                                     "height":  206.1875
+                                                 },
+                                        "image":  {
+                                                      "width":  248.109375,
+                                                      "height":  204.1875
+                                                  },
+                                        "icon":  {
+                                                     "width":  50,
+                                                     "height":  50
+                                                 }
+                                    },
+                                    {
+                                        "card":  {
+                                                     "width":  579,
+                                                     "height":  206.1875
+                                                 },
+                                        "image":  {
+                                                      "width":  248.109375,
+                                                      "height":  204.1875
+                                                  },
+                                        "icon":  {
+                                                     "width":  50,
+                                                     "height":  50
+                                                 }
+                                    },
+                                    {
+                                        "card":  {
+                                                     "width":  579,
+                                                     "height":  206.1875
+                                                 },
+                                        "image":  {
+                                                      "width":  248.109375,
+                                                      "height":  204.1875
+                                                  },
+                                        "icon":  {
+                                                     "width":  50,
+                                                     "height":  50
+                                                 }
+                                    }
+                                ],
+                      "photosFillCards":  true,
+                      "servicesCentered":  true,
+                      "uniqueIcons":  true,
+                      "uniqueIconIds":  true,
+                      "allIconsDrawn":  true,
+                      "video":  "assets/video/home.mp4"
+                  },
+        "width":  1440
+    },
+    {
+        "rtl":  {
+                    "width":  1440,
+                    "scrollWidth":  1425,
+                    "dir":  "rtl"
+                },
+        "width":  1440
+    },
+    {
+        "state":  {
+                      "width":  1180,
+                      "scrollWidth":  1165,
+                      "services":  [
+                                       {
+                                           "card":  {
+                                                        "width":  1095,
+                                                        "height":  377.5
+                                                    },
+                                           "image":  {
+                                                         "width":  438,
+                                                         "height":  328.5
+                                                     },
+                                           "icon":  {
+                                                        "width":  72,
+                                                        "height":  72
+                                                    }
+                                       },
+                                       {
+                                           "card":  {
+                                                        "width":  1095,
+                                                        "height":  377.5
+                                                    },
+                                           "image":  {
+                                                         "width":  438,
+                                                         "height":  328.5
+                                                     },
+                                           "icon":  {
+                                                        "width":  72,
+                                                        "height":  72
+                                                    }
+                                       },
+                                       {
+                                           "card":  {
+                                                        "width":  1095,
+                                                        "height":  377.5
+                                                    },
+                                           "image":  {
+                                                         "width":  438,
+                                                         "height":  328.5
+                                                     },
+                                           "icon":  {
+                                                        "width":  72,
+                                                        "height":  72
+                                                    }
+                                       },
+                                       {
+                                           "card":  {
+                                                        "width":  1095,
+                                                        "height":  377.5
+                                                    },
+                                           "image":  {
+                                                         "width":  438,
+                                                         "height":  328.5
+                                                     },
+                                           "icon":  {
+                                                        "width":  72,
+                                                        "height":  72
+                                                    }
+                                       }
+                                   ],
+                      "notes":  [
+                                    {
+                                        "card":  {
+                                                     "width":  536.5,
+                                                     "height":  206.1875
+                                                 },
+                                        "image":  {
+                                                      "width":  229.828125,
+                                                      "height":  204.1875
+                                                  },
+                                        "icon":  {
+                                                     "width":  50,
+                                                     "height":  50
+                                                 }
+                                    },
+                                    {
+                                        "card":  {
+                                                     "width":  536.5,
+                                                     "height":  206.1875
+                                                 },
+                                        "image":  {
+                                                      "width":  229.828125,
+                                                      "height":  204.1875
+                                                  },
+                                        "icon":  {
+                                                     "width":  50,
+                                                     "height":  50
+                                                 }
+                                    },
+                                    {
+                                        "card":  {
+                                                     "width":  536.5,
+                                                     "height":  206.1875
+                                                 },
+                                        "image":  {
+                                                      "width":  229.828125,
+                                                      "height":  204.1875
+                                                  },
+                                        "icon":  {
+                                                     "width":  50,
+                                                     "height":  50
+                                                 }
+                                    },
+                                    {
+                                        "card":  {
+                                                     "width":  536.5,
+                                                     "height":  206.1875
+                                                 },
+                                        "image":  {
+                                                      "width":  229.828125,
+                                                      "height":  204.1875
+                                                  },
+                                        "icon":  {
+                                                     "width":  50,
+                                                     "height":  50
+                                                 }
+                                    }
+                                ],
+                      "photosFillCards":  true,
+                      "servicesCentered":  true,
+                      "uniqueIcons":  true,
+                      "uniqueIconIds":  true,
+                      "allIconsDrawn":  true,
+                      "video":  "assets/video/home.mp4"
+                  },
+        "width":  1180
+    },
+    {
+        "state":  {
+                      "width":  768,
+                      "scrollWidth":  753,
+                      "services":  [
+                                       {
+                                           "card":  {
+                                                        "width":  683,
+                                                        "height":  253.890625
+                                                    },
+                                           "image":  {
+                                                         "width":  273.1875,
+                                                         "height":  204.890625
+                                                     },
+                                           "icon":  {
+                                                        "width":  60,
+                                                        "height":  60
+                                                    }
+                                       },
+                                       {
+                                           "card":  {
+                                                        "width":  683,
+                                                        "height":  253.890625
+                                                    },
+                                           "image":  {
+                                                         "width":  273.1875,
+                                                         "height":  204.890625
+                                                     },
+                                           "icon":  {
+                                                        "width":  60,
+                                                        "height":  60
+                                                    }
+                                       },
+                                       {
+                                           "card":  {
+                                                        "width":  683,
+                                                        "height":  253.890625
+                                                    },
+                                           "image":  {
+                                                         "width":  273.1875,
+                                                         "height":  204.890625
+                                                     },
+                                           "icon":  {
+                                                        "width":  60,
+                                                        "height":  60
+                                                    }
+                                       },
+                                       {
+                                           "card":  {
+                                                        "width":  683,
+                                                        "height":  253.890625
+                                                    },
+                                           "image":  {
+                                                         "width":  273.1875,
+                                                         "height":  204.890625
+                                                     },
+                                           "icon":  {
+                                                        "width":  60,
+                                                        "height":  60
+                                                    }
+                                       }
+                                   ],
+                      "notes":  [
+                                    {
+                                        "card":  {
+                                                     "width":  330.5,
+                                                     "height":  229.75
+                                                 },
+                                        "image":  {
+                                                      "width":  141.25,
+                                                      "height":  227.75
+                                                  },
+                                        "icon":  {
+                                                     "width":  50,
+                                                     "height":  50
+                                                 }
+                                    },
+                                    {
+                                        "card":  {
+                                                     "width":  330.5,
+                                                     "height":  229.75
+                                                 },
+                                        "image":  {
+                                                      "width":  141.25,
+                                                      "height":  227.75
+                                                  },
+                                        "icon":  {
+                                                     "width":  50,
+                                                     "height":  50
+                                                 }
+                                    },
+                                    {
+                                        "card":  {
+                                                     "width":  330.5,
+                                                     "height":  229.75
+                                                 },
+                                        "image":  {
+                                                      "width":  141.25,
+                                                      "height":  227.75
+                                                  },
+                                        "icon":  {
+                                                     "width":  50,
+                                                     "height":  50
+                                                 }
+                                    },
+                                    {
+                                        "card":  {
+                                                     "width":  330.5,
+                                                     "height":  229.75
+                                                 },
+                                        "image":  {
+                                                      "width":  141.25,
+                                                      "height":  227.75
+                                                  },
+                                        "icon":  {
+                                                     "width":  50,
+                                                     "height":  50
+                                                 }
+                                    }
+                                ],
+                      "photosFillCards":  true,
+                      "servicesCentered":  true,
+                      "uniqueIcons":  true,
+                      "uniqueIconIds":  true,
+                      "allIconsDrawn":  true,
+                      "video":  "assets/video/home.mp4"
+                  },
+        "width":  768
+    },
+    {
+        "state":  {
+                      "width":  390,
+                      "scrollWidth":  390,
+                      "services":  [
+                                       {
+                                           "card":  {
+                                                        "width":  350,
+                                                        "height":  470.1875
+                                                    },
+                                           "image":  {
+                                                         "width":  350,
+                                                         "height":  262.5
+                                                     },
+                                           "icon":  {
+                                                        "width":  60,
+                                                        "height":  60
+                                                    }
+                                       },
+                                       {
+                                           "card":  {
+                                                        "width":  350,
+                                                        "height":  470.1875
+                                                    },
+                                           "image":  {
+                                                         "width":  350,
+                                                         "height":  262.5
+                                                     },
+                                           "icon":  {
+                                                        "width":  60,
+                                                        "height":  60
+                                                    }
+                                       },
+                                       {
+                                           "card":  {
+                                                        "width":  350,
+                                                        "height":  470.1875
+                                                    },
+                                           "image":  {
+                                                         "width":  350,
+                                                         "height":  262.5
+                                                     },
+                                           "icon":  {
+                                                        "width":  60,
+                                                        "height":  60
+                                                    }
+                                       },
+                                       {
+                                           "card":  {
+                                                        "width":  350,
+                                                        "height":  470.1875
+                                                    },
+                                           "image":  {
+                                                         "width":  350,
+                                                         "height":  262.5
+                                                     },
+                                           "icon":  {
+                                                        "width":  60,
+                                                        "height":  60
+                                                    }
+                                       }
+                                   ],
+                      "notes":  [
+                                    {
+                                        "card":  {
+                                                     "width":  350,
+                                                     "height":  225.75
+                                                 },
+                                        "image":  {
+                                                      "width":  153.109375,
+                                                      "height":  223.75
+                                                  },
+                                        "icon":  {
+                                                     "width":  44,
+                                                     "height":  44
+                                                 }
+                                    },
+                                    {
+                                        "card":  {
+                                                     "width":  350,
+                                                     "height":  201.0625
+                                                 },
+                                        "image":  {
+                                                      "width":  153.109375,
+                                                      "height":  199.0625
+                                                  },
+                                        "icon":  {
+                                                     "width":  44,
+                                                     "height":  44
+                                                 }
+                                    },
+                                    {
+                                        "card":  {
+                                                     "width":  350,
+                                                     "height":  201.0625
+                                                 },
+                                        "image":  {
+                                                      "width":  153.109375,
+                                                      "height":  199.0625
+                                                  },
+                                        "icon":  {
+                                                     "width":  44,
+                                                     "height":  44
+                                                 }
+                                    },
+                                    {
+                                        "card":  {
+                                                     "width":  350,
+                                                     "height":  225.75
+                                                 },
+                                        "image":  {
+                                                      "width":  153.109375,
+                                                      "height":  223.75
+                                                  },
+                                        "icon":  {
+                                                     "width":  44,
+                                                     "height":  44
+                                                 }
+                                    }
+                                ],
+                      "photosFillCards":  true,
+                      "servicesCentered":  true,
+                      "uniqueIcons":  true,
+                      "uniqueIconIds":  true,
+                      "allIconsDrawn":  true,
+                      "video":  "assets/video/home.mp4"
+                  },
+        "width":  390
+    },
+    {
+        "rtl":  {
+                    "width":  390,
+                    "scrollWidth":  390,
+                    "dir":  "rtl"
+                },
+        "width":  390
+    }
+]

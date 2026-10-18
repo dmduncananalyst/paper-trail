@@ -1,0 +1,846 @@
+{
+  "areas-we-serve.html": {
+    "page": "areas-we-serve.html",
+    "topic": "Good books, wherever business takes you.",
+    "opening": "What about your books needs attention?",
+    "choices": [
+      "California",
+      "Another state",
+      "We work in several states"
+    ],
+    "notes": [
+      {
+        "title": "What does a bookkeeper actually do for a business?",
+        "answer": "A bookkeeper maintains the transaction records that help a business understand its finances. The work can include organizing income and expenses, reconciling accounts, reviewing unpaid invoices and bills, and preparing reports from the completed records. The exact responsibilities should be defined in the service agreement.",
+        "url": "what-does-a-bookkeeper-actually-do-for-a-small-business.html",
+        "sources": [
+          {
+            "title": "IRS Publication 583, Starting a Business and Keeping Records",
+            "url": "https://www.irs.gov/publications/p583"
+          },
+          {
+            "title": "U.S. SBA, Manage your business",
+            "url": "https://www.sba.gov/counseling/manage-your-business/"
+          }
+        ]
+      },
+      {
+        "title": "What should I prepare before hiring a bookkeeper?",
+        "answer": "Prepare the name of your bookkeeping software, a list of business accounts, the last completed month and the problems you want solved. Note any upcoming tax, financing or reporting deadline and which records are available. You do not need to repair the books yourself before discussing the work.",
+        "url": "what-should-i-prepare-before-hiring-a-bookkeeper.html",
+        "sources": [
+          {
+            "title": "IRS Publication 583, Starting a Business and Keeping Records",
+            "url": "https://www.irs.gov/publications/p583"
+          },
+          {
+            "title": "U.S. SBA, Manage your business",
+            "url": "https://www.sba.gov/counseling/manage-your-business/"
+          }
+        ]
+      },
+      {
+        "title": "Can bookkeeping be done remotely?",
+        "answer": "Yes, bookkeeping can be completed remotely when records, account access and communication are organized. The essential work is the same, recording transactions, checking supporting documents, reconciling balances and producing useful reports. The location of the bookkeeper does not replace those controls.",
+        "url": "can-bookkeeping-be-done-remotely.html",
+        "sources": [
+          {
+            "title": "IRS Publication 583, Starting a Business and Keeping Records",
+            "url": "https://www.irs.gov/publications/p583"
+          },
+          {
+            "title": "IRS, What kind of records should I keep?",
+            "url": "https://www.irs.gov/businesses/small-businesses-self-employed/what-kind-of-records-should-i-keep"
+          }
+        ]
+      }
+    ]
+  },
+  "can-several-months-be-corrected-at-once.html": {
+    "page": "can-several-months-be-corrected-at-once.html",
+    "topic": "Can several months be corrected at once?",
+    "opening": "What about your books needs attention?",
+    "choices": [
+      "One to three months",
+      "Four to twelve months",
+      "More than a year"
+    ],
+    "notes": [
+      {
+        "title": "Can several months be corrected at once?",
+        "answer": "Yes, several months can be corrected within one bookkeeping repair project. The work should follow a clear period sequence because an error in an early balance can carry into every later month. Correcting the supported source of the problem is more useful than patching the latest total.",
+        "url": "can-several-months-be-corrected-at-once.html",
+        "sources": [
+          {
+            "title": "IRS Publication 583, Starting a Business and Keeping Records",
+            "url": "https://www.irs.gov/publications/p583"
+          },
+          {
+            "title": "IRS Publication 538, Accounting Periods and Methods",
+            "url": "https://www.irs.gov/publications/p538"
+          }
+        ]
+      },
+      {
+        "title": "What should I do if my bookkeeping is several months behind?",
+        "answer": "Find the last reliable completed month, then gather bank statements, card statements and other business records for every unfinished period. Work through the backlog in sequence so corrected balances carry forward properly. Maintain a simple current recordkeeping routine while the older work is completed.",
+        "url": "what-should-i-do-if-my-bookkeeping-is-several-months-behind.html",
+        "sources": [
+          {
+            "title": "IRS Publication 583, Starting a Business and Keeping Records",
+            "url": "https://www.irs.gov/publications/p583"
+          },
+          {
+            "title": "IRS, What kind of records should I keep?",
+            "url": "https://www.irs.gov/businesses/small-businesses-self-employed/what-kind-of-records-should-i-keep"
+          }
+        ]
+      },
+      {
+        "title": "Can last year\u2019s bookkeeping still be completed?",
+        "answer": "Yes, prior year bookkeeping can often be completed from bank and card statements, invoices, receipts and other business records. The approach depends on what already exists, which periods are incomplete and whether a tax return for that year has been filed.",
+        "url": "can-last-years-bookkeeping-still-be-completed.html",
+        "sources": [
+          {
+            "title": "IRS Publication 583, Starting a Business and Keeping Records",
+            "url": "https://www.irs.gov/publications/p583"
+          },
+          {
+            "title": "IRS, How long should I keep records?",
+            "url": "https://www.irs.gov/businesses/small-businesses-self-employed/how-long-should-i-keep-records"
+          }
+        ]
+      },
+      {
+        "title": "Do I need every receipt to catch up my bookkeeping?",
+        "answer": "You can begin catching up before every receipt is located, but missing documentation still needs attention. Statements establish payment activity, while receipts and invoices help explain what was purchased and its business purpose. Some expenses require more detailed substantiation than a bank transaction provides.",
+        "url": "do-i-need-every-receipt-to-catch-up-my-bookkeeping.html",
+        "sources": [
+          {
+            "title": "IRS, What kind of records should I keep?",
+            "url": "https://www.irs.gov/businesses/small-businesses-self-employed/what-kind-of-records-should-i-keep"
+          },
+          {
+            "title": "IRS Publication 583, Starting a Business and Keeping Records",
+            "url": "https://www.irs.gov/publications/p583"
+          }
+        ]
+      },
+      {
+        "title": "How long does it take to bring overdue books current?",
+        "answer": "The time required depends on the number of unfinished months, transaction volume, account count and quality of the available records. A meaningful timeline follows a review of those factors. The age of the backlog alone does not show how much work is involved.",
+        "url": "how-long-does-it-take-to-bring-overdue-books-current.html",
+        "sources": [
+          {
+            "title": "IRS Publication 583, Starting a Business and Keeping Records",
+            "url": "https://www.irs.gov/publications/p583"
+          },
+          {
+            "title": "IRS, What kind of records should I keep?",
+            "url": "https://www.irs.gov/businesses/small-businesses-self-employed/what-kind-of-records-should-i-keep"
+          }
+        ]
+      },
+      {
+        "title": "Can mixed business and personal expenses be cleaned up?",
+        "answer": "Yes, mixed business and personal activity can usually be reviewed and separated when enough supporting information exists. The goal is to identify the purpose of each transaction and record owner activity correctly, rather than treating every charge on a business account as a business expense.",
+        "url": "can-mixed-business-and-personal-expenses-be-cleaned-up.html",
+        "sources": [
+          {
+            "title": "IRS Publication 583, Starting a Business and Keeping Records",
+            "url": "https://www.irs.gov/publications/p583"
+          },
+          {
+            "title": "IRS, Paying yourself",
+            "url": "https://www.irs.gov/businesses/small-businesses-self-employed/paying-yourself"
+          }
+        ]
+      },
+      {
+        "title": "What if old bookkeeping software no longer has my data?",
+        "answer": "If your old bookkeeping system no longer provides the data, start by checking backups, exports and access options before rebuilding anything. Missing software access does not necessarily mean all records are gone. Banks, vendors, customers and payment systems may still hold parts of the transaction history.",
+        "url": "what-if-old-bookkeeping-software-no-longer-has-my-data.html",
+        "sources": [
+          {
+            "title": "IRS Publication 583, Starting a Business and Keeping Records",
+            "url": "https://www.irs.gov/publications/p583"
+          },
+          {
+            "title": "IRS, How long should I keep records?",
+            "url": "https://www.irs.gov/businesses/small-businesses-self-employed/how-long-should-i-keep-records"
+          }
+        ]
+      },
+      {
+        "title": "Should I catch up bookkeeping before applying for financing?",
+        "answer": "Usually, yes, current and supported books make it easier to assemble financial information and explain business performance when applying for financing. Ask the lender which periods and reports it needs before preparing the package. Lenders set their own approval criteria, so completing bookkeeping does not guarantee funding.",
+        "url": "should-i-catch-up-bookkeeping-before-applying-for-financing.html",
+        "sources": [
+          {
+            "title": "U.S. SBA, Business plans and financial projections",
+            "url": "https://www.sba.gov/counseling/plan-your-business/"
+          },
+          {
+            "title": "SEC, Beginners\u2019 Guide to Financial Statements",
+            "url": "https://www.sec.gov/about/reports-publications/investorpubsbegfinstmtguide"
+          }
+        ]
+      }
+    ]
+  },
+  "how-long-does-it-take-to-bring-overdue-books-current.html": {
+    "page": "how-long-does-it-take-to-bring-overdue-books-current.html",
+    "topic": "How long does it take to bring overdue books current?",
+    "opening": "What about your books needs attention?",
+    "choices": [
+      "A few months",
+      "About a year",
+      "More than one year"
+    ],
+    "notes": [
+      {
+        "title": "How long does it take to bring overdue books current?",
+        "answer": "The time required depends on the number of unfinished months, transaction volume, account count and quality of the available records. A meaningful timeline follows a review of those factors. The age of the backlog alone does not show how much work is involved.",
+        "url": "how-long-does-it-take-to-bring-overdue-books-current.html",
+        "sources": [
+          {
+            "title": "IRS Publication 583, Starting a Business and Keeping Records",
+            "url": "https://www.irs.gov/publications/p583"
+          },
+          {
+            "title": "IRS, What kind of records should I keep?",
+            "url": "https://www.irs.gov/businesses/small-businesses-self-employed/what-kind-of-records-should-i-keep"
+          }
+        ]
+      },
+      {
+        "title": "What should I do if my bookkeeping is several months behind?",
+        "answer": "Find the last reliable completed month, then gather bank statements, card statements and other business records for every unfinished period. Work through the backlog in sequence so corrected balances carry forward properly. Maintain a simple current recordkeeping routine while the older work is completed.",
+        "url": "what-should-i-do-if-my-bookkeeping-is-several-months-behind.html",
+        "sources": [
+          {
+            "title": "IRS Publication 583, Starting a Business and Keeping Records",
+            "url": "https://www.irs.gov/publications/p583"
+          },
+          {
+            "title": "IRS, What kind of records should I keep?",
+            "url": "https://www.irs.gov/businesses/small-businesses-self-employed/what-kind-of-records-should-i-keep"
+          }
+        ]
+      },
+      {
+        "title": "Can last year\u2019s bookkeeping still be completed?",
+        "answer": "Yes, prior year bookkeeping can often be completed from bank and card statements, invoices, receipts and other business records. The approach depends on what already exists, which periods are incomplete and whether a tax return for that year has been filed.",
+        "url": "can-last-years-bookkeeping-still-be-completed.html",
+        "sources": [
+          {
+            "title": "IRS Publication 583, Starting a Business and Keeping Records",
+            "url": "https://www.irs.gov/publications/p583"
+          },
+          {
+            "title": "IRS, How long should I keep records?",
+            "url": "https://www.irs.gov/businesses/small-businesses-self-employed/how-long-should-i-keep-records"
+          }
+        ]
+      },
+      {
+        "title": "Do I need every receipt to catch up my bookkeeping?",
+        "answer": "You can begin catching up before every receipt is located, but missing documentation still needs attention. Statements establish payment activity, while receipts and invoices help explain what was purchased and its business purpose. Some expenses require more detailed substantiation than a bank transaction provides.",
+        "url": "do-i-need-every-receipt-to-catch-up-my-bookkeeping.html",
+        "sources": [
+          {
+            "title": "IRS, What kind of records should I keep?",
+            "url": "https://www.irs.gov/businesses/small-businesses-self-employed/what-kind-of-records-should-i-keep"
+          },
+          {
+            "title": "IRS Publication 583, Starting a Business and Keeping Records",
+            "url": "https://www.irs.gov/publications/p583"
+          }
+        ]
+      },
+      {
+        "title": "Can mixed business and personal expenses be cleaned up?",
+        "answer": "Yes, mixed business and personal activity can usually be reviewed and separated when enough supporting information exists. The goal is to identify the purpose of each transaction and record owner activity correctly, rather than treating every charge on a business account as a business expense.",
+        "url": "can-mixed-business-and-personal-expenses-be-cleaned-up.html",
+        "sources": [
+          {
+            "title": "IRS Publication 583, Starting a Business and Keeping Records",
+            "url": "https://www.irs.gov/publications/p583"
+          },
+          {
+            "title": "IRS, Paying yourself",
+            "url": "https://www.irs.gov/businesses/small-businesses-self-employed/paying-yourself"
+          }
+        ]
+      },
+      {
+        "title": "Can several months be corrected at once?",
+        "answer": "Yes, several months can be corrected within one bookkeeping repair project. The work should follow a clear period sequence because an error in an early balance can carry into every later month. Correcting the supported source of the problem is more useful than patching the latest total.",
+        "url": "can-several-months-be-corrected-at-once.html",
+        "sources": [
+          {
+            "title": "IRS Publication 583, Starting a Business and Keeping Records",
+            "url": "https://www.irs.gov/publications/p583"
+          },
+          {
+            "title": "IRS Publication 538, Accounting Periods and Methods",
+            "url": "https://www.irs.gov/publications/p538"
+          }
+        ]
+      },
+      {
+        "title": "What if old bookkeeping software no longer has my data?",
+        "answer": "If your old bookkeeping system no longer provides the data, start by checking backups, exports and access options before rebuilding anything. Missing software access does not necessarily mean all records are gone. Banks, vendors, customers and payment systems may still hold parts of the transaction history.",
+        "url": "what-if-old-bookkeeping-software-no-longer-has-my-data.html",
+        "sources": [
+          {
+            "title": "IRS Publication 583, Starting a Business and Keeping Records",
+            "url": "https://www.irs.gov/publications/p583"
+          },
+          {
+            "title": "IRS, How long should I keep records?",
+            "url": "https://www.irs.gov/businesses/small-businesses-self-employed/how-long-should-i-keep-records"
+          }
+        ]
+      },
+      {
+        "title": "Should I catch up bookkeeping before applying for financing?",
+        "answer": "Usually, yes, current and supported books make it easier to assemble financial information and explain business performance when applying for financing. Ask the lender which periods and reports it needs before preparing the package. Lenders set their own approval criteria, so completing bookkeeping does not guarantee funding.",
+        "url": "should-i-catch-up-bookkeeping-before-applying-for-financing.html",
+        "sources": [
+          {
+            "title": "U.S. SBA, Business plans and financial projections",
+            "url": "https://www.sba.gov/counseling/plan-your-business/"
+          },
+          {
+            "title": "SEC, Beginners\u2019 Guide to Financial Statements",
+            "url": "https://www.sec.gov/about/reports-publications/investorpubsbegfinstmtguide"
+          }
+        ]
+      }
+    ]
+  },
+  "past-due-bookkeeping-questions.html": {
+    "page": "past-due-bookkeeping-questions.html",
+    "topic": "Past Due Bookkeeping Notes",
+    "opening": "What about your books needs attention?",
+    "choices": [
+      "One to three months",
+      "Four to twelve months",
+      "More than a year",
+      "I do not know yet"
+    ],
+    "notes": [
+      {
+        "title": "What should I do if my bookkeeping is several months behind?",
+        "answer": "Find the last reliable completed month, then gather bank statements, card statements and other business records for every unfinished period. Work through the backlog in sequence so corrected balances carry forward properly. Maintain a simple current recordkeeping routine while the older work is completed.",
+        "url": "what-should-i-do-if-my-bookkeeping-is-several-months-behind.html",
+        "sources": [
+          {
+            "title": "IRS Publication 583, Starting a Business and Keeping Records",
+            "url": "https://www.irs.gov/publications/p583"
+          },
+          {
+            "title": "IRS, What kind of records should I keep?",
+            "url": "https://www.irs.gov/businesses/small-businesses-self-employed/what-kind-of-records-should-i-keep"
+          }
+        ]
+      },
+      {
+        "title": "Can last year\u2019s bookkeeping still be completed?",
+        "answer": "Yes, prior year bookkeeping can often be completed from bank and card statements, invoices, receipts and other business records. The approach depends on what already exists, which periods are incomplete and whether a tax return for that year has been filed.",
+        "url": "can-last-years-bookkeeping-still-be-completed.html",
+        "sources": [
+          {
+            "title": "IRS Publication 583, Starting a Business and Keeping Records",
+            "url": "https://www.irs.gov/publications/p583"
+          },
+          {
+            "title": "IRS, How long should I keep records?",
+            "url": "https://www.irs.gov/businesses/small-businesses-self-employed/how-long-should-i-keep-records"
+          }
+        ]
+      },
+      {
+        "title": "Do I need every receipt to catch up my bookkeeping?",
+        "answer": "You can begin catching up before every receipt is located, but missing documentation still needs attention. Statements establish payment activity, while receipts and invoices help explain what was purchased and its business purpose. Some expenses require more detailed substantiation than a bank transaction provides.",
+        "url": "do-i-need-every-receipt-to-catch-up-my-bookkeeping.html",
+        "sources": [
+          {
+            "title": "IRS, What kind of records should I keep?",
+            "url": "https://www.irs.gov/businesses/small-businesses-self-employed/what-kind-of-records-should-i-keep"
+          },
+          {
+            "title": "IRS Publication 583, Starting a Business and Keeping Records",
+            "url": "https://www.irs.gov/publications/p583"
+          }
+        ]
+      },
+      {
+        "title": "How long does it take to bring overdue books current?",
+        "answer": "The time required depends on the number of unfinished months, transaction volume, account count and quality of the available records. A meaningful timeline follows a review of those factors. The age of the backlog alone does not show how much work is involved.",
+        "url": "how-long-does-it-take-to-bring-overdue-books-current.html",
+        "sources": [
+          {
+            "title": "IRS Publication 583, Starting a Business and Keeping Records",
+            "url": "https://www.irs.gov/publications/p583"
+          },
+          {
+            "title": "IRS, What kind of records should I keep?",
+            "url": "https://www.irs.gov/businesses/small-businesses-self-employed/what-kind-of-records-should-i-keep"
+          }
+        ]
+      },
+      {
+        "title": "Can mixed business and personal expenses be cleaned up?",
+        "answer": "Yes, mixed business and personal activity can usually be reviewed and separated when enough supporting information exists. The goal is to identify the purpose of each transaction and record owner activity correctly, rather than treating every charge on a business account as a business expense.",
+        "url": "can-mixed-business-and-personal-expenses-be-cleaned-up.html",
+        "sources": [
+          {
+            "title": "IRS Publication 583, Starting a Business and Keeping Records",
+            "url": "https://www.irs.gov/publications/p583"
+          },
+          {
+            "title": "IRS, Paying yourself",
+            "url": "https://www.irs.gov/businesses/small-businesses-self-employed/paying-yourself"
+          }
+        ]
+      },
+      {
+        "title": "Can several months be corrected at once?",
+        "answer": "Yes, several months can be corrected within one bookkeeping repair project. The work should follow a clear period sequence because an error in an early balance can carry into every later month. Correcting the supported source of the problem is more useful than patching the latest total.",
+        "url": "can-several-months-be-corrected-at-once.html",
+        "sources": [
+          {
+            "title": "IRS Publication 583, Starting a Business and Keeping Records",
+            "url": "https://www.irs.gov/publications/p583"
+          },
+          {
+            "title": "IRS Publication 538, Accounting Periods and Methods",
+            "url": "https://www.irs.gov/publications/p538"
+          }
+        ]
+      },
+      {
+        "title": "What if old bookkeeping software no longer has my data?",
+        "answer": "If your old bookkeeping system no longer provides the data, start by checking backups, exports and access options before rebuilding anything. Missing software access does not necessarily mean all records are gone. Banks, vendors, customers and payment systems may still hold parts of the transaction history.",
+        "url": "what-if-old-bookkeeping-software-no-longer-has-my-data.html",
+        "sources": [
+          {
+            "title": "IRS Publication 583, Starting a Business and Keeping Records",
+            "url": "https://www.irs.gov/publications/p583"
+          },
+          {
+            "title": "IRS, How long should I keep records?",
+            "url": "https://www.irs.gov/businesses/small-businesses-self-employed/how-long-should-i-keep-records"
+          }
+        ]
+      },
+      {
+        "title": "Should I catch up bookkeeping before applying for financing?",
+        "answer": "Usually, yes, current and supported books make it easier to assemble financial information and explain business performance when applying for financing. Ask the lender which periods and reports it needs before preparing the package. Lenders set their own approval criteria, so completing bookkeeping does not guarantee funding.",
+        "url": "should-i-catch-up-bookkeeping-before-applying-for-financing.html",
+        "sources": [
+          {
+            "title": "U.S. SBA, Business plans and financial projections",
+            "url": "https://www.sba.gov/counseling/plan-your-business/"
+          },
+          {
+            "title": "SEC, Beginners\u2019 Guide to Financial Statements",
+            "url": "https://www.sec.gov/about/reports-publications/investorpubsbegfinstmtguide"
+          }
+        ]
+      }
+    ]
+  },
+  "past-due-bookkeeping.html": {
+    "page": "past-due-bookkeeping.html",
+    "topic": "Past Due Bookkeeping",
+    "opening": "What about your books needs attention?",
+    "choices": [
+      "One to three months",
+      "Four to twelve months",
+      "More than a year",
+      "I do not know yet"
+    ],
+    "notes": [
+      {
+        "title": "What should I do if my bookkeeping is several months behind?",
+        "answer": "Find the last reliable completed month, then gather bank statements, card statements and other business records for every unfinished period. Work through the backlog in sequence so corrected balances carry forward properly. Maintain a simple current recordkeeping routine while the older work is completed.",
+        "url": "what-should-i-do-if-my-bookkeeping-is-several-months-behind.html",
+        "sources": [
+          {
+            "title": "IRS Publication 583, Starting a Business and Keeping Records",
+            "url": "https://www.irs.gov/publications/p583"
+          },
+          {
+            "title": "IRS, What kind of records should I keep?",
+            "url": "https://www.irs.gov/businesses/small-businesses-self-employed/what-kind-of-records-should-i-keep"
+          }
+        ]
+      },
+      {
+        "title": "Can last year\u2019s bookkeeping still be completed?",
+        "answer": "Yes, prior year bookkeeping can often be completed from bank and card statements, invoices, receipts and other business records. The approach depends on what already exists, which periods are incomplete and whether a tax return for that year has been filed.",
+        "url": "can-last-years-bookkeeping-still-be-completed.html",
+        "sources": [
+          {
+            "title": "IRS Publication 583, Starting a Business and Keeping Records",
+            "url": "https://www.irs.gov/publications/p583"
+          },
+          {
+            "title": "IRS, How long should I keep records?",
+            "url": "https://www.irs.gov/businesses/small-businesses-self-employed/how-long-should-i-keep-records"
+          }
+        ]
+      },
+      {
+        "title": "Do I need every receipt to catch up my bookkeeping?",
+        "answer": "You can begin catching up before every receipt is located, but missing documentation still needs attention. Statements establish payment activity, while receipts and invoices help explain what was purchased and its business purpose. Some expenses require more detailed substantiation than a bank transaction provides.",
+        "url": "do-i-need-every-receipt-to-catch-up-my-bookkeeping.html",
+        "sources": [
+          {
+            "title": "IRS, What kind of records should I keep?",
+            "url": "https://www.irs.gov/businesses/small-businesses-self-employed/what-kind-of-records-should-i-keep"
+          },
+          {
+            "title": "IRS Publication 583, Starting a Business and Keeping Records",
+            "url": "https://www.irs.gov/publications/p583"
+          }
+        ]
+      },
+      {
+        "title": "How long does it take to bring overdue books current?",
+        "answer": "The time required depends on the number of unfinished months, transaction volume, account count and quality of the available records. A meaningful timeline follows a review of those factors. The age of the backlog alone does not show how much work is involved.",
+        "url": "how-long-does-it-take-to-bring-overdue-books-current.html",
+        "sources": [
+          {
+            "title": "IRS Publication 583, Starting a Business and Keeping Records",
+            "url": "https://www.irs.gov/publications/p583"
+          },
+          {
+            "title": "IRS, What kind of records should I keep?",
+            "url": "https://www.irs.gov/businesses/small-businesses-self-employed/what-kind-of-records-should-i-keep"
+          }
+        ]
+      },
+      {
+        "title": "Can mixed business and personal expenses be cleaned up?",
+        "answer": "Yes, mixed business and personal activity can usually be reviewed and separated when enough supporting information exists. The goal is to identify the purpose of each transaction and record owner activity correctly, rather than treating every charge on a business account as a business expense.",
+        "url": "can-mixed-business-and-personal-expenses-be-cleaned-up.html",
+        "sources": [
+          {
+            "title": "IRS Publication 583, Starting a Business and Keeping Records",
+            "url": "https://www.irs.gov/publications/p583"
+          },
+          {
+            "title": "IRS, Paying yourself",
+            "url": "https://www.irs.gov/businesses/small-businesses-self-employed/paying-yourself"
+          }
+        ]
+      },
+      {
+        "title": "Can several months be corrected at once?",
+        "answer": "Yes, several months can be corrected within one bookkeeping repair project. The work should follow a clear period sequence because an error in an early balance can carry into every later month. Correcting the supported source of the problem is more useful than patching the latest total.",
+        "url": "can-several-months-be-corrected-at-once.html",
+        "sources": [
+          {
+            "title": "IRS Publication 583, Starting a Business and Keeping Records",
+            "url": "https://www.irs.gov/publications/p583"
+          },
+          {
+            "title": "IRS Publication 538, Accounting Periods and Methods",
+            "url": "https://www.irs.gov/publications/p538"
+          }
+        ]
+      },
+      {
+        "title": "What if old bookkeeping software no longer has my data?",
+        "answer": "If your old bookkeeping system no longer provides the data, start by checking backups, exports and access options before rebuilding anything. Missing software access does not necessarily mean all records are gone. Banks, vendors, customers and payment systems may still hold parts of the transaction history.",
+        "url": "what-if-old-bookkeeping-software-no-longer-has-my-data.html",
+        "sources": [
+          {
+            "title": "IRS Publication 583, Starting a Business and Keeping Records",
+            "url": "https://www.irs.gov/publications/p583"
+          },
+          {
+            "title": "IRS, How long should I keep records?",
+            "url": "https://www.irs.gov/businesses/small-businesses-self-employed/how-long-should-i-keep-records"
+          }
+        ]
+      },
+      {
+        "title": "Should I catch up bookkeeping before applying for financing?",
+        "answer": "Usually, yes, current and supported books make it easier to assemble financial information and explain business performance when applying for financing. Ask the lender which periods and reports it needs before preparing the package. Lenders set their own approval criteria, so completing bookkeeping does not guarantee funding.",
+        "url": "should-i-catch-up-bookkeeping-before-applying-for-financing.html",
+        "sources": [
+          {
+            "title": "U.S. SBA, Business plans and financial projections",
+            "url": "https://www.sba.gov/counseling/plan-your-business/"
+          },
+          {
+            "title": "SEC, Beginners\u2019 Guide to Financial Statements",
+            "url": "https://www.sec.gov/about/reports-publications/investorpubsbegfinstmtguide"
+          }
+        ]
+      }
+    ]
+  },
+  "what-should-i-do-if-my-bookkeeping-is-several-months-behind.html": {
+    "page": "what-should-i-do-if-my-bookkeeping-is-several-months-behind.html",
+    "topic": "What should I do if my bookkeeping is several months behind?",
+    "opening": "What about your books needs attention?",
+    "choices": [
+      "One to three months",
+      "Four to six months",
+      "More than six months",
+      "I am not sure what was completed"
+    ],
+    "notes": [
+      {
+        "title": "What should I do if my bookkeeping is several months behind?",
+        "answer": "Find the last reliable completed month, then gather bank statements, card statements and other business records for every unfinished period. Work through the backlog in sequence so corrected balances carry forward properly. Maintain a simple current recordkeeping routine while the older work is completed.",
+        "url": "what-should-i-do-if-my-bookkeeping-is-several-months-behind.html",
+        "sources": [
+          {
+            "title": "IRS Publication 583, Starting a Business and Keeping Records",
+            "url": "https://www.irs.gov/publications/p583"
+          },
+          {
+            "title": "IRS, What kind of records should I keep?",
+            "url": "https://www.irs.gov/businesses/small-businesses-self-employed/what-kind-of-records-should-i-keep"
+          }
+        ]
+      },
+      {
+        "title": "Can last year\u2019s bookkeeping still be completed?",
+        "answer": "Yes, prior year bookkeeping can often be completed from bank and card statements, invoices, receipts and other business records. The approach depends on what already exists, which periods are incomplete and whether a tax return for that year has been filed.",
+        "url": "can-last-years-bookkeeping-still-be-completed.html",
+        "sources": [
+          {
+            "title": "IRS Publication 583, Starting a Business and Keeping Records",
+            "url": "https://www.irs.gov/publications/p583"
+          },
+          {
+            "title": "IRS, How long should I keep records?",
+            "url": "https://www.irs.gov/businesses/small-businesses-self-employed/how-long-should-i-keep-records"
+          }
+        ]
+      },
+      {
+        "title": "Do I need every receipt to catch up my bookkeeping?",
+        "answer": "You can begin catching up before every receipt is located, but missing documentation still needs attention. Statements establish payment activity, while receipts and invoices help explain what was purchased and its business purpose. Some expenses require more detailed substantiation than a bank transaction provides.",
+        "url": "do-i-need-every-receipt-to-catch-up-my-bookkeeping.html",
+        "sources": [
+          {
+            "title": "IRS, What kind of records should I keep?",
+            "url": "https://www.irs.gov/businesses/small-businesses-self-employed/what-kind-of-records-should-i-keep"
+          },
+          {
+            "title": "IRS Publication 583, Starting a Business and Keeping Records",
+            "url": "https://www.irs.gov/publications/p583"
+          }
+        ]
+      },
+      {
+        "title": "How long does it take to bring overdue books current?",
+        "answer": "The time required depends on the number of unfinished months, transaction volume, account count and quality of the available records. A meaningful timeline follows a review of those factors. The age of the backlog alone does not show how much work is involved.",
+        "url": "how-long-does-it-take-to-bring-overdue-books-current.html",
+        "sources": [
+          {
+            "title": "IRS Publication 583, Starting a Business and Keeping Records",
+            "url": "https://www.irs.gov/publications/p583"
+          },
+          {
+            "title": "IRS, What kind of records should I keep?",
+            "url": "https://www.irs.gov/businesses/small-businesses-self-employed/what-kind-of-records-should-i-keep"
+          }
+        ]
+      },
+      {
+        "title": "Can mixed business and personal expenses be cleaned up?",
+        "answer": "Yes, mixed business and personal activity can usually be reviewed and separated when enough supporting information exists. The goal is to identify the purpose of each transaction and record owner activity correctly, rather than treating every charge on a business account as a business expense.",
+        "url": "can-mixed-business-and-personal-expenses-be-cleaned-up.html",
+        "sources": [
+          {
+            "title": "IRS Publication 583, Starting a Business and Keeping Records",
+            "url": "https://www.irs.gov/publications/p583"
+          },
+          {
+            "title": "IRS, Paying yourself",
+            "url": "https://www.irs.gov/businesses/small-businesses-self-employed/paying-yourself"
+          }
+        ]
+      },
+      {
+        "title": "Can several months be corrected at once?",
+        "answer": "Yes, several months can be corrected within one bookkeeping repair project. The work should follow a clear period sequence because an error in an early balance can carry into every later month. Correcting the supported source of the problem is more useful than patching the latest total.",
+        "url": "can-several-months-be-corrected-at-once.html",
+        "sources": [
+          {
+            "title": "IRS Publication 583, Starting a Business and Keeping Records",
+            "url": "https://www.irs.gov/publications/p583"
+          },
+          {
+            "title": "IRS Publication 538, Accounting Periods and Methods",
+            "url": "https://www.irs.gov/publications/p538"
+          }
+        ]
+      },
+      {
+        "title": "What if old bookkeeping software no longer has my data?",
+        "answer": "If your old bookkeeping system no longer provides the data, start by checking backups, exports and access options before rebuilding anything. Missing software access does not necessarily mean all records are gone. Banks, vendors, customers and payment systems may still hold parts of the transaction history.",
+        "url": "what-if-old-bookkeeping-software-no-longer-has-my-data.html",
+        "sources": [
+          {
+            "title": "IRS Publication 583, Starting a Business and Keeping Records",
+            "url": "https://www.irs.gov/publications/p583"
+          },
+          {
+            "title": "IRS, How long should I keep records?",
+            "url": "https://www.irs.gov/businesses/small-businesses-self-employed/how-long-should-i-keep-records"
+          }
+        ]
+      },
+      {
+        "title": "Should I catch up bookkeeping before applying for financing?",
+        "answer": "Usually, yes, current and supported books make it easier to assemble financial information and explain business performance when applying for financing. Ask the lender which periods and reports it needs before preparing the package. Lenders set their own approval criteria, so completing bookkeeping does not guarantee funding.",
+        "url": "should-i-catch-up-bookkeeping-before-applying-for-financing.html",
+        "sources": [
+          {
+            "title": "U.S. SBA, Business plans and financial projections",
+            "url": "https://www.sba.gov/counseling/plan-your-business/"
+          },
+          {
+            "title": "SEC, Beginners\u2019 Guide to Financial Statements",
+            "url": "https://www.sec.gov/about/reports-publications/investorpubsbegfinstmtguide"
+          }
+        ]
+      }
+    ]
+  },
+  "why-does-my-bank-balance-not-match-my-books.html": {
+    "page": "why-does-my-bank-balance-not-match-my-books.html",
+    "topic": "Why does my bank balance not match my books?",
+    "opening": "What about your books needs attention?",
+    "choices": [
+      "This month only",
+      "Several months",
+      "Since the software was set up",
+      "I have never reconciled the account"
+    ],
+    "periodQuestion": "How many bank or card accounts need a closer look?",
+    "periodChoices": [
+      "One account",
+      "Two or three accounts",
+      "Four or more",
+      "I am not sure"
+    ],
+    "notes": [
+      {
+        "title": "Why does my bank balance not match my books?",
+        "answer": "Your bank balance and bookkeeping balance may differ because of timing, missing entries, duplicates or errors. The comparison only becomes meaningful when it uses the same account and date. Reconciliation explains legitimate outstanding items and corrects recording problems so the adjusted balances agree.",
+        "url": "why-does-my-bank-balance-not-match-my-books.html",
+        "sources": [
+          {
+            "title": "IRS Publication 583, Starting a Business and Keeping Records",
+            "url": "https://www.irs.gov/publications/p583"
+          }
+        ]
+      },
+      {
+        "title": "Can duplicate transactions make my balance incorrect?",
+        "answer": "Yes, recording the same transaction twice can distort cash, expenses, revenue or liabilities. The effect depends on which accounts the duplicated entry touches. Before removing an entry, confirm that it represents the same real transaction and check whether either version is linked to a bill, invoice or reconciliation.",
+        "url": "can-duplicate-transactions-make-my-balance-incorrect.html",
+        "sources": [
+          {
+            "title": "IRS Publication 583, Starting a Business and Keeping Records",
+            "url": "https://www.irs.gov/publications/p583"
+          }
+        ]
+      },
+      {
+        "title": "How do I find a transaction that caused my books to be off?",
+        "answer": "Begin with the last period that reconciled correctly and work forward until the difference first appears. Comparing statement activity with the account register narrows the search. The difference may come from one entry, several smaller entries or a starting balance, so avoid assuming a single transaction caused it.",
+        "url": "how-do-i-find-a-transaction-that-caused-my-books-to-be-off.html",
+        "sources": [
+          {
+            "title": "IRS Publication 583, Starting a Business and Keeping Records",
+            "url": "https://www.irs.gov/publications/p583"
+          }
+        ]
+      },
+      {
+        "title": "Do I have to start over if my balances are wrong?",
+        "answer": "You usually do not need to start over, because incorrect balances can often be repaired within the existing bookkeeping file. Missing transactions, duplicates, misclassified transfers and unsupported opening balances are common causes. Review the existing records before deciding whether a rebuild is necessary.",
+        "url": "do-i-have-to-start-over-if-my-balances-are-wrong.html",
+        "sources": [
+          {
+            "title": "IRS Publication 583, Starting a Business and Keeping Records",
+            "url": "https://www.irs.gov/publications/p583"
+          },
+          {
+            "title": "IRS, What kind of records should I keep?",
+            "url": "https://www.irs.gov/businesses/small-businesses-self-employed/what-kind-of-records-should-i-keep"
+          }
+        ]
+      },
+      {
+        "title": "What if a payment was posted to the wrong account?",
+        "answer": "A payment posted to the wrong account should be traced to its source and corrected without creating a second payment. First clarify whether the error concerns the bank account, expense category, customer record or vendor record. Each changes a different part of the books.",
+        "url": "what-if-a-payment-was-posted-to-the-wrong-account.html",
+        "sources": [
+          {
+            "title": "IRS Publication 583, Starting a Business and Keeping Records",
+            "url": "https://www.irs.gov/publications/p583"
+          }
+        ]
+      },
+      {
+        "title": "How should old bookkeeping mistakes be corrected?",
+        "answer": "Correct old bookkeeping mistakes by tracing the original entry, documenting the proper treatment and reviewing every affected period. Preserve the supporting evidence and correction history rather than hiding a difference in an unexplained current expense. Older corrections can affect reconciliations and information already used for tax filing.",
+        "url": "how-should-old-bookkeeping-mistakes-be-corrected.html",
+        "sources": [
+          {
+            "title": "IRS Publication 583, Starting a Business and Keeping Records",
+            "url": "https://www.irs.gov/publications/p583"
+          },
+          {
+            "title": "IRS Publication 538, Accounting Periods and Methods",
+            "url": "https://www.irs.gov/publications/p538"
+          }
+        ]
+      },
+      {
+        "title": "Why do transfers show up as expenses in my books?",
+        "answer": "Transfers can appear as expenses when imported bank activity is categorized as a purchase instead of movement between accounts. A transfer between accounts belonging to the same business generally moves an asset balance, without creating sales revenue or an operating expense. Both sides need to be matched and reviewed.",
+        "url": "why-do-transfers-show-up-as-expenses-in-my-books.html",
+        "sources": [
+          {
+            "title": "IRS Publication 583, Starting a Business and Keeping Records",
+            "url": "https://www.irs.gov/publications/p583"
+          },
+          {
+            "title": "SEC, Beginners\u2019 Guide to Financial Statements",
+            "url": "https://www.sec.gov/about/reports-publications/beginners-guide-financial-statements"
+          }
+        ]
+      },
+      {
+        "title": "What should I check before changing an opening balance?",
+        "answer": "Before changing an opening balance, identify where it came from and why it appears wrong. An opening balance connects earlier activity with the period you are reviewing. Changing it without evidence can hide an old error and make current reports look correct while leaving the history inconsistent.",
+        "url": "what-should-i-check-before-changing-an-opening-balance.html",
+        "sources": [
+          {
+            "title": "IRS Publication 583, Starting a Business and Keeping Records",
+            "url": "https://www.irs.gov/publications/p583"
+          },
+          {
+            "title": "SEC, Beginners\u2019 Guide to Financial Statements",
+            "url": "https://www.sec.gov/about/reports-publications/beginners-guide-financial-statements"
+          }
+        ]
+      }
+    ]
+  }
+}

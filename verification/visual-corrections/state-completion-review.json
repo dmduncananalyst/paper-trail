@@ -1,0 +1,1593 @@
+{
+  "reviewed_on": "2026-10-16",
+  "state_pages_built": 50,
+  "planned_states": 50,
+  "missing_states": [],
+  "duplicate_body_paragraphs": [],
+  "states": [
+    {
+      "state": "Alabama",
+      "local_url": "state-records/alabama.html",
+      "planned_canonical": "https://www.papertrailusa.com/state-records/alabama.html",
+      "body_words": 843,
+      "source_count": 10,
+      "sections": 8,
+      "last_reviewed": "2026-10-16",
+      "quality_review": {
+        "reviewed_on": "2026-10-16",
+        "state_specificity": "Alabama records need to distinguish state tax, city and county tax, employer withholding and unemployment accounts. ONE SPOT simplifies filing access without making each liability the same.",
+        "topic_coverage": [
+          "Tax registration",
+          "Sales and use tax or applicable alternative",
+          "Payroll and workforce programs",
+          "Vendor invoices and payables",
+          "Income and expense evidence",
+          "Monthly statements and liabilities",
+          "Year end tax handoff",
+          "Retention and source preservation",
+          "Industry and entity distinctions",
+          "Hypothetical example and professional boundaries",
+          "Business income and entity tax obligations",
+          "Employer unemployment contribution controls"
+        ],
+        "source_bounds": "Official sources only for regulatory claims. No tax rates or monetary thresholds asserted. Examples hypothetical; ordinary accounting recommendations are identified as general practice.",
+        "originality": "State specific explanations and example written individually. No body paragraph copied from another state.",
+        "approval_status": "Owner approval and qualified factual review pending.",
+        "obligation_review": "Entity treatment and unemployment obligations expanded from official sources, with separate monthly reconciliation and annual handoff evidence. Rates and universal liability assumptions excluded."
+      },
+      "remaining_review": [
+        "Withholding retention verified against the official administrative rule. Other document categories and local tax retention still need specific review.",
+        "No universal rate, filing schedule, nexus or worker classification conclusion supplied."
+      ],
+      "owner_approval": "Pending",
+      "publication": "Not published",
+      "sitemap": "Excluded until individually approved and published"
+    },
+    {
+      "state": "Alaska",
+      "local_url": "state-records/alaska.html",
+      "planned_canonical": "https://www.papertrailusa.com/state-records/alaska.html",
+      "body_words": 849,
+      "source_count": 8,
+      "sections": 8,
+      "last_reviewed": "2026-10-16",
+      "quality_review": {
+        "reviewed_on": "2026-10-16",
+        "state_specificity": "Alaska has no state sales tax, but municipal sales and use tax can still affect a business. Local transaction evidence and state employer records need separate accounting trails.",
+        "topic_coverage": [
+          "Tax registration",
+          "Sales and use tax or applicable alternative",
+          "Payroll and workforce programs",
+          "Vendor invoices and payables",
+          "Income and expense evidence",
+          "Monthly statements and liabilities",
+          "Year end tax handoff",
+          "Retention and source preservation",
+          "Industry and entity distinctions",
+          "Hypothetical example and professional boundaries",
+          "Business income and entity tax obligations",
+          "Employer unemployment contribution controls"
+        ],
+        "source_bounds": "Official sources only for regulatory claims. No tax rates or monetary thresholds asserted. Examples hypothetical; ordinary accounting recommendations are identified as general practice.",
+        "originality": "State specific explanations and example written individually. No body paragraph copied from another state.",
+        "approval_status": "Owner approval and qualified factual review pending.",
+        "obligation_review": "Entity treatment and unemployment obligations expanded from official sources, with separate monthly reconciliation and annual handoff evidence. Rates and universal liability assumptions excluded."
+      },
+      "remaining_review": [
+        "State unemployment accounting and payroll retention verified as at least five years. Municipality sales retention must be checked by locality.",
+        "No universal local registration or industry tax conclusion supplied.",
+        "Alaska corporate tax existence and program list verified from official sources; detailed current corporate viewer was inaccessible, so classifications, exemptions and filing thresholds need current instruction review."
+      ],
+      "owner_approval": "Pending",
+      "publication": "Not published",
+      "sitemap": "Excluded until individually approved and published"
+    },
+    {
+      "state": "Arizona",
+      "local_url": "state-records/arizona.html",
+      "planned_canonical": "https://www.papertrailusa.com/state-records/arizona.html",
+      "body_words": 813,
+      "source_count": 9,
+      "sections": 8,
+      "last_reviewed": "2026-10-16",
+      "quality_review": {
+        "reviewed_on": "2026-10-16",
+        "state_specificity": "Arizona transaction privilege tax is imposed on the vendor's business activity. Accurate activity, location and deduction records matter alongside purchase use tax and separate employer reporting.",
+        "topic_coverage": [
+          "Tax registration",
+          "Sales and use tax or applicable alternative",
+          "Payroll and workforce programs",
+          "Vendor invoices and payables",
+          "Income and expense evidence",
+          "Monthly statements and liabilities",
+          "Year end tax handoff",
+          "Retention and source preservation",
+          "Industry and entity distinctions",
+          "Hypothetical example and professional boundaries",
+          "Business income and entity tax obligations",
+          "Employer unemployment contribution controls"
+        ],
+        "source_bounds": "Official sources only for regulatory claims. No tax rates or monetary thresholds asserted. Examples hypothetical; ordinary accounting recommendations are identified as general practice.",
+        "originality": "State specific explanations and example written individually. No body paragraph copied from another state.",
+        "approval_status": "Owner approval and qualified factual review pending.",
+        "obligation_review": "Entity treatment and unemployment obligations expanded from official sources, with separate monthly reconciliation and annual handoff evidence. Rates and universal liability assumptions excluded."
+      },
+      "remaining_review": [
+        "Official indexed pages inspected. Direct TPT page opening returned an internal error, so reconfirm direct access before release.",
+        "No classification, city rate, nexus threshold or payroll calculation determined."
+      ],
+      "owner_approval": "Pending",
+      "publication": "Not published",
+      "sitemap": "Excluded until individually approved and published"
+    },
+    {
+      "state": "Arkansas",
+      "local_url": "state-records/arkansas.html",
+      "planned_canonical": "https://www.papertrailusa.com/state-records/arkansas.html",
+      "body_words": 824,
+      "source_count": 9,
+      "sections": 8,
+      "last_reviewed": "2026-10-16",
+      "quality_review": {
+        "reviewed_on": "2026-10-16",
+        "state_specificity": "Arkansas bookkeeping connects DFA tax records with separate workforce reporting. City and county sales/use detail, payroll confirmations and a clear audit trail help explain the numbers.",
+        "topic_coverage": [
+          "Tax registration",
+          "Sales and use tax or applicable alternative",
+          "Payroll and workforce programs",
+          "Vendor invoices and payables",
+          "Income and expense evidence",
+          "Monthly statements and liabilities",
+          "Year end tax handoff",
+          "Retention and source preservation",
+          "Industry and entity distinctions",
+          "Hypothetical example and professional boundaries",
+          "Business income and entity tax obligations",
+          "Employer unemployment contribution controls"
+        ],
+        "source_bounds": "Only official sources support regulatory statements. No rates or thresholds invented; examples hypothetical.",
+        "originality": "Individually authored state explanation and example. General bookkeeping practice is identified separately.",
+        "approval_status": "Owner approval and qualified factual review pending.",
+        "obligation_review": "Entity treatment and unemployment obligations expanded from official sources, with separate monthly reconciliation and annual handoff evidence. Rates and universal liability assumptions excluded."
+      },
+      "remaining_review": [
+        "Indexed official sources inspected; direct DFA sales landing fetch failed in this pass.",
+        "Withholding instructions dated July 2024; confirm current edition before release. Other retention periods intentionally not asserted."
+      ],
+      "owner_approval": "Pending",
+      "publication": "Not published",
+      "sitemap": "Excluded until individually approved and published"
+    },
+    {
+      "state": "California",
+      "local_url": "state-records/california.html",
+      "planned_canonical": "https://www.papertrailusa.com/state-records/california.html",
+      "body_words": 1060,
+      "source_count": 7,
+      "sections": 8,
+      "last_reviewed": "2026-10-16",
+      "quality_review": {
+        "reviewed_on": "2026-10-16",
+        "state_specificity": "CDTFA, EDD and FTB responsibilities are separated; district details and resale support make the California scope explicit.",
+        "source_bounds": "Only official agency sources support regulatory statements. Rates and monetary thresholds are intentionally omitted. Examples are hypothetical and accounting recommendations are identified as general practices.",
+        "originality": "Written for the state's actual issues with a distinct example. Shared accounting principles are not claimed as unique state law. No identical body paragraph is reused across pilots.",
+        "currency": "Official sources inspected October 16, 2026. Material changes and retrieval limitations are recorded in the source review. No qualified professional review or publication approval is claimed.",
+        "approval_status": "Owner design and content approval plus qualified factual review required before publication."
+      },
+      "remaining_review": [
+        "Current EDD DE 44 PDF exceeded browser retrieval size; no current payroll specific retention period asserted.",
+        "No rates, nexus thresholds, district sourcing conclusion, entity tax calculation or tax return deadline asserted.",
+        "Independent qualified California tax/payroll review and owner approval required before publication."
+      ],
+      "owner_approval": "Pending",
+      "publication": "Not published",
+      "sitemap": "Excluded until individually approved and published"
+    },
+    {
+      "state": "Colorado",
+      "local_url": "state-records/colorado.html",
+      "planned_canonical": "https://www.papertrailusa.com/state-records/colorado.html",
+      "body_words": 792,
+      "source_count": 8,
+      "sections": 8,
+      "last_reviewed": "2026-10-16",
+      "quality_review": {
+        "reviewed_on": "2026-10-16",
+        "state_specificity": "Colorado combines state administered taxes with self collected home rule taxes. Records need to identify the actual jurisdiction and preserve separate withholding, unemployment and FAMLI reporting.",
+        "topic_coverage": [
+          "Tax registration",
+          "Sales and use tax or applicable alternative",
+          "Payroll and workforce programs",
+          "Vendor invoices and payables",
+          "Income and expense evidence",
+          "Monthly statements and liabilities",
+          "Year end tax handoff",
+          "Retention and source preservation",
+          "Industry and entity distinctions",
+          "Hypothetical example and professional boundaries",
+          "Business income and entity tax obligations",
+          "Employer unemployment contribution controls"
+        ],
+        "source_bounds": "Only official sources support regulatory statements. No rates or thresholds invented; examples hypothetical.",
+        "originality": "Individually authored state explanation and example. General bookkeeping practice is identified separately.",
+        "approval_status": "Owner approval and qualified factual review pending.",
+        "obligation_review": "Entity treatment and unemployment obligations expanded from official sources, with separate monthly reconciliation and annual handoff evidence. Rates and universal liability assumptions excluded."
+      },
+      "remaining_review": [
+        "No universal home rule, nexus, payroll rate or municipal withholding conclusion made.",
+        "FAMLI and local city rules require employer specific review; state publication cannot substitute for local verification.",
+        "Unemployment wage reporting text was available through an official agency development mirror while the production page returned an access error; confirm production instructions before publication."
+      ],
+      "owner_approval": "Pending",
+      "publication": "Not published",
+      "sitemap": "Excluded until individually approved and published"
+    },
+    {
+      "state": "Connecticut",
+      "local_url": "state-records/connecticut.html",
+      "planned_canonical": "https://www.papertrailusa.com/state-records/connecticut.html",
+      "body_words": 813,
+      "source_count": 10,
+      "sections": 8,
+      "last_reviewed": "2026-10-16",
+      "quality_review": {
+        "reviewed_on": "2026-10-16",
+        "state_specificity": "Connecticut business records should connect myconneCT tax filings with separate unemployment and Paid Leave responsibilities. Retention and employee coverage must be checked by program.",
+        "topic_coverage": [
+          "Tax registration",
+          "Sales and use tax or applicable alternative",
+          "Payroll and workforce programs",
+          "Vendor invoices and payables",
+          "Income and expense evidence",
+          "Monthly statements and liabilities",
+          "Year end tax handoff",
+          "Retention and source preservation",
+          "Industry and entity distinctions",
+          "Hypothetical example and professional boundaries",
+          "Business income and entity tax obligations",
+          "Employer unemployment contribution controls"
+        ],
+        "source_bounds": "Only official sources support regulatory statements. No rates or thresholds invented; examples hypothetical.",
+        "originality": "Individually authored state explanation and example. General bookkeeping practice is identified separately.",
+        "approval_status": "Owner approval and qualified factual review pending.",
+        "obligation_review": "Entity treatment and unemployment obligations expanded from official sources, with separate monthly reconciliation and annual handoff evidence. Rates and universal liability assumptions excluded."
+      },
+      "remaining_review": [
+        "Connecticut sales record retention sources differ in minimum/recommendation wording; confirmation is explicitly required before destruction.",
+        "No contribution rates or universal coverage conclusions asserted; older business publication requires prepublication review."
+      ],
+      "owner_approval": "Pending",
+      "publication": "Not published",
+      "sitemap": "Excluded until individually approved and published"
+    },
+    {
+      "state": "Delaware",
+      "local_url": "state-records/delaware.html",
+      "planned_canonical": "https://www.papertrailusa.com/state-records/delaware.html",
+      "body_words": 846,
+      "source_count": 9,
+      "sections": 8,
+      "last_reviewed": "2026-10-16",
+      "quality_review": {
+        "reviewed_on": "2026-10-16",
+        "state_specificity": "Delaware bookkeeping connects gross receipts by business activity, shipping evidence, withholding, unemployment and applicable Paid Leave balances. Ordinary business expenses do not reduce the gross receipts tax base.",
+        "topic_coverage": [
+          "Sales and use tax or applicable alternative",
+          "Payroll and employer liabilities",
+          "Vendor documents and payables",
+          "Income and expense evidence",
+          "Monthly reports and reconciliations",
+          "Tax preparer and year end records",
+          "Verified retention scope",
+          "Hypothetical example",
+          "Business income and entity tax obligations",
+          "Employer unemployment contribution controls"
+        ],
+        "source_bounds": "Official sources support regulatory claims through section source references and individual source claims. General accounting suggestions are identified as practice recommendations.",
+        "originality": "Individually written explanation and scenario, with practical records tailored to the state tax structure.",
+        "approval_status": "Owner approval and qualified factual review pending.",
+        "obligation_review": "Entity treatment and unemployment obligations expanded from official sources, with separate monthly reconciliation and annual handoff evidence. Rates and universal liability assumptions excluded."
+      },
+      "remaining_review": [
+        "Confirm current withholding form names against annual instructions; the older employer publication has stale filing references.",
+        "No universal gross receipts or workforce retention period established. No wage base, rate or business coverage conclusion supplied."
+      ],
+      "owner_approval": "Pending",
+      "publication": "Not published",
+      "sitemap": "Excluded until individually approved and published"
+    },
+    {
+      "state": "Florida",
+      "local_url": "state-records/florida.html",
+      "planned_canonical": "https://www.papertrailusa.com/state-records/florida.html",
+      "body_words": 1033,
+      "source_count": 8,
+      "sections": 8,
+      "last_reviewed": "2026-10-16",
+      "quality_review": {
+        "reviewed_on": "2026-10-16",
+        "state_specificity": "Commercial rental repeal is tied to occupancy periods; reemployment records and the 2026 portal change are independently addressed.",
+        "source_bounds": "Only official agency sources support regulatory statements. Rates and monetary thresholds are intentionally omitted. Examples are hypothetical and accounting recommendations are identified as general practices.",
+        "originality": "Written for the state's actual issues with a distinct example. Shared accounting principles are not claimed as unique state law. No identical body paragraph is reused across pilots.",
+        "currency": "Official sources inspected October 16, 2026. Material changes and retrieval limitations are recorded in the source review. No qualified professional review or publication approval is claimed.",
+        "approval_status": "Owner design and content approval plus qualified factual review required before publication."
+      },
+      "remaining_review": [
+        "Confirm the current DR 7N and reemployment resource revision immediately before release; current form URLs can be replaced by agency.",
+        "No sales tax rate, nexus threshold, payroll wage base or entity tax result asserted.",
+        "Professional review needed for leases, worker status, industry treatment and entity classification."
+      ],
+      "owner_approval": "Pending",
+      "publication": "Not published",
+      "sitemap": "Excluded until individually approved and published"
+    },
+    {
+      "state": "Georgia",
+      "local_url": "state-records/georgia.html",
+      "planned_canonical": "https://www.papertrailusa.com/state-records/georgia.html",
+      "body_words": 847,
+      "source_count": 8,
+      "sections": 8,
+      "last_reviewed": "2026-10-16",
+      "quality_review": {
+        "reviewed_on": "2026-10-16",
+        "state_specificity": "Georgia records should preserve gross sales, delivery locations, exemption evidence and purchase tax review alongside separate Revenue withholding and Labor unemployment accounts.",
+        "topic_coverage": [
+          "Sales and use tax or applicable alternative",
+          "Payroll and employer liabilities",
+          "Vendor documents and payables",
+          "Income and expense evidence",
+          "Monthly reports and reconciliations",
+          "Tax preparer and year end records",
+          "Verified retention scope",
+          "Hypothetical example",
+          "Business income and entity tax obligations",
+          "Employer unemployment contribution controls"
+        ],
+        "source_bounds": "Official sources support regulatory claims through section source references and individual source claims. General accounting suggestions are identified as practice recommendations.",
+        "originality": "Individually written explanation and scenario, with practical records tailored to the state tax structure.",
+        "approval_status": "Owner approval and qualified factual review pending.",
+        "obligation_review": "Entity treatment and unemployment obligations expanded from official sources, with separate monthly reconciliation and annual handoff evidence. Rates and universal liability assumptions excluded."
+      },
+      "remaining_review": [
+        "Local sourcing, exemptions and service taxability depend on transactions; no blanket treatment asserted.",
+        "Payroll retention and entity income tax details require separate review. No rates, thresholds or deadlines supplied."
+      ],
+      "owner_approval": "Pending",
+      "publication": "Not published",
+      "sitemap": "Excluded until individually approved and published"
+    },
+    {
+      "state": "Hawaii",
+      "local_url": "state-records/hawaii.html",
+      "planned_canonical": "https://www.papertrailusa.com/state-records/hawaii.html",
+      "body_words": 828,
+      "source_count": 9,
+      "sections": 8,
+      "last_reviewed": "2026-10-16",
+      "quality_review": {
+        "reviewed_on": "2026-10-16",
+        "state_specificity": "Hawaii bookkeeping needs gross activity classified for general excise tax, import purchase evidence for use tax, and separate payroll, unemployment and employee insurance records.",
+        "topic_coverage": [
+          "Sales and use tax or applicable alternative",
+          "Payroll and employer liabilities",
+          "Vendor documents and payables",
+          "Income and expense evidence",
+          "Monthly reports and reconciliations",
+          "Tax preparer and year end records",
+          "Verified retention scope",
+          "Hypothetical example",
+          "Business income and entity tax obligations",
+          "Employer unemployment contribution controls"
+        ],
+        "source_bounds": "Official sources support regulatory claims through section source references and individual source claims. General accounting suggestions are identified as practice recommendations.",
+        "originality": "Individually written explanation and scenario, with practical records tailored to the state tax structure.",
+        "approval_status": "Owner approval and qualified factual review pending.",
+        "obligation_review": "Entity treatment and unemployment obligations expanded from official sources, with separate monthly reconciliation and annual handoff evidence. Rates and universal liability assumptions excluded."
+      },
+      "remaining_review": [
+        "Some DOTAX explanatory pages still mention obsolete HW-3; current forms listing takes precedence for this text and annual instructions need review.",
+        "No universal insurance or payroll retention period established. Activity classifications, import exemptions and insurance eligibility require individual review."
+      ],
+      "owner_approval": "Pending",
+      "publication": "Not published",
+      "sitemap": "Excluded until individually approved and published"
+    },
+    {
+      "state": "Idaho",
+      "local_url": "state-records/idaho.html",
+      "planned_canonical": "https://www.papertrailusa.com/state-records/idaho.html",
+      "body_words": 826,
+      "source_count": 7,
+      "sections": 8,
+      "last_reviewed": "2026-10-16",
+      "quality_review": {
+        "reviewed_on": "2026-10-16",
+        "state_specificity": "Idaho bookkeeping should connect delivery and exemption support with purchase use tax review, Form 967 withholding reconciliation and a separate Labor unemployment account.",
+        "topic_coverage": [
+          "Sales and use tax or applicable alternative",
+          "Payroll and employer liabilities",
+          "Vendor documents and payables",
+          "Income and expense evidence",
+          "Monthly reports and reconciliations",
+          "Tax preparer and year end records",
+          "Verified retention scope",
+          "Hypothetical example",
+          "Business income and entity tax obligations",
+          "Employer unemployment contribution controls"
+        ],
+        "source_bounds": "Official sources support regulatory claims through section source references and individual source claims. General accounting suggestions are identified as practice recommendations.",
+        "originality": "Individually written explanation and scenario, with practical records tailored to the state tax structure.",
+        "approval_status": "Owner approval and qualified factual review pending.",
+        "obligation_review": "Entity treatment and unemployment obligations expanded from official sources, with separate monthly reconciliation and annual handoff evidence. Rates and universal liability assumptions excluded."
+      },
+      "remaining_review": [
+        "Wholesaler recordkeeping source is explicit; application to other industry records and payroll retention needs confirmation.",
+        "No exemption, worker status or nexus conclusion supplied."
+      ],
+      "owner_approval": "Pending",
+      "publication": "Not published",
+      "sitemap": "Excluded until individually approved and published"
+    },
+    {
+      "state": "Illinois",
+      "local_url": "state-records/illinois.html",
+      "planned_canonical": "https://www.papertrailusa.com/state-records/illinois.html",
+      "body_words": 803,
+      "source_count": 6,
+      "sections": 8,
+      "last_reviewed": "2026-10-16",
+      "quality_review": {
+        "reviewed_on": "2026-10-16",
+        "state_specificity": "Illinois bookkeeping requires transaction location evidence, detailed sales and purchase support, daily withholding records and separate unemployment reports even when MyTax Illinois provides shared access.",
+        "topic_coverage": [
+          "Sales and use tax or applicable alternative",
+          "Payroll and employer liabilities",
+          "Vendor documents and payables",
+          "Income and expense evidence",
+          "Monthly reports and reconciliations",
+          "Tax preparer and year end records",
+          "Verified retention scope",
+          "Hypothetical example",
+          "Business income and entity tax obligations",
+          "Employer unemployment contribution controls"
+        ],
+        "source_bounds": "Official sources support regulatory claims through section source references and individual source claims. General accounting suggestions are identified as practice recommendations.",
+        "originality": "Individually written explanation and scenario, with practical records tailored to the state tax structure.",
+        "approval_status": "Owner approval and qualified factual review pending.",
+        "obligation_review": "Entity treatment and unemployment obligations expanded from official sources, with separate monthly reconciliation and annual handoff evidence. Rates and universal liability assumptions excluded."
+      },
+      "remaining_review": [
+        "No monthly reporting employee threshold asserted; confirm current employer obligations.",
+        "Local taxes, lease rules and service transfers require factual review. The retail retention period does not cover every workforce or income tax document."
+      ],
+      "owner_approval": "Pending",
+      "publication": "Not published",
+      "sitemap": "Excluded until individually approved and published"
+    },
+    {
+      "state": "Indiana",
+      "local_url": "state-records/indiana.html",
+      "planned_canonical": "https://www.papertrailusa.com/state-records/indiana.html",
+      "body_words": 795,
+      "source_count": 9,
+      "sections": 8,
+      "last_reviewed": "2026-10-16",
+      "quality_review": {
+        "reviewed_on": "2026-10-16",
+        "state_specificity": "Indiana bookkeeping should connect sales and use tax evidence, state and county withholding, annual WH-3 reconciliation and separate DWD wage reporting. County certificates deserve their own payroll control.",
+        "topic_coverage": [
+          "Sales and use tax or applicable alternative",
+          "Payroll and employer liabilities",
+          "Vendor documents and payables",
+          "Income and expense evidence",
+          "Monthly reports and reconciliations",
+          "Tax preparer and year end records",
+          "Verified retention scope",
+          "Hypothetical example",
+          "Business income and entity tax obligations",
+          "Employer unemployment contribution controls"
+        ],
+        "source_bounds": "Official sources support regulatory claims through section source references and individual source claims. General accounting suggestions are identified as practice recommendations.",
+        "originality": "Individually written explanation and scenario, with practical records tailored to the state tax structure.",
+        "approval_status": "Owner approval and qualified factual review pending.",
+        "obligation_review": "Entity treatment and unemployment obligations expanded from official sources, with separate monthly reconciliation and annual handoff evidence. Rates and universal liability assumptions excluded."
+      },
+      "remaining_review": [
+        "Fourth quarter 2026 enhanced wage specifications should be rechecked before filing.",
+        "County withholding facts, worker classification and nonretail retention categories need professional review."
+      ],
+      "owner_approval": "Pending",
+      "publication": "Not published",
+      "sitemap": "Excluded until individually approved and published"
+    },
+    {
+      "state": "Iowa",
+      "local_url": "state-records/iowa.html",
+      "planned_canonical": "https://www.papertrailusa.com/state-records/iowa.html",
+      "body_words": 798,
+      "source_count": 9,
+      "sections": 8,
+      "last_reviewed": "2026-10-16",
+      "quality_review": {
+        "reviewed_on": "2026-10-16",
+        "state_specificity": "Iowa bookkeeping should preserve taxable goods, digital products and service detail, distinguish purchase use tax, and reconcile Revenue filings in GovConnectIowa separately from myIowaUI wage reports.",
+        "topic_coverage": [
+          "Sales and use tax or applicable alternative",
+          "Payroll and employer liabilities",
+          "Vendor documents and payables",
+          "Income and expense evidence",
+          "Monthly reports and reconciliations",
+          "Tax preparer and year end records",
+          "Verified retention scope",
+          "Hypothetical example",
+          "Business income and entity tax obligations",
+          "Employer unemployment contribution controls"
+        ],
+        "source_bounds": "Official sources support regulatory claims through section source references and individual source claims. General accounting suggestions are identified as practice recommendations.",
+        "originality": "Individually written explanation and scenario, with practical records tailored to the state tax structure.",
+        "approval_status": "Owner approval and qualified factual review pending.",
+        "obligation_review": "Entity treatment and unemployment obligations expanded from official sources, with separate monthly reconciliation and annual handoff evidence. Rates and universal liability assumptions excluded."
+      },
+      "remaining_review": [
+        "Service taxability and local sales treatment require transaction review; scenario supplies no taxability ruling.",
+        "Sales/use retention is verified; no universal payroll or asset destruction period claimed."
+      ],
+      "owner_approval": "Pending",
+      "publication": "Not published",
+      "sitemap": "Excluded until individually approved and published"
+    },
+    {
+      "state": "Kansas",
+      "local_url": "state-records/kansas.html",
+      "planned_canonical": "https://www.papertrailusa.com/state-records/kansas.html",
+      "body_words": 803,
+      "source_count": 8,
+      "sections": 8,
+      "last_reviewed": "2026-10-16",
+      "quality_review": {
+        "reviewed_on": "2026-10-16",
+        "state_specificity": "Kansas bookkeeping needs delivery locations for local sales tax, exemption and compensating use tax evidence, KW-3 withholding support and a distinct Kansas Labor unemployment file.",
+        "topic_coverage": [
+          "Sales and use tax or applicable alternative",
+          "Payroll and employer liabilities",
+          "Vendor documents and payables",
+          "Income and expense evidence",
+          "Monthly reports and reconciliations",
+          "Tax preparer and year end records",
+          "Verified retention scope",
+          "Hypothetical example",
+          "Business income and entity tax obligations",
+          "Employer unemployment contribution controls"
+        ],
+        "source_bounds": "Official sources support regulatory claims through section source references and individual source claims. General accounting suggestions are identified as practice recommendations.",
+        "originality": "Individually written explanation and scenario, with practical records tailored to the state tax structure.",
+        "approval_status": "Owner approval and qualified factual review pending.",
+        "obligation_review": "Entity treatment and unemployment obligations expanded from official sources, with separate monthly reconciliation and annual handoff evidence. Rates and universal liability assumptions excluded."
+      },
+      "remaining_review": [
+        "Kansas Labor page contains conflicting employee thresholds for mandatory electronic filing; confirm current instructions.",
+        "Industry exemptions, multistate payroll and non sales retention categories need individual review."
+      ],
+      "owner_approval": "Pending",
+      "publication": "Not published",
+      "sitemap": "Excluded until individually approved and published"
+    },
+    {
+      "state": "Kentucky",
+      "local_url": "state-records/kentucky.html",
+      "planned_canonical": "https://www.papertrailusa.com/state-records/kentucky.html",
+      "body_words": 793,
+      "source_count": 9,
+      "sections": 8,
+      "last_reviewed": "2026-10-16",
+      "quality_review": {
+        "reviewed_on": "2026-10-16",
+        "state_specificity": "Kentucky bookkeeping should preserve sales and purchase source documents, exemption workpapers, MyTaxes withholding records and separate unemployment filings, with local employer obligations reviewed independently.",
+        "topic_coverage": [
+          "Sales and use tax or applicable alternative",
+          "Payroll and employer liabilities",
+          "Vendor documents and payables",
+          "Income and expense evidence",
+          "Monthly reports and reconciliations",
+          "Tax preparer and year end records",
+          "Verified retention scope",
+          "Hypothetical example",
+          "Business income and entity tax obligations",
+          "Employer unemployment contribution controls"
+        ],
+        "source_bounds": "Official sources support regulatory claims through section source references and individual source claims. General accounting suggestions are identified as practice recommendations.",
+        "originality": "Individually written explanation and scenario, with practical records tailored to the state tax structure.",
+        "approval_status": "Owner approval and qualified factual review pending.",
+        "obligation_review": "Entity treatment and unemployment obligations expanded from official sources, with separate monthly reconciliation and annual handoff evidence. Rates and universal liability assumptions excluded."
+      },
+      "remaining_review": [
+        "Local occupational tax requirements need locality specific official research before any coverage or registration conclusion.",
+        "No universal employment document retention period or service exemption asserted."
+      ],
+      "owner_approval": "Pending",
+      "publication": "Not published",
+      "sitemap": "Excluded until individually approved and published"
+    },
+    {
+      "state": "Louisiana",
+      "local_url": "state-records/louisiana.html",
+      "planned_canonical": "https://www.papertrailusa.com/state-records/louisiana.html",
+      "body_words": 719,
+      "source_count": 7,
+      "sections": 8,
+      "last_reviewed": "2026-10-16",
+      "quality_review": {
+        "reviewed_on": "2026-10-16",
+        "state_specificity": "Louisiana books need transaction locations and separate state and parish tax support, including current digital product records.",
+        "topic_coverage": [
+          "Sales and use tax or applicable alternative",
+          "Employer records",
+          "Accounts payable and vendor evidence",
+          "Income and expenses",
+          "Monthly financial reporting",
+          "Year end handoff",
+          "Retention by verified record type",
+          "Distinct hypothetical example",
+          "Actual business income or entity tax obligations",
+          "Employer unemployment contributions and reporting"
+        ],
+        "source_bounds": "Section references identify regulatory support. General accounting recommendations are practice suggestions, not additional state mandates. Added entity tax and unemployment sections identify applicable state obligations and the supporting reconciliation and handoff records.",
+        "originality": "Individually composed state discussion and hypothetical business scenario.",
+        "approval_status": "Owner approval and qualified factual review pending.",
+        "currency": "Income and entity tax and employer unemployment reporting separately checked October 16, 2026. No rate or filing deadline assumed.",
+        "review_depth": "Individual income and employer sections explain actual state taxes, conditional applicability, liability reconciliations and annual handoff evidence."
+      },
+      "remaining_review": [
+        "Louisiana prescription and current state and local classifications require professional review; no numeric universal state retention period asserted."
+      ],
+      "owner_approval": "Pending",
+      "publication": "Not published",
+      "sitemap": "Excluded until individually approved and published"
+    },
+    {
+      "state": "Maine",
+      "local_url": "state-records/maine.html",
+      "planned_canonical": "https://www.papertrailusa.com/state-records/maine.html",
+      "body_words": 741,
+      "source_count": 8,
+      "sections": 8,
+      "last_reviewed": "2026-10-16",
+      "quality_review": {
+        "reviewed_on": "2026-10-16",
+        "state_specificity": "Maine businesses need a clear boundary between legacy service provider tax records and sales tax activity beginning in 2026.",
+        "topic_coverage": [
+          "Sales and use tax or applicable alternative",
+          "Employer records",
+          "Accounts payable and vendor evidence",
+          "Income and expenses",
+          "Monthly financial reporting",
+          "Year end handoff",
+          "Retention by verified record type",
+          "Distinct hypothetical example",
+          "Actual business income or entity tax obligations",
+          "Employer unemployment contributions and reporting"
+        ],
+        "source_bounds": "Section references identify regulatory support. General accounting recommendations are practice suggestions, not additional state mandates. Added entity tax and unemployment sections identify applicable state obligations and the supporting reconciliation and handoff records.",
+        "originality": "Individually composed state discussion and hypothetical business scenario.",
+        "approval_status": "Owner approval and qualified factual review pending.",
+        "currency": "Income and entity tax and employer unemployment reporting separately checked October 16, 2026. No rate or filing deadline assumed.",
+        "review_depth": "Individual income and employer sections explain actual state taxes, conditional applicability, liability reconciliations and annual handoff evidence."
+      },
+      "remaining_review": [
+        "Individual service classification and employer retention periods require specialist review. No rate or payment deadline asserted."
+      ],
+      "owner_approval": "Pending",
+      "publication": "Not published",
+      "sitemap": "Excluded until individually approved and published"
+    },
+    {
+      "state": "Maryland",
+      "local_url": "state-records/maryland.html",
+      "planned_canonical": "https://www.papertrailusa.com/state-records/maryland.html",
+      "body_words": 689,
+      "source_count": 7,
+      "sections": 8,
+      "last_reviewed": "2026-10-16",
+      "quality_review": {
+        "reviewed_on": "2026-10-16",
+        "state_specificity": "Maryland sales records and employer withholding records have different preservation periods, and payroll needs accurate residence information.",
+        "topic_coverage": [
+          "Sales and use tax or applicable alternative",
+          "Employer records",
+          "Accounts payable and vendor evidence",
+          "Income and expenses",
+          "Monthly financial reporting",
+          "Year end handoff",
+          "Retention by verified record type",
+          "Distinct hypothetical example",
+          "Actual business income or entity tax obligations",
+          "Employer unemployment contributions and reporting"
+        ],
+        "source_bounds": "Section references identify regulatory support. General accounting recommendations are practice suggestions, not additional state mandates. Added entity tax and unemployment sections identify applicable state obligations and the supporting reconciliation and handoff records.",
+        "originality": "Individually composed state discussion and hypothetical business scenario.",
+        "approval_status": "Owner approval and qualified factual review pending.",
+        "currency": "Income and entity tax and employer unemployment reporting separately checked October 16, 2026. No rate or filing deadline assumed.",
+        "review_depth": "Individual income and employer sections explain actual state taxes, conditional applicability, liability reconciliations and annual handoff evidence."
+      },
+      "remaining_review": [
+        "Unemployment insurance, leave programs, labor records and industry specific taxes need separate applicability review."
+      ],
+      "owner_approval": "Pending",
+      "publication": "Not published",
+      "sitemap": "Excluded until individually approved and published"
+    },
+    {
+      "state": "Massachusetts",
+      "local_url": "state-records/massachusetts.html",
+      "planned_canonical": "https://www.papertrailusa.com/state-records/massachusetts.html",
+      "body_words": 699,
+      "source_count": 6,
+      "sections": 8,
+      "last_reviewed": "2026-10-16",
+      "quality_review": {
+        "reviewed_on": "2026-10-16",
+        "state_specificity": "Massachusetts records need to support both taxable and exempt activity, with special attention to the work location evidence behind nonresident withholding.",
+        "topic_coverage": [
+          "Sales and use tax or applicable alternative",
+          "Employer records",
+          "Accounts payable and vendor evidence",
+          "Income and expenses",
+          "Monthly financial reporting",
+          "Year end handoff",
+          "Retention by verified record type",
+          "Distinct hypothetical example",
+          "Actual business income or entity tax obligations",
+          "Employer unemployment contributions and reporting"
+        ],
+        "source_bounds": "Section references identify regulatory support. General accounting recommendations are practice suggestions, not additional state mandates. Added entity tax and unemployment sections identify applicable state obligations and the supporting reconciliation and handoff records.",
+        "originality": "Individually composed state discussion and hypothetical business scenario.",
+        "approval_status": "Owner approval and qualified factual review pending.",
+        "currency": "Income and entity tax and employer unemployment reporting separately checked October 16, 2026. No rate or filing deadline assumed.",
+        "review_depth": "Individual income and employer sections explain actual state taxes, conditional applicability, liability reconciliations and annual handoff evidence."
+      },
+      "remaining_review": [
+        "Paid leave, unemployment and industry rules need independent applicability and retention review."
+      ],
+      "owner_approval": "Pending",
+      "publication": "Not published",
+      "sitemap": "Excluded until individually approved and published"
+    },
+    {
+      "state": "Michigan",
+      "local_url": "state-records/michigan.html",
+      "planned_canonical": "https://www.papertrailusa.com/state-records/michigan.html",
+      "body_words": 699,
+      "source_count": 8,
+      "sections": 8,
+      "last_reviewed": "2026-10-16",
+      "quality_review": {
+        "reviewed_on": "2026-10-16",
+        "state_specificity": "Michigan combined sales, use and withholding reporting makes separate ledger schedules essential even when several taxes share a return.",
+        "topic_coverage": [
+          "Sales and use tax or applicable alternative",
+          "Employer records",
+          "Accounts payable and vendor evidence",
+          "Income and expenses",
+          "Monthly financial reporting",
+          "Year end handoff",
+          "Retention by verified record type",
+          "Distinct hypothetical example",
+          "Actual business income or entity tax obligations",
+          "Employer unemployment contributions and reporting"
+        ],
+        "source_bounds": "Section references identify regulatory support. General accounting recommendations are practice suggestions, not additional state mandates. Added entity tax and unemployment sections identify applicable state obligations and the supporting reconciliation and handoff records.",
+        "originality": "Individually composed state discussion and hypothetical business scenario.",
+        "approval_status": "Owner approval and qualified factual review pending.",
+        "currency": "Income and entity tax and employer unemployment reporting separately checked October 16, 2026. No rate or filing deadline assumed.",
+        "review_depth": "Individual income and employer sections explain actual state taxes, conditional applicability, liability reconciliations and annual handoff evidence."
+      },
+      "remaining_review": [
+        "Payroll retention, reciprocity, industrial processing exemptions and marketplace facts need individualized review."
+      ],
+      "owner_approval": "Pending",
+      "publication": "Not published",
+      "sitemap": "Excluded until individually approved and published"
+    },
+    {
+      "state": "Minnesota",
+      "local_url": "state-records/minnesota.html",
+      "planned_canonical": "https://www.papertrailusa.com/state-records/minnesota.html",
+      "body_words": 707,
+      "source_count": 7,
+      "sections": 8,
+      "last_reviewed": "2026-10-16",
+      "quality_review": {
+        "reviewed_on": "2026-10-16",
+        "state_specificity": "Minnesota employer records include service locations and daily hours, while sales reporting needs state and local tax detail.",
+        "topic_coverage": [
+          "Sales and use tax or applicable alternative",
+          "Employer records",
+          "Accounts payable and vendor evidence",
+          "Income and expenses",
+          "Monthly financial reporting",
+          "Year end handoff",
+          "Retention by verified record type",
+          "Distinct hypothetical example",
+          "Actual business income or entity tax obligations",
+          "Employer unemployment contributions and reporting"
+        ],
+        "source_bounds": "Section references identify regulatory support. General accounting recommendations are practice suggestions, not additional state mandates. Added entity tax and unemployment sections identify applicable state obligations and the supporting reconciliation and handoff records.",
+        "originality": "Individually composed state discussion and hypothetical business scenario.",
+        "approval_status": "Owner approval and qualified factual review pending.",
+        "currency": "Income and entity tax and employer unemployment reporting separately checked October 16, 2026. No rate or filing deadline assumed.",
+        "review_depth": "Individual income and employer sections explain actual state taxes, conditional applicability, liability reconciliations and annual handoff evidence."
+      },
+      "remaining_review": [
+        "Minnesota Paid Leave and other 2026 employer programs require separate review. No statewide sales record destruction date asserted."
+      ],
+      "owner_approval": "Pending",
+      "publication": "Not published",
+      "sitemap": "Excluded until individually approved and published"
+    },
+    {
+      "state": "Mississippi",
+      "local_url": "state-records/mississippi.html",
+      "planned_canonical": "https://www.papertrailusa.com/state-records/mississippi.html",
+      "body_words": 707,
+      "source_count": 6,
+      "sections": 8,
+      "last_reviewed": "2026-10-16",
+      "quality_review": {
+        "reviewed_on": "2026-10-16",
+        "state_specificity": "Mississippi records must preserve each business location and the evidence supporting exempt sales; current agency retention statements need careful separation.",
+        "topic_coverage": [
+          "Sales and use tax or applicable alternative",
+          "Employer records",
+          "Accounts payable and vendor evidence",
+          "Income and expenses",
+          "Monthly financial reporting",
+          "Year end handoff",
+          "Retention by verified record type",
+          "Distinct hypothetical example",
+          "Actual business income or entity tax obligations",
+          "Employer unemployment contributions and reporting"
+        ],
+        "source_bounds": "Section references identify regulatory support. General accounting recommendations are practice suggestions, not additional state mandates. Added entity tax and unemployment sections identify applicable state obligations and the supporting reconciliation and handoff records.",
+        "originality": "Individually composed state discussion and hypothetical business scenario.",
+        "approval_status": "Owner approval and qualified factual review pending.",
+        "currency": "Income and entity tax and employer unemployment reporting separately checked October 16, 2026. No rate or filing deadline assumed.",
+        "review_depth": "Individual income and employer sections explain actual state taxes, conditional applicability, liability reconciliations and annual handoff evidence."
+      },
+      "remaining_review": [
+        "Official DOR pages conflict on general versus sales retention; conservative four year sales preservation recommended pending qualified resolution. Special industries and workforce retention excluded."
+      ],
+      "owner_approval": "Pending",
+      "publication": "Not published",
+      "sitemap": "Excluded until individually approved and published"
+    },
+    {
+      "state": "Missouri",
+      "local_url": "state-records/missouri.html",
+      "planned_canonical": "https://www.papertrailusa.com/state-records/missouri.html",
+      "body_words": 709,
+      "source_count": 6,
+      "sections": 8,
+      "last_reviewed": "2026-10-16",
+      "quality_review": {
+        "reviewed_on": "2026-10-16",
+        "state_specificity": "Missouri active withholding accounts require returns even during zero periods, and sales evidence should survive beyond the legal minimum when audit issues remain.",
+        "topic_coverage": [
+          "Sales and use tax or applicable alternative",
+          "Employer records",
+          "Accounts payable and vendor evidence",
+          "Income and expenses",
+          "Monthly financial reporting",
+          "Year end handoff",
+          "Retention by verified record type",
+          "Distinct hypothetical example",
+          "Actual business income or entity tax obligations",
+          "Employer unemployment contributions and reporting"
+        ],
+        "source_bounds": "Section references identify regulatory support. General accounting recommendations are practice suggestions, not additional state mandates. Added entity tax and unemployment sections identify applicable state obligations and the supporting reconciliation and handoff records.",
+        "originality": "Individually composed state discussion and hypothetical business scenario.",
+        "approval_status": "Owner approval and qualified factual review pending.",
+        "currency": "Income and entity tax and employer unemployment reporting separately checked October 16, 2026. No rate or filing deadline assumed.",
+        "review_depth": "Individual income and employer sections explain actual state taxes, conditional applicability, liability reconciliations and annual handoff evidence."
+      },
+      "remaining_review": [
+        "Local tax sourcing, special district treatment, employer retention and worker classification need individual review."
+      ],
+      "owner_approval": "Pending",
+      "publication": "Not published",
+      "sitemap": "Excluded until individually approved and published"
+    },
+    {
+      "state": "Montana",
+      "local_url": "state-records/montana.html",
+      "planned_canonical": "https://www.papertrailusa.com/state-records/montana.html",
+      "body_words": 736,
+      "source_count": 9,
+      "sections": 8,
+      "last_reviewed": "2026-10-16",
+      "quality_review": {
+        "reviewed_on": "2026-10-16",
+        "state_specificity": "Montana has no general sales tax, but resale paperwork, specialized taxes and employer accounts still require organized evidence.",
+        "topic_coverage": [
+          "Sales and use tax or applicable alternative",
+          "Employer records",
+          "Accounts payable and vendor evidence",
+          "Income and expenses",
+          "Monthly financial reporting",
+          "Year end handoff",
+          "Retention by verified record type",
+          "Distinct hypothetical example",
+          "Actual business income or entity tax obligations",
+          "Employer unemployment contributions and reporting"
+        ],
+        "source_bounds": "Section references identify regulatory support. General accounting recommendations are practice suggestions, not additional state mandates. Added entity tax and unemployment sections identify applicable state obligations and the supporting reconciliation and handoff records.",
+        "originality": "Individually composed state discussion and hypothetical business scenario.",
+        "approval_status": "Owner approval and qualified factual review pending.",
+        "currency": "Income and entity tax and employer unemployment reporting separately checked October 16, 2026. No rate or filing deadline assumed.",
+        "review_depth": "Individual income and employer sections explain actual state taxes, conditional applicability, liability reconciliations and annual handoff evidence."
+      },
+      "remaining_review": [
+        "Current employer withholding and unemployment retention must be independently confirmed. Proposed rule text was excluded as proof of a current rule."
+      ],
+      "owner_approval": "Pending",
+      "publication": "Not published",
+      "sitemap": "Excluded until individually approved and published"
+    },
+    {
+      "state": "Nebraska",
+      "local_url": "state-records/nebraska.html",
+      "planned_canonical": "https://www.papertrailusa.com/state-records/nebraska.html",
+      "body_words": 714,
+      "source_count": 7,
+      "sections": 8,
+      "last_reviewed": "2026-10-16",
+      "quality_review": {
+        "reviewed_on": "2026-10-16",
+        "state_specificity": "Nebraska reporting needs delivery evidence for sales tax and separately identified Nebraska wages in payroll records.",
+        "topic_coverage": [
+          "Sales and use tax or applicable alternative",
+          "Employer records",
+          "Accounts payable and vendor evidence",
+          "Income and expenses",
+          "Monthly financial reporting",
+          "Year end handoff",
+          "Retention by verified record type",
+          "Distinct hypothetical example",
+          "Actual business income or entity tax obligations",
+          "Employer unemployment contributions and reporting"
+        ],
+        "source_bounds": "Section references identify regulatory support. General accounting recommendations are practice suggestions, not additional state mandates. Added entity tax and unemployment sections identify applicable state obligations and the supporting reconciliation and handoff records.",
+        "originality": "Individually composed state discussion and hypothetical business scenario.",
+        "approval_status": "Owner approval and qualified factual review pending.",
+        "currency": "Income and entity tax and employer unemployment reporting separately checked October 16, 2026. No rate or filing deadline assumed.",
+        "review_depth": "Individual income and employer sections explain actual state taxes, conditional applicability, liability reconciliations and annual handoff evidence."
+      },
+      "remaining_review": [
+        "Industry exemptions, workforce retention and local rate conclusions require review; no numeric rate or deadline asserted."
+      ],
+      "owner_approval": "Pending",
+      "publication": "Not published",
+      "sitemap": "Excluded until individually approved and published"
+    },
+    {
+      "state": "Nevada",
+      "local_url": "state-records/nevada.html",
+      "planned_canonical": "https://www.papertrailusa.com/state-records/nevada.html",
+      "body_words": 727,
+      "source_count": 7,
+      "sections": 8,
+      "last_reviewed": "2026-10-16",
+      "quality_review": {
+        "reviewed_on": "2026-10-16",
+        "state_specificity": "Nevada combines sales and use reporting with a payroll based Modified Business Tax and a separate gross revenue Commerce Tax review.",
+        "topic_coverage": [
+          "Sales and use tax or applicable alternative",
+          "Employer records",
+          "Accounts payable and vendor evidence",
+          "Income and expenses",
+          "Monthly financial reporting",
+          "Year end handoff",
+          "Retention by verified record type",
+          "Distinct hypothetical example",
+          "Actual business income or entity tax obligations",
+          "Employer unemployment contributions and reporting"
+        ],
+        "source_bounds": "Section references identify regulatory support. General accounting recommendations are practice suggestions, not additional state mandates. Added entity tax and unemployment sections identify applicable state obligations and the supporting reconciliation and handoff records.",
+        "originality": "Individually composed state discussion and hypothetical business scenario.",
+        "approval_status": "Owner approval and qualified factual review pending.",
+        "currency": "Income and entity tax and employer unemployment reporting separately checked October 16, 2026. No rate or filing deadline assumed.",
+        "review_depth": "Individual income and employer sections explain actual state taxes, conditional applicability, liability reconciliations and annual handoff evidence."
+      },
+      "remaining_review": [
+        "Commerce Tax credit, MBT deductions, thresholds, worker status and non sales retention require specialist determination."
+      ],
+      "owner_approval": "Pending",
+      "publication": "Not published",
+      "sitemap": "Excluded until individually approved and published"
+    },
+    {
+      "state": "New Hampshire",
+      "local_url": "state-records/new-hampshire.html",
+      "planned_canonical": "https://www.papertrailusa.com/state-records/new-hampshire.html",
+      "body_words": 723,
+      "source_count": 8,
+      "sections": 8,
+      "last_reviewed": "2026-10-16",
+      "quality_review": {
+        "reviewed_on": "2026-10-16",
+        "state_specificity": "New Hampshire has no general sales tax, but business profits, enterprise value and hospitality activity need distinct accounting support.",
+        "topic_coverage": [
+          "Sales and use tax or applicable alternative",
+          "Employer records",
+          "Accounts payable and vendor evidence",
+          "Income and expenses",
+          "Monthly financial reporting",
+          "Year end handoff",
+          "Retention by verified record type",
+          "Distinct hypothetical example",
+          "Actual business income or entity tax obligations",
+          "Employer unemployment contributions and reporting"
+        ],
+        "source_bounds": "Section references identify regulatory support. General accounting recommendations are practice suggestions, not additional state mandates. Added entity tax and unemployment sections identify applicable state obligations and the supporting reconciliation and handoff records.",
+        "originality": "Individually composed state discussion and hypothetical business scenario.",
+        "approval_status": "Owner approval and qualified factual review pending.",
+        "currency": "Income and entity tax and employer unemployment reporting separately checked October 16, 2026. No rate or filing deadline assumed.",
+        "review_depth": "Individual income and employer sections explain actual state taxes, conditional applicability, liability reconciliations and annual handoff evidence."
+      },
+      "remaining_review": [
+        "Employer unemployment retention and hospitality classification need separate review. Current Rev 300 text was checked via indexed official excerpts after direct retrieval failed."
+      ],
+      "owner_approval": "Pending",
+      "publication": "Not published",
+      "sitemap": "Excluded until individually approved and published"
+    },
+    {
+      "state": "New Jersey",
+      "local_url": "state-records/new-jersey.html",
+      "planned_canonical": "https://www.papertrailusa.com/state-records/new-jersey.html",
+      "body_words": 728,
+      "source_count": 7,
+      "sections": 8,
+      "last_reviewed": "2026-10-16",
+      "quality_review": {
+        "reviewed_on": "2026-10-16",
+        "state_specificity": "New Jersey payroll uses distinct withholding and wage reporting forms, while sales records need enough detail to reproduce transaction history.",
+        "topic_coverage": [
+          "Sales and use tax or applicable alternative",
+          "Employer records",
+          "Accounts payable and vendor evidence",
+          "Income and expenses",
+          "Monthly financial reporting",
+          "Year end handoff",
+          "Retention by verified record type",
+          "Distinct hypothetical example",
+          "Actual business income or entity tax obligations",
+          "Employer unemployment contributions and reporting"
+        ],
+        "source_bounds": "Section references identify regulatory support. General accounting recommendations are practice suggestions, not additional state mandates. Added entity tax and unemployment sections identify applicable state obligations and the supporting reconciliation and handoff records.",
+        "originality": "Individually composed state discussion and hypothetical business scenario.",
+        "approval_status": "Owner approval and qualified factual review pending.",
+        "currency": "Income and entity tax and employer unemployment reporting separately checked October 16, 2026. No rate or filing deadline assumed.",
+        "review_depth": "Individual income and employer sections explain actual state taxes, conditional applicability, liability reconciliations and annual handoff evidence."
+      },
+      "remaining_review": [
+        "Sales publication revision is July 2022 although currently served by the agency; specific 2026 service classifications require current qualified review. No classification or rate conclusion asserted. Employer retention not generalized from sales rule."
+      ],
+      "owner_approval": "Pending",
+      "publication": "Not published",
+      "sitemap": "Excluded until individually approved and published"
+    },
+    {
+      "state": "New Mexico",
+      "local_url": "state-records/new-mexico.html",
+      "planned_canonical": "https://www.papertrailusa.com/state-records/new-mexico.html",
+      "body_words": 739,
+      "source_count": 10,
+      "sections": 8,
+      "last_reviewed": "2026-10-16",
+      "quality_review": {
+        "reviewed_on": "2026-10-16",
+        "state_specificity": "New Mexico gross receipts tax is imposed on sellers, so the ledger needs receipt classifications and deduction evidence beyond an ordinary sales tax account.",
+        "topic_coverage": [
+          "Sales and use tax or applicable alternative",
+          "Employer records",
+          "Accounts payable and vendor evidence",
+          "Income and expenses",
+          "Monthly financial reporting",
+          "Year end handoff",
+          "Retention by verified record type",
+          "Distinct hypothetical example",
+          "Actual business income or entity tax obligations",
+          "Employer unemployment contributions and reporting"
+        ],
+        "source_bounds": "Section references identify regulatory support. General accounting recommendations are practice suggestions, not additional state mandates. Added entity tax and unemployment sections identify applicable state obligations and the supporting reconciliation and handoff records.",
+        "originality": "Individually composed state discussion and hypothetical business scenario.",
+        "approval_status": "Owner approval and qualified factual review pending.",
+        "currency": "Income and entity tax and employer unemployment reporting separately checked October 16, 2026. No rate or filing deadline assumed.",
+        "review_depth": "Individual income and employer sections explain actual state taxes, conditional applicability, liability reconciliations and annual handoff evidence."
+      },
+      "remaining_review": [
+        "Specific gross receipts deductions, tribal rules, location sourcing and employee exceptions require professional review. No blanket statutory three or ten year destruction date asserted."
+      ],
+      "owner_approval": "Pending",
+      "publication": "Not published",
+      "sitemap": "Excluded until individually approved and published"
+    },
+    {
+      "state": "New York",
+      "local_url": "state-records/new-york.html",
+      "planned_canonical": "https://www.papertrailusa.com/state-records/new-york.html",
+      "body_words": 1055,
+      "source_count": 7,
+      "sections": 8,
+      "last_reviewed": "2026-10-16",
+      "quality_review": {
+        "reviewed_on": "2026-10-16",
+        "state_specificity": "Sales tax locality evidence, NYS 45 reporting, benefit coverage and sick leave retention are separately scoped.",
+        "source_bounds": "Only official agency sources support regulatory statements. Rates and monetary thresholds are intentionally omitted. Examples are hypothetical and accounting recommendations are identified as general practices.",
+        "originality": "Written for the state's actual issues with a distinct example. Shared accounting principles are not claimed as unique state law. No identical body paragraph is reused across pilots.",
+        "currency": "Official sources inspected October 16, 2026. Material changes and retrieval limitations are recorded in the source review. No qualified professional review or publication approval is claimed.",
+        "approval_status": "Owner design and content approval plus qualified factual review required before publication."
+      },
+      "remaining_review": [
+        "Qualified reviewer must confirm current payroll, NYC/Yonkers, entity and industry rules for release.",
+        "No rates, nexus thresholds, wage bases, withholding calculations or PFL contribution amount asserted.",
+        "NYS 45 reporting changed in March 2025; use current reporting formats and actual employer facts."
+      ],
+      "owner_approval": "Pending",
+      "publication": "Not published",
+      "sitemap": "Excluded until individually approved and published"
+    },
+    {
+      "state": "North Carolina",
+      "local_url": "state-records/north-carolina.html",
+      "planned_canonical": "https://www.papertrailusa.com/state-records/north-carolina.html",
+      "body_words": 746,
+      "source_count": 7,
+      "sections": 8,
+      "last_reviewed": "2026-10-16",
+      "quality_review": {
+        "reviewed_on": "2026-10-16",
+        "state_specificity": "North Carolina contractor and sales files need clear activity evidence, while current employer instructions prescribe a much longer withholding retention schedule.",
+        "topic_coverage": [
+          "Sales and use tax or applicable alternative",
+          "Employer records",
+          "Accounts payable and vendor evidence",
+          "Income and expenses",
+          "Monthly financial reporting",
+          "Year end handoff",
+          "Retention by verified record type",
+          "Distinct hypothetical example",
+          "Actual business income or entity tax obligations",
+          "Employer unemployment contributions and reporting"
+        ],
+        "source_bounds": "Section references identify regulatory support. General accounting recommendations are practice suggestions, not additional state mandates. Added entity tax and unemployment sections identify applicable state obligations and the supporting reconciliation and handoff records.",
+        "originality": "Individually composed state discussion and hypothetical business scenario.",
+        "approval_status": "Owner approval and qualified factual review pending.",
+        "currency": "Income and entity tax and employer unemployment reporting separately checked October 16, 2026. No rate or filing deadline assumed.",
+        "review_depth": "Individual income and employer sections explain actual state taxes, conditional applicability, liability reconciliations and annual handoff evidence."
+      },
+      "remaining_review": [
+        "Sales retention is not reduced to the ordinary assessment period. Contractor classification, local sourcing, nonresident compensation and workforce obligations require individualized review."
+      ],
+      "owner_approval": "Pending",
+      "publication": "Not published",
+      "sitemap": "Excluded until individually approved and published"
+    },
+    {
+      "state": "North Dakota",
+      "local_url": "state-records/north-dakota.html",
+      "planned_canonical": "https://www.papertrailusa.com/state-records/north-dakota.html",
+      "body_words": 573,
+      "source_count": 6,
+      "sections": 7,
+      "last_reviewed": "2026-10-16",
+      "quality_review": {
+        "reviewed_on": "2026-10-16",
+        "state_specificity": "ND TAP responsibilities and cross border wage evidence are distinct from purchase tax review. Employer contribution reporting and business entity or income reporting are connected to financial reconciliations and the preparer handoff.",
+        "source_bounds": "Regulatory statements are limited to inspected official sources. Monthly accounting recommendations describe general practice. Added employer and business tax sources were inspected during the same review date.",
+        "originality": "Distinct state workflow and a hypothetical example written for this state.",
+        "currency": "Official government sources inspected October 16, 2026. No professional signoff claimed.",
+        "approval_status": "Local draft awaiting qualified factual review."
+      },
+      "remaining_review": [
+        "Payroll retention and the interaction of other tax record periods need further review.",
+        "Industry exemptions, owner withholding exceptions and local sourcing need transaction specific review."
+      ],
+      "owner_approval": "Pending",
+      "publication": "Not published",
+      "sitemap": "Excluded until individually approved and published"
+    },
+    {
+      "state": "Ohio",
+      "local_url": "state-records/ohio.html",
+      "planned_canonical": "https://www.papertrailusa.com/state-records/ohio.html",
+      "body_words": 589,
+      "source_count": 8,
+      "sections": 7,
+      "last_reviewed": "2026-10-16",
+      "quality_review": {
+        "reviewed_on": "2026-10-16",
+        "state_specificity": "CAT receipts bridge, school district data and purchase tax schedules serve separate purposes. Employer contribution reporting and business entity or income reporting are connected to financial reconciliations and the preparer handoff.",
+        "source_bounds": "Regulatory statements are limited to inspected official sources. Monthly accounting recommendations describe general practice. Added employer and business tax sources were inspected during the same review date.",
+        "originality": "Distinct state workflow and a hypothetical example written for this state.",
+        "currency": "Official government sources inspected October 16, 2026. No professional signoff claimed.",
+        "approval_status": "Local draft awaiting qualified factual review."
+      },
+      "remaining_review": [
+        "No CAT threshold or tax rate asserted.",
+        "Municipal income tax and sales tax retention rules need separate review.",
+        "Five agency HTML destinations returned direct retrieval errors despite current search indexing. Replaced with verified official statutes, rules and the 2026 withholding PDF; agency HTML navigation needs later confirmation."
+      ],
+      "owner_approval": "Pending",
+      "publication": "Not published",
+      "sitemap": "Excluded until individually approved and published"
+    },
+    {
+      "state": "Oklahoma",
+      "local_url": "state-records/oklahoma.html",
+      "planned_canonical": "https://www.papertrailusa.com/state-records/oklahoma.html",
+      "body_words": 550,
+      "source_count": 7,
+      "sections": 7,
+      "last_reviewed": "2026-10-16",
+      "quality_review": {
+        "reviewed_on": "2026-10-16",
+        "state_specificity": "Purchaser receipt locations and tax before cash rounding anchor Oklahoma transaction controls. Employer contribution reporting and business entity or income reporting are connected to financial reconciliations and the preparer handoff.",
+        "source_bounds": "Regulatory statements are limited to inspected official sources. Monthly accounting recommendations describe general practice. Added employer and business tax sources were inspected during the same review date.",
+        "originality": "Distinct state workflow and a hypothetical example written for this state.",
+        "currency": "Official government sources inspected October 16, 2026. No professional signoff claimed.",
+        "approval_status": "Local draft awaiting qualified factual review."
+      },
+      "remaining_review": [
+        "The inspected rules compilation is dated 2024; subsequent rule changes and separate payroll retention require professional review.",
+        "Worker classification and product exemptions require additional review."
+      ],
+      "owner_approval": "Pending",
+      "publication": "Not published",
+      "sitemap": "Excluded until individually approved and published"
+    },
+    {
+      "state": "Oregon",
+      "local_url": "state-records/oregon.html",
+      "planned_canonical": "https://www.papertrailusa.com/state-records/oregon.html",
+      "body_words": 583,
+      "source_count": 7,
+      "sections": 7,
+      "last_reviewed": "2026-10-16",
+      "quality_review": {
+        "reviewed_on": "2026-10-16",
+        "state_specificity": "Employee transit withholding and employer transit costs are recorded separately. Employer contribution reporting and business entity or income reporting are connected to financial reconciliations and the preparer handoff.",
+        "source_bounds": "Regulatory statements are limited to inspected official sources. Monthly accounting recommendations describe general practice. Added employer and business tax sources were inspected during the same review date.",
+        "originality": "Distinct state workflow and a hypothetical example written for this state.",
+        "currency": "Official government sources inspected October 16, 2026. No professional signoff claimed.",
+        "approval_status": "Local draft awaiting qualified factual review."
+      },
+      "remaining_review": [
+        "Separate personnel, asset and local business record requirements need additional review.",
+        "CAT, local business taxes, district boundaries and other state obligations require separate review."
+      ],
+      "owner_approval": "Pending",
+      "publication": "Not published",
+      "sitemap": "Excluded until individually approved and published"
+    },
+    {
+      "state": "Pennsylvania",
+      "local_url": "state-records/pennsylvania.html",
+      "planned_canonical": "https://www.papertrailusa.com/state-records/pennsylvania.html",
+      "body_words": 541,
+      "source_count": 6,
+      "sections": 7,
+      "last_reviewed": "2026-10-16",
+      "quality_review": {
+        "reviewed_on": "2026-10-16",
+        "state_specificity": "Separate activities, outlet detail and documented purchase use distinguish the Pennsylvania workflow. Employer contribution reporting and business entity or income reporting are connected to financial reconciliations and the preparer handoff.",
+        "source_bounds": "Regulatory statements are limited to inspected official sources. Monthly accounting recommendations describe general practice. Added employer and business tax sources were inspected during the same review date.",
+        "originality": "Distinct state workflow and a hypothetical example written for this state.",
+        "currency": "Official government sources inspected October 16, 2026. No professional signoff claimed.",
+        "approval_status": "Local draft awaiting qualified factual review."
+      },
+      "remaining_review": [
+        "Local earned income rules and employer coverage exceptions require dedicated review.",
+        "Payroll and property retention periods not independently verified."
+      ],
+      "owner_approval": "Pending",
+      "publication": "Not published",
+      "sitemap": "Excluded until individually approved and published"
+    },
+    {
+      "state": "Rhode Island",
+      "local_url": "state-records/rhode-island.html",
+      "planned_canonical": "https://www.papertrailusa.com/state-records/rhode-island.html",
+      "body_words": 531,
+      "source_count": 6,
+      "sections": 7,
+      "last_reviewed": "2026-10-16",
+      "quality_review": {
+        "reviewed_on": "2026-10-16",
+        "state_specificity": "Electronic POS access and employee TDI funding create concrete record and liability distinctions. Employer contribution reporting and business entity or income reporting are connected to financial reconciliations and the preparer handoff.",
+        "source_bounds": "Regulatory statements are limited to inspected official sources. Monthly accounting recommendations describe general practice. Added employer and business tax sources were inspected during the same review date.",
+        "originality": "Distinct state workflow and a hypothetical example written for this state.",
+        "currency": "Official government sources inspected October 16, 2026. No professional signoff claimed.",
+        "approval_status": "Local draft awaiting qualified factual review."
+      },
+      "remaining_review": [
+        "No payroll retention period or TDI wage base asserted.",
+        "Hospitality taxes and transaction exemptions need business specific review."
+      ],
+      "owner_approval": "Pending",
+      "publication": "Not published",
+      "sitemap": "Excluded until individually approved and published"
+    },
+    {
+      "state": "South Carolina",
+      "local_url": "state-records/south-carolina.html",
+      "planned_canonical": "https://www.papertrailusa.com/state-records/south-carolina.html",
+      "body_words": 516,
+      "source_count": 7,
+      "sections": 7,
+      "last_reviewed": "2026-10-16",
+      "quality_review": {
+        "reviewed_on": "2026-10-16",
+        "state_specificity": "Installation reasonableness evidence and wholesale record separation affect ledger design. Employer contribution reporting and business entity or income reporting are connected to financial reconciliations and the preparer handoff.",
+        "source_bounds": "Regulatory statements are limited to inspected official sources. Monthly accounting recommendations describe general practice. Added employer and business tax sources were inspected during the same review date.",
+        "originality": "Distinct state workflow and a hypothetical example written for this state.",
+        "currency": "Official government sources inspected October 16, 2026. No professional signoff claimed.",
+        "approval_status": "Local draft awaiting qualified factual review."
+      },
+      "remaining_review": [
+        "The manual retention instruction should be reviewed against the applicable regulation before publication.",
+        "No nonresident contractor threshold, payroll retention or local rate asserted."
+      ],
+      "owner_approval": "Pending",
+      "publication": "Not published",
+      "sitemap": "Excluded until individually approved and published"
+    },
+    {
+      "state": "South Dakota",
+      "local_url": "state-records/south-dakota.html",
+      "planned_canonical": "https://www.papertrailusa.com/state-records/south-dakota.html",
+      "body_words": 520,
+      "source_count": 8,
+      "sections": 7,
+      "last_reviewed": "2026-10-16",
+      "quality_review": {
+        "reviewed_on": "2026-10-16",
+        "state_specificity": "Owner furnished materials and project certificates need schedules outside ordinary vendor disbursements. Employer contribution reporting and business entity or income reporting are connected to financial reconciliations and the preparer handoff.",
+        "source_bounds": "Regulatory statements are limited to inspected official sources. Monthly accounting recommendations describe general practice. Added employer and business tax sources were inspected during the same review date.",
+        "originality": "Distinct state workflow and a hypothetical example written for this state.",
+        "currency": "Official government sources inspected October 16, 2026. No professional signoff claimed.",
+        "approval_status": "Local draft awaiting qualified factual review."
+      },
+      "remaining_review": [
+        "Project qualification and tribal jurisdiction require specialist review.",
+        "Payroll retention not verified; recordkeeping source is an industry publication containing an explicit general rule."
+      ],
+      "owner_approval": "Pending",
+      "publication": "Not published",
+      "sitemap": "Excluded until individually approved and published"
+    },
+    {
+      "state": "Tennessee",
+      "local_url": "state-records/tennessee.html",
+      "planned_canonical": "https://www.papertrailusa.com/state-records/tennessee.html",
+      "body_words": 531,
+      "source_count": 7,
+      "sections": 7,
+      "last_reviewed": "2026-10-16",
+      "quality_review": {
+        "reviewed_on": "2026-10-16",
+        "state_specificity": "Location receipts and entity tax information are separate reporting inputs. Employer contribution reporting and business entity or income reporting are connected to financial reconciliations and the preparer handoff.",
+        "source_bounds": "Regulatory statements are limited to inspected official sources. Monthly accounting recommendations describe general practice. Added employer and business tax sources were inspected during the same review date.",
+        "originality": "Distinct state workflow and a hypothetical example written for this state.",
+        "currency": "Official government sources inspected October 16, 2026. No professional signoff claimed.",
+        "approval_status": "Local draft awaiting qualified factual review."
+      },
+      "remaining_review": [
+        "Entity exemptions, local license details and payroll retention require review.",
+        "Sales manual URL identifies a 2023 edition; current return instructions and subsequent legal changes require final review."
+      ],
+      "owner_approval": "Pending",
+      "publication": "Not published",
+      "sitemap": "Excluded until individually approved and published"
+    },
+    {
+      "state": "Texas",
+      "local_url": "state-records/texas.html",
+      "planned_canonical": "https://www.papertrailusa.com/state-records/texas.html",
+      "body_words": 1019,
+      "source_count": 8,
+      "sections": 8,
+      "last_reviewed": "2026-10-16",
+      "quality_review": {
+        "reviewed_on": "2026-10-16",
+        "state_specificity": "Franchise information reporting and data processing classification are treated distinctly from sales and unemployment records.",
+        "source_bounds": "Only official agency sources support regulatory statements. Rates and monetary thresholds are intentionally omitted. Examples are hypothetical and accounting recommendations are identified as general practices.",
+        "originality": "Written for the state's actual issues with a distinct example. Shared accounting principles are not claimed as unique state law. No identical body paragraph is reused across pilots.",
+        "currency": "Official sources inspected October 16, 2026. Material changes and retrieval limitations are recorded in the source review. No qualified professional review or publication approval is claimed.",
+        "approval_status": "Owner design and content approval plus qualified factual review required before publication."
+      },
+      "remaining_review": [
+        "No current rate, wage base, franchise threshold or remote seller threshold asserted.",
+        "Service classification, bundling, sourcing and combined reporting facts require qualified review.",
+        "Independent Texas tax/payroll review and approval pending."
+      ],
+      "owner_approval": "Pending",
+      "publication": "Not published",
+      "sitemap": "Excluded until individually approved and published"
+    },
+    {
+      "state": "Utah",
+      "local_url": "state-records/utah.html",
+      "planned_canonical": "https://www.papertrailusa.com/state-records/utah.html",
+      "body_words": 561,
+      "source_count": 7,
+      "sections": 7,
+      "last_reviewed": "2026-10-16",
+      "quality_review": {
+        "reviewed_on": "2026-10-16",
+        "state_specificity": "Annual reconciliation and separately evidenced information submissions are concrete Utah controls. Employer contribution reporting and business entity or income reporting are connected to financial reconciliations and the preparer handoff.",
+        "source_bounds": "Regulatory statements are limited to inspected official sources. Monthly accounting recommendations describe general practice. Added employer and business tax sources were inspected during the same review date.",
+        "originality": "Distinct state workflow and a hypothetical example written for this state.",
+        "currency": "Official government sources inspected October 16, 2026. No professional signoff claimed.",
+        "approval_status": "Local draft awaiting qualified factual review."
+      },
+      "remaining_review": [
+        "Current Publication 25 PDF inspected at https://files.tax.utah.gov/tax/forms/pubs/pub-25.pdf is marked DRAFT PENDING PUBLIC MEETING and is not used to support current requirements.",
+        "Workforce Services record period is verified; separate personnel and property requirements still need review.",
+        "Product taxability and purchase use tax conclusions require transaction review."
+      ],
+      "owner_approval": "Pending",
+      "publication": "Not published",
+      "sitemap": "Excluded until individually approved and published"
+    },
+    {
+      "state": "Vermont",
+      "local_url": "state-records/vermont.html",
+      "planned_canonical": "https://www.papertrailusa.com/state-records/vermont.html",
+      "body_words": 552,
+      "source_count": 9,
+      "sections": 7,
+      "last_reviewed": "2026-10-16",
+      "quality_review": {
+        "reviewed_on": "2026-10-16",
+        "state_specificity": "Service charge distribution evidence connects hospitality tax with payroll. Employer contribution reporting and business entity or income reporting are connected to financial reconciliations and the preparer handoff.",
+        "source_bounds": "Regulatory statements are limited to inspected official sources. Monthly accounting recommendations describe general practice. Added employer and business tax sources were inspected during the same review date.",
+        "originality": "Distinct state workflow and a hypothetical example written for this state.",
+        "currency": "Official government sources inspected October 16, 2026. No professional signoff claimed.",
+        "approval_status": "Local draft awaiting qualified factual review."
+      },
+      "remaining_review": [
+        "No percentage rule for service charge exemption asserted; actual distribution facts need qualified review.",
+        "Payroll retention and current municipal obligations require separate verification."
+      ],
+      "owner_approval": "Pending",
+      "publication": "Not published",
+      "sitemap": "Excluded until individually approved and published"
+    },
+    {
+      "state": "Virginia",
+      "local_url": "state-records/virginia.html",
+      "planned_canonical": "https://www.papertrailusa.com/state-records/virginia.html",
+      "body_words": 527,
+      "source_count": 7,
+      "sections": 7,
+      "last_reviewed": "2026-10-16",
+      "quality_review": {
+        "reviewed_on": "2026-10-16",
+        "state_specificity": "Expense and fixed asset purchase review is paired with annual payroll filing evidence. Employer contribution reporting and business entity or income reporting are connected to financial reconciliations and the preparer handoff.",
+        "source_bounds": "Regulatory statements are limited to inspected official sources. Monthly accounting recommendations describe general practice. Added employer and business tax sources were inspected during the same review date.",
+        "originality": "Distinct state workflow and a hypothetical example written for this state.",
+        "currency": "Official government sources inspected October 16, 2026. No professional signoff claimed.",
+        "approval_status": "Local draft awaiting qualified factual review."
+      },
+      "remaining_review": [
+        "Separate payroll retention, product exemptions and local business taxes require review.",
+        "No dealer discount or current rate asserted."
+      ],
+      "owner_approval": "Pending",
+      "publication": "Not published",
+      "sitemap": "Excluded until individually approved and published"
+    },
+    {
+      "state": "Washington",
+      "local_url": "state-records/washington.html",
+      "planned_canonical": "https://www.papertrailusa.com/state-records/washington.html",
+      "body_words": 1008,
+      "source_count": 8,
+      "sections": 8,
+      "last_reviewed": "2026-10-16",
+      "quality_review": {
+        "reviewed_on": "2026-10-16",
+        "state_specificity": "B&O gross receipts, recent retail service changes and separate payroll programs distinguish Washington.",
+        "source_bounds": "Only official agency sources support regulatory statements. Rates and monetary thresholds are intentionally omitted. Examples are hypothetical and accounting recommendations are identified as general practices.",
+        "originality": "Written for the state's actual issues with a distinct example. Shared accounting principles are not claimed as unique state law. No identical body paragraph is reused across pilots.",
+        "currency": "Official sources inspected October 16, 2026. Material changes and retrieval limitations are recorded in the source review. No qualified professional review or publication approval is claimed.",
+        "approval_status": "Owner design and content approval plus qualified factual review required before publication."
+      },
+      "remaining_review": [
+        "ESSB 5814 litigation, interim rules and July 2026 changes require re check immediately before approval.",
+        "No B&O/sales/premium rates, nexus thresholds, or Paper Trail service tax classification asserted.",
+        "Municipal B&O, capital gains and future tax law changes excluded; no blanket claim of no Washington income taxes.",
+        "Independent Washington tax/payroll and owner approval pending."
+      ],
+      "owner_approval": "Pending",
+      "publication": "Not published",
+      "sitemap": "Excluded until individually approved and published"
+    },
+    {
+      "state": "West Virginia",
+      "local_url": "state-records/west-virginia.html",
+      "planned_canonical": "https://www.papertrailusa.com/state-records/west-virginia.html",
+      "body_words": 540,
+      "source_count": 7,
+      "sections": 7,
+      "last_reviewed": "2026-10-16",
+      "quality_review": {
+        "reviewed_on": "2026-10-16",
+        "state_specificity": "Boundary evidence affects both customer tax and purchase use tax. Employer contribution reporting and business entity or income reporting are connected to financial reconciliations and the preparer handoff.",
+        "source_bounds": "Regulatory statements are limited to inspected official sources. Monthly accounting recommendations describe general practice. Added employer and business tax sources were inspected during the same review date.",
+        "originality": "Distinct state workflow and a hypothetical example written for this state.",
+        "currency": "Official government sources inspected October 16, 2026. No professional signoff claimed.",
+        "approval_status": "Local draft awaiting qualified factual review."
+      },
+      "remaining_review": [
+        "TSD 450 describes audit exposure rather than a universal fixed retention minimum.",
+        "Separate payroll retention, contractor rules and municipal business taxes need further review."
+      ],
+      "owner_approval": "Pending",
+      "publication": "Not published",
+      "sitemap": "Excluded until individually approved and published"
+    },
+    {
+      "state": "Wisconsin",
+      "local_url": "state-records/wisconsin.html",
+      "planned_canonical": "https://www.papertrailusa.com/state-records/wisconsin.html",
+      "body_words": 521,
+      "source_count": 7,
+      "sections": 7,
+      "last_reviewed": "2026-10-16",
+      "quality_review": {
+        "reviewed_on": "2026-10-16",
+        "state_specificity": "Mixed retail and service activity records remain distinct through the financial close. Employer contribution reporting and business entity or income reporting are connected to financial reconciliations and the preparer handoff.",
+        "source_bounds": "Regulatory statements are limited to inspected official sources. Monthly accounting recommendations describe general practice. Added employer and business tax sources were inspected during the same review date.",
+        "originality": "Distinct state workflow and a hypothetical example written for this state.",
+        "currency": "Official government sources inspected October 16, 2026. No professional signoff claimed.",
+        "approval_status": "Local draft awaiting qualified factual review."
+      },
+      "remaining_review": [
+        "Individual income retention guidance should not be generalized to every entity.",
+        "Payroll retention and activity taxability require further review."
+      ],
+      "owner_approval": "Pending",
+      "publication": "Not published",
+      "sitemap": "Excluded until individually approved and published"
+    },
+    {
+      "state": "Wyoming",
+      "local_url": "state-records/wyoming.html",
+      "planned_canonical": "https://www.papertrailusa.com/state-records/wyoming.html",
+      "body_words": 540,
+      "source_count": 7,
+      "sections": 7,
+      "last_reviewed": "2026-10-16",
+      "quality_review": {
+        "reviewed_on": "2026-10-16",
+        "state_specificity": "Sales and use record categories are separated from DWS coverage evidence and asset accounting. Employer contribution reporting and business entity or income reporting are connected to financial reconciliations and the preparer handoff.",
+        "source_bounds": "Regulatory statements are limited to inspected official sources. Monthly accounting recommendations describe general practice. Added employer and business tax sources were inspected during the same review date.",
+        "originality": "Distinct state workflow and a hypothetical example written for this state.",
+        "currency": "Official government sources inspected October 16, 2026. No professional signoff claimed.",
+        "approval_status": "Local draft awaiting qualified factual review."
+      },
+      "remaining_review": [
+        "Asset worksheet is a general accounting recommendation, not a verified mandatory state form.",
+        "Payroll retention and detailed industry taxability require further review."
+      ],
+      "owner_approval": "Pending",
+      "publication": "Not published",
+      "sitemap": "Excluded until individually approved and published"
+    }
+  ],
+  "sitemap_unchanged": true,
+  "indexing_policy": "Local content review only, noindex until owner approval. No publication or Git actions performed."
+}

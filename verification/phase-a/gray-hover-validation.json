@@ -1,0 +1,46 @@
+﻿[
+    {
+        "target":  "h3,h2",
+        "page":  "home",
+        "state":  {
+                      "cardBackground":  "rgb(230, 230, 230)",
+                      "titleDecoration":  "none",
+                      "buttonBackground":  "rgba(0, 0, 0, 0)",
+                      "buttonText":  "rgb(32, 32, 32)",
+                      "overflow":  false
+                  }
+    },
+    {
+        "target":  ".action",
+        "page":  "home",
+        "state":  {
+                      "cardBackground":  "rgb(230, 230, 230)",
+                      "titleDecoration":  "none",
+                      "buttonBackground":  "rgb(104, 104, 104)",
+                      "buttonText":  "rgb(255, 255, 255)",
+                      "overflow":  false
+                  }
+    },
+    {
+        "target":  "h3,h2",
+        "page":  "notes",
+        "state":  {
+                      "cardBackground":  "rgb(230, 230, 230)",
+                      "titleDecoration":  "none",
+                      "buttonBackground":  "rgba(0, 0, 0, 0)",
+                      "buttonText":  "rgb(32, 32, 32)",
+                      "overflow":  false
+                  }
+    },
+    {
+        "target":  ".action",
+        "page":  "notes",
+        "state":  {
+                      "cardBackground":  "rgb(230, 230, 230)",
+                      "titleDecoration":  "none",
+                      "buttonBackground":  "rgb(104, 104, 104)",
+                      "buttonText":  "rgb(255, 255, 255)",
+                      "overflow":  false
+                  }
+    }
+]

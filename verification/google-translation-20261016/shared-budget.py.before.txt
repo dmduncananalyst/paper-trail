@@ -1,0 +1,129 @@
+"""Concurrency-safe ledger for ONE Google project, shared by every site build.
+
+SQLite transactions serialize simultaneous builds on the SAME machine. All CI
+machines must use the single coordinator service instead (never copy this DB).
+Reservations are conservative: even failed/ambiguous calls remain charged until
+an operator reconciles them against Google's actual project usage.
+"""
+import json,sqlite3,time,uuid
+from contextlib import contextmanager
+from decimal import Decimal
+from pathlib import Path
+
+# Legacy snapshot ceilings remain intact. An approved funding-policy extension
+# separates initial credit-funded work from shared DommyDom/Paper Trail upkeep.
+MAX_MONTHLY_USD = Decimal('15')
+EARLY_WARNING_USD = Decimal('12')
+
+class Budget:
+ def __init__(self,path):
+  self.path=str(path)
+  with self.db() as c:
+   c.executescript('CREATE TABLE IF NOT EXISTS snapshot(id INTEGER PRIMARY KEY CHECK(id=1), data TEXT); CREATE TABLE IF NOT EXISTS reservations(id TEXT PRIMARY KEY, site TEXT, chars INTEGER, created REAL, result TEXT);')
+ @contextmanager
+ def db(self):
+  c=sqlite3.connect(self.path,timeout=30,isolation_level=None);c.row_factory=sqlite3.Row
+  try:yield c
+  finally:
+   if c.in_transaction:c.rollback()
+   c.close()
+ def reconcile(self,snapshot):
+  # No automatic month resets or unknown usage treated as zero.
+  required=['project','period_start','period_end','report_reference','included_reservations','price_per_million','soft_usd','hard_usd']
+  required+=['opening_characters','all_jobs_use_counter','approved_at' if 'approved_at' in snapshot else 'verified_at'] if snapshot.get('mode')=='shared-counter' else ['verified_at','expires_at','pricing_verified_at','remaining_free_characters','paid_exposure_usd']
+  if any(k not in snapshot for k in required):raise ValueError('Incomplete reconciliation')
+  self.validate(snapshot)
+  with self.db() as c:
+   c.execute('BEGIN IMMEDIATE')
+   if c.execute("SELECT count(*) FROM reservations WHERE result='reserved'").fetchone()[0]:raise ValueError('Resolve in-flight reservations before reconciliation')
+   existing={r[0] for r in c.execute('SELECT id FROM reservations')}
+   if not set(snapshot['included_reservations'])<=existing:raise ValueError('Unknown included reservation')
+   c.execute('INSERT OR REPLACE INTO snapshot VALUES(1,?)',(json.dumps(snapshot),));c.commit()
+ def validate(self,s,now=None,preparation=False):
+  now=time.time() if now is None else now
+  if not s.get('project') or not s.get('report_reference'):raise ValueError('Project usage is unknown')
+  if not 27*86400<=s['period_end']-s['period_start']<=32*86400:raise ValueError('Expected reconciled calendar-month boundaries')
+  if not s['period_start']<=now<s['period_end']:raise ValueError('Monthly usage period requires reconciliation')
+  if s.get('mode')=='shared-counter':
+   # An explicitly approved internal assumption can be staged without claiming
+   # that Google's actual usage or all producers have been verified.
+   # Count ALL characters at full price; never infer an opening zero.
+   if type(s.get('opening_characters')) is not int or s['opening_characters']<0:raise ValueError('Approved opening character count required')
+   if not preparation and s.get('all_jobs_use_counter') is not True:raise ValueError('Confirm all shared project translation jobs use this counter before live dispatch')
+   baseline_time=s.get('approved_at',s.get('verified_at'))
+   if baseline_time is None or not s['period_start']<=baseline_time<=now:raise ValueError('Opening counter approval must be in this month')
+  else:
+   if not s['verified_at']<=now<=s['expires_at'] or s['expires_at']-s['verified_at']>3600:raise ValueError('Shared usage is stale (maximum one hour)')
+   if not 0<=now-s['pricing_verified_at']<=30*86400:raise ValueError('Pricing review is stale')
+   if not 0<=int(s['remaining_free_characters'])<=500000:raise ValueError('Invalid remaining project allowance')
+   if not Decimal('0')<=Decimal(str(s['paid_exposure_usd'])):raise ValueError('Invalid paid exposure')
+  if Decimal(str(s['price_per_million']))!=Decimal('20'):raise ValueError('Re-review code for changed standard NMT pricing')
+  soft,hard=Decimal(str(s['soft_usd'])),Decimal(str(s['hard_usd']))
+  # Preserve stricter existing snapshots; a new policy never raises their limits.
+  if not Decimal('0')<=soft<=EARLY_WARNING_USD or not soft<hard<=MAX_MONTHLY_USD:raise ValueError('Invalid conservative limits (warning at most $12; hard limit at most $15)')
+ def _quote(self,c,chars):
+  if type(chars) is not int or chars<0:raise ValueError('Invalid character count')
+  row=c.execute('SELECT data FROM snapshot WHERE id=1').fetchone()
+  if not row:return {'allowed':False,'reason':'Shared project usage has not been reconciled','characters':chars,'estimated_incremental_usd':None}
+  s=json.loads(row[0])
+  try:self.validate(s)
+  except ValueError as e:return {'allowed':False,'reason':str(e),'characters':chars,'estimated_incremental_usd':None}
+  included=set(s['included_reservations'])
+  funding_tables={r[0] for r in c.execute("SELECT name FROM sqlite_master WHERE type='table'")}
+  initial_ids=set();policy=None
+  if {'translation_funding','translation_reservation_funding'}<=funding_tables:
+   policy_row=c.execute("SELECT data FROM translation_funding WHERE id='ongoing'").fetchone()
+   if policy_row:
+    policy=json.loads(policy_row[0])
+    if policy.get('project')!=s['project'] or policy.get('period_start')!=s['period_start'] or policy.get('period_end')!=s['period_end'] or policy.get('warning_usd')!='15' or policy.get('pause_usd')!='20':raise ValueError('Review ongoing funding policy')
+   for tag in c.execute('SELECT t.reservation,f.data FROM translation_reservation_funding t JOIN translation_funding f ON f.id=t.funding_id'):
+    allocation=json.loads(tag['data'])
+    if allocation.get('purpose')!='initial-dommydom' or allocation.get('project')!=s['project']:raise ValueError('Unknown funding classification')
+    initial_ids.add(tag['reservation'])
+  rows=c.execute('SELECT id,chars,created,result FROM reservations')
+  reserved=sum(r['chars'] for r in rows if r['id'] not in included and r['id'] not in initial_ids and (s.get('mode')!='shared-counter' or r['created']>=s['period_start'] or r['result']!='complete'))
+  rate=Decimal(str(s['price_per_million']))/1000000
+  if s.get('mode')=='shared-counter':
+   before=(s['opening_characters']+reserved)*rate;after=before+chars*rate
+  else:
+   before=Decimal(str(s['paid_exposure_usd']))+max(0,reserved-s['remaining_free_characters'])*rate
+   after=Decimal(str(s['paid_exposure_usd']))+max(0,reserved+chars-s['remaining_free_characters'])*rate
+  soft=Decimal(policy['warning_usd']) if policy else Decimal(str(s['soft_usd']))
+  hard=Decimal(policy['pause_usd']) if policy else Decimal(str(s['hard_usd']))
+  return {'allowed':after<=hard,'reason':'Within workflow limit' if after<=hard else 'Shared hard cutoff would be exceeded','characters':chars,'estimated_incremental_usd':str(after-before),'estimated_month_exposure_usd':str(after),'soft_warning':after>=soft,'warning_usd':str(soft),'hard_usd':str(hard),'project':s['project'],'period_end':s['period_end'],'accounting_mode':'ongoing-separate-conservative' if policy else s.get('mode','reconciled')}
+ def status(self):
+  with self.db() as c:
+   row=c.execute('SELECT data FROM snapshot WHERE id=1').fetchone()
+   return {'snapshot':json.loads(row[0]) if row else None,'reservations':[dict(r) for r in c.execute('SELECT * FROM reservations ORDER BY created')]}
+ def quote(self,chars):
+  with self.db() as c:
+   c.execute('BEGIN');r=self._quote(c,chars);c.commit();return r
+ def reserve(self,site,chars,request_id=None):
+  if site not in ('dommydom','paper-trail','startweb7') or type(chars) is not int or chars<=0:raise ValueError('Invalid site or character batch')
+  request_id=request_id or uuid.uuid4().hex
+  with self.db() as c:
+   c.execute('BEGIN IMMEDIATE')
+   if c.execute('SELECT id FROM reservations WHERE id=?',(request_id,)).fetchone():raise ValueError('Reservation already used; do not redispatch')
+   q=self._quote(c,chars)
+   if q['allowed']:c.execute('INSERT INTO reservations VALUES(?,?,?,?,?)',(request_id,site,chars,time.time(),'reserved'))
+   c.commit();return {**q,'reservation':request_id if q['allowed'] else None}
+ def finish(self,reservation,result):
+  if result not in ('complete','partial','uncertain'):raise ValueError('Invalid outcome')
+  with self.db() as c:c.execute('UPDATE reservations SET result=? WHERE id=?',(result,reservation))
+
+class ExistingBudget(Budget):
+ """Use an existing shared ledger without initializing files or schema."""
+ def __init__(self,path,read_only=False):
+  resolved=Path(path).resolve(strict=True)
+  if not resolved.is_file():raise ValueError('Existing shared ledger required')
+  self.path=str(resolved);self.read_only=read_only
+ @contextmanager
+ def db(self):
+  mode='ro' if self.read_only else 'rw'
+  c=sqlite3.connect(Path(self.path).as_uri()+'?mode='+mode,uri=True,timeout=30,isolation_level=None);c.row_factory=sqlite3.Row
+  try:
+   if self.read_only:c.execute('PRAGMA query_only=ON')
+   yield c
+  finally:
+   if c.in_transaction:c.rollback()
+   c.close()

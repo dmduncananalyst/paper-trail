@@ -1,0 +1,8 @@
+
+# Local Google translation checkpoint and build lock; permanent releases remain public.
+.translation-cache/
+**/__pycache__/
+
+# Internal hosting checkout and local release packages.
+.sites-readiness/
+.release/

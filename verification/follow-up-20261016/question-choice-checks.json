@@ -1,0 +1,128 @@
+﻿[
+    {
+        "page":  "areas-we-serve.html",
+        "result":  {
+                       "question":  "Which period needs attention?",
+                       "issueOptions":  [
+                                            "Overdue books",
+                                            "Account balances",
+                                            "Monthly records",
+                                            "Invoices and bills"
+                                        ],
+                       "periodOptions":  [
+                                             "This month",
+                                             "A few months",
+                                             "A year or more",
+                                             "I am not sure"
+                                         ],
+                       "activeQuestions":  1
+                   }
+    },
+    {
+        "page":  "can-several-months-be-corrected-at-once.html",
+        "result":  {
+                       "question":  "Which period needs attention?",
+                       "issueOptions":  [
+                                            "Overdue periods",
+                                            "Incorrect balances",
+                                            "Missing records"
+                                        ],
+                       "periodOptions":  [
+                                             "One to three months",
+                                             "Four to twelve months",
+                                             "More than a year"
+                                         ],
+                       "activeQuestions":  1
+                   }
+    },
+    {
+        "page":  "how-long-does-it-take-to-bring-overdue-books-current.html",
+        "result":  {
+                       "question":  "Which period needs attention?",
+                       "issueOptions":  [
+                                            "Overdue periods",
+                                            "Missing statements",
+                                            "Unfinished reconciliations"
+                                        ],
+                       "periodOptions":  [
+                                             "A few months",
+                                             "About a year",
+                                             "More than one year"
+                                         ],
+                       "activeQuestions":  1
+                   }
+    },
+    {
+        "page":  "past-due-bookkeeping-questions.html",
+        "result":  {
+                       "question":  "Which period needs attention?",
+                       "issueOptions":  [
+                                            "Overdue periods",
+                                            "Missing records",
+                                            "Unfinished reconciliations"
+                                        ],
+                       "periodOptions":  [
+                                             "One to three months",
+                                             "Four to twelve months",
+                                             "More than a year",
+                                             "I do not know yet"
+                                         ],
+                       "activeQuestions":  1
+                   }
+    },
+    {
+        "page":  "past-due-bookkeeping.html",
+        "result":  {
+                       "question":  "Which period needs attention?",
+                       "issueOptions":  [
+                                            "Overdue periods",
+                                            "Missing records",
+                                            "Unfinished reconciliations"
+                                        ],
+                       "periodOptions":  [
+                                             "One to three months",
+                                             "Four to twelve months",
+                                             "More than a year",
+                                             "I do not know yet"
+                                         ],
+                       "activeQuestions":  1
+                   }
+    },
+    {
+        "page":  "what-should-i-do-if-my-bookkeeping-is-several-months-behind.html",
+        "result":  {
+                       "question":  "Which period needs attention?",
+                       "issueOptions":  [
+                                            "Unfinished months",
+                                            "Missing records",
+                                            "Unreconciled accounts"
+                                        ],
+                       "periodOptions":  [
+                                             "One to three months",
+                                             "Four to six months",
+                                             "More than six months",
+                                             "I am not sure what was completed"
+                                         ],
+                       "activeQuestions":  1
+                   }
+    },
+    {
+        "page":  "why-does-my-bank-balance-not-match-my-books.html",
+        "result":  {
+                       "question":  "Which period needs attention?",
+                       "issueOptions":  [
+                                            "Missing transactions",
+                                            "Duplicate entries",
+                                            "Opening balance",
+                                            "I am not sure"
+                                        ],
+                       "periodOptions":  [
+                                             "This month only",
+                                             "Several months",
+                                             "Since the software was set up",
+                                             "I have never reconciled the account"
+                                         ],
+                       "activeQuestions":  1
+                   }
+    }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "page": "accounts-payable-receivable.html",
+    "cards": 4
+  },
+  {
+    "page": "balancing-corrections.html",
+    "cards": 4
+  },
+  {
+    "page": "bank-credit-card-balancing.html",
+    "cards": 4
+  },
+  {
+    "page": "income-expense-tracking.html",
+    "cards": 4
+  },
+  {
+    "page": "monthly-bookkeeping-review.html",
+    "cards": 4
+  },
+  {
+    "page": "monthly-financial-reports.html",
+    "cards": 4
+  },
+  {
+    "page": "paper-trail-monthly-bookkeeping.html",
+    "cards": 4
+  },
+  {
+    "page": "paper-trail-services.html",
+    "cards": 4
+  },
+  {
+    "page": "past-due-bookkeeping.html",
+    "cards": 4
+  },
+  {
+    "page": "tax-ready-bookkeeping.html",
+    "cards": 4
+  },
+  {
+    "page": "transaction-categorization.html",
+    "cards": 4
+  },
+  {
+    "page": "year-end-bookkeeping.html",
+    "cards": 4
+  }
+]

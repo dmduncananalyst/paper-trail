@@ -1,0 +1,20 @@
+﻿{
+    "sequence":  [
+                     "What state are you located in?",
+                     "What about your books needs attention?",
+                     "Which period needs attention?",
+                     "Where are your books kept at the moment?",
+                     "What does your business do?",
+                     "What is your company name?",
+                     "When would you like this work to begin?",
+                     "What kind of meeting would work best for you?",
+                     "What name should we use when we reply?",
+                     "What email should Paper Trail use to follow up?",
+                     "What phone number can we reach you on?"
+                 ],
+    "review":  "Here is what Paper Trail will receive:\n\nState: California\nWhat needs attention: Overdue books\nScope or period: This month\nCurrent system: QuickBooks\nType of business: Retail\nCompany name: Example Company\nStart timing: As soon as possible\nMeeting preference: Email me first\nAvailability: Arrange by email\nName: Example Owner\nEmail: owner@example.com\nPhone number: 8185550123\n\nShall I send this so Paper Trail can follow up?",
+    "edited":  true,
+    "reset":  "What state are you located in?",
+    "payloadMessage":  "Paper Trail inquiry\nTopic: Test\n\nState: Nevada\nMeeting time: Morning\nTime zone: Pacific\nWhat needs attention: Monthly records\nCompany name: Example Company\nName: Example Owner\nEmail: owner@example.com\nPhone number: 8185550123",
+    "submitted":  false
+}

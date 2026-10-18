@@ -1,0 +1,149 @@
+{
+  "video_comparisons": [
+    {
+      "page": "index.html",
+      "viewport": 1440,
+      "source_unchanged": true,
+      "frame_width_unchanged": true,
+      "frame_height_unchanged": true,
+      "frame_y_before": 408.984375,
+      "frame_y_after": 408.984375,
+      "note": "Frame position retained."
+    },
+    {
+      "page": "about.html",
+      "viewport": 1440,
+      "source_unchanged": true,
+      "frame_width_unchanged": true,
+      "frame_height_unchanged": true,
+      "frame_y_before": 158.484375,
+      "frame_y_after": 158.484375,
+      "note": "Frame position retained."
+    },
+    {
+      "page": "paper-trail-services.html",
+      "viewport": 1440,
+      "source_unchanged": true,
+      "frame_width_unchanged": true,
+      "frame_height_unchanged": true,
+      "frame_y_before": 158.484375,
+      "frame_y_after": 158.484375,
+      "note": "Frame position retained."
+    },
+    {
+      "page": "paper-trail-monthly-bookkeeping.html",
+      "viewport": 1440,
+      "source_unchanged": true,
+      "frame_width_unchanged": true,
+      "frame_height_unchanged": true,
+      "frame_y_before": 158.484375,
+      "frame_y_after": 158.484375,
+      "note": "Frame position retained."
+    },
+    {
+      "page": "index.html",
+      "viewport": 834,
+      "source_unchanged": true,
+      "frame_width_unchanged": true,
+      "frame_height_unchanged": true,
+      "frame_y_before": 457.9375,
+      "frame_y_after": 457.9375,
+      "note": "Frame position retained."
+    },
+    {
+      "page": "about.html",
+      "viewport": 834,
+      "source_unchanged": true,
+      "frame_width_unchanged": true,
+      "frame_height_unchanged": true,
+      "frame_y_before": 207.4375,
+      "frame_y_after": 207.4375,
+      "note": "Frame position retained."
+    },
+    {
+      "page": "paper-trail-services.html",
+      "viewport": 834,
+      "source_unchanged": true,
+      "frame_width_unchanged": true,
+      "frame_height_unchanged": true,
+      "frame_y_before": 207.4375,
+      "frame_y_after": 207.4375,
+      "note": "Frame position retained."
+    },
+    {
+      "page": "paper-trail-monthly-bookkeeping.html",
+      "viewport": 834,
+      "source_unchanged": true,
+      "frame_width_unchanged": true,
+      "frame_height_unchanged": true,
+      "frame_y_before": 207.4375,
+      "frame_y_after": 207.4375,
+      "note": "Frame position retained."
+    },
+    {
+      "page": "index.html",
+      "viewport": 390,
+      "source_unchanged": true,
+      "frame_width_unchanged": true,
+      "frame_height_unchanged": true,
+      "frame_y_before": 507.859375,
+      "frame_y_after": 551.359375,
+      "note": "Home mobile moves down with reserved language and navigation rows; video size and section placement are retained."
+    },
+    {
+      "page": "about.html",
+      "viewport": 390,
+      "source_unchanged": true,
+      "frame_width_unchanged": true,
+      "frame_height_unchanged": true,
+      "frame_y_before": 273.765625,
+      "frame_y_after": 273.765625,
+      "note": "Frame position retained."
+    },
+    {
+      "page": "paper-trail-services.html",
+      "viewport": 390,
+      "source_unchanged": true,
+      "frame_width_unchanged": true,
+      "frame_height_unchanged": true,
+      "frame_y_before": 273.765625,
+      "frame_y_after": 273.765625,
+      "note": "Frame position retained."
+    },
+    {
+      "page": "paper-trail-monthly-bookkeeping.html",
+      "viewport": 390,
+      "source_unchanged": true,
+      "frame_width_unchanged": true,
+      "frame_height_unchanged": true,
+      "frame_y_before": 273.765625,
+      "frame_y_after": 273.765625,
+      "note": "Frame position retained."
+    }
+  ],
+  "video_asset_hashes": [
+    {
+      "file": "assets/video/about.mp4",
+      "sha256": "bd716fb446d0dd915a67b81c42848fcdbc6554b2717af22c135339febcfe0f46"
+    },
+    {
+      "file": "assets/video/home.mp4",
+      "sha256": "26c074d24939709d286fd4091ab8f2085568241f247632fb0974e5f5ed2f2084"
+    },
+    {
+      "file": "assets/video/monthly.mp4",
+      "sha256": "2c9df15efc66db35c676c99d4852320ae7498446a42150541c3f7af5919b0b3f"
+    },
+    {
+      "file": "assets/video/repair.mp4",
+      "sha256": "0b6f1fd8b4ca417d5d318af069451dee9da3a4f22ad400b8feed93d62282e01f"
+    }
+  ],
+  "brand_colors_preserved": true,
+  "google_translation_requests": 0,
+  "google_translation_characters_sent": 0,
+  "billing_changes": false,
+  "git_actions": false,
+  "publication": false,
+  "integrations": "No HubSpot, inquiry backend or provider configuration modified. Real submissions were blocked during local QA."
+}

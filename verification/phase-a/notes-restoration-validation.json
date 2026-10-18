@@ -1,0 +1,1062 @@
+﻿[
+    {
+        "width":  1440,
+        "page":  "home",
+        "state":  {
+                      "backgrounds":  [
+                                          {
+                                              "selector":  "body",
+                                              "color":  "rgb(255, 255, 255)"
+                                          },
+                                          {
+                                              "selector":  ".pt-header",
+                                              "color":  "rgb(37, 37, 37)"
+                                          },
+                                          {
+                                              "selector":  ".pt-footer",
+                                              "color":  "rgb(255, 255, 255)"
+                                          },
+                                          {
+                                              "selector":  ".hero-service-links",
+                                              "color":  "rgba(0, 0, 0, 0)"
+                                          }
+                                      ],
+                      "logoFilter":  "grayscale(1) brightness(1.65)",
+                      "allPhotosLoaded":  true,
+                      "phoneHref":  "tel:+18189340444",
+                      "phoneUnderlined":  true,
+                      "blogActions":  [
+
+                                      ],
+                      "width":  1440,
+                      "scrollWidth":  1425,
+                      "titleIconAlignment":  [
+
+                                             ],
+                      "creditPlain":  "none",
+                      "creditBrandUnderlined":  "underline",
+                      "readActions":  [
+                                          {
+                                              "font":  "18px",
+                                              "height":  49,
+                                              "border":  "1px",
+                                              "marginTop":  "18px",
+                                              "centerOffset":  0.0078125
+                                          },
+                                          {
+                                              "font":  "18px",
+                                              "height":  49,
+                                              "border":  "1px",
+                                              "marginTop":  "18px",
+                                              "centerOffset":  0.0078125
+                                          },
+                                          {
+                                              "font":  "18px",
+                                              "height":  49,
+                                              "border":  "1px",
+                                              "marginTop":  "18px",
+                                              "centerOffset":  0.0078125
+                                          },
+                                          {
+                                              "font":  "18px",
+                                              "height":  49,
+                                              "border":  "1px",
+                                              "marginTop":  "18px",
+                                              "centerOffset":  0.0078125
+                                          }
+                                      ],
+                      "topicRows":  0,
+                      "rowsInsideGrid":  0,
+                      "allRowsInsideMain":  true,
+                      "homeNotes":  4,
+                      "uniqueIcons":  true,
+                      "iconsDrawn":  true,
+                      "footerPresent":  true
+                  }
+    },
+    {
+        "width":  1440,
+        "page":  "notes",
+        "state":  {
+                      "backgrounds":  [
+                                          {
+                                              "selector":  "body",
+                                              "color":  "rgb(255, 255, 255)"
+                                          },
+                                          {
+                                              "selector":  ".pt-header",
+                                              "color":  "rgb(37, 37, 37)"
+                                          },
+                                          {
+                                              "selector":  ".pt-footer",
+                                              "color":  "rgb(255, 255, 255)"
+                                          }
+                                      ],
+                      "logoFilter":  "grayscale(1) brightness(1.65)",
+                      "allPhotosLoaded":  true,
+                      "phoneHref":  "tel:+18189340444",
+                      "phoneUnderlined":  true,
+                      "blogActions":  [
+
+                                      ],
+                      "width":  1440,
+                      "scrollWidth":  1425,
+                      "titleIconAlignment":  [
+                                                 0,
+                                                 0,
+                                                 0,
+                                                 0,
+                                                 0,
+                                                 0,
+                                                 0,
+                                                 0,
+                                                 0,
+                                                 0,
+                                                 0,
+                                                 0
+                                             ],
+                      "creditPlain":  "none",
+                      "creditBrandUnderlined":  "underline",
+                      "readActions":  [
+                                          {
+                                              "font":  "18px",
+                                              "height":  49,
+                                              "border":  "1px",
+                                              "marginTop":  "18px",
+                                              "centerOffset":  0
+                                          },
+                                          {
+                                              "font":  "18px",
+                                              "height":  49,
+                                              "border":  "1px",
+                                              "marginTop":  "18px",
+                                              "centerOffset":  0
+                                          },
+                                          {
+                                              "font":  "18px",
+                                              "height":  49,
+                                              "border":  "1px",
+                                              "marginTop":  "18px",
+                                              "centerOffset":  0
+                                          },
+                                          {
+                                              "font":  "18px",
+                                              "height":  49,
+                                              "border":  "1px",
+                                              "marginTop":  "18px",
+                                              "centerOffset":  0
+                                          },
+                                          {
+                                              "font":  "18px",
+                                              "height":  49,
+                                              "border":  "1px",
+                                              "marginTop":  "18px",
+                                              "centerOffset":  0
+                                          },
+                                          {
+                                              "font":  "18px",
+                                              "height":  49,
+                                              "border":  "1px",
+                                              "marginTop":  "18px",
+                                              "centerOffset":  0
+                                          },
+                                          {
+                                              "font":  "18px",
+                                              "height":  49,
+                                              "border":  "1px",
+                                              "marginTop":  "18px",
+                                              "centerOffset":  0
+                                          },
+                                          {
+                                              "font":  "18px",
+                                              "height":  49,
+                                              "border":  "1px",
+                                              "marginTop":  "18px",
+                                              "centerOffset":  0
+                                          },
+                                          {
+                                              "font":  "18px",
+                                              "height":  49,
+                                              "border":  "1px",
+                                              "marginTop":  "18px",
+                                              "centerOffset":  0
+                                          },
+                                          {
+                                              "font":  "18px",
+                                              "height":  49,
+                                              "border":  "1px",
+                                              "marginTop":  "18px",
+                                              "centerOffset":  0
+                                          },
+                                          {
+                                              "font":  "18px",
+                                              "height":  49,
+                                              "border":  "1px",
+                                              "marginTop":  "18px",
+                                              "centerOffset":  0
+                                          },
+                                          {
+                                              "font":  "18px",
+                                              "height":  49,
+                                              "border":  "1px",
+                                              "marginTop":  "18px",
+                                              "centerOffset":  0
+                                          }
+                                      ],
+                      "topicRows":  12,
+                      "rowsInsideGrid":  12,
+                      "allRowsInsideMain":  true,
+                      "homeNotes":  0,
+                      "uniqueIcons":  true,
+                      "iconsDrawn":  true,
+                      "footerPresent":  true
+                  }
+    },
+    {
+        "width":  1440,
+        "page":  "blog",
+        "state":  {
+                      "backgrounds":  [
+                                          {
+                                              "selector":  "body",
+                                              "color":  "rgb(255, 255, 255)"
+                                          },
+                                          {
+                                              "selector":  ".pt-header",
+                                              "color":  "rgb(37, 37, 37)"
+                                          },
+                                          {
+                                              "selector":  ".pt-footer",
+                                              "color":  "rgb(255, 255, 255)"
+                                          }
+                                      ],
+                      "logoFilter":  "grayscale(1) brightness(1.65)",
+                      "allPhotosLoaded":  true,
+                      "phoneHref":  "tel:+18189340444",
+                      "phoneUnderlined":  true,
+                      "blogActions":  [
+                                          {
+                                              "centerOffset":  285.3203125
+                                          },
+                                          {
+                                              "centerOffset":  285.3203125
+                                          },
+                                          {
+                                              "centerOffset":  285.3203125
+                                          }
+                                      ],
+                      "width":  1440,
+                      "scrollWidth":  1425,
+                      "titleIconAlignment":  [
+
+                                             ],
+                      "creditPlain":  "none",
+                      "creditBrandUnderlined":  "underline",
+                      "readActions":  [
+
+                                      ],
+                      "topicRows":  0,
+                      "rowsInsideGrid":  0,
+                      "allRowsInsideMain":  true,
+                      "homeNotes":  0,
+                      "uniqueIcons":  true,
+                      "iconsDrawn":  true,
+                      "footerPresent":  true
+                  }
+    },
+    {
+        "width":  1180,
+        "page":  "home",
+        "state":  {
+                      "backgrounds":  [
+                                          {
+                                              "selector":  "body",
+                                              "color":  "rgb(255, 255, 255)"
+                                          },
+                                          {
+                                              "selector":  ".pt-header",
+                                              "color":  "rgb(37, 37, 37)"
+                                          },
+                                          {
+                                              "selector":  ".pt-footer",
+                                              "color":  "rgb(255, 255, 255)"
+                                          },
+                                          {
+                                              "selector":  ".hero-service-links",
+                                              "color":  "rgba(0, 0, 0, 0)"
+                                          }
+                                      ],
+                      "logoFilter":  "grayscale(1) brightness(1.65)",
+                      "allPhotosLoaded":  true,
+                      "phoneHref":  "tel:+18189340444",
+                      "phoneUnderlined":  true,
+                      "blogActions":  [
+
+                                      ],
+                      "width":  1180,
+                      "scrollWidth":  1165,
+                      "titleIconAlignment":  [
+
+                                             ],
+                      "creditPlain":  "none",
+                      "creditBrandUnderlined":  "underline",
+                      "readActions":  [
+                                          {
+                                              "font":  "18px",
+                                              "height":  49,
+                                              "border":  "1px",
+                                              "marginTop":  "18px",
+                                              "centerOffset":  0.0078125
+                                          },
+                                          {
+                                              "font":  "18px",
+                                              "height":  49,
+                                              "border":  "1px",
+                                              "marginTop":  "18px",
+                                              "centerOffset":  0.0078125
+                                          },
+                                          {
+                                              "font":  "18px",
+                                              "height":  49,
+                                              "border":  "1px",
+                                              "marginTop":  "18px",
+                                              "centerOffset":  0.0078125
+                                          },
+                                          {
+                                              "font":  "18px",
+                                              "height":  49,
+                                              "border":  "1px",
+                                              "marginTop":  "18px",
+                                              "centerOffset":  0.0078125
+                                          }
+                                      ],
+                      "topicRows":  0,
+                      "rowsInsideGrid":  0,
+                      "allRowsInsideMain":  true,
+                      "homeNotes":  4,
+                      "uniqueIcons":  true,
+                      "iconsDrawn":  true,
+                      "footerPresent":  true
+                  }
+    },
+    {
+        "width":  1180,
+        "page":  "notes",
+        "state":  {
+                      "backgrounds":  [
+                                          {
+                                              "selector":  "body",
+                                              "color":  "rgb(255, 255, 255)"
+                                          },
+                                          {
+                                              "selector":  ".pt-header",
+                                              "color":  "rgb(37, 37, 37)"
+                                          },
+                                          {
+                                              "selector":  ".pt-footer",
+                                              "color":  "rgb(255, 255, 255)"
+                                          }
+                                      ],
+                      "logoFilter":  "grayscale(1) brightness(1.65)",
+                      "allPhotosLoaded":  true,
+                      "phoneHref":  "tel:+18189340444",
+                      "phoneUnderlined":  true,
+                      "blogActions":  [
+
+                                      ],
+                      "width":  1180,
+                      "scrollWidth":  1165,
+                      "titleIconAlignment":  [
+                                                 0,
+                                                 0,
+                                                 0,
+                                                 0,
+                                                 0,
+                                                 0,
+                                                 0,
+                                                 0,
+                                                 0,
+                                                 0,
+                                                 0,
+                                                 0
+                                             ],
+                      "creditPlain":  "none",
+                      "creditBrandUnderlined":  "underline",
+                      "readActions":  [
+                                          {
+                                              "font":  "18px",
+                                              "height":  49,
+                                              "border":  "1px",
+                                              "marginTop":  "18px",
+                                              "centerOffset":  0
+                                          },
+                                          {
+                                              "font":  "18px",
+                                              "height":  49,
+                                              "border":  "1px",
+                                              "marginTop":  "18px",
+                                              "centerOffset":  0
+                                          },
+                                          {
+                                              "font":  "18px",
+                                              "height":  49,
+                                              "border":  "1px",
+                                              "marginTop":  "18px",
+                                              "centerOffset":  0
+                                          },
+                                          {
+                                              "font":  "18px",
+                                              "height":  49,
+                                              "border":  "1px",
+                                              "marginTop":  "18px",
+                                              "centerOffset":  0
+                                          },
+                                          {
+                                              "font":  "18px",
+                                              "height":  49,
+                                              "border":  "1px",
+                                              "marginTop":  "18px",
+                                              "centerOffset":  0
+                                          },
+                                          {
+                                              "font":  "18px",
+                                              "height":  49,
+                                              "border":  "1px",
+                                              "marginTop":  "18px",
+                                              "centerOffset":  0
+                                          },
+                                          {
+                                              "font":  "18px",
+                                              "height":  49,
+                                              "border":  "1px",
+                                              "marginTop":  "18px",
+                                              "centerOffset":  0
+                                          },
+                                          {
+                                              "font":  "18px",
+                                              "height":  49,
+                                              "border":  "1px",
+                                              "marginTop":  "18px",
+                                              "centerOffset":  0
+                                          },
+                                          {
+                                              "font":  "18px",
+                                              "height":  49,
+                                              "border":  "1px",
+                                              "marginTop":  "18px",
+                                              "centerOffset":  0
+                                          },
+                                          {
+                                              "font":  "18px",
+                                              "height":  49,
+                                              "border":  "1px",
+                                              "marginTop":  "18px",
+                                              "centerOffset":  0
+                                          },
+                                          {
+                                              "font":  "18px",
+                                              "height":  49,
+                                              "border":  "1px",
+                                              "marginTop":  "18px",
+                                              "centerOffset":  0
+                                          },
+                                          {
+                                              "font":  "18px",
+                                              "height":  49,
+                                              "border":  "1px",
+                                              "marginTop":  "18px",
+                                              "centerOffset":  0
+                                          }
+                                      ],
+                      "topicRows":  12,
+                      "rowsInsideGrid":  12,
+                      "allRowsInsideMain":  true,
+                      "homeNotes":  0,
+                      "uniqueIcons":  true,
+                      "iconsDrawn":  true,
+                      "footerPresent":  true
+                  }
+    },
+    {
+        "width":  1180,
+        "page":  "blog",
+        "state":  {
+                      "backgrounds":  [
+                                          {
+                                              "selector":  "body",
+                                              "color":  "rgb(255, 255, 255)"
+                                          },
+                                          {
+                                              "selector":  ".pt-header",
+                                              "color":  "rgb(37, 37, 37)"
+                                          },
+                                          {
+                                              "selector":  ".pt-footer",
+                                              "color":  "rgb(255, 255, 255)"
+                                          }
+                                      ],
+                      "logoFilter":  "grayscale(1) brightness(1.65)",
+                      "allPhotosLoaded":  true,
+                      "phoneHref":  "tel:+18189340444",
+                      "phoneUnderlined":  true,
+                      "blogActions":  [
+                                          {
+                                              "centerOffset":  261.296875
+                                          },
+                                          {
+                                              "centerOffset":  261.296875
+                                          },
+                                          {
+                                              "centerOffset":  261.296875
+                                          }
+                                      ],
+                      "width":  1180,
+                      "scrollWidth":  1165,
+                      "titleIconAlignment":  [
+
+                                             ],
+                      "creditPlain":  "none",
+                      "creditBrandUnderlined":  "underline",
+                      "readActions":  [
+
+                                      ],
+                      "topicRows":  0,
+                      "rowsInsideGrid":  0,
+                      "allRowsInsideMain":  true,
+                      "homeNotes":  0,
+                      "uniqueIcons":  true,
+                      "iconsDrawn":  true,
+                      "footerPresent":  true
+                  }
+    },
+    {
+        "width":  768,
+        "page":  "home",
+        "state":  {
+                      "backgrounds":  [
+                                          {
+                                              "selector":  "body",
+                                              "color":  "rgb(255, 255, 255)"
+                                          },
+                                          {
+                                              "selector":  ".pt-header",
+                                              "color":  "rgb(37, 37, 37)"
+                                          },
+                                          {
+                                              "selector":  ".pt-footer",
+                                              "color":  "rgb(255, 255, 255)"
+                                          },
+                                          {
+                                              "selector":  ".hero-service-links",
+                                              "color":  "rgba(0, 0, 0, 0)"
+                                          }
+                                      ],
+                      "logoFilter":  "grayscale(1) brightness(1.65)",
+                      "allPhotosLoaded":  true,
+                      "phoneHref":  "tel:+18189340444",
+                      "phoneUnderlined":  true,
+                      "blogActions":  [
+
+                                      ],
+                      "width":  768,
+                      "scrollWidth":  753,
+                      "titleIconAlignment":  [
+
+                                             ],
+                      "creditPlain":  "none",
+                      "creditBrandUnderlined":  "underline",
+                      "readActions":  [
+                                          {
+                                              "font":  "18px",
+                                              "height":  49,
+                                              "border":  "1px",
+                                              "marginTop":  "18px",
+                                              "centerOffset":  0
+                                          },
+                                          {
+                                              "font":  "18px",
+                                              "height":  49,
+                                              "border":  "1px",
+                                              "marginTop":  "18px",
+                                              "centerOffset":  0
+                                          },
+                                          {
+                                              "font":  "18px",
+                                              "height":  49,
+                                              "border":  "1px",
+                                              "marginTop":  "18px",
+                                              "centerOffset":  0
+                                          },
+                                          {
+                                              "font":  "18px",
+                                              "height":  49,
+                                              "border":  "1px",
+                                              "marginTop":  "18px",
+                                              "centerOffset":  0
+                                          }
+                                      ],
+                      "topicRows":  0,
+                      "rowsInsideGrid":  0,
+                      "allRowsInsideMain":  true,
+                      "homeNotes":  4,
+                      "uniqueIcons":  true,
+                      "iconsDrawn":  true,
+                      "footerPresent":  true
+                  }
+    },
+    {
+        "width":  768,
+        "page":  "notes",
+        "state":  {
+                      "backgrounds":  [
+                                          {
+                                              "selector":  "body",
+                                              "color":  "rgb(255, 255, 255)"
+                                          },
+                                          {
+                                              "selector":  ".pt-header",
+                                              "color":  "rgb(37, 37, 37)"
+                                          },
+                                          {
+                                              "selector":  ".pt-footer",
+                                              "color":  "rgb(255, 255, 255)"
+                                          }
+                                      ],
+                      "logoFilter":  "grayscale(1) brightness(1.65)",
+                      "allPhotosLoaded":  true,
+                      "phoneHref":  "tel:+18189340444",
+                      "phoneUnderlined":  true,
+                      "blogActions":  [
+
+                                      ],
+                      "width":  768,
+                      "scrollWidth":  753,
+                      "titleIconAlignment":  [
+                                                 0,
+                                                 0,
+                                                 0,
+                                                 0,
+                                                 0,
+                                                 0,
+                                                 0,
+                                                 0,
+                                                 0,
+                                                 0,
+                                                 0,
+                                                 0
+                                             ],
+                      "creditPlain":  "none",
+                      "creditBrandUnderlined":  "underline",
+                      "readActions":  [
+                                          {
+                                              "font":  "18px",
+                                              "height":  49,
+                                              "border":  "1px",
+                                              "marginTop":  "18px",
+                                              "centerOffset":  0.0078125
+                                          },
+                                          {
+                                              "font":  "18px",
+                                              "height":  49,
+                                              "border":  "1px",
+                                              "marginTop":  "18px",
+                                              "centerOffset":  0.0078125
+                                          },
+                                          {
+                                              "font":  "18px",
+                                              "height":  49,
+                                              "border":  "1px",
+                                              "marginTop":  "18px",
+                                              "centerOffset":  0.0078125
+                                          },
+                                          {
+                                              "font":  "18px",
+                                              "height":  49,
+                                              "border":  "1px",
+                                              "marginTop":  "18px",
+                                              "centerOffset":  0.0078125
+                                          },
+                                          {
+                                              "font":  "18px",
+                                              "height":  49,
+                                              "border":  "1px",
+                                              "marginTop":  "18px",
+                                              "centerOffset":  0.0078125
+                                          },
+                                          {
+                                              "font":  "18px",
+                                              "height":  49,
+                                              "border":  "1px",
+                                              "marginTop":  "18px",
+                                              "centerOffset":  0.0078125
+                                          },
+                                          {
+                                              "font":  "18px",
+                                              "height":  49,
+                                              "border":  "1px",
+                                              "marginTop":  "18px",
+                                              "centerOffset":  0.0078125
+                                          },
+                                          {
+                                              "font":  "18px",
+                                              "height":  49,
+                                              "border":  "1px",
+                                              "marginTop":  "18px",
+                                              "centerOffset":  0.0078125
+                                          },
+                                          {
+                                              "font":  "18px",
+                                              "height":  49,
+                                              "border":  "1px",
+                                              "marginTop":  "18px",
+                                              "centerOffset":  0.0078125
+                                          },
+                                          {
+                                              "font":  "18px",
+                                              "height":  49,
+                                              "border":  "1px",
+                                              "marginTop":  "18px",
+                                              "centerOffset":  0.0078125
+                                          },
+                                          {
+                                              "font":  "18px",
+                                              "height":  49,
+                                              "border":  "1px",
+                                              "marginTop":  "18px",
+                                              "centerOffset":  0.0078125
+                                          },
+                                          {
+                                              "font":  "18px",
+                                              "height":  49,
+                                              "border":  "1px",
+                                              "marginTop":  "18px",
+                                              "centerOffset":  0.0078125
+                                          }
+                                      ],
+                      "topicRows":  12,
+                      "rowsInsideGrid":  12,
+                      "allRowsInsideMain":  true,
+                      "homeNotes":  0,
+                      "uniqueIcons":  true,
+                      "iconsDrawn":  true,
+                      "footerPresent":  true
+                  }
+    },
+    {
+        "width":  768,
+        "page":  "blog",
+        "state":  {
+                      "backgrounds":  [
+                                          {
+                                              "selector":  "body",
+                                              "color":  "rgb(255, 255, 255)"
+                                          },
+                                          {
+                                              "selector":  ".pt-header",
+                                              "color":  "rgb(37, 37, 37)"
+                                          },
+                                          {
+                                              "selector":  ".pt-footer",
+                                              "color":  "rgb(255, 255, 255)"
+                                          }
+                                      ],
+                      "logoFilter":  "grayscale(1) brightness(1.65)",
+                      "allPhotosLoaded":  true,
+                      "phoneHref":  "tel:+18189340444",
+                      "phoneUnderlined":  true,
+                      "blogActions":  [
+                                          {
+                                              "centerOffset":  144.8515625
+                                          },
+                                          {
+                                              "centerOffset":  144.8515625
+                                          },
+                                          {
+                                              "centerOffset":  144.8515625
+                                          }
+                                      ],
+                      "width":  768,
+                      "scrollWidth":  753,
+                      "titleIconAlignment":  [
+
+                                             ],
+                      "creditPlain":  "none",
+                      "creditBrandUnderlined":  "underline",
+                      "readActions":  [
+
+                                      ],
+                      "topicRows":  0,
+                      "rowsInsideGrid":  0,
+                      "allRowsInsideMain":  true,
+                      "homeNotes":  0,
+                      "uniqueIcons":  true,
+                      "iconsDrawn":  true,
+                      "footerPresent":  true
+                  }
+    },
+    {
+        "width":  390,
+        "page":  "home",
+        "state":  {
+                      "backgrounds":  [
+                                          {
+                                              "selector":  "body",
+                                              "color":  "rgb(255, 255, 255)"
+                                          },
+                                          {
+                                              "selector":  ".pt-header",
+                                              "color":  "rgb(37, 37, 37)"
+                                          },
+                                          {
+                                              "selector":  ".pt-footer",
+                                              "color":  "rgb(255, 255, 255)"
+                                          },
+                                          {
+                                              "selector":  ".hero-service-links",
+                                              "color":  "rgba(0, 0, 0, 0)"
+                                          }
+                                      ],
+                      "logoFilter":  "grayscale(1) brightness(1.65)",
+                      "allPhotosLoaded":  true,
+                      "phoneHref":  "tel:+18189340444",
+                      "phoneUnderlined":  true,
+                      "blogActions":  [
+
+                                      ],
+                      "width":  390,
+                      "scrollWidth":  390,
+                      "titleIconAlignment":  [
+
+                                             ],
+                      "creditPlain":  "none",
+                      "creditBrandUnderlined":  "underline",
+                      "readActions":  [
+                                          {
+                                              "font":  "18px",
+                                              "height":  49,
+                                              "border":  "1px",
+                                              "marginTop":  "18px",
+                                              "centerOffset":  0.0078125
+                                          },
+                                          {
+                                              "font":  "18px",
+                                              "height":  49,
+                                              "border":  "1px",
+                                              "marginTop":  "18px",
+                                              "centerOffset":  0.0078125
+                                          },
+                                          {
+                                              "font":  "18px",
+                                              "height":  49,
+                                              "border":  "1px",
+                                              "marginTop":  "18px",
+                                              "centerOffset":  0.0078125
+                                          },
+                                          {
+                                              "font":  "18px",
+                                              "height":  49,
+                                              "border":  "1px",
+                                              "marginTop":  "18px",
+                                              "centerOffset":  0.0078125
+                                          }
+                                      ],
+                      "topicRows":  0,
+                      "rowsInsideGrid":  0,
+                      "allRowsInsideMain":  true,
+                      "homeNotes":  4,
+                      "uniqueIcons":  true,
+                      "iconsDrawn":  true,
+                      "footerPresent":  true
+                  }
+    },
+    {
+        "width":  390,
+        "page":  "notes",
+        "state":  {
+                      "backgrounds":  [
+                                          {
+                                              "selector":  "body",
+                                              "color":  "rgb(255, 255, 255)"
+                                          },
+                                          {
+                                              "selector":  ".pt-header",
+                                              "color":  "rgb(37, 37, 37)"
+                                          },
+                                          {
+                                              "selector":  ".pt-footer",
+                                              "color":  "rgb(255, 255, 255)"
+                                          }
+                                      ],
+                      "logoFilter":  "grayscale(1) brightness(1.65)",
+                      "allPhotosLoaded":  true,
+                      "phoneHref":  "tel:+18189340444",
+                      "phoneUnderlined":  true,
+                      "blogActions":  [
+
+                                      ],
+                      "width":  390,
+                      "scrollWidth":  390,
+                      "titleIconAlignment":  [
+                                                 0,
+                                                 0,
+                                                 0,
+                                                 0,
+                                                 0,
+                                                 0,
+                                                 0,
+                                                 0,
+                                                 0,
+                                                 0,
+                                                 0,
+                                                 0
+                                             ],
+                      "creditPlain":  "none",
+                      "creditBrandUnderlined":  "underline",
+                      "readActions":  [
+                                          {
+                                              "font":  "18px",
+                                              "height":  49,
+                                              "border":  "1px",
+                                              "marginTop":  "18px",
+                                              "centerOffset":  0
+                                          },
+                                          {
+                                              "font":  "18px",
+                                              "height":  49,
+                                              "border":  "1px",
+                                              "marginTop":  "18px",
+                                              "centerOffset":  0
+                                          },
+                                          {
+                                              "font":  "18px",
+                                              "height":  49,
+                                              "border":  "1px",
+                                              "marginTop":  "18px",
+                                              "centerOffset":  0
+                                          },
+                                          {
+                                              "font":  "18px",
+                                              "height":  49,
+                                              "border":  "1px",
+                                              "marginTop":  "18px",
+                                              "centerOffset":  0
+                                          },
+                                          {
+                                              "font":  "18px",
+                                              "height":  49,
+                                              "border":  "1px",
+                                              "marginTop":  "18px",
+                                              "centerOffset":  0
+                                          },
+                                          {
+                                              "font":  "18px",
+                                              "height":  49,
+                                              "border":  "1px",
+                                              "marginTop":  "18px",
+                                              "centerOffset":  0
+                                          },
+                                          {
+                                              "font":  "18px",
+                                              "height":  49,
+                                              "border":  "1px",
+                                              "marginTop":  "18px",
+                                              "centerOffset":  0
+                                          },
+                                          {
+                                              "font":  "18px",
+                                              "height":  49,
+                                              "border":  "1px",
+                                              "marginTop":  "18px",
+                                              "centerOffset":  0
+                                          },
+                                          {
+                                              "font":  "18px",
+                                              "height":  49,
+                                              "border":  "1px",
+                                              "marginTop":  "18px",
+                                              "centerOffset":  0
+                                          },
+                                          {
+                                              "font":  "18px",
+                                              "height":  49,
+                                              "border":  "1px",
+                                              "marginTop":  "18px",
+                                              "centerOffset":  0
+                                          },
+                                          {
+                                              "font":  "18px",
+                                              "height":  49,
+                                              "border":  "1px",
+                                              "marginTop":  "18px",
+                                              "centerOffset":  0
+                                          },
+                                          {
+                                              "font":  "18px",
+                                              "height":  49,
+                                              "border":  "1px",
+                                              "marginTop":  "18px",
+                                              "centerOffset":  0
+                                          }
+                                      ],
+                      "topicRows":  12,
+                      "rowsInsideGrid":  12,
+                      "allRowsInsideMain":  true,
+                      "homeNotes":  0,
+                      "uniqueIcons":  true,
+                      "iconsDrawn":  true,
+                      "footerPresent":  true
+                  }
+    },
+    {
+        "width":  390,
+        "page":  "blog",
+        "state":  {
+                      "backgrounds":  [
+                                          {
+                                              "selector":  "body",
+                                              "color":  "rgb(255, 255, 255)"
+                                          },
+                                          {
+                                              "selector":  ".pt-header",
+                                              "color":  "rgb(37, 37, 37)"
+                                          },
+                                          {
+                                              "selector":  ".pt-footer",
+                                              "color":  "rgb(255, 255, 255)"
+                                          }
+                                      ],
+                      "logoFilter":  "grayscale(1) brightness(1.65)",
+                      "allPhotosLoaded":  true,
+                      "phoneHref":  "tel:+18189340444",
+                      "phoneUnderlined":  true,
+                      "blogActions":  [
+                                          {
+                                              "centerOffset":  0.0078125
+                                          },
+                                          {
+                                              "centerOffset":  0.0078125
+                                          },
+                                          {
+                                              "centerOffset":  0.0078125
+                                          }
+                                      ],
+                      "width":  390,
+                      "scrollWidth":  390,
+                      "titleIconAlignment":  [
+
+                                             ],
+                      "creditPlain":  "none",
+                      "creditBrandUnderlined":  "underline",
+                      "readActions":  [
+
+                                      ],
+                      "topicRows":  0,
+                      "rowsInsideGrid":  0,
+                      "allRowsInsideMain":  true,
+                      "homeNotes":  0,
+                      "uniqueIcons":  true,
+                      "iconsDrawn":  true,
+                      "footerPresent":  true
+                  }
+    }
+]

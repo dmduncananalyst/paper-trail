@@ -1,0 +1,16 @@
+{
+  "page_device_checks": 224,
+  "all_192_pages_checked_at_phone_width": 192,
+  "additional_widths": [
+    320,
+    430,
+    834,
+    1440
+  ],
+  "unexpected_desktop_changes": [],
+  "allowed_desktop_wording_changes": 9,
+  "failures": [],
+  "no_google_api_calls": true,
+  "no_forms_submitted": true,
+  "no_commits_pushes_or_publication": true
+}

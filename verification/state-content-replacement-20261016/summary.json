@@ -1,0 +1,23 @@
+{
+  "state_pages_replaced": 50,
+  "states_mapped_correctly": 50,
+  "state_viewport_checks": 150,
+  "language_checks": 60,
+  "internal_links_checked": 1900,
+  "unique_sources": 134,
+  "successful_source_access": 103,
+  "broken_sources": [
+    "https://floridarevenue.com/rules/Pages/12D-51.001.aspx"
+  ],
+  "source_access_unverified": 30,
+  "states_without_direct_sources": [
+    "Indiana",
+    "New Jersey",
+    "Wyoming"
+  ],
+  "publication_approval": "Pending for all states",
+  "Google_API_calls": 0,
+  "sitemap_modified": false,
+  "indexing": "Existing noindex,follow retained pending factual review and owner approval",
+  "runtime_exceptions": 0
+}

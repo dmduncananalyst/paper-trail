@@ -1,0 +1,1282 @@
+﻿[
+    {
+        "language":  "en",
+        "page":  "index.html",
+        "state":  {
+                      "edited":  true,
+                      "editLabels":  [
+                                         "State",
+                                         "What needs attention",
+                                         "Scope or period",
+                                         "Current system",
+                                         "Type of business",
+                                         "Company name",
+                                         "Start timing",
+                                         "Meeting preference",
+                                         "Availability",
+                                         "Meeting time",
+                                         "Time zone",
+                                         "Name",
+                                         "Email",
+                                         "Phone number"
+                                     ],
+                      "confirmationTranslated":  true,
+                      "activeQuestions":  0,
+                      "mockPayload":  {
+                                          "fields":  [
+                                                         {
+                                                             "objectTypeId":  "0-1",
+                                                             "name":  "firstname",
+                                                             "value":  "Example"
+                                                         },
+                                                         {
+                                                             "objectTypeId":  "0-1",
+                                                             "name":  "lastname",
+                                                             "value":  "Owner"
+                                                         },
+                                                         {
+                                                             "objectTypeId":  "0-1",
+                                                             "name":  "email",
+                                                             "value":  "owner@example.com"
+                                                         },
+                                                         {
+                                                             "objectTypeId":  "0-1",
+                                                             "name":  "phone",
+                                                             "value":  "8185550123"
+                                                         },
+                                                         {
+                                                             "objectTypeId":  "0-1",
+                                                             "name":  "company",
+                                                             "value":  "Example Company"
+                                                         },
+                                                         {
+                                                             "objectTypeId":  "0-1",
+                                                             "name":  "message",
+                                                             "value":  "Paper Trail inquiry\nTopic: Business bookkeeping\n\nConversation language: en\nState: Nevada\nMeeting time: Morning\nTime zone: Pacific\nWhat needs attention: Catch up overdue books\nScope or period: This month\nCurrent system: QuickBooks\nType of business: Example shop\nCompany name: Example Company\nStart timing: As soon as possible\nMeeting preference: Zoom\nAvailability: Monday\nName: Example Owner\nEmail: owner@example.com\nPhone number: 8185550123"
+                                                         }
+                                                     ],
+                                          "context":  {
+                                                          "pageName":  "Business bookkeeping | Paper Trail",
+                                                          "pageUri":  "http://127.0.0.1:8765/index.html"
+                                                      }
+                                      },
+                      "externalDeliveryPerformed":  false
+                  }
+    },
+    {
+        "language":  "es",
+        "page":  "index.html",
+        "state":  {
+                      "edited":  true,
+                      "editLabels":  [
+                                         "Estado",
+                                         "Qué necesita atención",
+                                         "Alcance o período",
+                                         "Sistema actual",
+                                         "Tipo de negocio",
+                                         "Nombre de la empresa",
+                                         "Fecha de inicio",
+                                         "Preferencia de reunión",
+                                         "Disponibilidad",
+                                         "Hora de reunión",
+                                         "Zona horaria",
+                                         "Nombre",
+                                         "Correo electrónico",
+                                         "Número de teléfono"
+                                     ],
+                      "confirmationTranslated":  true,
+                      "activeQuestions":  0,
+                      "mockPayload":  {
+                                          "fields":  [
+                                                         {
+                                                             "objectTypeId":  "0-1",
+                                                             "name":  "firstname",
+                                                             "value":  "Example"
+                                                         },
+                                                         {
+                                                             "objectTypeId":  "0-1",
+                                                             "name":  "lastname",
+                                                             "value":  "Owner"
+                                                         },
+                                                         {
+                                                             "objectTypeId":  "0-1",
+                                                             "name":  "email",
+                                                             "value":  "owner@example.com"
+                                                         },
+                                                         {
+                                                             "objectTypeId":  "0-1",
+                                                             "name":  "phone",
+                                                             "value":  "8185550123"
+                                                         },
+                                                         {
+                                                             "objectTypeId":  "0-1",
+                                                             "name":  "company",
+                                                             "value":  "Example Company"
+                                                         },
+                                                         {
+                                                             "objectTypeId":  "0-1",
+                                                             "name":  "message",
+                                                             "value":  "Paper Trail inquiry\nTopic: Business bookkeeping\n\nConversation language: es\nState: Nevada\nMeeting time: Morning\nTime zone: Pacific\nWhat needs attention: Catch up overdue books\nScope or period: This month\nCurrent system: QuickBooks\nType of business: Example shop\nCompany name: Example Company\nStart timing: As soon as possible\nMeeting preference: Zoom\nAvailability: Monday\nName: Example Owner\nEmail: owner@example.com\nPhone number: 8185550123"
+                                                         }
+                                                     ],
+                                          "context":  {
+                                                          "pageName":  "Business bookkeeping | Paper Trail",
+                                                          "pageUri":  "http://127.0.0.1:8765/index.html"
+                                                      }
+                                      },
+                      "externalDeliveryPerformed":  false
+                  }
+    },
+    {
+        "language":  "fa",
+        "page":  "index.html",
+        "state":  {
+                      "edited":  true,
+                      "editLabels":  [
+                                         "ایالت",
+                                         "موضوع نیازمند رسیدگی",
+                                         "محدوده یا دوره",
+                                         "سیستم فعلی",
+                                         "نوع کسب و کار",
+                                         "نام شرکت",
+                                         "زمان شروع",
+                                         "نوع جلسه ترجیحی",
+                                         "زمان در دسترس بودن",
+                                         "ساعت جلسه",
+                                         "منطقه زمانی",
+                                         "نام",
+                                         "ایمیل",
+                                         "شماره تلفن"
+                                     ],
+                      "confirmationTranslated":  true,
+                      "activeQuestions":  0,
+                      "mockPayload":  {
+                                          "fields":  [
+                                                         {
+                                                             "objectTypeId":  "0-1",
+                                                             "name":  "firstname",
+                                                             "value":  "Example"
+                                                         },
+                                                         {
+                                                             "objectTypeId":  "0-1",
+                                                             "name":  "lastname",
+                                                             "value":  "Owner"
+                                                         },
+                                                         {
+                                                             "objectTypeId":  "0-1",
+                                                             "name":  "email",
+                                                             "value":  "owner@example.com"
+                                                         },
+                                                         {
+                                                             "objectTypeId":  "0-1",
+                                                             "name":  "phone",
+                                                             "value":  "8185550123"
+                                                         },
+                                                         {
+                                                             "objectTypeId":  "0-1",
+                                                             "name":  "company",
+                                                             "value":  "Example Company"
+                                                         },
+                                                         {
+                                                             "objectTypeId":  "0-1",
+                                                             "name":  "message",
+                                                             "value":  "Paper Trail inquiry\nTopic: Business bookkeeping\n\nConversation language: fa\nState: Nevada\nMeeting time: Morning\nTime zone: Pacific\nWhat needs attention: Catch up overdue books\nScope or period: This month\nCurrent system: QuickBooks\nType of business: Example shop\nCompany name: Example Company\nStart timing: As soon as possible\nMeeting preference: Zoom\nAvailability: Monday\nName: Example Owner\nEmail: owner@example.com\nPhone number: 8185550123"
+                                                         }
+                                                     ],
+                                          "context":  {
+                                                          "pageName":  "Business bookkeeping | Paper Trail",
+                                                          "pageUri":  "http://127.0.0.1:8765/index.html"
+                                                      }
+                                      },
+                      "externalDeliveryPerformed":  false
+                  }
+    },
+    {
+        "language":  "hy",
+        "page":  "index.html",
+        "state":  {
+                      "edited":  true,
+                      "editLabels":  [
+                                         "Նահանգ",
+                                         "Ուշադրության կարիք ունեցող հարց",
+                                         "Ծավալ կամ ժամանակահատված",
+                                         "Ընթացիկ համակարգ",
+                                         "Բիզնեսի տեսակ",
+                                         "Ընկերության անուն",
+                                         "Սկսելու ժամկետ",
+                                         "Հանդիպման նախընտրություն",
+                                         "Հասանելիություն",
+                                         "Հանդիպման ժամ",
+                                         "Ժամային գոտի",
+                                         "Անուն",
+                                         "Էլեկտրոնային հասցե",
+                                         "Հեռախոսահամար"
+                                     ],
+                      "confirmationTranslated":  true,
+                      "activeQuestions":  0,
+                      "mockPayload":  {
+                                          "fields":  [
+                                                         {
+                                                             "objectTypeId":  "0-1",
+                                                             "name":  "firstname",
+                                                             "value":  "Example"
+                                                         },
+                                                         {
+                                                             "objectTypeId":  "0-1",
+                                                             "name":  "lastname",
+                                                             "value":  "Owner"
+                                                         },
+                                                         {
+                                                             "objectTypeId":  "0-1",
+                                                             "name":  "email",
+                                                             "value":  "owner@example.com"
+                                                         },
+                                                         {
+                                                             "objectTypeId":  "0-1",
+                                                             "name":  "phone",
+                                                             "value":  "8185550123"
+                                                         },
+                                                         {
+                                                             "objectTypeId":  "0-1",
+                                                             "name":  "company",
+                                                             "value":  "Example Company"
+                                                         },
+                                                         {
+                                                             "objectTypeId":  "0-1",
+                                                             "name":  "message",
+                                                             "value":  "Paper Trail inquiry\nTopic: Business bookkeeping\n\nConversation language: hy\nState: Nevada\nMeeting time: Morning\nTime zone: Pacific\nWhat needs attention: Catch up overdue books\nScope or period: This month\nCurrent system: QuickBooks\nType of business: Example shop\nCompany name: Example Company\nStart timing: As soon as possible\nMeeting preference: Zoom\nAvailability: Monday\nName: Example Owner\nEmail: owner@example.com\nPhone number: 8185550123"
+                                                         }
+                                                     ],
+                                          "context":  {
+                                                          "pageName":  "Business bookkeeping | Paper Trail",
+                                                          "pageUri":  "http://127.0.0.1:8765/index.html"
+                                                      }
+                                      },
+                      "externalDeliveryPerformed":  false
+                  }
+    },
+    {
+        "language":  "zh-CN",
+        "page":  "index.html",
+        "state":  {
+                      "edited":  true,
+                      "editLabels":  [
+                                         "州",
+                                         "需要处理的事项",
+                                         "范围或期间",
+                                         "当前系统",
+                                         "业务类型",
+                                         "公司名称",
+                                         "开始时间",
+                                         "会议偏好",
+                                         "可用时间",
+                                         "会议时间",
+                                         "时区",
+                                         "姓名",
+                                         "电子邮箱",
+                                         "电话号码"
+                                     ],
+                      "confirmationTranslated":  true,
+                      "activeQuestions":  0,
+                      "mockPayload":  {
+                                          "fields":  [
+                                                         {
+                                                             "objectTypeId":  "0-1",
+                                                             "name":  "firstname",
+                                                             "value":  "Example"
+                                                         },
+                                                         {
+                                                             "objectTypeId":  "0-1",
+                                                             "name":  "lastname",
+                                                             "value":  "Owner"
+                                                         },
+                                                         {
+                                                             "objectTypeId":  "0-1",
+                                                             "name":  "email",
+                                                             "value":  "owner@example.com"
+                                                         },
+                                                         {
+                                                             "objectTypeId":  "0-1",
+                                                             "name":  "phone",
+                                                             "value":  "8185550123"
+                                                         },
+                                                         {
+                                                             "objectTypeId":  "0-1",
+                                                             "name":  "company",
+                                                             "value":  "Example Company"
+                                                         },
+                                                         {
+                                                             "objectTypeId":  "0-1",
+                                                             "name":  "message",
+                                                             "value":  "Paper Trail inquiry\nTopic: Business bookkeeping\n\nConversation language: zh-CN\nState: Nevada\nMeeting time: Morning\nTime zone: Pacific\nWhat needs attention: Catch up overdue books\nScope or period: This month\nCurrent system: QuickBooks\nType of business: Example shop\nCompany name: Example Company\nStart timing: As soon as possible\nMeeting preference: Zoom\nAvailability: Monday\nName: Example Owner\nEmail: owner@example.com\nPhone number: 8185550123"
+                                                         }
+                                                     ],
+                                          "context":  {
+                                                          "pageName":  "Business bookkeeping | Paper Trail",
+                                                          "pageUri":  "http://127.0.0.1:8765/index.html"
+                                                      }
+                                      },
+                      "externalDeliveryPerformed":  false
+                  }
+    },
+    {
+        "language":  "ko",
+        "page":  "index.html",
+        "state":  {
+                      "edited":  true,
+                      "editLabels":  [
+                                         "주",
+                                         "살펴볼 사항",
+                                         "범위 또는 기간",
+                                         "현재 시스템",
+                                         "사업 유형",
+                                         "회사 이름",
+                                         "시작 시기",
+                                         "선호하는 미팅 방식",
+                                         "가능한 일정",
+                                         "미팅 시간",
+                                         "시간대",
+                                         "이름",
+                                         "이메일",
+                                         "전화번호"
+                                     ],
+                      "confirmationTranslated":  true,
+                      "activeQuestions":  0,
+                      "mockPayload":  {
+                                          "fields":  [
+                                                         {
+                                                             "objectTypeId":  "0-1",
+                                                             "name":  "firstname",
+                                                             "value":  "Example"
+                                                         },
+                                                         {
+                                                             "objectTypeId":  "0-1",
+                                                             "name":  "lastname",
+                                                             "value":  "Owner"
+                                                         },
+                                                         {
+                                                             "objectTypeId":  "0-1",
+                                                             "name":  "email",
+                                                             "value":  "owner@example.com"
+                                                         },
+                                                         {
+                                                             "objectTypeId":  "0-1",
+                                                             "name":  "phone",
+                                                             "value":  "8185550123"
+                                                         },
+                                                         {
+                                                             "objectTypeId":  "0-1",
+                                                             "name":  "company",
+                                                             "value":  "Example Company"
+                                                         },
+                                                         {
+                                                             "objectTypeId":  "0-1",
+                                                             "name":  "message",
+                                                             "value":  "Paper Trail inquiry\nTopic: Business bookkeeping\n\nConversation language: ko\nState: Nevada\nMeeting time: Morning\nTime zone: Pacific\nWhat needs attention: Catch up overdue books\nScope or period: This month\nCurrent system: QuickBooks\nType of business: Example shop\nCompany name: Example Company\nStart timing: As soon as possible\nMeeting preference: Zoom\nAvailability: Monday\nName: Example Owner\nEmail: owner@example.com\nPhone number: 8185550123"
+                                                         }
+                                                     ],
+                                          "context":  {
+                                                          "pageName":  "Business bookkeeping | Paper Trail",
+                                                          "pageUri":  "http://127.0.0.1:8765/index.html"
+                                                      }
+                                      },
+                      "externalDeliveryPerformed":  false
+                  }
+    },
+    {
+        "language":  "tl",
+        "page":  "index.html",
+        "state":  {
+                      "edited":  true,
+                      "editLabels":  [
+                                         "Estado",
+                                         "Kailangang asikasuhin",
+                                         "Saklaw o panahon",
+                                         "Kasalukuyang sistema",
+                                         "Uri ng negosyo",
+                                         "Pangalan ng kumpanya",
+                                         "Panahon ng pagsisimula",
+                                         "Gustong uri ng pagpupulong",
+                                         "Mga araw na maaari",
+                                         "Oras ng pagpupulong",
+                                         "Sona ng oras",
+                                         "Pangalan",
+                                         "Email",
+                                         "Numero ng telepono"
+                                     ],
+                      "confirmationTranslated":  true,
+                      "activeQuestions":  0,
+                      "mockPayload":  {
+                                          "fields":  [
+                                                         {
+                                                             "objectTypeId":  "0-1",
+                                                             "name":  "firstname",
+                                                             "value":  "Example"
+                                                         },
+                                                         {
+                                                             "objectTypeId":  "0-1",
+                                                             "name":  "lastname",
+                                                             "value":  "Owner"
+                                                         },
+                                                         {
+                                                             "objectTypeId":  "0-1",
+                                                             "name":  "email",
+                                                             "value":  "owner@example.com"
+                                                         },
+                                                         {
+                                                             "objectTypeId":  "0-1",
+                                                             "name":  "phone",
+                                                             "value":  "8185550123"
+                                                         },
+                                                         {
+                                                             "objectTypeId":  "0-1",
+                                                             "name":  "company",
+                                                             "value":  "Example Company"
+                                                         },
+                                                         {
+                                                             "objectTypeId":  "0-1",
+                                                             "name":  "message",
+                                                             "value":  "Paper Trail inquiry\nTopic: Business bookkeeping\n\nConversation language: tl\nState: Nevada\nMeeting time: Morning\nTime zone: Pacific\nWhat needs attention: Catch up overdue books\nScope or period: This month\nCurrent system: QuickBooks\nType of business: Example shop\nCompany name: Example Company\nStart timing: As soon as possible\nMeeting preference: Zoom\nAvailability: Monday\nName: Example Owner\nEmail: owner@example.com\nPhone number: 8185550123"
+                                                         }
+                                                     ],
+                                          "context":  {
+                                                          "pageName":  "Business bookkeeping | Paper Trail",
+                                                          "pageUri":  "http://127.0.0.1:8765/index.html"
+                                                      }
+                                      },
+                      "externalDeliveryPerformed":  false
+                  }
+    },
+    {
+        "language":  "te",
+        "page":  "index.html",
+        "state":  {
+                      "edited":  true,
+                      "editLabels":  [
+                                         "రాష్ట్రం",
+                                         "శ్రద్ధ అవసరమైన విషయం",
+                                         "పరిధి లేదా కాలం",
+                                         "ప్రస్తుత వ్యవస్థ",
+                                         "వ్యాపార రకం",
+                                         "కంపెనీ పేరు",
+                                         "ప్రారంభ సమయం",
+                                         "సమావేశ ప్రాధాన్యత",
+                                         "అందుబాటు",
+                                         "సమావేశ సమయం",
+                                         "సమయ మండలం",
+                                         "పేరు",
+                                         "ఇమెయిల్",
+                                         "ఫోన్ నంబరు"
+                                     ],
+                      "confirmationTranslated":  true,
+                      "activeQuestions":  0,
+                      "mockPayload":  {
+                                          "fields":  [
+                                                         {
+                                                             "objectTypeId":  "0-1",
+                                                             "name":  "firstname",
+                                                             "value":  "Example"
+                                                         },
+                                                         {
+                                                             "objectTypeId":  "0-1",
+                                                             "name":  "lastname",
+                                                             "value":  "Owner"
+                                                         },
+                                                         {
+                                                             "objectTypeId":  "0-1",
+                                                             "name":  "email",
+                                                             "value":  "owner@example.com"
+                                                         },
+                                                         {
+                                                             "objectTypeId":  "0-1",
+                                                             "name":  "phone",
+                                                             "value":  "8185550123"
+                                                         },
+                                                         {
+                                                             "objectTypeId":  "0-1",
+                                                             "name":  "company",
+                                                             "value":  "Example Company"
+                                                         },
+                                                         {
+                                                             "objectTypeId":  "0-1",
+                                                             "name":  "message",
+                                                             "value":  "Paper Trail inquiry\nTopic: Business bookkeeping\n\nConversation language: te\nState: Nevada\nMeeting time: Morning\nTime zone: Pacific\nWhat needs attention: Catch up overdue books\nScope or period: This month\nCurrent system: QuickBooks\nType of business: Example shop\nCompany name: Example Company\nStart timing: As soon as possible\nMeeting preference: Zoom\nAvailability: Monday\nName: Example Owner\nEmail: owner@example.com\nPhone number: 8185550123"
+                                                         }
+                                                     ],
+                                          "context":  {
+                                                          "pageName":  "Business bookkeeping | Paper Trail",
+                                                          "pageUri":  "http://127.0.0.1:8765/index.html"
+                                                      }
+                                      },
+                      "externalDeliveryPerformed":  false
+                  }
+    },
+    {
+        "language":  "ru",
+        "page":  "index.html",
+        "state":  {
+                      "edited":  true,
+                      "editLabels":  [
+                                         "Штат",
+                                         "Что требует внимания",
+                                         "Объём или период",
+                                         "Текущая система",
+                                         "Вид бизнеса",
+                                         "Название компании",
+                                         "Срок начала",
+                                         "Предпочтительный формат встречи",
+                                         "Доступность",
+                                         "Время встречи",
+                                         "Часовой пояс",
+                                         "Имя",
+                                         "Электронная почта",
+                                         "Номер телефона"
+                                     ],
+                      "confirmationTranslated":  true,
+                      "activeQuestions":  0,
+                      "mockPayload":  {
+                                          "fields":  [
+                                                         {
+                                                             "objectTypeId":  "0-1",
+                                                             "name":  "firstname",
+                                                             "value":  "Example"
+                                                         },
+                                                         {
+                                                             "objectTypeId":  "0-1",
+                                                             "name":  "lastname",
+                                                             "value":  "Owner"
+                                                         },
+                                                         {
+                                                             "objectTypeId":  "0-1",
+                                                             "name":  "email",
+                                                             "value":  "owner@example.com"
+                                                         },
+                                                         {
+                                                             "objectTypeId":  "0-1",
+                                                             "name":  "phone",
+                                                             "value":  "8185550123"
+                                                         },
+                                                         {
+                                                             "objectTypeId":  "0-1",
+                                                             "name":  "company",
+                                                             "value":  "Example Company"
+                                                         },
+                                                         {
+                                                             "objectTypeId":  "0-1",
+                                                             "name":  "message",
+                                                             "value":  "Paper Trail inquiry\nTopic: Business bookkeeping\n\nConversation language: ru\nState: Nevada\nMeeting time: Morning\nTime zone: Pacific\nWhat needs attention: Catch up overdue books\nScope or period: This month\nCurrent system: QuickBooks\nType of business: Example shop\nCompany name: Example Company\nStart timing: As soon as possible\nMeeting preference: Zoom\nAvailability: Monday\nName: Example Owner\nEmail: owner@example.com\nPhone number: 8185550123"
+                                                         }
+                                                     ],
+                                          "context":  {
+                                                          "pageName":  "Business bookkeeping | Paper Trail",
+                                                          "pageUri":  "http://127.0.0.1:8765/index.html"
+                                                      }
+                                      },
+                      "externalDeliveryPerformed":  false
+                  }
+    },
+    {
+        "language":  "ar",
+        "page":  "index.html",
+        "state":  {
+                      "edited":  true,
+                      "editLabels":  [
+                                         "الولاية",
+                                         "ما يحتاج إلى اهتمام",
+                                         "النطاق أو الفترة",
+                                         "النظام الحالي",
+                                         "نوع النشاط التجاري",
+                                         "اسم الشركة",
+                                         "موعد البدء",
+                                         "تفضيل الاجتماع",
+                                         "الأوقات المتاحة",
+                                         "وقت الاجتماع",
+                                         "المنطقة الزمنية",
+                                         "الاسم",
+                                         "البريد الإلكتروني",
+                                         "رقم الهاتف"
+                                     ],
+                      "confirmationTranslated":  true,
+                      "activeQuestions":  0,
+                      "mockPayload":  {
+                                          "fields":  [
+                                                         {
+                                                             "objectTypeId":  "0-1",
+                                                             "name":  "firstname",
+                                                             "value":  "Example"
+                                                         },
+                                                         {
+                                                             "objectTypeId":  "0-1",
+                                                             "name":  "lastname",
+                                                             "value":  "Owner"
+                                                         },
+                                                         {
+                                                             "objectTypeId":  "0-1",
+                                                             "name":  "email",
+                                                             "value":  "owner@example.com"
+                                                         },
+                                                         {
+                                                             "objectTypeId":  "0-1",
+                                                             "name":  "phone",
+                                                             "value":  "8185550123"
+                                                         },
+                                                         {
+                                                             "objectTypeId":  "0-1",
+                                                             "name":  "company",
+                                                             "value":  "Example Company"
+                                                         },
+                                                         {
+                                                             "objectTypeId":  "0-1",
+                                                             "name":  "message",
+                                                             "value":  "Paper Trail inquiry\nTopic: Business bookkeeping\n\nConversation language: ar\nState: Nevada\nMeeting time: Morning\nTime zone: Pacific\nWhat needs attention: Catch up overdue books\nScope or period: This month\nCurrent system: QuickBooks\nType of business: Example shop\nCompany name: Example Company\nStart timing: As soon as possible\nMeeting preference: Zoom\nAvailability: Monday\nName: Example Owner\nEmail: owner@example.com\nPhone number: 8185550123"
+                                                         }
+                                                     ],
+                                          "context":  {
+                                                          "pageName":  "Business bookkeeping | Paper Trail",
+                                                          "pageUri":  "http://127.0.0.1:8765/index.html"
+                                                      }
+                                      },
+                      "externalDeliveryPerformed":  false
+                  }
+    },
+    {
+        "language":  "en",
+        "page":  "blog.html",
+        "state":  {
+                      "edited":  true,
+                      "editLabels":  [
+                                         "State",
+                                         "What needs attention",
+                                         "Scope or period",
+                                         "Current system",
+                                         "Type of business",
+                                         "Company name",
+                                         "Start timing",
+                                         "Meeting preference",
+                                         "Availability",
+                                         "Meeting time",
+                                         "Time zone",
+                                         "Name",
+                                         "Email",
+                                         "Phone number"
+                                     ],
+                      "confirmationTranslated":  true,
+                      "activeQuestions":  0,
+                      "mockPayload":  {
+                                          "fields":  [
+                                                         {
+                                                             "objectTypeId":  "0-1",
+                                                             "name":  "firstname",
+                                                             "value":  "Example"
+                                                         },
+                                                         {
+                                                             "objectTypeId":  "0-1",
+                                                             "name":  "lastname",
+                                                             "value":  "Owner"
+                                                         },
+                                                         {
+                                                             "objectTypeId":  "0-1",
+                                                             "name":  "email",
+                                                             "value":  "owner@example.com"
+                                                         },
+                                                         {
+                                                             "objectTypeId":  "0-1",
+                                                             "name":  "phone",
+                                                             "value":  "8185550123"
+                                                         },
+                                                         {
+                                                             "objectTypeId":  "0-1",
+                                                             "name":  "company",
+                                                             "value":  "Example Company"
+                                                         },
+                                                         {
+                                                             "objectTypeId":  "0-1",
+                                                             "name":  "message",
+                                                             "value":  "Paper Trail inquiry\nTopic: Business bookkeeping\n\nConversation language: en\nState: Nevada\nMeeting time: Morning\nTime zone: Pacific\nWhat needs attention: Catch up overdue books\nScope or period: This month\nCurrent system: QuickBooks\nType of business: Example shop\nCompany name: Example Company\nStart timing: As soon as possible\nMeeting preference: Zoom\nAvailability: Monday\nName: Example Owner\nEmail: owner@example.com\nPhone number: 8185550123"
+                                                         }
+                                                     ],
+                                          "context":  {
+                                                          "pageName":  "Business bookkeeping | Paper Trail",
+                                                          "pageUri":  "http://127.0.0.1:8765/blog.html"
+                                                      }
+                                      },
+                      "externalDeliveryPerformed":  false
+                  }
+    },
+    {
+        "language":  "es",
+        "page":  "blog.html",
+        "state":  {
+                      "edited":  true,
+                      "editLabels":  [
+                                         "Estado",
+                                         "Qué necesita atención",
+                                         "Alcance o período",
+                                         "Sistema actual",
+                                         "Tipo de negocio",
+                                         "Nombre de la empresa",
+                                         "Fecha de inicio",
+                                         "Preferencia de reunión",
+                                         "Disponibilidad",
+                                         "Hora de reunión",
+                                         "Zona horaria",
+                                         "Nombre",
+                                         "Correo electrónico",
+                                         "Número de teléfono"
+                                     ],
+                      "confirmationTranslated":  true,
+                      "activeQuestions":  0,
+                      "mockPayload":  {
+                                          "fields":  [
+                                                         {
+                                                             "objectTypeId":  "0-1",
+                                                             "name":  "firstname",
+                                                             "value":  "Example"
+                                                         },
+                                                         {
+                                                             "objectTypeId":  "0-1",
+                                                             "name":  "lastname",
+                                                             "value":  "Owner"
+                                                         },
+                                                         {
+                                                             "objectTypeId":  "0-1",
+                                                             "name":  "email",
+                                                             "value":  "owner@example.com"
+                                                         },
+                                                         {
+                                                             "objectTypeId":  "0-1",
+                                                             "name":  "phone",
+                                                             "value":  "8185550123"
+                                                         },
+                                                         {
+                                                             "objectTypeId":  "0-1",
+                                                             "name":  "company",
+                                                             "value":  "Example Company"
+                                                         },
+                                                         {
+                                                             "objectTypeId":  "0-1",
+                                                             "name":  "message",
+                                                             "value":  "Paper Trail inquiry\nTopic: Business bookkeeping\n\nConversation language: es\nState: Nevada\nMeeting time: Morning\nTime zone: Pacific\nWhat needs attention: Catch up overdue books\nScope or period: This month\nCurrent system: QuickBooks\nType of business: Example shop\nCompany name: Example Company\nStart timing: As soon as possible\nMeeting preference: Zoom\nAvailability: Monday\nName: Example Owner\nEmail: owner@example.com\nPhone number: 8185550123"
+                                                         }
+                                                     ],
+                                          "context":  {
+                                                          "pageName":  "Business bookkeeping | Paper Trail",
+                                                          "pageUri":  "http://127.0.0.1:8765/blog.html"
+                                                      }
+                                      },
+                      "externalDeliveryPerformed":  false
+                  }
+    },
+    {
+        "language":  "fa",
+        "page":  "blog.html",
+        "state":  {
+                      "edited":  true,
+                      "editLabels":  [
+                                         "ایالت",
+                                         "موضوع نیازمند رسیدگی",
+                                         "محدوده یا دوره",
+                                         "سیستم فعلی",
+                                         "نوع کسب و کار",
+                                         "نام شرکت",
+                                         "زمان شروع",
+                                         "نوع جلسه ترجیحی",
+                                         "زمان در دسترس بودن",
+                                         "ساعت جلسه",
+                                         "منطقه زمانی",
+                                         "نام",
+                                         "ایمیل",
+                                         "شماره تلفن"
+                                     ],
+                      "confirmationTranslated":  true,
+                      "activeQuestions":  0,
+                      "mockPayload":  {
+                                          "fields":  [
+                                                         {
+                                                             "objectTypeId":  "0-1",
+                                                             "name":  "firstname",
+                                                             "value":  "Example"
+                                                         },
+                                                         {
+                                                             "objectTypeId":  "0-1",
+                                                             "name":  "lastname",
+                                                             "value":  "Owner"
+                                                         },
+                                                         {
+                                                             "objectTypeId":  "0-1",
+                                                             "name":  "email",
+                                                             "value":  "owner@example.com"
+                                                         },
+                                                         {
+                                                             "objectTypeId":  "0-1",
+                                                             "name":  "phone",
+                                                             "value":  "8185550123"
+                                                         },
+                                                         {
+                                                             "objectTypeId":  "0-1",
+                                                             "name":  "company",
+                                                             "value":  "Example Company"
+                                                         },
+                                                         {
+                                                             "objectTypeId":  "0-1",
+                                                             "name":  "message",
+                                                             "value":  "Paper Trail inquiry\nTopic: Business bookkeeping\n\nConversation language: fa\nState: Nevada\nMeeting time: Morning\nTime zone: Pacific\nWhat needs attention: Catch up overdue books\nScope or period: This month\nCurrent system: QuickBooks\nType of business: Example shop\nCompany name: Example Company\nStart timing: As soon as possible\nMeeting preference: Zoom\nAvailability: Monday\nName: Example Owner\nEmail: owner@example.com\nPhone number: 8185550123"
+                                                         }
+                                                     ],
+                                          "context":  {
+                                                          "pageName":  "Business bookkeeping | Paper Trail",
+                                                          "pageUri":  "http://127.0.0.1:8765/blog.html"
+                                                      }
+                                      },
+                      "externalDeliveryPerformed":  false
+                  }
+    },
+    {
+        "language":  "hy",
+        "page":  "blog.html",
+        "state":  {
+                      "edited":  true,
+                      "editLabels":  [
+                                         "Նահանգ",
+                                         "Ուշադրության կարիք ունեցող հարց",
+                                         "Ծավալ կամ ժամանակահատված",
+                                         "Ընթացիկ համակարգ",
+                                         "Բիզնեսի տեսակ",
+                                         "Ընկերության անուն",
+                                         "Սկսելու ժամկետ",
+                                         "Հանդիպման նախընտրություն",
+                                         "Հասանելիություն",
+                                         "Հանդիպման ժամ",
+                                         "Ժամային գոտի",
+                                         "Անուն",
+                                         "Էլեկտրոնային հասցե",
+                                         "Հեռախոսահամար"
+                                     ],
+                      "confirmationTranslated":  true,
+                      "activeQuestions":  0,
+                      "mockPayload":  {
+                                          "fields":  [
+                                                         {
+                                                             "objectTypeId":  "0-1",
+                                                             "name":  "firstname",
+                                                             "value":  "Example"
+                                                         },
+                                                         {
+                                                             "objectTypeId":  "0-1",
+                                                             "name":  "lastname",
+                                                             "value":  "Owner"
+                                                         },
+                                                         {
+                                                             "objectTypeId":  "0-1",
+                                                             "name":  "email",
+                                                             "value":  "owner@example.com"
+                                                         },
+                                                         {
+                                                             "objectTypeId":  "0-1",
+                                                             "name":  "phone",
+                                                             "value":  "8185550123"
+                                                         },
+                                                         {
+                                                             "objectTypeId":  "0-1",
+                                                             "name":  "company",
+                                                             "value":  "Example Company"
+                                                         },
+                                                         {
+                                                             "objectTypeId":  "0-1",
+                                                             "name":  "message",
+                                                             "value":  "Paper Trail inquiry\nTopic: Business bookkeeping\n\nConversation language: hy\nState: Nevada\nMeeting time: Morning\nTime zone: Pacific\nWhat needs attention: Catch up overdue books\nScope or period: This month\nCurrent system: QuickBooks\nType of business: Example shop\nCompany name: Example Company\nStart timing: As soon as possible\nMeeting preference: Zoom\nAvailability: Monday\nName: Example Owner\nEmail: owner@example.com\nPhone number: 8185550123"
+                                                         }
+                                                     ],
+                                          "context":  {
+                                                          "pageName":  "Business bookkeeping | Paper Trail",
+                                                          "pageUri":  "http://127.0.0.1:8765/blog.html"
+                                                      }
+                                      },
+                      "externalDeliveryPerformed":  false
+                  }
+    },
+    {
+        "language":  "zh-CN",
+        "page":  "blog.html",
+        "state":  {
+                      "edited":  true,
+                      "editLabels":  [
+                                         "州",
+                                         "需要处理的事项",
+                                         "范围或期间",
+                                         "当前系统",
+                                         "业务类型",
+                                         "公司名称",
+                                         "开始时间",
+                                         "会议偏好",
+                                         "可用时间",
+                                         "会议时间",
+                                         "时区",
+                                         "姓名",
+                                         "电子邮箱",
+                                         "电话号码"
+                                     ],
+                      "confirmationTranslated":  true,
+                      "activeQuestions":  0,
+                      "mockPayload":  {
+                                          "fields":  [
+                                                         {
+                                                             "objectTypeId":  "0-1",
+                                                             "name":  "firstname",
+                                                             "value":  "Example"
+                                                         },
+                                                         {
+                                                             "objectTypeId":  "0-1",
+                                                             "name":  "lastname",
+                                                             "value":  "Owner"
+                                                         },
+                                                         {
+                                                             "objectTypeId":  "0-1",
+                                                             "name":  "email",
+                                                             "value":  "owner@example.com"
+                                                         },
+                                                         {
+                                                             "objectTypeId":  "0-1",
+                                                             "name":  "phone",
+                                                             "value":  "8185550123"
+                                                         },
+                                                         {
+                                                             "objectTypeId":  "0-1",
+                                                             "name":  "company",
+                                                             "value":  "Example Company"
+                                                         },
+                                                         {
+                                                             "objectTypeId":  "0-1",
+                                                             "name":  "message",
+                                                             "value":  "Paper Trail inquiry\nTopic: Business bookkeeping\n\nConversation language: zh-CN\nState: Nevada\nMeeting time: Morning\nTime zone: Pacific\nWhat needs attention: Catch up overdue books\nScope or period: This month\nCurrent system: QuickBooks\nType of business: Example shop\nCompany name: Example Company\nStart timing: As soon as possible\nMeeting preference: Zoom\nAvailability: Monday\nName: Example Owner\nEmail: owner@example.com\nPhone number: 8185550123"
+                                                         }
+                                                     ],
+                                          "context":  {
+                                                          "pageName":  "Business bookkeeping | Paper Trail",
+                                                          "pageUri":  "http://127.0.0.1:8765/blog.html"
+                                                      }
+                                      },
+                      "externalDeliveryPerformed":  false
+                  }
+    },
+    {
+        "language":  "ko",
+        "page":  "blog.html",
+        "state":  {
+                      "edited":  true,
+                      "editLabels":  [
+                                         "주",
+                                         "살펴볼 사항",
+                                         "범위 또는 기간",
+                                         "현재 시스템",
+                                         "사업 유형",
+                                         "회사 이름",
+                                         "시작 시기",
+                                         "선호하는 미팅 방식",
+                                         "가능한 일정",
+                                         "미팅 시간",
+                                         "시간대",
+                                         "이름",
+                                         "이메일",
+                                         "전화번호"
+                                     ],
+                      "confirmationTranslated":  true,
+                      "activeQuestions":  0,
+                      "mockPayload":  {
+                                          "fields":  [
+                                                         {
+                                                             "objectTypeId":  "0-1",
+                                                             "name":  "firstname",
+                                                             "value":  "Example"
+                                                         },
+                                                         {
+                                                             "objectTypeId":  "0-1",
+                                                             "name":  "lastname",
+                                                             "value":  "Owner"
+                                                         },
+                                                         {
+                                                             "objectTypeId":  "0-1",
+                                                             "name":  "email",
+                                                             "value":  "owner@example.com"
+                                                         },
+                                                         {
+                                                             "objectTypeId":  "0-1",
+                                                             "name":  "phone",
+                                                             "value":  "8185550123"
+                                                         },
+                                                         {
+                                                             "objectTypeId":  "0-1",
+                                                             "name":  "company",
+                                                             "value":  "Example Company"
+                                                         },
+                                                         {
+                                                             "objectTypeId":  "0-1",
+                                                             "name":  "message",
+                                                             "value":  "Paper Trail inquiry\nTopic: Business bookkeeping\n\nConversation language: ko\nState: Nevada\nMeeting time: Morning\nTime zone: Pacific\nWhat needs attention: Catch up overdue books\nScope or period: This month\nCurrent system: QuickBooks\nType of business: Example shop\nCompany name: Example Company\nStart timing: As soon as possible\nMeeting preference: Zoom\nAvailability: Monday\nName: Example Owner\nEmail: owner@example.com\nPhone number: 8185550123"
+                                                         }
+                                                     ],
+                                          "context":  {
+                                                          "pageName":  "Business bookkeeping | Paper Trail",
+                                                          "pageUri":  "http://127.0.0.1:8765/blog.html"
+                                                      }
+                                      },
+                      "externalDeliveryPerformed":  false
+                  }
+    },
+    {
+        "language":  "tl",
+        "page":  "blog.html",
+        "state":  {
+                      "edited":  true,
+                      "editLabels":  [
+                                         "Estado",
+                                         "Kailangang asikasuhin",
+                                         "Saklaw o panahon",
+                                         "Kasalukuyang sistema",
+                                         "Uri ng negosyo",
+                                         "Pangalan ng kumpanya",
+                                         "Panahon ng pagsisimula",
+                                         "Gustong uri ng pagpupulong",
+                                         "Mga araw na maaari",
+                                         "Oras ng pagpupulong",
+                                         "Sona ng oras",
+                                         "Pangalan",
+                                         "Email",
+                                         "Numero ng telepono"
+                                     ],
+                      "confirmationTranslated":  true,
+                      "activeQuestions":  0,
+                      "mockPayload":  {
+                                          "fields":  [
+                                                         {
+                                                             "objectTypeId":  "0-1",
+                                                             "name":  "firstname",
+                                                             "value":  "Example"
+                                                         },
+                                                         {
+                                                             "objectTypeId":  "0-1",
+                                                             "name":  "lastname",
+                                                             "value":  "Owner"
+                                                         },
+                                                         {
+                                                             "objectTypeId":  "0-1",
+                                                             "name":  "email",
+                                                             "value":  "owner@example.com"
+                                                         },
+                                                         {
+                                                             "objectTypeId":  "0-1",
+                                                             "name":  "phone",
+                                                             "value":  "8185550123"
+                                                         },
+                                                         {
+                                                             "objectTypeId":  "0-1",
+                                                             "name":  "company",
+                                                             "value":  "Example Company"
+                                                         },
+                                                         {
+                                                             "objectTypeId":  "0-1",
+                                                             "name":  "message",
+                                                             "value":  "Paper Trail inquiry\nTopic: Business bookkeeping\n\nConversation language: tl\nState: Nevada\nMeeting time: Morning\nTime zone: Pacific\nWhat needs attention: Catch up overdue books\nScope or period: This month\nCurrent system: QuickBooks\nType of business: Example shop\nCompany name: Example Company\nStart timing: As soon as possible\nMeeting preference: Zoom\nAvailability: Monday\nName: Example Owner\nEmail: owner@example.com\nPhone number: 8185550123"
+                                                         }
+                                                     ],
+                                          "context":  {
+                                                          "pageName":  "Business bookkeeping | Paper Trail",
+                                                          "pageUri":  "http://127.0.0.1:8765/blog.html"
+                                                      }
+                                      },
+                      "externalDeliveryPerformed":  false
+                  }
+    },
+    {
+        "language":  "te",
+        "page":  "blog.html",
+        "state":  {
+                      "edited":  true,
+                      "editLabels":  [
+                                         "రాష్ట్రం",
+                                         "శ్రద్ధ అవసరమైన విషయం",
+                                         "పరిధి లేదా కాలం",
+                                         "ప్రస్తుత వ్యవస్థ",
+                                         "వ్యాపార రకం",
+                                         "కంపెనీ పేరు",
+                                         "ప్రారంభ సమయం",
+                                         "సమావేశ ప్రాధాన్యత",
+                                         "అందుబాటు",
+                                         "సమావేశ సమయం",
+                                         "సమయ మండలం",
+                                         "పేరు",
+                                         "ఇమెయిల్",
+                                         "ఫోన్ నంబరు"
+                                     ],
+                      "confirmationTranslated":  true,
+                      "activeQuestions":  0,
+                      "mockPayload":  {
+                                          "fields":  [
+                                                         {
+                                                             "objectTypeId":  "0-1",
+                                                             "name":  "firstname",
+                                                             "value":  "Example"
+                                                         },
+                                                         {
+                                                             "objectTypeId":  "0-1",
+                                                             "name":  "lastname",
+                                                             "value":  "Owner"
+                                                         },
+                                                         {
+                                                             "objectTypeId":  "0-1",
+                                                             "name":  "email",
+                                                             "value":  "owner@example.com"
+                                                         },
+                                                         {
+                                                             "objectTypeId":  "0-1",
+                                                             "name":  "phone",
+                                                             "value":  "8185550123"
+                                                         },
+                                                         {
+                                                             "objectTypeId":  "0-1",
+                                                             "name":  "company",
+                                                             "value":  "Example Company"
+                                                         },
+                                                         {
+                                                             "objectTypeId":  "0-1",
+                                                             "name":  "message",
+                                                             "value":  "Paper Trail inquiry\nTopic: Business bookkeeping\n\nConversation language: te\nState: Nevada\nMeeting time: Morning\nTime zone: Pacific\nWhat needs attention: Catch up overdue books\nScope or period: This month\nCurrent system: QuickBooks\nType of business: Example shop\nCompany name: Example Company\nStart timing: As soon as possible\nMeeting preference: Zoom\nAvailability: Monday\nName: Example Owner\nEmail: owner@example.com\nPhone number: 8185550123"
+                                                         }
+                                                     ],
+                                          "context":  {
+                                                          "pageName":  "Business bookkeeping | Paper Trail",
+                                                          "pageUri":  "http://127.0.0.1:8765/blog.html"
+                                                      }
+                                      },
+                      "externalDeliveryPerformed":  false
+                  }
+    },
+    {
+        "language":  "ru",
+        "page":  "blog.html",
+        "state":  {
+                      "edited":  true,
+                      "editLabels":  [
+                                         "Штат",
+                                         "Что требует внимания",
+                                         "Объём или период",
+                                         "Текущая система",
+                                         "Вид бизнеса",
+                                         "Название компании",
+                                         "Срок начала",
+                                         "Предпочтительный формат встречи",
+                                         "Доступность",
+                                         "Время встречи",
+                                         "Часовой пояс",
+                                         "Имя",
+                                         "Электронная почта",
+                                         "Номер телефона"
+                                     ],
+                      "confirmationTranslated":  true,
+                      "activeQuestions":  0,
+                      "mockPayload":  {
+                                          "fields":  [
+                                                         {
+                                                             "objectTypeId":  "0-1",
+                                                             "name":  "firstname",
+                                                             "value":  "Example"
+                                                         },
+                                                         {
+                                                             "objectTypeId":  "0-1",
+                                                             "name":  "lastname",
+                                                             "value":  "Owner"
+                                                         },
+                                                         {
+                                                             "objectTypeId":  "0-1",
+                                                             "name":  "email",
+                                                             "value":  "owner@example.com"
+                                                         },
+                                                         {
+                                                             "objectTypeId":  "0-1",
+                                                             "name":  "phone",
+                                                             "value":  "8185550123"
+                                                         },
+                                                         {
+                                                             "objectTypeId":  "0-1",
+                                                             "name":  "company",
+                                                             "value":  "Example Company"
+                                                         },
+                                                         {
+                                                             "objectTypeId":  "0-1",
+                                                             "name":  "message",
+                                                             "value":  "Paper Trail inquiry\nTopic: Business bookkeeping\n\nConversation language: ru\nState: Nevada\nMeeting time: Morning\nTime zone: Pacific\nWhat needs attention: Catch up overdue books\nScope or period: This month\nCurrent system: QuickBooks\nType of business: Example shop\nCompany name: Example Company\nStart timing: As soon as possible\nMeeting preference: Zoom\nAvailability: Monday\nName: Example Owner\nEmail: owner@example.com\nPhone number: 8185550123"
+                                                         }
+                                                     ],
+                                          "context":  {
+                                                          "pageName":  "Business bookkeeping | Paper Trail",
+                                                          "pageUri":  "http://127.0.0.1:8765/blog.html"
+                                                      }
+                                      },
+                      "externalDeliveryPerformed":  false
+                  }
+    },
+    {
+        "language":  "ar",
+        "page":  "blog.html",
+        "state":  {
+                      "edited":  true,
+                      "editLabels":  [
+                                         "الولاية",
+                                         "ما يحتاج إلى اهتمام",
+                                         "النطاق أو الفترة",
+                                         "النظام الحالي",
+                                         "نوع النشاط التجاري",
+                                         "اسم الشركة",
+                                         "موعد البدء",
+                                         "تفضيل الاجتماع",
+                                         "الأوقات المتاحة",
+                                         "وقت الاجتماع",
+                                         "المنطقة الزمنية",
+                                         "الاسم",
+                                         "البريد الإلكتروني",
+                                         "رقم الهاتف"
+                                     ],
+                      "confirmationTranslated":  true,
+                      "activeQuestions":  0,
+                      "mockPayload":  {
+                                          "fields":  [
+                                                         {
+                                                             "objectTypeId":  "0-1",
+                                                             "name":  "firstname",
+                                                             "value":  "Example"
+                                                         },
+                                                         {
+                                                             "objectTypeId":  "0-1",
+                                                             "name":  "lastname",
+                                                             "value":  "Owner"
+                                                         },
+                                                         {
+                                                             "objectTypeId":  "0-1",
+                                                             "name":  "email",
+                                                             "value":  "owner@example.com"
+                                                         },
+                                                         {
+                                                             "objectTypeId":  "0-1",
+                                                             "name":  "phone",
+                                                             "value":  "8185550123"
+                                                         },
+                                                         {
+                                                             "objectTypeId":  "0-1",
+                                                             "name":  "company",
+                                                             "value":  "Example Company"
+                                                         },
+                                                         {
+                                                             "objectTypeId":  "0-1",
+                                                             "name":  "message",
+                                                             "value":  "Paper Trail inquiry\nTopic: Business bookkeeping\n\nConversation language: ar\nState: Nevada\nMeeting time: Morning\nTime zone: Pacific\nWhat needs attention: Catch up overdue books\nScope or period: This month\nCurrent system: QuickBooks\nType of business: Example shop\nCompany name: Example Company\nStart timing: As soon as possible\nMeeting preference: Zoom\nAvailability: Monday\nName: Example Owner\nEmail: owner@example.com\nPhone number: 8185550123"
+                                                         }
+                                                     ],
+                                          "context":  {
+                                                          "pageName":  "Business bookkeeping | Paper Trail",
+                                                          "pageUri":  "http://127.0.0.1:8765/blog.html"
+                                                      }
+                                      },
+                      "externalDeliveryPerformed":  false
+                  }
+    }
+]

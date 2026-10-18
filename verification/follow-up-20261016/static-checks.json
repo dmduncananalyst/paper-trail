@@ -1,0 +1,475 @@
+{
+  "checked_on": "2026-10-16",
+  "html_pages": 192,
+  "state_pages": 50,
+  "root_selector_pages": [
+    "blog.html",
+    "index.html"
+  ],
+  "selector_scope_correct": true,
+  "broken_local_resources": [],
+  "metadata_errors": [],
+  "schema_errors": [],
+  "state_checks": [
+    {
+      "page": "state-records/alabama.html",
+      "title": "Alabama Bookkeeping | Paper Trail",
+      "description": "Alabama records need to distinguish state tax, city and county tax, employer withholding and unemployment accounts. ONE SPOT simplifies filing access without making each liability the same.",
+      "canonical_correct": true,
+      "draft_noindex": true,
+      "review_date_hidden": true,
+      "flag_header_present": true
+    },
+    {
+      "page": "state-records/alaska.html",
+      "title": "Alaska Bookkeeping | Paper Trail",
+      "description": "Alaska has no state sales tax, but municipal sales and use tax can still affect a business. Local transaction evidence and state employer records need separate accounting trails.",
+      "canonical_correct": true,
+      "draft_noindex": true,
+      "review_date_hidden": true,
+      "flag_header_present": true
+    },
+    {
+      "page": "state-records/arizona.html",
+      "title": "Arizona Bookkeeping | Paper Trail",
+      "description": "Arizona transaction privilege tax is imposed on the vendor's business activity. Accurate activity, location and deduction records matter alongside purchase use tax and separate employer reporting.",
+      "canonical_correct": true,
+      "draft_noindex": true,
+      "review_date_hidden": true,
+      "flag_header_present": true
+    },
+    {
+      "page": "state-records/arkansas.html",
+      "title": "Arkansas Bookkeeping | Paper Trail",
+      "description": "Arkansas bookkeeping connects DFA tax records with separate workforce reporting. City and county sales/use detail, payroll confirmations and a clear audit trail help explain the numbers.",
+      "canonical_correct": true,
+      "draft_noindex": true,
+      "review_date_hidden": true,
+      "flag_header_present": true
+    },
+    {
+      "page": "state-records/california.html",
+      "title": "California Bookkeeping | Paper Trail",
+      "description": "A California bookkeeping resource to CDTFA sales and use tax records, EDD payroll documentation, reconciliations, retention and a tax ready year end handoff.",
+      "canonical_correct": true,
+      "draft_noindex": true,
+      "review_date_hidden": true,
+      "flag_header_present": true
+    },
+    {
+      "page": "state-records/colorado.html",
+      "title": "Colorado Bookkeeping | Paper Trail",
+      "description": "Colorado combines state administered taxes with self collected home rule taxes. Records need to identify the actual jurisdiction and preserve separate withholding, unemployment and FAMLI reporting.",
+      "canonical_correct": true,
+      "draft_noindex": true,
+      "review_date_hidden": true,
+      "flag_header_present": true
+    },
+    {
+      "page": "state-records/connecticut.html",
+      "title": "Connecticut Bookkeeping | Paper Trail",
+      "description": "Connecticut business records should connect myconneCT tax filings with separate unemployment and Paid Leave responsibilities. Retention and employee coverage must be checked by program.",
+      "canonical_correct": true,
+      "draft_noindex": true,
+      "review_date_hidden": true,
+      "flag_header_present": true
+    },
+    {
+      "page": "state-records/delaware.html",
+      "title": "Delaware Bookkeeping | Paper Trail",
+      "description": "Delaware bookkeeping connects gross receipts by business activity, shipping evidence, withholding, unemployment and applicable Paid Leave balances. Ordinary business expenses do not reduce the gross receipts tax base.",
+      "canonical_correct": true,
+      "draft_noindex": true,
+      "review_date_hidden": true,
+      "flag_header_present": true
+    },
+    {
+      "page": "state-records/florida.html",
+      "title": "Florida Bookkeeping | Paper Trail",
+      "description": "Florida recordkeeping guidance for sales tax, resale certificates, commercial rent changes, reemployment tax, corporate tax handoffs and monthly closing.",
+      "canonical_correct": true,
+      "draft_noindex": true,
+      "review_date_hidden": true,
+      "flag_header_present": true
+    },
+    {
+      "page": "state-records/georgia.html",
+      "title": "Georgia Bookkeeping | Paper Trail",
+      "description": "Georgia records should preserve gross sales, delivery locations, exemption evidence and purchase tax review alongside separate Revenue withholding and Labor unemployment accounts.",
+      "canonical_correct": true,
+      "draft_noindex": true,
+      "review_date_hidden": true,
+      "flag_header_present": true
+    },
+    {
+      "page": "state-records/hawaii.html",
+      "title": "Hawaii Bookkeeping | Paper Trail",
+      "description": "Hawaii bookkeeping needs gross activity classified for general excise tax, import purchase evidence for use tax, and separate payroll, unemployment and employee insurance records.",
+      "canonical_correct": true,
+      "draft_noindex": true,
+      "review_date_hidden": true,
+      "flag_header_present": true
+    },
+    {
+      "page": "state-records/idaho.html",
+      "title": "Idaho Bookkeeping | Paper Trail",
+      "description": "Idaho bookkeeping should connect delivery and exemption support with purchase use tax review, Form 967 withholding reconciliation and a separate Labor unemployment account.",
+      "canonical_correct": true,
+      "draft_noindex": true,
+      "review_date_hidden": true,
+      "flag_header_present": true
+    },
+    {
+      "page": "state-records/illinois.html",
+      "title": "Illinois Bookkeeping | Paper Trail",
+      "description": "Illinois bookkeeping requires transaction location evidence, detailed sales and purchase support, daily withholding records and separate unemployment reports even when MyTax Illinois provides shared access.",
+      "canonical_correct": true,
+      "draft_noindex": true,
+      "review_date_hidden": true,
+      "flag_header_present": true
+    },
+    {
+      "page": "state-records/indiana.html",
+      "title": "Indiana Bookkeeping | Paper Trail",
+      "description": "Indiana bookkeeping should connect sales and use tax evidence, state and county withholding, annual WH-3 reconciliation and separate DWD wage reporting. County certificates deserve their own payroll control.",
+      "canonical_correct": true,
+      "draft_noindex": true,
+      "review_date_hidden": true,
+      "flag_header_present": true
+    },
+    {
+      "page": "state-records/iowa.html",
+      "title": "Iowa Bookkeeping | Paper Trail",
+      "description": "Iowa bookkeeping should preserve taxable goods, digital products and service detail, distinguish purchase use tax, and reconcile Revenue filings in GovConnectIowa separately from myIowaUI wage reports.",
+      "canonical_correct": true,
+      "draft_noindex": true,
+      "review_date_hidden": true,
+      "flag_header_present": true
+    },
+    {
+      "page": "state-records/kansas.html",
+      "title": "Kansas Bookkeeping | Paper Trail",
+      "description": "Kansas bookkeeping needs delivery locations for local sales tax, exemption and compensating use tax evidence, KW-3 withholding support and a distinct Kansas Labor unemployment file.",
+      "canonical_correct": true,
+      "draft_noindex": true,
+      "review_date_hidden": true,
+      "flag_header_present": true
+    },
+    {
+      "page": "state-records/kentucky.html",
+      "title": "Kentucky Bookkeeping | Paper Trail",
+      "description": "Kentucky bookkeeping should preserve sales and purchase source documents, exemption workpapers, MyTaxes withholding records and separate unemployment filings, with local employer obligations reviewed independently.",
+      "canonical_correct": true,
+      "draft_noindex": true,
+      "review_date_hidden": true,
+      "flag_header_present": true
+    },
+    {
+      "page": "state-records/louisiana.html",
+      "title": "Louisiana Bookkeeping | Paper Trail",
+      "description": "Louisiana bookkeeping for state and parish sales records, digital product purchases, payroll accounts and location reconciliations.",
+      "canonical_correct": true,
+      "draft_noindex": true,
+      "review_date_hidden": true,
+      "flag_header_present": true
+    },
+    {
+      "page": "state-records/maine.html",
+      "title": "Maine Bookkeeping | Paper Trail",
+      "description": "Maine bookkeeping for the 2026 service tax transition, seasonal payroll, vendor evidence and six year sales records.",
+      "canonical_correct": true,
+      "draft_noindex": true,
+      "review_date_hidden": true,
+      "flag_header_present": true
+    },
+    {
+      "page": "state-records/maryland.html",
+      "title": "Maryland Bookkeeping | Paper Trail",
+      "description": "Maryland bookkeeping for sales evidence, state and local withholding information, vendor payments and separate retention clocks.",
+      "canonical_correct": true,
+      "draft_noindex": true,
+      "review_date_hidden": true,
+      "flag_header_present": true
+    },
+    {
+      "page": "state-records/massachusetts.html",
+      "title": "Massachusetts Bookkeeping | Paper Trail",
+      "description": "Massachusetts bookkeeping for sales detail, work location payroll evidence, vendor records and tax retention exceptions.",
+      "canonical_correct": true,
+      "draft_noindex": true,
+      "review_date_hidden": true,
+      "flag_header_present": true
+    },
+    {
+      "page": "state-records/michigan.html",
+      "title": "Michigan Bookkeeping | Paper Trail",
+      "description": "Michigan bookkeeping for exemption evidence, use tax purchases, combined tax reporting and annual reconciliations.",
+      "canonical_correct": true,
+      "draft_noindex": true,
+      "review_date_hidden": true,
+      "flag_header_present": true
+    },
+    {
+      "page": "state-records/minnesota.html",
+      "title": "Minnesota Bookkeeping | Paper Trail",
+      "description": "Minnesota bookkeeping for local sales reporting, employee service locations, vendor evidence and unemployment record preservation.",
+      "canonical_correct": true,
+      "draft_noindex": true,
+      "review_date_hidden": true,
+      "flag_header_present": true
+    },
+    {
+      "page": "state-records/mississippi.html",
+      "title": "Mississippi Bookkeeping | Paper Trail",
+      "description": "Mississippi bookkeeping for location sales records, tax permits, payroll evidence and the agency retention conflict.",
+      "canonical_correct": true,
+      "draft_noindex": true,
+      "review_date_hidden": true,
+      "flag_header_present": true
+    },
+    {
+      "page": "state-records/missouri.html",
+      "title": "Missouri Bookkeeping | Paper Trail",
+      "description": "Missouri bookkeeping for sales and use records, active withholding accounts, annual wage evidence and tax audit preservation.",
+      "canonical_correct": true,
+      "draft_noindex": true,
+      "review_date_hidden": true,
+      "flag_header_present": true
+    },
+    {
+      "page": "state-records/montana.html",
+      "title": "Montana Bookkeeping | Paper Trail",
+      "description": "Montana bookkeeping for resale documentation, specialized taxes, annual payroll reconciliation and property record preservation.",
+      "canonical_correct": true,
+      "draft_noindex": true,
+      "review_date_hidden": true,
+      "flag_header_present": true
+    },
+    {
+      "page": "state-records/nebraska.html",
+      "title": "Nebraska Bookkeeping | Paper Trail",
+      "description": "Nebraska bookkeeping for delivery records, purchase use tax, separate state wages and retention tied to filed returns.",
+      "canonical_correct": true,
+      "draft_noindex": true,
+      "review_date_hidden": true,
+      "flag_header_present": true
+    },
+    {
+      "page": "state-records/nevada.html",
+      "title": "Nevada Bookkeeping | Paper Trail",
+      "description": "Nevada bookkeeping for county sales records, purchase use tax, Modified Business Tax payroll and Commerce Tax evidence.",
+      "canonical_correct": true,
+      "draft_noindex": true,
+      "review_date_hidden": true,
+      "flag_header_present": true
+    },
+    {
+      "page": "state-records/new-hampshire.html",
+      "title": "New Hampshire Bookkeeping | Paper Trail",
+      "description": "New Hampshire bookkeeping for business profits and enterprise taxes, hospitality records, employer evidence and retention.",
+      "canonical_correct": true,
+      "draft_noindex": true,
+      "review_date_hidden": true,
+      "flag_header_present": true
+    },
+    {
+      "page": "state-records/new-jersey.html",
+      "title": "New Jersey Bookkeeping | Paper Trail",
+      "description": "New Jersey bookkeeping for sales evidence, employer wage reports, vendor credits and four year sales record preservation.",
+      "canonical_correct": true,
+      "draft_noindex": true,
+      "review_date_hidden": true,
+      "flag_header_present": true
+    },
+    {
+      "page": "state-records/new-mexico.html",
+      "title": "New Mexico Bookkeeping | Paper Trail",
+      "description": "New Mexico bookkeeping for gross receipts, NTTC evidence, compensating tax, wage withholding and defensible electronic records.",
+      "canonical_correct": true,
+      "draft_noindex": true,
+      "review_date_hidden": true,
+      "flag_header_present": true
+    },
+    {
+      "page": "state-records/new-york.html",
+      "title": "New York Bookkeeping | Paper Trail",
+      "description": "A New York bookkeeping resource to sales tax audit trails, local delivery records, withholding, leave records, vendor evidence and tax ready reporting.",
+      "canonical_correct": true,
+      "draft_noindex": true,
+      "review_date_hidden": true,
+      "flag_header_present": true
+    },
+    {
+      "page": "state-records/north-carolina.html",
+      "title": "North Carolina Bookkeeping | Paper Trail",
+      "description": "North Carolina bookkeeping for contractor documents, sales and use records, employee certificates and ten year withholding preservation.",
+      "canonical_correct": true,
+      "draft_noindex": true,
+      "review_date_hidden": true,
+      "flag_header_present": true
+    },
+    {
+      "page": "state-records/north-dakota.html",
+      "title": "North Dakota Bookkeeping | Paper Trail",
+      "description": "North Dakota bookkeeping for purchase use tax, ND TAP withholding records, vendor bills and financial reporting.",
+      "canonical_correct": true,
+      "draft_noindex": true,
+      "review_date_hidden": true,
+      "flag_header_present": true
+    },
+    {
+      "page": "state-records/ohio.html",
+      "title": "Ohio Bookkeeping | Paper Trail",
+      "description": "Ohio bookkeeping for sales and purchase tax, Commercial Activity Tax receipts, withholding and monthly close records.",
+      "canonical_correct": true,
+      "draft_noindex": true,
+      "review_date_hidden": true,
+      "flag_header_present": true
+    },
+    {
+      "page": "state-records/oklahoma.html",
+      "title": "Oklahoma Bookkeeping | Paper Trail",
+      "description": "Oklahoma bookkeeping for delivery sourcing, purchase use tax, cash rounding records, payroll and vendor documentation.",
+      "canonical_correct": true,
+      "draft_noindex": true,
+      "review_date_hidden": true,
+      "flag_header_present": true
+    },
+    {
+      "page": "state-records/oregon.html",
+      "title": "Oregon Bookkeeping | Paper Trail",
+      "description": "Oregon bookkeeping for transit payroll distinctions, supplier documentation, income records and monthly financial reporting.",
+      "canonical_correct": true,
+      "draft_noindex": true,
+      "review_date_hidden": true,
+      "flag_header_present": true
+    },
+    {
+      "page": "state-records/pennsylvania.html",
+      "title": "Pennsylvania Bookkeeping | Paper Trail",
+      "description": "Pennsylvania bookkeeping for purchase tax evidence, separate business records, withholding and financial close.",
+      "canonical_correct": true,
+      "draft_noindex": true,
+      "review_date_hidden": true,
+      "flag_header_present": true
+    },
+    {
+      "page": "state-records/rhode-island.html",
+      "title": "Rhode Island Bookkeeping | Paper Trail",
+      "description": "Rhode Island bookkeeping for electronic sales detail, TDI deductions, vendor purchases and monthly reporting.",
+      "canonical_correct": true,
+      "draft_noindex": true,
+      "review_date_hidden": true,
+      "flag_header_present": true
+    },
+    {
+      "page": "state-records/south-carolina.html",
+      "title": "South Carolina Bookkeeping | Paper Trail",
+      "description": "South Carolina bookkeeping for separately stated installation charges, wholesale records, withholding and financial statements.",
+      "canonical_correct": true,
+      "draft_noindex": true,
+      "review_date_hidden": true,
+      "flag_header_present": true
+    },
+    {
+      "page": "state-records/south-dakota.html",
+      "title": "South Dakota Bookkeeping | Paper Trail",
+      "description": "South Dakota bookkeeping for contractor excise records, owner supplied materials, purchase tax and payroll reporting.",
+      "canonical_correct": true,
+      "draft_noindex": true,
+      "review_date_hidden": true,
+      "flag_header_present": true
+    },
+    {
+      "page": "state-records/tennessee.html",
+      "title": "Tennessee Bookkeeping | Paper Trail",
+      "description": "Tennessee bookkeeping for business receipts, entity tax handoffs, sales and purchase tax and employer records.",
+      "canonical_correct": true,
+      "draft_noindex": true,
+      "review_date_hidden": true,
+      "flag_header_present": true
+    },
+    {
+      "page": "state-records/texas.html",
+      "title": "Texas Bookkeeping | Paper Trail",
+      "description": "Texas recordkeeping guidance covering sales and use tax, service classifications, franchise tax handoffs, unemployment payroll records and monthly reconciliations.",
+      "canonical_correct": true,
+      "draft_noindex": true,
+      "review_date_hidden": true,
+      "flag_header_present": true
+    },
+    {
+      "page": "state-records/utah.html",
+      "title": "Utah Bookkeeping | Paper Trail",
+      "description": "Utah bookkeeping for sales tax trust balances, employer annual reconciliation, vendor evidence and monthly statements.",
+      "canonical_correct": true,
+      "draft_noindex": true,
+      "review_date_hidden": true,
+      "flag_header_present": true
+    },
+    {
+      "page": "state-records/vermont.html",
+      "title": "Vermont Bookkeeping | Paper Trail",
+      "description": "Vermont bookkeeping for meals and rooms receipts, service charge evidence, employer withholding and record retention.",
+      "canonical_correct": true,
+      "draft_noindex": true,
+      "review_date_hidden": true,
+      "flag_header_present": true
+    },
+    {
+      "page": "state-records/virginia.html",
+      "title": "Virginia Bookkeeping | Paper Trail",
+      "description": "Virginia bookkeeping for dealer purchase evidence, withholding summaries, reconciliation and sales record retention.",
+      "canonical_correct": true,
+      "draft_noindex": true,
+      "review_date_hidden": true,
+      "flag_header_present": true
+    },
+    {
+      "page": "state-records/washington.html",
+      "title": "Washington Bookkeeping | Paper Trail",
+      "description": "Washington bookkeeping guidance for gross receipts B&O tax, changing service sales tax rules, payroll reporting, records retention and year end preparation.",
+      "canonical_correct": true,
+      "draft_noindex": true,
+      "review_date_hidden": true,
+      "flag_header_present": true
+    },
+    {
+      "page": "state-records/west-virginia.html",
+      "title": "West Virginia Bookkeeping | Paper Trail",
+      "description": "West Virginia bookkeeping for municipal boundaries, purchase use tax, wage withholding and monthly reconciliations.",
+      "canonical_correct": true,
+      "draft_noindex": true,
+      "review_date_hidden": true,
+      "flag_header_present": true
+    },
+    {
+      "page": "state-records/wisconsin.html",
+      "title": "Wisconsin Bookkeeping | Paper Trail",
+      "description": "Wisconsin bookkeeping for mixed business activity, exemption support, payroll accounts and financial records.",
+      "canonical_correct": true,
+      "draft_noindex": true,
+      "review_date_hidden": true,
+      "flag_header_present": true
+    },
+    {
+      "page": "state-records/wyoming.html",
+      "title": "Wyoming Bookkeeping | Paper Trail",
+      "description": "Wyoming bookkeeping for sales and purchase tax evidence, employer registration, asset records and monthly reporting.",
+      "canonical_correct": true,
+      "draft_noindex": true,
+      "review_date_hidden": true,
+      "flag_header_present": true
+    }
+  ],
+  "unique_state_titles": 50,
+  "unique_state_descriptions": 50,
+  "flag_count": 50,
+  "flag_links": 50,
+  "state_action_labels": 50,
+  "old_state_placeholder_present": false,
+  "sitemap_entries": 142,
+  "missing_sitemap_destinations": [],
+  "draft_or_verification_sitemap_entries": [],
+  "google_translation_calls_made_by_check": 0
+}

@@ -1,0 +1,465 @@
+{
+  "checked_at_utc": "2026-10-17T06:15:48Z",
+  "translation_requests": 0,
+  "settings_changed": false,
+  "approved_ongoing_sites": [
+    "dommydom",
+    "paper-trail"
+  ],
+  "application_quote": {
+    "allowed": true,
+    "reason": "Within workflow limit",
+    "characters": 0,
+    "estimated_incremental_usd": "0.00000",
+    "estimated_month_exposure_usd": "10.05400",
+    "soft_warning": false,
+    "warning_usd": "15",
+    "hard_usd": "20",
+    "project": "project-2e0d7d9d-d482-4fcf-b6d",
+    "period_end": 1793516400.0,
+    "accounting_mode": "ongoing-separate-conservative"
+  },
+  "sites_with_recorded_usage": [
+    "dommydom",
+    "paper-trail"
+  ],
+  "reservation_counts": {
+    "dommydom": 1344,
+    "paper-trail": 1243
+  },
+  "translation_api_enabled": true,
+  "billing_enabled": true,
+  "billing_budgets": [
+    {
+      "display_name": "Shared website translation - $15 monthly, $12 warning",
+      "amount": {
+        "specifiedAmount": {
+          "currencyCode": "USD",
+          "units": "15"
+        }
+      },
+      "threshold_rules": [
+        {
+          "thresholdPercent": 0.8,
+          "spendBasis": "CURRENT_SPEND"
+        },
+        {
+          "thresholdPercent": 1,
+          "spendBasis": "CURRENT_SPEND"
+        }
+      ],
+      "default_iam_notifications_enabled": true,
+      "notification_channels": [],
+      "scope_filter": {
+        "projects": [
+          "projects/666402156369"
+        ],
+        "creditTypesTreatment": "INCLUDE_ALL_CREDITS",
+        "calendarPeriod": "MONTH"
+      }
+    },
+    {
+      "display_name": "DommyDom Translation Alert",
+      "amount": {
+        "specifiedAmount": {
+          "currencyCode": "USD",
+          "units": "1"
+        }
+      },
+      "threshold_rules": [
+        {
+          "thresholdPercent": 0.5,
+          "spendBasis": "CURRENT_SPEND"
+        },
+        {
+          "thresholdPercent": 0.9,
+          "spendBasis": "CURRENT_SPEND"
+        },
+        {
+          "thresholdPercent": 1,
+          "spendBasis": "CURRENT_SPEND"
+        }
+      ],
+      "default_iam_notifications_enabled": true,
+      "notification_channels": [],
+      "scope_filter": {
+        "creditTypesTreatment": "EXCLUDE_ALL_CREDITS",
+        "calendarPeriod": "MONTH"
+      }
+    }
+  ],
+  "quota_metrics": [
+    {
+      "name": "projects/666402156369/services/translate.googleapis.com/consumerQuotaMetrics/translate.googleapis.com%2FAutoML%2Fconcurrent_create_model_requests",
+      "displayName": "Number of custom translation models trained concurrently",
+      "consumerQuotaLimits": [
+        {
+          "name": "projects/666402156369/services/translate.googleapis.com/consumerQuotaMetrics/translate.googleapis.com%2FAutoML%2Fconcurrent_create_model_requests/limits/%2Fproject",
+          "unit": "1/{project}",
+          "isPrecise": true,
+          "metric": "translate.googleapis.com/AutoML/concurrent_create_model_requests",
+          "quotaBuckets": [
+            {
+              "effectiveLimit": "1",
+              "defaultLimit": "1"
+            }
+          ]
+        }
+      ],
+      "metric": "translate.googleapis.com/AutoML/concurrent_create_model_requests",
+      "unit": "1"
+    },
+    {
+      "name": "projects/666402156369/services/translate.googleapis.com/consumerQuotaMetrics/translate.googleapis.com%2FAutoML%2Fconcurrent_query_model_requests",
+      "displayName": "AutoML unique model count",
+      "consumerQuotaLimits": [
+        {
+          "name": "projects/666402156369/services/translate.googleapis.com/consumerQuotaMetrics/translate.googleapis.com%2FAutoML%2Fconcurrent_query_model_requests/limits/%2Fd%2Fproject",
+          "unit": "1/d/{project}",
+          "metric": "translate.googleapis.com/AutoML/concurrent_query_model_requests",
+          "quotaBuckets": [
+            {
+              "effectiveLimit": "20",
+              "defaultLimit": "20"
+            }
+          ]
+        }
+      ],
+      "metric": "translate.googleapis.com/AutoML/concurrent_query_model_requests"
+    },
+    {
+      "name": "projects/666402156369/services/translate.googleapis.com/consumerQuotaMetrics/translate.googleapis.com%2FAutoML%2Fcustom_translation_online_prediction",
+      "displayName": "AutoML model characters",
+      "consumerQuotaLimits": [
+        {
+          "name": "projects/666402156369/services/translate.googleapis.com/consumerQuotaMetrics/translate.googleapis.com%2FAutoML%2Fcustom_translation_online_prediction/limits/%2Fmin%2Fproject%2Fuser",
+          "unit": "1/min/{project}/{user}",
+          "metric": "translate.googleapis.com/AutoML/custom_translation_online_prediction",
+          "quotaBuckets": [
+            {
+              "effectiveLimit": "-1",
+              "defaultLimit": "-1"
+            }
+          ]
+        },
+        {
+          "name": "projects/666402156369/services/translate.googleapis.com/consumerQuotaMetrics/translate.googleapis.com%2FAutoML%2Fcustom_translation_online_prediction/limits/%2Fmin%2Fproject",
+          "unit": "1/min/{project}",
+          "metric": "translate.googleapis.com/AutoML/custom_translation_online_prediction",
+          "quotaBuckets": [
+            {
+              "effectiveLimit": "50000",
+              "defaultLimit": "50000"
+            }
+          ]
+        }
+      ],
+      "metric": "translate.googleapis.com/AutoML/custom_translation_online_prediction"
+    },
+    {
+      "name": "projects/666402156369/services/translate.googleapis.com/consumerQuotaMetrics/translate.googleapis.com%2Fbatch_automl_models_chars_text_translation",
+      "displayName": "v3 batch translation characters using AutoML custom models",
+      "consumerQuotaLimits": [
+        {
+          "name": "projects/666402156369/services/translate.googleapis.com/consumerQuotaMetrics/translate.googleapis.com%2Fbatch_automl_models_chars_text_translation/limits/%2Fd%2Fproject",
+          "unit": "1/d/{project}",
+          "metric": "translate.googleapis.com/batch_automl_models_chars_text_translation",
+          "quotaBuckets": [
+            {
+              "effectiveLimit": "-1",
+              "defaultLimit": "-1"
+            }
+          ]
+        }
+      ],
+      "metric": "translate.googleapis.com/batch_automl_models_chars_text_translation"
+    },
+    {
+      "name": "projects/666402156369/services/translate.googleapis.com/consumerQuotaMetrics/translate.googleapis.com%2Fbatch_document_pages",
+      "displayName": "v3 Batch Document translation pages",
+      "consumerQuotaLimits": [
+        {
+          "name": "projects/666402156369/services/translate.googleapis.com/consumerQuotaMetrics/translate.googleapis.com%2Fbatch_document_pages/limits/%2Fmin%2Fproject%2Fuser",
+          "unit": "1/min/{project}/{user}",
+          "metric": "translate.googleapis.com/batch_document_pages",
+          "quotaBuckets": [
+            {
+              "effectiveLimit": "-1",
+              "defaultLimit": "-1"
+            }
+          ]
+        },
+        {
+          "name": "projects/666402156369/services/translate.googleapis.com/consumerQuotaMetrics/translate.googleapis.com%2Fbatch_document_pages/limits/%2Fmin%2Fproject",
+          "unit": "1/min/{project}",
+          "metric": "translate.googleapis.com/batch_document_pages",
+          "quotaBuckets": [
+            {
+              "effectiveLimit": "-1",
+              "defaultLimit": "-1"
+            }
+          ]
+        }
+      ],
+      "metric": "translate.googleapis.com/batch_document_pages"
+    },
+    {
+      "name": "projects/666402156369/services/translate.googleapis.com/consumerQuotaMetrics/translate.googleapis.com%2Fbatch_general_models_chars_text_translation",
+      "displayName": "v3 batch translation characters using general models",
+      "consumerQuotaLimits": [
+        {
+          "name": "projects/666402156369/services/translate.googleapis.com/consumerQuotaMetrics/translate.googleapis.com%2Fbatch_general_models_chars_text_translation/limits/%2Fd%2Fproject",
+          "unit": "1/d/{project}",
+          "metric": "translate.googleapis.com/batch_general_models_chars_text_translation",
+          "quotaBuckets": [
+            {
+              "effectiveLimit": "-1",
+              "defaultLimit": "-1"
+            }
+          ]
+        }
+      ],
+      "metric": "translate.googleapis.com/batch_general_models_chars_text_translation"
+    },
+    {
+      "name": "projects/666402156369/services/translate.googleapis.com/consumerQuotaMetrics/translate.googleapis.com%2Fdefault",
+      "displayName": "v2 and v3 general model characters",
+      "consumerQuotaLimits": [
+        {
+          "name": "projects/666402156369/services/translate.googleapis.com/consumerQuotaMetrics/translate.googleapis.com%2Fdefault/limits/%2Fmin%2Fproject%2Fuser",
+          "unit": "1/min/{project}/{user}",
+          "metric": "translate.googleapis.com/default",
+          "quotaBuckets": [
+            {
+              "effectiveLimit": "3000000",
+              "defaultLimit": "3000000"
+            }
+          ]
+        },
+        {
+          "name": "projects/666402156369/services/translate.googleapis.com/consumerQuotaMetrics/translate.googleapis.com%2Fdefault/limits/%2Fd%2Fproject",
+          "unit": "1/d/{project}",
+          "metric": "translate.googleapis.com/default",
+          "quotaBuckets": [
+            {
+              "effectiveLimit": "-1",
+              "defaultLimit": "-1"
+            }
+          ]
+        },
+        {
+          "name": "projects/666402156369/services/translate.googleapis.com/consumerQuotaMetrics/translate.googleapis.com%2Fdefault/limits/%2Fmin%2Fproject",
+          "unit": "1/min/{project}",
+          "metric": "translate.googleapis.com/default",
+          "quotaBuckets": [
+            {
+              "effectiveLimit": "3000000",
+              "defaultLimit": "3000000"
+            }
+          ]
+        }
+      ],
+      "metric": "translate.googleapis.com/default"
+    },
+    {
+      "name": "projects/666402156369/services/translate.googleapis.com/consumerQuotaMetrics/translate.googleapis.com%2Fdefault_requests",
+      "displayName": "v3 default requests",
+      "consumerQuotaLimits": [
+        {
+          "name": "projects/666402156369/services/translate.googleapis.com/consumerQuotaMetrics/translate.googleapis.com%2Fdefault_requests/limits/%2Fmin%2Fproject%2Fuser",
+          "unit": "1/min/{project}/{user}",
+          "metric": "translate.googleapis.com/default_requests",
+          "quotaBuckets": [
+            {
+              "effectiveLimit": "-1",
+              "defaultLimit": "-1"
+            }
+          ]
+        },
+        {
+          "name": "projects/666402156369/services/translate.googleapis.com/consumerQuotaMetrics/translate.googleapis.com%2Fdefault_requests/limits/%2Fmin%2Fproject",
+          "unit": "1/min/{project}",
+          "metric": "translate.googleapis.com/default_requests",
+          "quotaBuckets": [
+            {
+              "effectiveLimit": "3000",
+              "defaultLimit": "3000"
+            }
+          ]
+        }
+      ],
+      "metric": "translate.googleapis.com/default_requests"
+    },
+    {
+      "name": "projects/666402156369/services/translate.googleapis.com/consumerQuotaMetrics/translate.googleapis.com%2Fdefault_requests_legacy",
+      "displayName": "Number of v2 default requests",
+      "consumerQuotaLimits": [
+        {
+          "name": "projects/666402156369/services/translate.googleapis.com/consumerQuotaMetrics/translate.googleapis.com%2Fdefault_requests_legacy/limits/%2Fmin%2Fproject%2Fuser",
+          "unit": "1/min/{project}/{user}",
+          "metric": "translate.googleapis.com/default_requests_legacy",
+          "quotaBuckets": [
+            {
+              "effectiveLimit": "-1",
+              "defaultLimit": "-1"
+            }
+          ]
+        },
+        {
+          "name": "projects/666402156369/services/translate.googleapis.com/consumerQuotaMetrics/translate.googleapis.com%2Fdefault_requests_legacy/limits/%2Fmin%2Fproject",
+          "unit": "1/min/{project}",
+          "metric": "translate.googleapis.com/default_requests_legacy",
+          "quotaBuckets": [
+            {
+              "effectiveLimit": "300000",
+              "defaultLimit": "300000"
+            }
+          ]
+        }
+      ],
+      "metric": "translate.googleapis.com/default_requests_legacy"
+    },
+    {
+      "name": "projects/666402156369/services/translate.googleapis.com/consumerQuotaMetrics/translate.googleapis.com%2Fdocument_pages",
+      "displayName": "v3 Document translation pages",
+      "consumerQuotaLimits": [
+        {
+          "name": "projects/666402156369/services/translate.googleapis.com/consumerQuotaMetrics/translate.googleapis.com%2Fdocument_pages/limits/%2Fmin%2Fproject%2Fuser",
+          "unit": "1/min/{project}/{user}",
+          "metric": "translate.googleapis.com/document_pages",
+          "quotaBuckets": [
+            {
+              "effectiveLimit": "1200",
+              "defaultLimit": "1200"
+            }
+          ]
+        },
+        {
+          "name": "projects/666402156369/services/translate.googleapis.com/consumerQuotaMetrics/translate.googleapis.com%2Fdocument_pages/limits/%2Fmin%2Fproject",
+          "unit": "1/min/{project}",
+          "metric": "translate.googleapis.com/document_pages",
+          "quotaBuckets": [
+            {
+              "effectiveLimit": "1200",
+              "defaultLimit": "1200"
+            }
+          ]
+        }
+      ],
+      "metric": "translate.googleapis.com/document_pages"
+    },
+    {
+      "name": "projects/666402156369/services/translate.googleapis.com/consumerQuotaMetrics/translate.googleapis.com%2Fsupported_languages_requests",
+      "displayName": "v2 and v3 requests for the list of supported languages",
+      "consumerQuotaLimits": [
+        {
+          "name": "projects/666402156369/services/translate.googleapis.com/consumerQuotaMetrics/translate.googleapis.com%2Fsupported_languages_requests/limits/%2Fmin%2Fproject",
+          "unit": "1/min/{project}",
+          "metric": "translate.googleapis.com/supported_languages_requests",
+          "quotaBuckets": [
+            {
+              "effectiveLimit": "300",
+              "defaultLimit": "300"
+            }
+          ]
+        }
+      ],
+      "metric": "translate.googleapis.com/supported_languages_requests"
+    },
+    {
+      "name": "projects/666402156369/services/translate.googleapis.com/consumerQuotaMetrics/translate.googleapis.com%2Ftext_romanization_chars",
+      "displayName": "Number of unicode characters sent for romanization",
+      "consumerQuotaLimits": [
+        {
+          "name": "projects/666402156369/services/translate.googleapis.com/consumerQuotaMetrics/translate.googleapis.com%2Ftext_romanization_chars/limits/%2Fmin%2Fproject",
+          "unit": "1/min/{project}",
+          "metric": "translate.googleapis.com/text_romanization_chars",
+          "quotaBuckets": [
+            {
+              "effectiveLimit": "50000",
+              "defaultLimit": "50000"
+            }
+          ]
+        }
+      ],
+      "metric": "translate.googleapis.com/text_romanization_chars",
+      "unit": "1"
+    },
+    {
+      "name": "projects/666402156369/services/translate.googleapis.com/consumerQuotaMetrics/translate.googleapis.com%2Ftext_romanization_requests",
+      "displayName": "Number of romanization requests",
+      "consumerQuotaLimits": [
+        {
+          "name": "projects/666402156369/services/translate.googleapis.com/consumerQuotaMetrics/translate.googleapis.com%2Ftext_romanization_requests/limits/%2Fmin%2Fproject",
+          "unit": "1/min/{project}",
+          "metric": "translate.googleapis.com/text_romanization_requests",
+          "quotaBuckets": [
+            {
+              "effectiveLimit": "3000",
+              "defaultLimit": "3000"
+            }
+          ]
+        }
+      ],
+      "metric": "translate.googleapis.com/text_romanization_requests",
+      "unit": "1"
+    },
+    {
+      "name": "projects/666402156369/services/translate.googleapis.com/consumerQuotaMetrics/translate.googleapis.com%2Ftext_transliteration_chars",
+      "displayName": "Number of unicode characters sent for translation with transliteration enabled",
+      "consumerQuotaLimits": [
+        {
+          "name": "projects/666402156369/services/translate.googleapis.com/consumerQuotaMetrics/translate.googleapis.com%2Ftext_transliteration_chars/limits/%2Fmin%2Fproject",
+          "unit": "1/min/{project}",
+          "metric": "translate.googleapis.com/text_transliteration_chars",
+          "quotaBuckets": [
+            {
+              "effectiveLimit": "50000",
+              "defaultLimit": "50000"
+            }
+          ]
+        }
+      ],
+      "metric": "translate.googleapis.com/text_transliteration_chars",
+      "unit": "1"
+    },
+    {
+      "name": "projects/666402156369/services/translate.googleapis.com/consumerQuotaMetrics/translate.googleapis.com%2Ftext_transliteration_requests",
+      "displayName": "Number of translation requests with transliteration enabled",
+      "consumerQuotaLimits": [
+        {
+          "name": "projects/666402156369/services/translate.googleapis.com/consumerQuotaMetrics/translate.googleapis.com%2Ftext_transliteration_requests/limits/%2Fmin%2Fproject",
+          "unit": "1/min/{project}",
+          "metric": "translate.googleapis.com/text_transliteration_requests",
+          "quotaBuckets": [
+            {
+              "effectiveLimit": "3000",
+              "defaultLimit": "3000"
+            }
+          ]
+        }
+      ],
+      "metric": "translate.googleapis.com/text_transliteration_requests",
+      "unit": "1"
+    },
+    {
+      "name": "projects/666402156369/services/translate.googleapis.com/consumerQuotaMetrics/translate.googleapis.com%2Ftranslate_llm_requests",
+      "displayName": "Translation LLM requests",
+      "consumerQuotaLimits": [
+        {
+          "name": "projects/666402156369/services/translate.googleapis.com/consumerQuotaMetrics/translate.googleapis.com%2Ftranslate_llm_requests/limits/%2Fmin%2Fproject",
+          "unit": "1/min/{project}",
+          "metric": "translate.googleapis.com/translate_llm_requests",
+          "quotaBuckets": [
+            {
+              "effectiveLimit": "240",
+              "defaultLimit": "240"
+            }
+          ]
+        }
+      ],
+      "metric": "translate.googleapis.com/translate_llm_requests"
+    }
+  ],
+  "limitation": "Application pause applies to coordinated callers. It is not an account-wide Google hard cap. Credits and invoice charges are not a live verified balance."
+}

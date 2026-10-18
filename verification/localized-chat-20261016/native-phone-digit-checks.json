@@ -1,0 +1,638 @@
+﻿[
+    {
+        "confirmation":  {
+                             "edited":  true,
+                             "editLabels":  [
+                                                "ایالت",
+                                                "موضوع نیازمند رسیدگی",
+                                                "محدوده یا دوره",
+                                                "سیستم فعلی",
+                                                "نوع کسب و کار",
+                                                "نام شرکت",
+                                                "زمان شروع",
+                                                "نوع جلسه ترجیحی",
+                                                "زمان در دسترس بودن",
+                                                "ساعت جلسه",
+                                                "منطقه زمانی",
+                                                "نام",
+                                                "ایمیل",
+                                                "شماره تلفن"
+                                            ],
+                             "confirmationTranslated":  true,
+                             "activeQuestions":  0,
+                             "mockPayload":  {
+                                                 "fields":  [
+                                                                {
+                                                                    "objectTypeId":  "0-1",
+                                                                    "name":  "firstname",
+                                                                    "value":  "Example"
+                                                                },
+                                                                {
+                                                                    "objectTypeId":  "0-1",
+                                                                    "name":  "lastname",
+                                                                    "value":  "Owner"
+                                                                },
+                                                                {
+                                                                    "objectTypeId":  "0-1",
+                                                                    "name":  "email",
+                                                                    "value":  "owner@example.com"
+                                                                },
+                                                                {
+                                                                    "objectTypeId":  "0-1",
+                                                                    "name":  "phone",
+                                                                    "value":  "8185550123"
+                                                                },
+                                                                {
+                                                                    "objectTypeId":  "0-1",
+                                                                    "name":  "company",
+                                                                    "value":  "Example Company"
+                                                                },
+                                                                {
+                                                                    "objectTypeId":  "0-1",
+                                                                    "name":  "message",
+                                                                    "value":  "Paper Trail inquiry\nTopic: Business bookkeeping\n\nConversation language: fa\nState: Nevada\nMeeting time: Morning\nTime zone: Pacific\nWhat needs attention: Catch up overdue books\nScope or period: This month\nCurrent system: QuickBooks\nType of business: Example shop\nCompany name: Example Company\nStart timing: As soon as possible\nMeeting preference: Zoom\nAvailability: Monday\nName: Example Owner\nEmail: owner@example.com\nPhone number: 8185550123"
+                                                                }
+                                                            ],
+                                                 "context":  {
+                                                                 "pageName":  "Business bookkeeping | Paper Trail",
+                                                                 "pageUri":  "http://127.0.0.1:8765/blog.html"
+                                                             }
+                                             },
+                             "externalDeliveryPerformed":  false
+                         },
+        "language":  "fa",
+        "review":  {
+                       "questions":  [
+                                         "در کدام ایالت هستید؟",
+                                         "کدام بخش از دفاتر مالی شما نیاز به رسیدگی دارد؟",
+                                         "کدام دوره نیاز به رسیدگی دارد؟",
+                                         "در حال حاضر دفاتر مالی خود را کجا نگهداری می‌کنید؟",
+                                         "کسب و کار شما چه فعالیتی دارد؟",
+                                         "نام شرکت شما چیست؟",
+                                         "مایلید این کار چه زمانی شروع شود؟",
+                                         "چه نوع جلسه‌ای برای شما مناسب‌تر است؟",
+                                         "ترجیح می‌دهید چه روزی جلسه داشته باشید؟",
+                                         "معمولا چه زمانی برای شما مناسب‌تر است؟",
+                                         "در کدام منطقه زمانی هستید؟",
+                                         "هنگام پاسخگویی شما را با چه نامی خطاب کنیم؟",
+                                         "Paper Trail برای پیگیری از چه ایمیلی استفاده کند؟",
+                                         "با چه شماره تلفنی می‌توانیم با شما تماس بگیریم؟"
+                                     ],
+                       "options":  [
+                                       [
+
+                                       ],
+                                       [
+                                           "تکمیل دفاتر عقب افتاده",
+                                           "اصلاح مانده‌هایی که نادرست به نظر می‌رسند",
+                                           "به روز نگه داشتن دفاتر"
+                                       ],
+                                       [
+                                           "این ماه",
+                                           "چند ماه",
+                                           "یک سال یا بیشتر",
+                                           "مطمئن نیستم"
+                                       ],
+                                       [
+                                           "QuickBooks",
+                                           "Xero",
+                                           "صفحه گسترده",
+                                           "سیستم دیگر",
+                                           "از ابتدا شروع می‌کنم"
+                                       ],
+                                       [
+
+                                       ],
+                                       [
+
+                                       ],
+                                       [
+                                           "در اولین فرصت",
+                                           "ظرف یک ماه",
+                                           "برای آینده برنامه ریزی می‌کنم"
+                                       ],
+                                       [
+                                           "Zoom",
+                                           "حضوری در شهرستان لس آنجلس، با تعیین وقت قبلی",
+                                           "ابتدا ایمیل بفرستید"
+                                       ],
+                                       [
+                                           "دوشنبه",
+                                           "سه شنبه",
+                                           "چهارشنبه",
+                                           "پنجشنبه",
+                                           "جمعه",
+                                           "هماهنگی از طریق ایمیل"
+                                       ],
+                                       [
+                                           "صبح",
+                                           "بعدازظهر",
+                                           "هماهنگی از طریق ایمیل"
+                                       ],
+                                       [
+                                           "اقیانوس آرام",
+                                           "کوهستانی",
+                                           "مرکزی",
+                                           "شرقی"
+                                       ],
+                                       [
+
+                                       ],
+                                       [
+
+                                       ],
+                                       [
+
+                                       ]
+                                   ],
+                       "errors":  [
+                                      "لطفا نشانی ایمیل کسب و کار را وارد کنید.",
+                                      "لطفا شماره تلفن ده رقمی را همراه با کد منطقه وارد کنید."
+                                  ],
+                       "review":  "Paper Trail این اطلاعات را دریافت خواهد کرد:\n\nایالت: California\nموضوع نیازمند رسیدگی: تکمیل دفاتر عقب افتاده\nمحدوده یا دوره: این ماه\nسیستم فعلی: QuickBooks\nنوع کسب و کار: Example shop\nنام شرکت: Example Company\nزمان شروع: در اولین فرصت\nنوع جلسه ترجیحی: Zoom\nزمان در دسترس بودن: دوشنبه\nساعت جلسه: صبح\nمنطقه زمانی: اقیانوس آرام\nنام: Example Owner\nایمیل: owner@example.com\nشماره تلفن: 8185550123\n\nآیا آن را ارسال کنم تا Paper Trail بتواند پیگیری کند؟",
+                       "activeQuestions":  1,
+                       "questionsMatch":  true,
+                       "errorsMatch":  true,
+                       "reviewTranslated":  true,
+                       "direction":  "rtl",
+                       "overflow":  false
+                   }
+    },
+    {
+        "confirmation":  {
+                             "edited":  true,
+                             "editLabels":  [
+                                                "الولاية",
+                                                "ما يحتاج إلى اهتمام",
+                                                "النطاق أو الفترة",
+                                                "النظام الحالي",
+                                                "نوع النشاط التجاري",
+                                                "اسم الشركة",
+                                                "موعد البدء",
+                                                "تفضيل الاجتماع",
+                                                "الأوقات المتاحة",
+                                                "وقت الاجتماع",
+                                                "المنطقة الزمنية",
+                                                "الاسم",
+                                                "البريد الإلكتروني",
+                                                "رقم الهاتف"
+                                            ],
+                             "confirmationTranslated":  true,
+                             "activeQuestions":  0,
+                             "mockPayload":  {
+                                                 "fields":  [
+                                                                {
+                                                                    "objectTypeId":  "0-1",
+                                                                    "name":  "firstname",
+                                                                    "value":  "Example"
+                                                                },
+                                                                {
+                                                                    "objectTypeId":  "0-1",
+                                                                    "name":  "lastname",
+                                                                    "value":  "Owner"
+                                                                },
+                                                                {
+                                                                    "objectTypeId":  "0-1",
+                                                                    "name":  "email",
+                                                                    "value":  "owner@example.com"
+                                                                },
+                                                                {
+                                                                    "objectTypeId":  "0-1",
+                                                                    "name":  "phone",
+                                                                    "value":  "8185550123"
+                                                                },
+                                                                {
+                                                                    "objectTypeId":  "0-1",
+                                                                    "name":  "company",
+                                                                    "value":  "Example Company"
+                                                                },
+                                                                {
+                                                                    "objectTypeId":  "0-1",
+                                                                    "name":  "message",
+                                                                    "value":  "Paper Trail inquiry\nTopic: Business bookkeeping\n\nConversation language: ar\nState: Nevada\nMeeting time: Morning\nTime zone: Pacific\nWhat needs attention: Catch up overdue books\nScope or period: This month\nCurrent system: QuickBooks\nType of business: Example shop\nCompany name: Example Company\nStart timing: As soon as possible\nMeeting preference: Zoom\nAvailability: Monday\nName: Example Owner\nEmail: owner@example.com\nPhone number: 8185550123"
+                                                                }
+                                                            ],
+                                                 "context":  {
+                                                                 "pageName":  "Business bookkeeping | Paper Trail",
+                                                                 "pageUri":  "http://127.0.0.1:8765/blog.html"
+                                                             }
+                                             },
+                             "externalDeliveryPerformed":  false
+                         },
+        "language":  "ar",
+        "review":  {
+                       "questions":  [
+                                         "في أي ولاية تقع؟",
+                                         "ما الذي يحتاج إلى اهتمام في دفاترك؟",
+                                         "ما الفترة التي تحتاج إلى اهتمام؟",
+                                         "أين تحتفظ بدفاترك حاليا؟",
+                                         "ما طبيعة نشاطك التجاري؟",
+                                         "ما اسم شركتك؟",
+                                         "متى ترغب في بدء هذا العمل؟",
+                                         "ما نوع الاجتماع الأنسب لك؟",
+                                         "في أي يوم تفضل الاجتماع؟",
+                                         "ما الوقت الأنسب لك عادة؟",
+                                         "في أي منطقة زمنية تقع؟",
+                                         "بأي اسم نخاطبك عند الرد؟",
+                                         "ما البريد الإلكتروني الذي ينبغي أن يستخدمه Paper Trail للتواصل معك؟",
+                                         "على أي رقم هاتف يمكننا الاتصال بك؟"
+                                     ],
+                       "options":  [
+                                       [
+
+                                       ],
+                                       [
+                                           "استكمال الدفاتر المتأخرة",
+                                           "تصحيح الأرصدة التي تبدو غير صحيحة",
+                                           "إبقاء دفاتري محدثة"
+                                       ],
+                                       [
+                                           "هذا الشهر",
+                                           "عدة أشهر",
+                                           "سنة أو أكثر",
+                                           "لست متأكدا"
+                                       ],
+                                       [
+                                           "QuickBooks",
+                                           "Xero",
+                                           "جداول البيانات",
+                                           "نظام آخر",
+                                           "أبدأ من جديد"
+                                       ],
+                                       [
+
+                                       ],
+                                       [
+
+                                       ],
+                                       [
+                                           "في أقرب وقت ممكن",
+                                           "خلال شهر",
+                                           "أخطط مسبقا"
+                                       ],
+                                       [
+                                           "Zoom",
+                                           "اجتماع حضوري في مقاطعة لوس أنجلوس بموعد مسبق",
+                                           "راسلني بالبريد الإلكتروني أولا"
+                                       ],
+                                       [
+                                           "الاثنين",
+                                           "الثلاثاء",
+                                           "الأربعاء",
+                                           "الخميس",
+                                           "الجمعة",
+                                           "الترتيب عبر البريد الإلكتروني"
+                                       ],
+                                       [
+                                           "صباحا",
+                                           "بعد الظهر",
+                                           "الترتيب عبر البريد الإلكتروني"
+                                       ],
+                                       [
+                                           "المحيط الهادئ",
+                                           "المنطقة الجبلية",
+                                           "المنطقة الوسطى",
+                                           "المنطقة الشرقية"
+                                       ],
+                                       [
+
+                                       ],
+                                       [
+
+                                       ],
+                                       [
+
+                                       ]
+                                   ],
+                       "errors":  [
+                                      "يرجى إدخال عنوان بريد إلكتروني للعمل.",
+                                      "يرجى إدخال رقم هاتف من عشرة أرقام، بما في ذلك رمز المنطقة."
+                                  ],
+                       "review":  "هذه المعلومات التي سيتلقاها Paper Trail:\n\nالولاية: California\nما يحتاج إلى اهتمام: استكمال الدفاتر المتأخرة\nالنطاق أو الفترة: هذا الشهر\nالنظام الحالي: QuickBooks\nنوع النشاط التجاري: Example shop\nاسم الشركة: Example Company\nموعد البدء: في أقرب وقت ممكن\nتفضيل الاجتماع: Zoom\nالأوقات المتاحة: الاثنين\nوقت الاجتماع: صباحا\nالمنطقة الزمنية: المحيط الهادئ\nالاسم: Example Owner\nالبريد الإلكتروني: owner@example.com\nرقم الهاتف: 8185550123\n\nهل أرسلها لكي يتمكن Paper Trail من التواصل معك؟",
+                       "activeQuestions":  1,
+                       "questionsMatch":  true,
+                       "errorsMatch":  true,
+                       "reviewTranslated":  true,
+                       "direction":  "rtl",
+                       "overflow":  false
+                   }
+    },
+    {
+        "confirmation":  {
+                             "edited":  true,
+                             "editLabels":  [
+                                                "రాష్ట్రం",
+                                                "శ్రద్ధ అవసరమైన విషయం",
+                                                "పరిధి లేదా కాలం",
+                                                "ప్రస్తుత వ్యవస్థ",
+                                                "వ్యాపార రకం",
+                                                "కంపెనీ పేరు",
+                                                "ప్రారంభ సమయం",
+                                                "సమావేశ ప్రాధాన్యత",
+                                                "అందుబాటు",
+                                                "సమావేశ సమయం",
+                                                "సమయ మండలం",
+                                                "పేరు",
+                                                "ఇమెయిల్",
+                                                "ఫోన్ నంబరు"
+                                            ],
+                             "confirmationTranslated":  true,
+                             "activeQuestions":  0,
+                             "mockPayload":  {
+                                                 "fields":  [
+                                                                {
+                                                                    "objectTypeId":  "0-1",
+                                                                    "name":  "firstname",
+                                                                    "value":  "Example"
+                                                                },
+                                                                {
+                                                                    "objectTypeId":  "0-1",
+                                                                    "name":  "lastname",
+                                                                    "value":  "Owner"
+                                                                },
+                                                                {
+                                                                    "objectTypeId":  "0-1",
+                                                                    "name":  "email",
+                                                                    "value":  "owner@example.com"
+                                                                },
+                                                                {
+                                                                    "objectTypeId":  "0-1",
+                                                                    "name":  "phone",
+                                                                    "value":  "8185550123"
+                                                                },
+                                                                {
+                                                                    "objectTypeId":  "0-1",
+                                                                    "name":  "company",
+                                                                    "value":  "Example Company"
+                                                                },
+                                                                {
+                                                                    "objectTypeId":  "0-1",
+                                                                    "name":  "message",
+                                                                    "value":  "Paper Trail inquiry\nTopic: Business bookkeeping\n\nConversation language: te\nState: Nevada\nMeeting time: Morning\nTime zone: Pacific\nWhat needs attention: Catch up overdue books\nScope or period: This month\nCurrent system: QuickBooks\nType of business: Example shop\nCompany name: Example Company\nStart timing: As soon as possible\nMeeting preference: Zoom\nAvailability: Monday\nName: Example Owner\nEmail: owner@example.com\nPhone number: 8185550123"
+                                                                }
+                                                            ],
+                                                 "context":  {
+                                                                 "pageName":  "Business bookkeeping | Paper Trail",
+                                                                 "pageUri":  "http://127.0.0.1:8765/blog.html"
+                                                             }
+                                             },
+                             "externalDeliveryPerformed":  false
+                         },
+        "language":  "te",
+        "review":  {
+                       "questions":  [
+                                         "మీరు ఏ రాష్ట్రంలో ఉన్నారు?",
+                                         "మీ లెక్కలలో ఏ విషయానికి శ్రద్ధ అవసరం?",
+                                         "ఏ కాలానికి శ్రద్ధ అవసరం?",
+                                         "ప్రస్తుతం మీ లెక్కలను ఎక్కడ నిర్వహిస్తున్నారు?",
+                                         "మీ వ్యాపారం ఏమి చేస్తుంది?",
+                                         "మీ కంపెనీ పేరు ఏమిటి?",
+                                         "ఈ పని ఎప్పుడు ప్రారంభించాలని కోరుకుంటున్నారు?",
+                                         "ఏ రకమైన సమావేశం మీకు అనుకూలంగా ఉంటుంది?",
+                                         "ఏ రోజు సమావేశం కావాలని కోరుకుంటున్నారు?",
+                                         "సాధారణంగా ఏ సమయం మీకు అనుకూలంగా ఉంటుంది?",
+                                         "మీరు ఏ సమయ మండలంలో ఉన్నారు?",
+                                         "మేము సమాధానం ఇచ్చేటప్పుడు మిమ్మల్ని ఏ పేరుతో పిలవాలి?",
+                                         "మిమ్మల్ని సంప్రదించడానికి Paper Trail ఏ ఇమెయిల్ ఉపయోగించాలి?",
+                                         "మిమ్మల్ని ఏ ఫోన్ నంబరులో సంప్రదించవచ్చు?"
+                                     ],
+                       "options":  [
+                                       [
+
+                                       ],
+                                       [
+                                           "ఆలస్యమైన లెక్కలను పూర్తి చేయాలి",
+                                           "తప్పుగా కనిపించే నిల్వలను సరిచేయాలి",
+                                           "నా లెక్కలను తాజాగా ఉంచాలి"
+                                       ],
+                                       [
+                                           "ఈ నెల",
+                                           "కొన్ని నెలలు",
+                                           "ఒక సంవత్సరం లేదా అంతకంటే ఎక్కువ",
+                                           "నాకు ఖచ్చితంగా తెలియదు"
+                                       ],
+                                       [
+                                           "QuickBooks",
+                                           "Xero",
+                                           "స్ప్రెడ్‌షీట్‌లు",
+                                           "మరో వ్యవస్థ",
+                                           "కొత్తగా ప్రారంభిస్తున్నాను"
+                                       ],
+                                       [
+
+                                       ],
+                                       [
+
+                                       ],
+                                       [
+                                           "వీలైనంత త్వరగా",
+                                           "ఒక నెలలోపు",
+                                           "ముందుగానే ప్రణాళిక చేస్తున్నాను"
+                                       ],
+                                       [
+                                           "Zoom",
+                                           "ముందస్తు అపాయింట్‌మెంట్‌తో లాస్ ఏంజెలెస్ కౌంటీలో ప్రత్యక్ష సమావేశం",
+                                           "ముందుగా నాకు ఇమెయిల్ పంపండి"
+                                       ],
+                                       [
+                                           "సోమవారం",
+                                           "మంగళవారం",
+                                           "బుధవారం",
+                                           "గురువారం",
+                                           "శుక్రవారం",
+                                           "ఇమెయిల్ ద్వారా నిర్ణయించండి"
+                                       ],
+                                       [
+                                           "ఉదయం",
+                                           "మధ్యాహ్నం",
+                                           "ఇమెయిల్ ద్వారా నిర్ణయించండి"
+                                       ],
+                                       [
+                                           "పసిఫిక్ సమయం",
+                                           "మౌంటెన్ సమయం",
+                                           "సెంట్రల్ సమయం",
+                                           "ఈస్టర్న్ సమయం"
+                                       ],
+                                       [
+
+                                       ],
+                                       [
+
+                                       ],
+                                       [
+
+                                       ]
+                                   ],
+                       "errors":  [
+                                      "దయచేసి వ్యాపార ఇమెయిల్ చిరునామాను నమోదు చేయండి.",
+                                      "ఏరియా కోడ్‌తో సహా పది అంకెల ఫోన్ నంబరును నమోదు చేయండి."
+                                  ],
+                       "review":  "Paper Trailకు అందే వివరాలు ఇవి:\n\nరాష్ట్రం: California\nశ్రద్ధ అవసరమైన విషయం: ఆలస్యమైన లెక్కలను పూర్తి చేయాలి\nపరిధి లేదా కాలం: ఈ నెల\nప్రస్తుత వ్యవస్థ: QuickBooks\nవ్యాపార రకం: Example shop\nకంపెనీ పేరు: Example Company\nప్రారంభ సమయం: వీలైనంత త్వరగా\nసమావేశ ప్రాధాన్యత: Zoom\nఅందుబాటు: సోమవారం\nసమావేశ సమయం: ఉదయం\nసమయ మండలం: పసిఫిక్ సమయం\nపేరు: Example Owner\nఇమెయిల్: owner@example.com\nఫోన్ నంబరు: 8185550123\n\nPaper Trail మిమ్మల్ని సంప్రదించడానికి దీన్ని పంపాలా?",
+                       "activeQuestions":  1,
+                       "questionsMatch":  true,
+                       "errorsMatch":  true,
+                       "reviewTranslated":  true,
+                       "direction":  "ltr",
+                       "overflow":  false
+                   }
+    },
+    {
+        "confirmation":  {
+                             "edited":  true,
+                             "editLabels":  [
+                                                "州",
+                                                "需要处理的事项",
+                                                "范围或期间",
+                                                "当前系统",
+                                                "业务类型",
+                                                "公司名称",
+                                                "开始时间",
+                                                "会议偏好",
+                                                "可用时间",
+                                                "会议时间",
+                                                "时区",
+                                                "姓名",
+                                                "电子邮箱",
+                                                "电话号码"
+                                            ],
+                             "confirmationTranslated":  true,
+                             "activeQuestions":  0,
+                             "mockPayload":  {
+                                                 "fields":  [
+                                                                {
+                                                                    "objectTypeId":  "0-1",
+                                                                    "name":  "firstname",
+                                                                    "value":  "Example"
+                                                                },
+                                                                {
+                                                                    "objectTypeId":  "0-1",
+                                                                    "name":  "lastname",
+                                                                    "value":  "Owner"
+                                                                },
+                                                                {
+                                                                    "objectTypeId":  "0-1",
+                                                                    "name":  "email",
+                                                                    "value":  "owner@example.com"
+                                                                },
+                                                                {
+                                                                    "objectTypeId":  "0-1",
+                                                                    "name":  "phone",
+                                                                    "value":  "8185550123"
+                                                                },
+                                                                {
+                                                                    "objectTypeId":  "0-1",
+                                                                    "name":  "company",
+                                                                    "value":  "Example Company"
+                                                                },
+                                                                {
+                                                                    "objectTypeId":  "0-1",
+                                                                    "name":  "message",
+                                                                    "value":  "Paper Trail inquiry\nTopic: Business bookkeeping\n\nConversation language: zh-CN\nState: Nevada\nMeeting time: Morning\nTime zone: Pacific\nWhat needs attention: Catch up overdue books\nScope or period: This month\nCurrent system: QuickBooks\nType of business: Example shop\nCompany name: Example Company\nStart timing: As soon as possible\nMeeting preference: Zoom\nAvailability: Monday\nName: Example Owner\nEmail: owner@example.com\nPhone number: 8185550123"
+                                                                }
+                                                            ],
+                                                 "context":  {
+                                                                 "pageName":  "Business bookkeeping | Paper Trail",
+                                                                 "pageUri":  "http://127.0.0.1:8765/blog.html"
+                                                             }
+                                             },
+                             "externalDeliveryPerformed":  false
+                         },
+        "language":  "zh-CN",
+        "review":  {
+                       "questions":  [
+                                         "您位于哪个州？",
+                                         "您的账簿有哪些方面需要处理？",
+                                         "哪个期间需要处理？",
+                                         "您目前在哪里记录账务？",
+                                         "您的企业从事什么业务？",
+                                         "您的公司叫什么名字？",
+                                         "您希望何时开始这项工作？",
+                                         "哪种会议方式最适合您？",
+                                         "您希望星期几见面？",
+                                         "通常什么时间最适合您？",
+                                         "您位于哪个时区？",
+                                         "回复时我们应该如何称呼您？",
+                                         "Paper Trail 应使用哪个电子邮箱与您联系？",
+                                         "我们可以通过哪个电话号码联系您？"
+                                     ],
+                       "options":  [
+                                       [
+
+                                       ],
+                                       [
+                                           "补齐逾期账务",
+                                           "纠正看似有误的余额",
+                                           "保持账务及时更新"
+                                       ],
+                                       [
+                                           "本月",
+                                           "几个月",
+                                           "一年或更久",
+                                           "我不确定"
+                                       ],
+                                       [
+                                           "QuickBooks",
+                                           "Xero",
+                                           "电子表格",
+                                           "其他系统",
+                                           "我正在从头开始"
+                                       ],
+                                       [
+
+                                       ],
+                                       [
+
+                                       ],
+                                       [
+                                           "尽快",
+                                           "一个月内",
+                                           "我在提前规划"
+                                       ],
+                                       [
+                                           "Zoom",
+                                           "在洛杉矶县预约当面会谈",
+                                           "请先给我发邮件"
+                                       ],
+                                       [
+                                           "星期一",
+                                           "星期二",
+                                           "星期三",
+                                           "星期四",
+                                           "星期五",
+                                           "通过邮件安排"
+                                       ],
+                                       [
+                                           "上午",
+                                           "下午",
+                                           "通过邮件安排"
+                                       ],
+                                       [
+                                           "太平洋时区",
+                                           "山地时区",
+                                           "中部时区",
+                                           "东部时区"
+                                       ],
+                                       [
+
+                                       ],
+                                       [
+
+                                       ],
+                                       [
+
+                                       ]
+                                   ],
+                       "errors":  [
+                                      "请输入企业电子邮箱地址。",
+                                      "请输入包含区号的十位电话号码。"
+                                  ],
+                       "review":  "以下是 Paper Trail 将收到的信息：\n\n州: California\n需要处理的事项: 补齐逾期账务\n范围或期间: 本月\n当前系统: QuickBooks\n业务类型: Example shop\n公司名称: Example Company\n开始时间: 尽快\n会议偏好: Zoom\n可用时间: 星期一\n会议时间: 上午\n时区: 太平洋时区\n姓名: Example Owner\n电子邮箱: owner@example.com\n电话号码: 8185550123\n\n是否发送，以便 Paper Trail 与您联系？",
+                       "activeQuestions":  1,
+                       "questionsMatch":  true,
+                       "errorsMatch":  true,
+                       "reviewTranslated":  true,
+                       "direction":  "ltr",
+                       "overflow":  false
+                   }
+    }
+]

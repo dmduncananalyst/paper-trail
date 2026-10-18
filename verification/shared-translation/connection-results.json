@@ -1,0 +1,34 @@
+{
+  "offline_tests_passed": 12,
+  "connection": {
+    "connected": true,
+    "project_matches": true,
+    "shared_database": "C:\\Users\\its old\\translation-budget\\shared-usage.sqlite",
+    "read_only": true,
+    "opening_characters": 500000,
+    "warning_usd": "12",
+    "cutoff_usd": "15",
+    "reservation_count": 0,
+    "live_dispatch_allowed": false,
+    "blocked_reason": "Confirm all shared project translation jobs use this counter before live dispatch",
+    "google_calls": 0
+  },
+  "source_pages": [
+    "index.html",
+    "blog.html"
+  ],
+  "source_fields": 64,
+  "pending_fields": 576,
+  "candidate_characters_total": 19557,
+  "actual_characters_sent": 0,
+  "google_calls": 0,
+  "private_database_unchanged": true,
+  "private_approval_configuration_unchanged": true,
+  "original_home_blog_and_frontend_unchanged": true,
+  "reservation_count": 0,
+  "existing_inventory_reports_connection": true,
+  "concurrent_fingerprint_changes": [
+    "C:\\Users\\its old\\OneDrive\\Documents\\GitHub\\paper-trail\\catch-up-bookkeeping-overdue-books.html"
+  ],
+  "article_files_written_by_this_task": false
+}

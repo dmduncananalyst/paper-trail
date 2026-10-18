@@ -1,0 +1,449 @@
+﻿{
+    "chat":  [
+                 {
+                     "language":  "en",
+                     "page":  "index.html",
+                     "state":  {
+                                   "noticeCount":  0,
+                                   "border":  "1px solid rgb(204, 204, 204)",
+                                   "question":  "What state are you located in?",
+                                   "location":  "Nationwide – Based Out Of Los Angeles, California"
+                               }
+                 },
+                 {
+                     "language":  "es",
+                     "page":  "index.html",
+                     "state":  {
+                                   "noticeCount":  0,
+                                   "border":  "1px solid rgb(204, 204, 204)",
+                                   "question":  "¿En qué estado te encuentras?",
+                                   "location":  "En todo el país, con sede en Los Ángeles, California"
+                               }
+                 },
+                 {
+                     "language":  "fa",
+                     "page":  "index.html",
+                     "state":  {
+                                   "noticeCount":  0,
+                                   "border":  "1px solid rgb(204, 204, 204)",
+                                   "question":  "در کدام ایالت هستید؟",
+                                   "location":  "سراسر کشور، مستقر در لس آنجلس، کالیفرنیا"
+                               }
+                 },
+                 {
+                     "language":  "hy",
+                     "page":  "index.html",
+                     "state":  {
+                                   "noticeCount":  0,
+                                   "border":  "1px solid rgb(204, 204, 204)",
+                                   "question":  "Ո՞ր նահանգում եք գտնվում։",
+                                   "location":  "Ամբողջ երկրում, գտնվում ենք Լոս Անջելեսում, Կալիֆոռնիա"
+                               }
+                 },
+                 {
+                     "language":  "zh-CN",
+                     "page":  "index.html",
+                     "state":  {
+                                   "noticeCount":  0,
+                                   "border":  "1px solid rgb(204, 204, 204)",
+                                   "question":  "您位于哪个州？",
+                                   "location":  "服务全美，总部位于加利福尼亚州洛杉矶"
+                               }
+                 },
+                 {
+                     "language":  "ko",
+                     "page":  "index.html",
+                     "state":  {
+                                   "noticeCount":  0,
+                                   "border":  "1px solid rgb(204, 204, 204)",
+                                   "question":  "어느 주에 계신가요?",
+                                   "location":  "미국 전역 서비스, 캘리포니아주 로스앤젤레스 기반"
+                               }
+                 },
+                 {
+                     "language":  "tl",
+                     "page":  "index.html",
+                     "state":  {
+                                   "noticeCount":  0,
+                                   "border":  "1px solid rgb(204, 204, 204)",
+                                   "question":  "Saang estado ka matatagpuan?",
+                                   "location":  "Sa buong bansa, nakabase sa Los Angeles, California"
+                               }
+                 },
+                 {
+                     "language":  "te",
+                     "page":  "index.html",
+                     "state":  {
+                                   "noticeCount":  0,
+                                   "border":  "1px solid rgb(204, 204, 204)",
+                                   "question":  "మీరు ఏ రాష్ట్రంలో ఉన్నారు?",
+                                   "location":  "దేశవ్యాప్తంగా, కాలిఫోర్నియాలోని లాస్ ఏంజిలిస్ కేంద్రంగా"
+                               }
+                 },
+                 {
+                     "language":  "ru",
+                     "page":  "index.html",
+                     "state":  {
+                                   "noticeCount":  0,
+                                   "border":  "1px solid rgb(204, 204, 204)",
+                                   "question":  "В каком штате вы находитесь?",
+                                   "location":  "По всей стране, базируемся в Лос Анджелесе, Калифорния"
+                               }
+                 },
+                 {
+                     "language":  "ar",
+                     "page":  "index.html",
+                     "state":  {
+                                   "noticeCount":  0,
+                                   "border":  "1px solid rgb(204, 204, 204)",
+                                   "question":  "في أي ولاية تقع؟",
+                                   "location":  "خدمة في جميع أنحاء البلاد، مقرنا في لوس أنجلوس، كاليفورنيا"
+                               }
+                 },
+                 {
+                     "language":  "en",
+                     "page":  "blog.html",
+                     "state":  {
+                                   "noticeCount":  0,
+                                   "border":  "1px solid rgb(204, 204, 204)",
+                                   "question":  "What state are you located in?",
+                                   "location":  "Nationwide – Based Out Of Los Angeles, California"
+                               }
+                 },
+                 {
+                     "language":  "es",
+                     "page":  "blog.html",
+                     "state":  {
+                                   "noticeCount":  0,
+                                   "border":  "1px solid rgb(204, 204, 204)",
+                                   "question":  "¿En qué estado te encuentras?",
+                                   "location":  "En todo el país, con sede en Los Ángeles, California"
+                               }
+                 },
+                 {
+                     "language":  "fa",
+                     "page":  "blog.html",
+                     "state":  {
+                                   "noticeCount":  0,
+                                   "border":  "1px solid rgb(204, 204, 204)",
+                                   "question":  "در کدام ایالت هستید؟",
+                                   "location":  "سراسر کشور، مستقر در لس آنجلس، کالیفرنیا"
+                               }
+                 },
+                 {
+                     "language":  "hy",
+                     "page":  "blog.html",
+                     "state":  {
+                                   "noticeCount":  0,
+                                   "border":  "1px solid rgb(204, 204, 204)",
+                                   "question":  "Ո՞ր նահանգում եք գտնվում։",
+                                   "location":  "Ամբողջ երկրում, գտնվում ենք Լոս Անջելեսում, Կալիֆոռնիա"
+                               }
+                 },
+                 {
+                     "language":  "zh-CN",
+                     "page":  "blog.html",
+                     "state":  {
+                                   "noticeCount":  0,
+                                   "border":  "1px solid rgb(204, 204, 204)",
+                                   "question":  "您位于哪个州？",
+                                   "location":  "服务全美，总部位于加利福尼亚州洛杉矶"
+                               }
+                 },
+                 {
+                     "language":  "ko",
+                     "page":  "blog.html",
+                     "state":  {
+                                   "noticeCount":  0,
+                                   "border":  "1px solid rgb(204, 204, 204)",
+                                   "question":  "어느 주에 계신가요?",
+                                   "location":  "미국 전역 서비스, 캘리포니아주 로스앤젤레스 기반"
+                               }
+                 },
+                 {
+                     "language":  "tl",
+                     "page":  "blog.html",
+                     "state":  {
+                                   "noticeCount":  0,
+                                   "border":  "1px solid rgb(204, 204, 204)",
+                                   "question":  "Saang estado ka matatagpuan?",
+                                   "location":  "Sa buong bansa, nakabase sa Los Angeles, California"
+                               }
+                 },
+                 {
+                     "language":  "te",
+                     "page":  "blog.html",
+                     "state":  {
+                                   "noticeCount":  0,
+                                   "border":  "1px solid rgb(204, 204, 204)",
+                                   "question":  "మీరు ఏ రాష్ట్రంలో ఉన్నారు?",
+                                   "location":  "దేశవ్యాప్తంగా, కాలిఫోర్నియాలోని లాస్ ఏంజిలిస్ కేంద్రంగా"
+                               }
+                 },
+                 {
+                     "language":  "ru",
+                     "page":  "blog.html",
+                     "state":  {
+                                   "noticeCount":  0,
+                                   "border":  "1px solid rgb(204, 204, 204)",
+                                   "question":  "В каком штате вы находитесь?",
+                                   "location":  "По всей стране, базируемся в Лос Анджелесе, Калифорния"
+                               }
+                 },
+                 {
+                     "language":  "ar",
+                     "page":  "blog.html",
+                     "state":  {
+                                   "noticeCount":  0,
+                                   "border":  "1px solid rgb(204, 204, 204)",
+                                   "question":  "في أي ولاية تقع؟",
+                                   "location":  "خدمة في جميع أنحاء البلاد، مقرنا في لوس أنجلوس، كاليفورنيا"
+                               }
+                 }
+             ],
+    "layout":  [
+                   {
+                       "width":  390,
+                       "page":  "index.html",
+                       "state":  {
+                                     "before":  [
+                                                    1,
+                                                    593.359375,
+                                                    388,
+                                                    218.25
+                                                ],
+                                     "after":  [
+                                                   1,
+                                                   593.359375,
+                                                   388,
+                                                   218.25
+                                               ],
+                                     "titleAlign":  "center",
+                                     "overflow":  false
+                                 }
+                   },
+                   {
+                       "width":  390,
+                       "page":  "about.html",
+                       "state":  {
+                                     "before":  [
+                                                    20,
+                                                    320.265625,
+                                                    350,
+                                                    196.875
+                                                ],
+                                     "after":  [
+                                                   20,
+                                                   320.265625,
+                                                   350,
+                                                   196.875
+                                               ],
+                                     "titleAlign":  "center",
+                                     "overflow":  false
+                                 }
+                   },
+                   {
+                       "width":  390,
+                       "page":  "paper-trail-services.html",
+                       "state":  {
+                                     "before":  [
+                                                    20,
+                                                    320.265625,
+                                                    350,
+                                                    196.875
+                                                ],
+                                     "after":  [
+                                                   20,
+                                                   320.265625,
+                                                   350,
+                                                   196.875
+                                               ],
+                                     "titleAlign":  "center",
+                                     "overflow":  false
+                                 }
+                   },
+                   {
+                       "width":  390,
+                       "page":  "paper-trail-monthly-bookkeeping.html",
+                       "state":  {
+                                     "before":  [
+                                                    20,
+                                                    320.265625,
+                                                    350,
+                                                    196.875
+                                                ],
+                                     "after":  [
+                                                   20,
+                                                   320.265625,
+                                                   350,
+                                                   196.875
+                                               ],
+                                     "titleAlign":  "center",
+                                     "overflow":  false
+                                 }
+                   },
+                   {
+                       "width":  834,
+                       "page":  "index.html",
+                       "state":  {
+                                     "before":  [
+                                                    36,
+                                                    457.9375,
+                                                    747,
+                                                    420.1875
+                                                ],
+                                     "after":  [
+                                                   36,
+                                                   457.9375,
+                                                   747,
+                                                   420.1875
+                                               ],
+                                     "titleAlign":  "center",
+                                     "overflow":  false
+                                 }
+                   },
+                   {
+                       "width":  834,
+                       "page":  "about.html",
+                       "state":  {
+                                     "before":  [
+                                                    35,
+                                                    207.4375,
+                                                    749,
+                                                    421.3125
+                                                ],
+                                     "after":  [
+                                                   35,
+                                                   207.4375,
+                                                   749,
+                                                   421.3125
+                                               ],
+                                     "titleAlign":  "center",
+                                     "overflow":  false
+                                 }
+                   },
+                   {
+                       "width":  834,
+                       "page":  "paper-trail-services.html",
+                       "state":  {
+                                     "before":  [
+                                                    35,
+                                                    207.4375,
+                                                    749,
+                                                    421.3125
+                                                ],
+                                     "after":  [
+                                                   35,
+                                                   207.4375,
+                                                   749,
+                                                   421.3125
+                                               ],
+                                     "titleAlign":  "start",
+                                     "overflow":  false
+                                 }
+                   },
+                   {
+                       "width":  834,
+                       "page":  "paper-trail-monthly-bookkeeping.html",
+                       "state":  {
+                                     "before":  [
+                                                    35,
+                                                    207.4375,
+                                                    749,
+                                                    421.3125
+                                                ],
+                                     "after":  [
+                                                   35,
+                                                   207.4375,
+                                                   749,
+                                                   421.3125
+                                               ],
+                                     "titleAlign":  "start",
+                                     "overflow":  false
+                                 }
+                   },
+                   {
+                       "width":  1440,
+                       "page":  "index.html",
+                       "state":  {
+                                     "before":  [
+                                                    123.5,
+                                                    408.984375,
+                                                    883.5,
+                                                    496.96875
+                                                ],
+                                     "after":  [
+                                                   123.5,
+                                                   408.984375,
+                                                   883.5,
+                                                   496.96875
+                                               ],
+                                     "titleAlign":  "center",
+                                     "overflow":  false
+                                 }
+                   },
+                   {
+                       "width":  1440,
+                       "page":  "about.html",
+                       "state":  {
+                                     "before":  [
+                                                    122.5,
+                                                    158.484375,
+                                                    704.609375,
+                                                    396.328125
+                                                ],
+                                     "after":  [
+                                                   122.5,
+                                                   158.484375,
+                                                   704.609375,
+                                                   396.328125
+                                               ],
+                                     "titleAlign":  "center",
+                                     "overflow":  false
+                                 }
+                   },
+                   {
+                       "width":  1440,
+                       "page":  "paper-trail-services.html",
+                       "state":  {
+                                     "before":  [
+                                                    122.5,
+                                                    158.484375,
+                                                    704.609375,
+                                                    396.328125
+                                                ],
+                                     "after":  [
+                                                   122.5,
+                                                   158.484375,
+                                                   704.609375,
+                                                   396.328125
+                                               ],
+                                     "titleAlign":  "start",
+                                     "overflow":  false
+                                 }
+                   },
+                   {
+                       "width":  1440,
+                       "page":  "paper-trail-monthly-bookkeeping.html",
+                       "state":  {
+                                     "before":  [
+                                                    122.5,
+                                                    158.484375,
+                                                    704.609375,
+                                                    396.328125
+                                                ],
+                                     "after":  [
+                                                   122.5,
+                                                   158.484375,
+                                                   704.609375,
+                                                   396.328125
+                                               ],
+                                     "titleAlign":  "start",
+                                     "overflow":  false
+                                 }
+                   }
+               ],
+    "exceptions":  [
+
+                   ]
+}

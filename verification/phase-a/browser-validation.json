@@ -1,0 +1,554 @@
+﻿[
+    {
+        "page":  "home-desktop",
+        "state":  {
+                      "width":  1440,
+                      "scrollWidth":  1425,
+                      "h1":  [
+                                 "Bookkeeping"
+                             ],
+                      "images":  [
+                                     {
+                                         "src":  "assets/images/paper-trail-logo.png",
+                                         "width":  2170,
+                                         "height":  725,
+                                         "complete":  true
+                                     },
+                                     {
+                                         "src":  "assets/images/service-details-paper-trail-services-html.webp",
+                                         "width":  1448,
+                                         "height":  1086,
+                                         "complete":  true
+                                     },
+                                     {
+                                         "src":  "assets/photos/past-due-bookkeeping-html.webp",
+                                         "width":  1448,
+                                         "height":  1086,
+                                         "complete":  true
+                                     },
+                                     {
+                                         "src":  "assets/images/paper-trail-monthly-bookkeeping-html.webp",
+                                         "width":  1448,
+                                         "height":  1086,
+                                         "complete":  true
+                                     },
+                                     {
+                                         "src":  "assets/photos/balancing-corrections-html.webp",
+                                         "width":  1448,
+                                         "height":  1086,
+                                         "complete":  true
+                                     },
+                                     {
+                                         "src":  "assets/photos/tax-ready-bookkeeping-html.webp",
+                                         "width":  1448,
+                                         "height":  1086,
+                                         "complete":  true
+                                     },
+                                     {
+                                         "src":  "assets/images/home-article-card-1.webp",
+                                         "width":  1448,
+                                         "height":  1086,
+                                         "complete":  true
+                                     },
+                                     {
+                                         "src":  "assets/photos/how-often-should-i-reconcile-my-business-bank-account-html.webp",
+                                         "width":  1448,
+                                         "height":  1086,
+                                         "complete":  true
+                                     },
+                                     {
+                                         "src":  "assets/photos/what-business-expenses-should-i-be-tracking-html.webp",
+                                         "width":  1448,
+                                         "height":  1086,
+                                         "complete":  true
+                                     },
+                                     {
+                                         "src":  "assets/photos/what-should-my-books-look-like-before-i-give-them-to-my-tax-preparer-html.webp",
+                                         "width":  1448,
+                                         "height":  1086,
+                                         "complete":  true
+                                     },
+                                     {
+                                         "src":  "assets/photos/what-should-i-check-before-approving-monthly-reports-html.webp",
+                                         "width":  1448,
+                                         "height":  1086,
+                                         "complete":  true
+                                     },
+                                     {
+                                         "src":  "assets/images/paper-trail-logo.png",
+                                         "width":  2170,
+                                         "height":  725,
+                                         "complete":  true
+                                     }
+                                 ]
+                  }
+    },
+    {
+        "page":  "home-mobile",
+        "state":  {
+                      "width":  390,
+                      "scrollWidth":  390,
+                      "h1":  [
+                                 "Bookkeeping"
+                             ],
+                      "images":  [
+                                     {
+                                         "src":  "assets/images/paper-trail-logo.png",
+                                         "width":  2170,
+                                         "height":  725,
+                                         "complete":  true
+                                     },
+                                     {
+                                         "src":  "assets/images/service-details-paper-trail-services-html.webp",
+                                         "width":  1448,
+                                         "height":  1086,
+                                         "complete":  true
+                                     },
+                                     {
+                                         "src":  "assets/photos/past-due-bookkeeping-html.webp",
+                                         "width":  1448,
+                                         "height":  1086,
+                                         "complete":  true
+                                     },
+                                     {
+                                         "src":  "assets/images/paper-trail-monthly-bookkeeping-html.webp",
+                                         "width":  1448,
+                                         "height":  1086,
+                                         "complete":  true
+                                     },
+                                     {
+                                         "src":  "assets/photos/balancing-corrections-html.webp",
+                                         "width":  1448,
+                                         "height":  1086,
+                                         "complete":  true
+                                     },
+                                     {
+                                         "src":  "assets/photos/tax-ready-bookkeeping-html.webp",
+                                         "width":  1448,
+                                         "height":  1086,
+                                         "complete":  true
+                                     },
+                                     {
+                                         "src":  "assets/images/home-article-card-1.webp",
+                                         "width":  1448,
+                                         "height":  1086,
+                                         "complete":  true
+                                     },
+                                     {
+                                         "src":  "assets/photos/how-often-should-i-reconcile-my-business-bank-account-html.webp",
+                                         "width":  1448,
+                                         "height":  1086,
+                                         "complete":  true
+                                     },
+                                     {
+                                         "src":  "assets/photos/what-business-expenses-should-i-be-tracking-html.webp",
+                                         "width":  1448,
+                                         "height":  1086,
+                                         "complete":  true
+                                     },
+                                     {
+                                         "src":  "assets/photos/what-should-my-books-look-like-before-i-give-them-to-my-tax-preparer-html.webp",
+                                         "width":  1448,
+                                         "height":  1086,
+                                         "complete":  true
+                                     },
+                                     {
+                                         "src":  "assets/photos/what-should-i-check-before-approving-monthly-reports-html.webp",
+                                         "width":  1448,
+                                         "height":  1086,
+                                         "complete":  true
+                                     },
+                                     {
+                                         "src":  "assets/images/paper-trail-logo.png",
+                                         "width":  2170,
+                                         "height":  725,
+                                         "complete":  true
+                                     }
+                                 ]
+                  }
+    },
+    {
+        "page":  "notes-desktop",
+        "state":  {
+                      "width":  1440,
+                      "scrollWidth":  1425,
+                      "h1":  [
+                                 "Notes"
+                             ],
+                      "images":  [
+                                     {
+                                         "src":  "assets/images/paper-trail-logo.png",
+                                         "width":  2170,
+                                         "height":  725,
+                                         "complete":  true
+                                     },
+                                     {
+                                         "src":  "assets/images/paper-trail-services-html.webp",
+                                         "width":  1448,
+                                         "height":  1086,
+                                         "complete":  true
+                                     },
+                                     {
+                                         "src":  "assets/photos/past-due-bookkeeping-html.webp",
+                                         "width":  1448,
+                                         "height":  1086,
+                                         "complete":  true
+                                     },
+                                     {
+                                         "src":  "assets/photos/balancing-corrections-html.webp",
+                                         "width":  1448,
+                                         "height":  1086,
+                                         "complete":  true
+                                     },
+                                     {
+                                         "src":  "assets/photos/year-end-bookkeeping-html.webp",
+                                         "width":  1448,
+                                         "height":  1086,
+                                         "complete":  true
+                                     },
+                                     {
+                                         "src":  "assets/photos/tax-ready-bookkeeping-html.webp",
+                                         "width":  1448,
+                                         "height":  1086,
+                                         "complete":  true
+                                     },
+                                     {
+                                         "src":  "assets/images/paper-trail-monthly-bookkeeping-html.webp",
+                                         "width":  1448,
+                                         "height":  1086,
+                                         "complete":  true
+                                     },
+                                     {
+                                         "src":  "assets/photos/transaction-categorization-html.webp",
+                                         "width":  1448,
+                                         "height":  1086,
+                                         "complete":  true
+                                     },
+                                     {
+                                         "src":  "assets/photos/income-expense-tracking-html.webp",
+                                         "width":  1448,
+                                         "height":  1086,
+                                         "complete":  true
+                                     },
+                                     {
+                                         "src":  "assets/photos/bank-credit-card-balancing-html.webp",
+                                         "width":  1448,
+                                         "height":  1086,
+                                         "complete":  true
+                                     },
+                                     {
+                                         "src":  "assets/photos/accounts-payable-receivable-html.webp",
+                                         "width":  1448,
+                                         "height":  1086,
+                                         "complete":  true
+                                     },
+                                     {
+                                         "src":  "assets/photos/monthly-financial-reports-html.webp",
+                                         "width":  1448,
+                                         "height":  1086,
+                                         "complete":  true
+                                     },
+                                     {
+                                         "src":  "assets/photos/what-questions-should-i-ask-during-a-bookkeeping-review-html.webp",
+                                         "width":  1448,
+                                         "height":  1086,
+                                         "complete":  true
+                                     }
+                                 ]
+                  }
+    },
+    {
+        "page":  "notes-mobile",
+        "state":  {
+                      "width":  390,
+                      "scrollWidth":  390,
+                      "h1":  [
+                                 "Notes"
+                             ],
+                      "images":  [
+                                     {
+                                         "src":  "assets/images/paper-trail-logo.png",
+                                         "width":  2170,
+                                         "height":  725,
+                                         "complete":  true
+                                     },
+                                     {
+                                         "src":  "assets/images/paper-trail-services-html.webp",
+                                         "width":  1448,
+                                         "height":  1086,
+                                         "complete":  true
+                                     },
+                                     {
+                                         "src":  "assets/photos/past-due-bookkeeping-html.webp",
+                                         "width":  1448,
+                                         "height":  1086,
+                                         "complete":  true
+                                     },
+                                     {
+                                         "src":  "assets/photos/balancing-corrections-html.webp",
+                                         "width":  1448,
+                                         "height":  1086,
+                                         "complete":  true
+                                     },
+                                     {
+                                         "src":  "assets/photos/year-end-bookkeeping-html.webp",
+                                         "width":  1448,
+                                         "height":  1086,
+                                         "complete":  true
+                                     },
+                                     {
+                                         "src":  "assets/photos/tax-ready-bookkeeping-html.webp",
+                                         "width":  1448,
+                                         "height":  1086,
+                                         "complete":  true
+                                     },
+                                     {
+                                         "src":  "assets/images/paper-trail-monthly-bookkeeping-html.webp",
+                                         "width":  1448,
+                                         "height":  1086,
+                                         "complete":  true
+                                     },
+                                     {
+                                         "src":  "assets/photos/transaction-categorization-html.webp",
+                                         "width":  1448,
+                                         "height":  1086,
+                                         "complete":  true
+                                     },
+                                     {
+                                         "src":  "assets/photos/income-expense-tracking-html.webp",
+                                         "width":  1448,
+                                         "height":  1086,
+                                         "complete":  true
+                                     },
+                                     {
+                                         "src":  "assets/photos/bank-credit-card-balancing-html.webp",
+                                         "width":  1448,
+                                         "height":  1086,
+                                         "complete":  true
+                                     },
+                                     {
+                                         "src":  "assets/photos/accounts-payable-receivable-html.webp",
+                                         "width":  1448,
+                                         "height":  1086,
+                                         "complete":  true
+                                     },
+                                     {
+                                         "src":  "assets/photos/monthly-financial-reports-html.webp",
+                                         "width":  1448,
+                                         "height":  1086,
+                                         "complete":  true
+                                     },
+                                     {
+                                         "src":  "assets/photos/what-questions-should-i-ask-during-a-bookkeeping-review-html.webp",
+                                         "width":  1448,
+                                         "height":  1086,
+                                         "complete":  true
+                                     }
+                                 ]
+                  }
+    },
+    {
+        "page":  "blog-desktop",
+        "state":  {
+                      "width":  1440,
+                      "scrollWidth":  1425,
+                      "h1":  [
+                                 "Blog"
+                             ],
+                      "images":  [
+                                     {
+                                         "src":  "assets/images/paper-trail-logo.png",
+                                         "width":  2170,
+                                         "height":  725,
+                                         "complete":  true
+                                     },
+                                     {
+                                         "src":  "assets/photos/catch-up-bookkeeping-overdue-books-html.webp",
+                                         "width":  1536,
+                                         "height":  1024,
+                                         "complete":  true
+                                     },
+                                     {
+                                         "src":  "assets/photos/profit-vs-cash-flow-business-money-html.webp",
+                                         "width":  1536,
+                                         "height":  1024,
+                                         "complete":  true
+                                     },
+                                     {
+                                         "src":  "assets/photos/tax-ready-bookkeeping-html.webp",
+                                         "width":  1448,
+                                         "height":  1086,
+                                         "complete":  true
+                                     }
+                                 ]
+                  }
+    },
+    {
+        "page":  "blog-mobile",
+        "state":  {
+                      "width":  390,
+                      "scrollWidth":  390,
+                      "h1":  [
+                                 "Blog"
+                             ],
+                      "images":  [
+                                     {
+                                         "src":  "assets/images/paper-trail-logo.png",
+                                         "width":  2170,
+                                         "height":  725,
+                                         "complete":  true
+                                     },
+                                     {
+                                         "src":  "assets/photos/catch-up-bookkeeping-overdue-books-html.webp",
+                                         "width":  1536,
+                                         "height":  1024,
+                                         "complete":  true
+                                     },
+                                     {
+                                         "src":  "assets/photos/profit-vs-cash-flow-business-money-html.webp",
+                                         "width":  1536,
+                                         "height":  1024,
+                                         "complete":  true
+                                     },
+                                     {
+                                         "src":  "assets/photos/tax-ready-bookkeeping-html.webp",
+                                         "width":  1448,
+                                         "height":  1086,
+                                         "complete":  true
+                                     }
+                                 ]
+                  }
+    },
+    {
+        "page":  "article-desktop",
+        "state":  {
+                      "width":  1440,
+                      "scrollWidth":  1425,
+                      "h1":  [
+                                 "Bank Reconciliation When Your Books Do Not Match"
+                             ],
+                      "images":  [
+                                     {
+                                         "src":  "assets/images/paper-trail-logo.png",
+                                         "width":  2170,
+                                         "height":  725,
+                                         "complete":  true
+                                     },
+                                     {
+                                         "src":  "assets/photos/why-does-my-bank-balance-not-match-my-books-html.webp",
+                                         "width":  1536,
+                                         "height":  1024,
+                                         "complete":  true
+                                     }
+                                 ]
+                  }
+    },
+    {
+        "page":  "article-mobile",
+        "state":  {
+                      "width":  390,
+                      "scrollWidth":  390,
+                      "h1":  [
+                                 "Bank Reconciliation When Your Books Do Not Match"
+                             ],
+                      "images":  [
+                                     {
+                                         "src":  "assets/images/paper-trail-logo.png",
+                                         "width":  2170,
+                                         "height":  725,
+                                         "complete":  true
+                                     },
+                                     {
+                                         "src":  "assets/photos/why-does-my-bank-balance-not-match-my-books-html.webp",
+                                         "width":  1536,
+                                         "height":  1024,
+                                         "complete":  true
+                                     }
+                                 ]
+                  }
+    },
+    {
+        "page":  "blog-article-desktop",
+        "state":  {
+                      "width":  1440,
+                      "scrollWidth":  1425,
+                      "h1":  [
+                                 "Profit vs. Cash Flow: Where Your Business Money Is Going"
+                             ],
+                      "images":  [
+                                     {
+                                         "src":  "assets/images/paper-trail-logo.png",
+                                         "width":  2170,
+                                         "height":  725,
+                                         "complete":  true
+                                     },
+                                     {
+                                         "src":  "assets/photos/profit-vs-cash-flow-business-money-html.webp",
+                                         "width":  1536,
+                                         "height":  1024,
+                                         "complete":  true
+                                     }
+                                 ]
+                  }
+    },
+    {
+        "page":  "blog-article-mobile",
+        "state":  {
+                      "width":  390,
+                      "scrollWidth":  390,
+                      "h1":  [
+                                 "Profit vs. Cash Flow: Where Your Business Money Is Going"
+                             ],
+                      "images":  [
+                                     {
+                                         "src":  "assets/images/paper-trail-logo.png",
+                                         "width":  2170,
+                                         "height":  725,
+                                         "complete":  true
+                                     },
+                                     {
+                                         "src":  "assets/photos/profit-vs-cash-flow-business-money-html.webp",
+                                         "width":  1536,
+                                         "height":  1024,
+                                         "complete":  true
+                                     }
+                                 ]
+                  }
+    },
+    {
+        "page":  "contact-desktop",
+        "state":  {
+                      "width":  1440,
+                      "scrollWidth":  1440,
+                      "h1":  [
+                                 "Contact Us – Nationwide"
+                             ],
+                      "images":  [
+                                     {
+                                         "src":  "assets/images/paper-trail-logo.png",
+                                         "width":  2170,
+                                         "height":  725,
+                                         "complete":  true
+                                     }
+                                 ]
+                  }
+    },
+    {
+        "page":  "contact-mobile",
+        "state":  {
+                      "width":  390,
+                      "scrollWidth":  390,
+                      "h1":  [
+                                 "Contact Us – Nationwide"
+                             ],
+                      "images":  [
+                                     {
+                                         "src":  "assets/images/paper-trail-logo.png",
+                                         "width":  2170,
+                                         "height":  725,
+                                         "complete":  true
+                                     }
+                                 ]
+                  }
+    }
+]

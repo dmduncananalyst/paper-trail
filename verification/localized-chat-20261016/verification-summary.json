@@ -1,0 +1,31 @@
+{
+  "complete_guided_flows": 40,
+  "questions_checked": 560,
+  "languages": 10,
+  "pages": [
+    "Home",
+    "Blog"
+  ],
+  "phone_widths": [
+    320,
+    390
+  ],
+  "validation_and_review_checks": 40,
+  "mocked_confirmation_checks": 20,
+  "service_pages": 12,
+  "notes_cards": 48,
+  "card_page_width_checks": 60,
+  "card_widths": [
+    320,
+    390,
+    430,
+    834,
+    1440
+  ],
+  "actual_api_or_crm_requests": 0,
+  "google_characters_sent": 0,
+  "issues": [],
+  "translation_origin": "Locally authored, saved translations. No Google provider. Speaker review remains pending.",
+  "native_phone_digit_checks": 4,
+  "saved_chat_phrases_per_language": 89
+}

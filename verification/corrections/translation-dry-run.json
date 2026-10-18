@@ -1,0 +1,63 @@
+{
+  "mode": "offline_only",
+  "source_pages": [
+    "index.html",
+    "blog.html"
+  ],
+  "saved_bundle_sha256": "dc21e12ce63e64a5dee783babf9ffaa2f72c07b7fb0156757c1ff0187a8a56e8",
+  "provenance": "Local AI drafts, not Google output; speaker review pending",
+  "source_fields": 61,
+  "target_languages": 9,
+  "saved_draft_field_hits": 549,
+  "missing_draft_fields": [],
+  "source_hash_mismatches": [],
+  "verified_google_cache_fields": 0,
+  "google_requests": 0,
+  "characters_dispatched_to_google": 0,
+  "requests_authorized": false,
+  "shared_policy": {
+    "monthly_workflow_ceiling_usd": "15",
+    "early_warning_usd": "12",
+    "live_enabled": false,
+    "live_calls_approved": false,
+    "shared_ledger_verified": false,
+    "scope": [
+      "dommydom",
+      "paper-trail",
+      "startweb7"
+    ],
+    "planning_english_characters_per_card": 350
+  },
+  "configured_private_ledger_present": false,
+  "configured_private_coordinator_present": false,
+  "actual_private_ledger_ceiling_usd": null,
+  "actual_remaining_project_allowance": null,
+  "hypothetical_google_characters_if_all_current_sources_required_provider_translation": 19449,
+  "hypothetical_current_blog_titles_and_previews_characters": 5985,
+  "hypothetical_full_gross_usd_without_allowance": "0.38898",
+  "monthly_forecast": {
+    "blogs_per_day": 12,
+    "days": 30,
+    "planning_characters_per_card": 350,
+    "targets": 9,
+    "dispatched_characters_without_cache": 1134000,
+    "conditional_eligible_allowance": 500000,
+    "conditional_estimate_usd": "12.68",
+    "warning_exceeded": true,
+    "one_time_page_translations_included": false,
+    "qualification": "Forecast only, not verified account usage or authorization. Extra translations and other callers consume the same project allowance."
+  },
+  "blocking_reasons": [
+    "Live calls are not approved",
+    "Private authoritative ledger/coordinator is not verified",
+    "Full project provider usage and credit reconciliation not supplied",
+    "Saved drafts need language review"
+  ],
+  "provider_pricing_reference": "https://cloud.google.com/products/translate/pricing",
+  "repeat_check": {
+    "unchanged_source_and_saved_bundle": true,
+    "new_google_requests": 0,
+    "new_google_characters": 0,
+    "note": "Offline saved-draft repeat, not a successful Google dispatch/cache test."
+  }
+}

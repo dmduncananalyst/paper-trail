@@ -1,0 +1,545 @@
+﻿[
+    {
+        "width":  1440,
+        "page":  "home",
+        "state":  {
+                      "width":  1440,
+                      "scrollWidth":  1425,
+                      "serviceImages":  [
+                                            {
+                                                "src":  "assets/photos/past-due-bookkeeping-html.webp",
+                                                "width":  248.109375,
+                                                "height":  186.078125,
+                                                "naturalWidth":  1448,
+                                                "naturalHeight":  1086,
+                                                "fit":  "contain",
+                                                "ratioError":  0.000027990035547320602
+                                            },
+                                            {
+                                                "src":  "assets/images/paper-trail-monthly-bookkeeping-html.webp",
+                                                "width":  248.109375,
+                                                "height":  186.078125,
+                                                "naturalWidth":  1448,
+                                                "naturalHeight":  1086,
+                                                "fit":  "contain",
+                                                "ratioError":  0.000027990035547320602
+                                            },
+                                            {
+                                                "src":  "assets/photos/balancing-corrections-html.webp",
+                                                "width":  248.109375,
+                                                "height":  186.078125,
+                                                "naturalWidth":  1448,
+                                                "naturalHeight":  1086,
+                                                "fit":  "contain",
+                                                "ratioError":  0.000027990035547320602
+                                            },
+                                            {
+                                                "src":  "assets/photos/tax-ready-bookkeeping-html.webp",
+                                                "width":  248.109375,
+                                                "height":  186.078125,
+                                                "naturalWidth":  1448,
+                                                "naturalHeight":  1086,
+                                                "fit":  "contain",
+                                                "ratioError":  0.000027990035547320602
+                                            }
+                                        ],
+                      "noteImages":  [
+                                         {
+                                             "src":  "assets/images/home-article-card-1.webp",
+                                             "width":  472,
+                                             "height":  354,
+                                             "naturalWidth":  1448,
+                                             "naturalHeight":  1086,
+                                             "fit":  "contain",
+                                             "ratioError":  0
+                                         },
+                                         {
+                                             "src":  "assets/images/bank-credit-card-balancing-html.webp",
+                                             "width":  472,
+                                             "height":  354,
+                                             "naturalWidth":  1448,
+                                             "naturalHeight":  1086,
+                                             "fit":  "contain",
+                                             "ratioError":  0
+                                         },
+                                         {
+                                             "src":  "assets/photos/transaction-categorization-html.webp",
+                                             "width":  472,
+                                             "height":  354,
+                                             "naturalWidth":  1448,
+                                             "naturalHeight":  1086,
+                                             "fit":  "contain",
+                                             "ratioError":  0
+                                         },
+                                         {
+                                             "src":  "assets/images/home-article-card-4.webp",
+                                             "width":  472,
+                                             "height":  354,
+                                             "naturalWidth":  1448,
+                                             "naturalHeight":  1086,
+                                             "fit":  "contain",
+                                             "ratioError":  0
+                                         },
+                                         {
+                                             "src":  "assets/photos/monthly-financial-reports-html.webp",
+                                             "width":  472,
+                                             "height":  354,
+                                             "naturalWidth":  1448,
+                                             "naturalHeight":  1086,
+                                             "fit":  "contain",
+                                             "ratioError":  0
+                                         }
+                                     ],
+                      "notesAtLeastServiceSize":  true,
+                      "noAddedCropping":  true,
+                      "labels":  [
+                                     "View Repair",
+                                     "View Monthly"
+                                 ]
+                  }
+    },
+    {
+        "width":  1440,
+        "page":  "notes",
+        "state":  {
+                      "width":  1440,
+                      "scrollWidth":  1425,
+                      "photos":  [
+                                     {
+                                         "src":  "assets/images/paper-trail-services-html.webp",
+                                         "width":  292.5,
+                                         "height":  219.375,
+                                         "ratioError":  0
+                                     },
+                                     {
+                                         "src":  "assets/photos/past-due-bookkeeping-html.webp",
+                                         "width":  292.5,
+                                         "height":  219.375,
+                                         "ratioError":  0
+                                     },
+                                     {
+                                         "src":  "assets/images/home-article-card-2.webp",
+                                         "width":  292.5,
+                                         "height":  219.375,
+                                         "ratioError":  0
+                                     },
+                                     {
+                                         "src":  "assets/images/home-article-card-4.webp",
+                                         "width":  292.5,
+                                         "height":  219.375,
+                                         "ratioError":  0
+                                     },
+                                     {
+                                         "src":  "assets/photos/tax-ready-bookkeeping-html.webp",
+                                         "width":  292.5,
+                                         "height":  219.375,
+                                         "ratioError":  0
+                                     },
+                                     {
+                                         "src":  "assets/images/paper-trail-monthly-bookkeeping-html.webp",
+                                         "width":  292.5,
+                                         "height":  219.375,
+                                         "ratioError":  0
+                                     },
+                                     {
+                                         "src":  "assets/photos/transaction-categorization-html.webp",
+                                         "width":  292.5,
+                                         "height":  219.375,
+                                         "ratioError":  0
+                                     },
+                                     {
+                                         "src":  "assets/images/service-details-income-expense-tracking-html.webp",
+                                         "width":  292.5,
+                                         "height":  219.375,
+                                         "ratioError":  0
+                                     },
+                                     {
+                                         "src":  "assets/photos/bank-credit-card-balancing-html.webp",
+                                         "width":  292.5,
+                                         "height":  219.375,
+                                         "ratioError":  0
+                                     },
+                                     {
+                                         "src":  "assets/photos/accounts-payable-receivable-html.webp",
+                                         "width":  292.5,
+                                         "height":  219.375,
+                                         "ratioError":  0
+                                     },
+                                     {
+                                         "src":  "assets/images/home-article-card-1.webp",
+                                         "width":  292.5,
+                                         "height":  219.375,
+                                         "ratioError":  0
+                                     },
+                                     {
+                                         "src":  "assets/photos/monthly-financial-reports-html.webp",
+                                         "width":  292.5,
+                                         "height":  219.375,
+                                         "ratioError":  0
+                                     }
+                                 ]
+                  }
+    },
+    {
+        "width":  1180,
+        "page":  "home",
+        "state":  {
+                      "width":  1180,
+                      "scrollWidth":  1165,
+                      "serviceImages":  [
+                                            {
+                                                "src":  "assets/photos/past-due-bookkeeping-html.webp",
+                                                "width":  229.828125,
+                                                "height":  172.359375,
+                                                "naturalWidth":  1448,
+                                                "naturalHeight":  1086,
+                                                "fit":  "contain",
+                                                "ratioError":  0.0000906536125464541
+                                            },
+                                            {
+                                                "src":  "assets/images/paper-trail-monthly-bookkeeping-html.webp",
+                                                "width":  229.828125,
+                                                "height":  172.359375,
+                                                "naturalWidth":  1448,
+                                                "naturalHeight":  1086,
+                                                "fit":  "contain",
+                                                "ratioError":  0.0000906536125464541
+                                            },
+                                            {
+                                                "src":  "assets/photos/balancing-corrections-html.webp",
+                                                "width":  229.828125,
+                                                "height":  172.359375,
+                                                "naturalWidth":  1448,
+                                                "naturalHeight":  1086,
+                                                "fit":  "contain",
+                                                "ratioError":  0.0000906536125464541
+                                            },
+                                            {
+                                                "src":  "assets/photos/tax-ready-bookkeeping-html.webp",
+                                                "width":  229.828125,
+                                                "height":  172.359375,
+                                                "naturalWidth":  1448,
+                                                "naturalHeight":  1086,
+                                                "fit":  "contain",
+                                                "ratioError":  0.0000906536125464541
+                                            }
+                                        ],
+                      "noteImages":  [
+                                         {
+                                             "src":  "assets/images/home-article-card-1.webp",
+                                             "width":  438,
+                                             "height":  328.5,
+                                             "naturalWidth":  1448,
+                                             "naturalHeight":  1086,
+                                             "fit":  "contain",
+                                             "ratioError":  0
+                                         },
+                                         {
+                                             "src":  "assets/images/bank-credit-card-balancing-html.webp",
+                                             "width":  438,
+                                             "height":  328.5,
+                                             "naturalWidth":  1448,
+                                             "naturalHeight":  1086,
+                                             "fit":  "contain",
+                                             "ratioError":  0
+                                         },
+                                         {
+                                             "src":  "assets/photos/transaction-categorization-html.webp",
+                                             "width":  438,
+                                             "height":  328.5,
+                                             "naturalWidth":  1448,
+                                             "naturalHeight":  1086,
+                                             "fit":  "contain",
+                                             "ratioError":  0
+                                         },
+                                         {
+                                             "src":  "assets/images/home-article-card-4.webp",
+                                             "width":  438,
+                                             "height":  328.5,
+                                             "naturalWidth":  1448,
+                                             "naturalHeight":  1086,
+                                             "fit":  "contain",
+                                             "ratioError":  0
+                                         },
+                                         {
+                                             "src":  "assets/photos/monthly-financial-reports-html.webp",
+                                             "width":  438,
+                                             "height":  328.5,
+                                             "naturalWidth":  1448,
+                                             "naturalHeight":  1086,
+                                             "fit":  "contain",
+                                             "ratioError":  0
+                                         }
+                                     ],
+                      "notesAtLeastServiceSize":  true,
+                      "noAddedCropping":  true,
+                      "labels":  [
+                                     "View Repair",
+                                     "View Monthly"
+                                 ]
+                  }
+    },
+    {
+        "width":  1180,
+        "page":  "notes",
+        "state":  {
+                      "width":  1180,
+                      "scrollWidth":  1165,
+                      "photos":  [
+                                     {
+                                         "src":  "assets/images/paper-trail-services-html.webp",
+                                         "width":  276.890625,
+                                         "height":  207.65625,
+                                         "ratioError":  0.00007524454477048081
+                                     },
+                                     {
+                                         "src":  "assets/photos/past-due-bookkeeping-html.webp",
+                                         "width":  276.890625,
+                                         "height":  207.65625,
+                                         "ratioError":  0.00007524454477048081
+                                     },
+                                     {
+                                         "src":  "assets/images/home-article-card-2.webp",
+                                         "width":  276.890625,
+                                         "height":  207.65625,
+                                         "ratioError":  0.00007524454477048081
+                                     },
+                                     {
+                                         "src":  "assets/images/home-article-card-4.webp",
+                                         "width":  276.890625,
+                                         "height":  207.65625,
+                                         "ratioError":  0.00007524454477048081
+                                     },
+                                     {
+                                         "src":  "assets/photos/tax-ready-bookkeeping-html.webp",
+                                         "width":  276.890625,
+                                         "height":  207.65625,
+                                         "ratioError":  0.00007524454477048081
+                                     },
+                                     {
+                                         "src":  "assets/images/paper-trail-monthly-bookkeeping-html.webp",
+                                         "width":  276.890625,
+                                         "height":  207.65625,
+                                         "ratioError":  0.00007524454477048081
+                                     },
+                                     {
+                                         "src":  "assets/photos/transaction-categorization-html.webp",
+                                         "width":  276.890625,
+                                         "height":  207.65625,
+                                         "ratioError":  0.00007524454477048081
+                                     },
+                                     {
+                                         "src":  "assets/images/service-details-income-expense-tracking-html.webp",
+                                         "width":  276.890625,
+                                         "height":  207.65625,
+                                         "ratioError":  0.00007524454477048081
+                                     },
+                                     {
+                                         "src":  "assets/photos/bank-credit-card-balancing-html.webp",
+                                         "width":  276.890625,
+                                         "height":  207.65625,
+                                         "ratioError":  0.00007524454477048081
+                                     },
+                                     {
+                                         "src":  "assets/photos/accounts-payable-receivable-html.webp",
+                                         "width":  276.890625,
+                                         "height":  207.65625,
+                                         "ratioError":  0.00007524454477048081
+                                     },
+                                     {
+                                         "src":  "assets/images/home-article-card-1.webp",
+                                         "width":  276.890625,
+                                         "height":  207.65625,
+                                         "ratioError":  0.00007524454477048081
+                                     },
+                                     {
+                                         "src":  "assets/photos/monthly-financial-reports-html.webp",
+                                         "width":  276.890625,
+                                         "height":  207.65625,
+                                         "ratioError":  0.00007524454477048081
+                                     }
+                                 ]
+                  }
+    },
+    {
+        "width":  390,
+        "page":  "home",
+        "state":  {
+                      "width":  390,
+                      "scrollWidth":  390,
+                      "serviceImages":  [
+                                            {
+                                                "src":  "assets/photos/past-due-bookkeeping-html.webp",
+                                                "width":  153.109375,
+                                                "height":  114.828125,
+                                                "naturalWidth":  1448,
+                                                "naturalHeight":  1086,
+                                                "fit":  "contain",
+                                                "ratioError":  0.00004535764503121875
+                                            },
+                                            {
+                                                "src":  "assets/images/paper-trail-monthly-bookkeeping-html.webp",
+                                                "width":  153.109375,
+                                                "height":  114.828125,
+                                                "naturalWidth":  1448,
+                                                "naturalHeight":  1086,
+                                                "fit":  "contain",
+                                                "ratioError":  0.00004535764503121875
+                                            },
+                                            {
+                                                "src":  "assets/photos/balancing-corrections-html.webp",
+                                                "width":  153.109375,
+                                                "height":  114.828125,
+                                                "naturalWidth":  1448,
+                                                "naturalHeight":  1086,
+                                                "fit":  "contain",
+                                                "ratioError":  0.00004535764503121875
+                                            },
+                                            {
+                                                "src":  "assets/photos/tax-ready-bookkeeping-html.webp",
+                                                "width":  153.109375,
+                                                "height":  114.828125,
+                                                "naturalWidth":  1448,
+                                                "naturalHeight":  1086,
+                                                "fit":  "contain",
+                                                "ratioError":  0.00004535764503121875
+                                            }
+                                        ],
+                      "noteImages":  [
+                                         {
+                                             "src":  "assets/images/home-article-card-1.webp",
+                                             "width":  350,
+                                             "height":  262.5,
+                                             "naturalWidth":  1448,
+                                             "naturalHeight":  1086,
+                                             "fit":  "contain",
+                                             "ratioError":  0
+                                         },
+                                         {
+                                             "src":  "assets/images/bank-credit-card-balancing-html.webp",
+                                             "width":  350,
+                                             "height":  262.5,
+                                             "naturalWidth":  1448,
+                                             "naturalHeight":  1086,
+                                             "fit":  "contain",
+                                             "ratioError":  0
+                                         },
+                                         {
+                                             "src":  "assets/photos/transaction-categorization-html.webp",
+                                             "width":  350,
+                                             "height":  262.5,
+                                             "naturalWidth":  1448,
+                                             "naturalHeight":  1086,
+                                             "fit":  "contain",
+                                             "ratioError":  0
+                                         },
+                                         {
+                                             "src":  "assets/images/home-article-card-4.webp",
+                                             "width":  350,
+                                             "height":  262.5,
+                                             "naturalWidth":  1448,
+                                             "naturalHeight":  1086,
+                                             "fit":  "contain",
+                                             "ratioError":  0
+                                         },
+                                         {
+                                             "src":  "assets/photos/monthly-financial-reports-html.webp",
+                                             "width":  350,
+                                             "height":  262.5,
+                                             "naturalWidth":  1448,
+                                             "naturalHeight":  1086,
+                                             "fit":  "contain",
+                                             "ratioError":  0
+                                         }
+                                     ],
+                      "notesAtLeastServiceSize":  true,
+                      "noAddedCropping":  true,
+                      "labels":  [
+                                     "View Repair",
+                                     "View Monthly"
+                                 ]
+                  }
+    },
+    {
+        "width":  390,
+        "page":  "notes",
+        "state":  {
+                      "width":  390,
+                      "scrollWidth":  390,
+                      "photos":  [
+                                     {
+                                         "src":  "assets/images/paper-trail-services-html.webp",
+                                         "width":  350,
+                                         "height":  262.5,
+                                         "ratioError":  0
+                                     },
+                                     {
+                                         "src":  "assets/photos/past-due-bookkeeping-html.webp",
+                                         "width":  350,
+                                         "height":  262.5,
+                                         "ratioError":  0
+                                     },
+                                     {
+                                         "src":  "assets/images/home-article-card-2.webp",
+                                         "width":  350,
+                                         "height":  262.5,
+                                         "ratioError":  0
+                                     },
+                                     {
+                                         "src":  "assets/images/home-article-card-4.webp",
+                                         "width":  350,
+                                         "height":  262.5,
+                                         "ratioError":  0
+                                     },
+                                     {
+                                         "src":  "assets/photos/tax-ready-bookkeeping-html.webp",
+                                         "width":  350,
+                                         "height":  262.5,
+                                         "ratioError":  0
+                                     },
+                                     {
+                                         "src":  "assets/images/paper-trail-monthly-bookkeeping-html.webp",
+                                         "width":  350,
+                                         "height":  262.5,
+                                         "ratioError":  0
+                                     },
+                                     {
+                                         "src":  "assets/photos/transaction-categorization-html.webp",
+                                         "width":  350,
+                                         "height":  262.5,
+                                         "ratioError":  0
+                                     },
+                                     {
+                                         "src":  "assets/images/service-details-income-expense-tracking-html.webp",
+                                         "width":  350,
+                                         "height":  262.5,
+                                         "ratioError":  0
+                                     },
+                                     {
+                                         "src":  "assets/photos/bank-credit-card-balancing-html.webp",
+                                         "width":  350,
+                                         "height":  262.5,
+                                         "ratioError":  0
+                                     },
+                                     {
+                                         "src":  "assets/photos/accounts-payable-receivable-html.webp",
+                                         "width":  350,
+                                         "height":  262.5,
+                                         "ratioError":  0
+                                     },
+                                     {
+                                         "src":  "assets/images/home-article-card-1.webp",
+                                         "width":  350,
+                                         "height":  262.5,
+                                         "ratioError":  0
+                                     },
+                                     {
+                                         "src":  "assets/photos/monthly-financial-reports-html.webp",
+                                         "width":  350,
+                                         "height":  262.5,
+                                         "ratioError":  0
+                                     }
+                                 ]
+                  }
+    }
+]

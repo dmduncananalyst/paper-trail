@@ -1,0 +1,2889 @@
+{
+  "checked_on": "2026-10-16",
+  "method": "Read-only GET, first 1024 bytes. Access check only, not claim verification. Some government sites restrict automated access.",
+  "results": [
+    {
+      "url": "https://admincode.legislature.state.al.us/administrative-code/810-3-70-.02",
+      "status": 200,
+      "resolved_url": "https://admincode.legislature.state.al.us/administrative-code/810-3-70-.02",
+      "content_type": "text/html",
+      "states": [
+        "Alabama"
+      ]
+    },
+    {
+      "url": "https://alison.legislature.state.al.us/code-of-alabama?section=40-23-9",
+      "status": 200,
+      "resolved_url": "https://alison.legislature.state.al.us/code-of-alabama?section=40-23-9",
+      "content_type": "text/html; charset=utf-8",
+      "states": [
+        "Alabama"
+      ]
+    },
+    {
+      "url": "https://app.leg.wa.gov/wac/default.aspx?cite=458-20-254",
+      "status": 200,
+      "resolved_url": "https://app.leg.wa.gov/wac/default.aspx?cite=458-20-254",
+      "content_type": "text/html; charset=utf-8",
+      "states": [
+        "Washington"
+      ]
+    },
+    {
+      "url": "https://apps.legislature.ky.gov/law/kar/titles/103/031/020/",
+      "status": 200,
+      "resolved_url": "https://apps.legislature.ky.gov/law/kar/titles/103/031/020/",
+      "content_type": "text/html",
+      "states": [
+        "Kentucky"
+      ]
+    },
+    {
+      "url": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=49181",
+      "status": 200,
+      "resolved_url": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=49181",
+      "content_type": "application/PDF",
+      "states": [
+        "Kentucky"
+      ]
+    },
+    {
+      "url": "https://azdor.gov/business/business-record-keeping",
+      "status": 200,
+      "resolved_url": "https://azdor.gov/business/business-record-keeping",
+      "content_type": "text/html; charset=UTF-8",
+      "states": [
+        "Arizona"
+      ]
+    },
+    {
+      "url": "https://azdor.gov/business/corporate-income-tax",
+      "status": 200,
+      "resolved_url": "https://azdor.gov/business/corporate-income-tax",
+      "content_type": "text/html; charset=UTF-8",
+      "states": [
+        "Arizona"
+      ]
+    },
+    {
+      "url": "https://azdor.gov/business/transaction-privilege-tax",
+      "status": 200,
+      "resolved_url": "https://azdor.gov/business/transaction-privilege-tax",
+      "content_type": "text/html; charset=UTF-8",
+      "states": [
+        "Arizona"
+      ]
+    },
+    {
+      "url": "https://azdor.gov/business/transaction-privilege-tax/tpt-audit",
+      "status": 200,
+      "resolved_url": "https://azdor.gov/business/transaction-privilege-tax/tpt-audit",
+      "content_type": "text/html; charset=UTF-8",
+      "states": [
+        "Arizona"
+      ]
+    },
+    {
+      "url": "https://azdor.gov/forms/partnership-highlights",
+      "status": 200,
+      "resolved_url": "https://azdor.gov/forms/partnership-highlights",
+      "content_type": "text/html; charset=UTF-8",
+      "states": [
+        "Arizona"
+      ]
+    },
+    {
+      "url": "https://cdle.colorado.gov/employers/unemployment-insurance-premiums/wage-reporting",
+      "status": 403,
+      "detail": "HTTP Error 403: Forbidden",
+      "states": [
+        "Colorado"
+      ]
+    },
+    {
+      "url": "https://codeofarrules.arkansas.gov/Rules/Rule?chapterID=260&levelType=section&partID=1270&sectionID=51028&subChapterID=326&subPartID=7764&titleID=11",
+      "status": "Access not verified",
+      "detail": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)>",
+      "states": [
+        "Arkansas"
+      ]
+    },
+    {
+      "url": "https://codes.ohio.gov/assets/laws/administrative-code/authenticated/5703/0/29/5703-29-18_20241216.pdf",
+      "status": 200,
+      "resolved_url": "https://codes.ohio.gov/assets/laws/administrative-code/authenticated/5703/0/29/5703-29-18_20241216.pdf",
+      "content_type": "application/pdf",
+      "states": [
+        "Ohio"
+      ]
+    },
+    {
+      "url": "https://codes.ohio.gov/ohio-administrative-code/rule-4141-11-01",
+      "status": 200,
+      "resolved_url": "https://codes.ohio.gov/ohio-administrative-code/rule-4141-11-01",
+      "content_type": "text/html;charset=UTF-8",
+      "states": [
+        "Ohio"
+      ]
+    },
+    {
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4141.20",
+      "status": 200,
+      "resolved_url": "https://codes.ohio.gov/ohio-revised-code/section-4141.20",
+      "content_type": "text/html;charset=UTF-8",
+      "states": [
+        "Ohio"
+      ]
+    },
+    {
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5739.02",
+      "status": 200,
+      "resolved_url": "https://codes.ohio.gov/ohio-revised-code/section-5739.02",
+      "content_type": "text/html;charset=UTF-8",
+      "states": [
+        "Ohio"
+      ]
+    },
+    {
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5741.02",
+      "status": 200,
+      "resolved_url": "https://codes.ohio.gov/ohio-revised-code/section-5741.02",
+      "content_type": "text/html;charset=UTF-8",
+      "states": [
+        "Ohio"
+      ]
+    },
+    {
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5751.02",
+      "status": 200,
+      "resolved_url": "https://codes.ohio.gov/ohio-revised-code/section-5751.02",
+      "content_type": "text/html;charset=UTF-8",
+      "states": [
+        "Ohio"
+      ]
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/franchise/forms/",
+      "status": 200,
+      "resolved_url": "https://comptroller.texas.gov/taxes/franchise/forms/",
+      "content_type": "text/html; charset=UTF-8",
+      "states": [
+        "Texas"
+      ]
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/publications/96-259.php",
+      "status": 200,
+      "resolved_url": "https://comptroller.texas.gov/taxes/publications/96-259.php",
+      "content_type": "text/html; charset=UTF-8",
+      "states": [
+        "Texas"
+      ]
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/publications/98-806.php",
+      "status": 200,
+      "resolved_url": "https://comptroller.texas.gov/taxes/publications/98-806.php",
+      "content_type": "text/html; charset=UTF-8",
+      "states": [
+        "Texas"
+      ]
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/sales/",
+      "status": 200,
+      "resolved_url": "https://comptroller.texas.gov/taxes/sales/",
+      "content_type": "text/html; charset=UTF-8",
+      "states": [
+        "Texas"
+      ]
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/sales/faq/records.php",
+      "status": 200,
+      "resolved_url": "https://comptroller.texas.gov/taxes/sales/faq/records.php",
+      "content_type": "text/html; charset=UTF-8",
+      "states": [
+        "Texas"
+      ]
+    },
+    {
+      "url": "https://dam.assets.ohio.gov/image/upload/tax.ohio.gov/employer_withholding/2025-2026%20NYP%20Updates/2026_OH_Employer_School_District_Withholding_Tax_Filing_Guidelines.pdf",
+      "status": 200,
+      "resolved_url": "https://dam.assets.ohio.gov/image/upload/tax.ohio.gov/employer_withholding/2025-2026%20NYP%20Updates/2026_OH_Employer_School_District_Withholding_Tax_Filing_Guidelines.pdf",
+      "content_type": "application/pdf",
+      "states": [
+        "Ohio"
+      ]
+    },
+    {
+      "url": "https://des.az.gov/node/845",
+      "status": 403,
+      "detail": "HTTP Error 403: Forbidden",
+      "states": [
+        "Arizona"
+      ]
+    },
+    {
+      "url": "https://des.az.gov/services/employment/unemployment-employer/reporting-wages-and-paying-unemployment-insurance-taxes",
+      "status": 403,
+      "detail": "HTTP Error 403: Forbidden",
+      "states": [
+        "Arizona"
+      ]
+    },
+    {
+      "url": "https://des.az.gov/services/employment/unemployment-employer/tax-and-wage-system",
+      "status": 403,
+      "detail": "HTTP Error 403: Forbidden",
+      "states": [
+        "Arizona"
+      ]
+    },
+    {
+      "url": "https://detr.nv.gov/Page/UI_Information_for_Employers",
+      "status": 403,
+      "detail": "HTTP Error 403: Forbidden",
+      "states": [
+        "Nevada"
+      ]
+    },
+    {
+      "url": "https://dew.sc.gov/employers/suits",
+      "status": 200,
+      "resolved_url": "https://dew.sc.gov/employers/suits",
+      "content_type": "text/html; charset=UTF-8",
+      "states": [
+        "South Carolina"
+      ]
+    },
+    {
+      "url": "https://dew.sc.gov/unemployment-tax-information/file-wage-report",
+      "status": 200,
+      "resolved_url": "https://dew.sc.gov/unemployment-tax-information/file-wage-report",
+      "content_type": "text/html; charset=UTF-8",
+      "states": [
+        "South Carolina"
+      ]
+    },
+    {
+      "url": "https://dlr.sd.gov/ra/businesses/wage_reporting.aspx",
+      "status": 200,
+      "resolved_url": "https://dlr.sd.gov/ra/businesses/wage_reporting.aspx",
+      "content_type": "text/html; charset=utf-8",
+      "states": [
+        "South Dakota"
+      ]
+    },
+    {
+      "url": "https://dlr.sd.gov/ra/default.aspx",
+      "status": 200,
+      "resolved_url": "https://dlr.sd.gov/ra/default.aspx",
+      "content_type": "text/html; charset=utf-8",
+      "states": [
+        "South Dakota"
+      ]
+    },
+    {
+      "url": "https://dlt.ri.gov/employers/employer-tax-unit?language=en",
+      "status": 200,
+      "resolved_url": "https://dlt.ri.gov/employers/employer-tax-unit?language=en",
+      "content_type": "text/html; charset=utf-8",
+      "states": [
+        "Rhode Island"
+      ]
+    },
+    {
+      "url": "https://dol.georgia.gov/employers/taxes-unemployment-insurance-claims",
+      "status": 200,
+      "resolved_url": "https://dol.georgia.gov/employers/taxes-unemployment-insurance-claims",
+      "content_type": "text/html; charset=UTF-8",
+      "states": [
+        "Georgia"
+      ]
+    },
+    {
+      "url": "https://dol.nebraska.gov/uitax",
+      "status": 200,
+      "resolved_url": "https://dol.nebraska.gov/uitax",
+      "content_type": "text/html; charset=utf-8",
+      "states": [
+        "Nebraska"
+      ]
+    },
+    {
+      "url": "https://dor.georgia.gov/document/document/st-3-sales-and-use-tax-returns-effective-sales-beginning-october-1-2022/download",
+      "status": 200,
+      "resolved_url": "https://dor.georgia.gov/document/document/st-3-sales-and-use-tax-returns-effective-sales-beginning-october-1-2022/download",
+      "content_type": "application/pdf",
+      "states": [
+        "Georgia"
+      ]
+    },
+    {
+      "url": "https://dor.georgia.gov/net-worth-tax-corporations-faq",
+      "status": 200,
+      "resolved_url": "https://dor.georgia.gov/net-worth-tax-corporations-faq",
+      "content_type": "text/html; charset=UTF-8",
+      "states": [
+        "Georgia"
+      ]
+    },
+    {
+      "url": "https://dor.georgia.gov/taxes/business-taxes/sales-use-tax/file-pay",
+      "status": 200,
+      "resolved_url": "https://dor.georgia.gov/taxes/business-taxes/sales-use-tax/file-pay",
+      "content_type": "text/html; charset=UTF-8",
+      "states": [
+        "Georgia"
+      ]
+    },
+    {
+      "url": "https://dor.georgia.gov/taxes/corporate-income-and-net-worth-tax",
+      "status": 200,
+      "resolved_url": "https://dor.georgia.gov/taxes/corporate-income-and-net-worth-tax",
+      "content_type": "text/html; charset=UTF-8",
+      "states": [
+        "Georgia"
+      ]
+    },
+    {
+      "url": "https://dor.georgia.gov/taxes/withholding-tax-employers",
+      "status": 200,
+      "resolved_url": "https://dor.georgia.gov/taxes/withholding-tax-employers",
+      "content_type": "text/html; charset=UTF-8",
+      "states": [
+        "Georgia"
+      ]
+    },
+    {
+      "url": "https://dor.mo.gov/faq/taxation/business/corporation-income.html",
+      "status": 200,
+      "resolved_url": "https://dor.mo.gov/faq/taxation/business/corporation-income.html",
+      "content_type": "text/html",
+      "states": [
+        "Missouri"
+      ]
+    },
+    {
+      "url": "https://dor.mo.gov/faq/taxation/business/tax-audits.html",
+      "status": 200,
+      "resolved_url": "https://dor.mo.gov/faq/taxation/business/tax-audits.html",
+      "content_type": "text/html",
+      "states": [
+        "Missouri"
+      ]
+    },
+    {
+      "url": "https://dor.mo.gov/forms/4789.pdf",
+      "status": 200,
+      "resolved_url": "https://dor.mo.gov/forms/4789.pdf",
+      "content_type": "application/pdf",
+      "states": [
+        "Missouri"
+      ]
+    },
+    {
+      "url": "https://dor.mo.gov/taxation/business/registration/small-business/maintain/withholding.html",
+      "status": 200,
+      "resolved_url": "https://dor.mo.gov/taxation/business/registration/small-business/maintain/withholding.html",
+      "content_type": "text/html",
+      "states": [
+        "Missouri"
+      ]
+    },
+    {
+      "url": "https://dor.sc.gov/resources-site/lawandpolicy/Documents/SCSalesandUseTaxManual.pdf",
+      "status": 200,
+      "resolved_url": "https://dor.sc.gov/sites/dor/files/Documents/Policy%20Manuals/SC%20Sales%20Tax%20Manual.pdf",
+      "content_type": "application/pdf",
+      "states": [
+        "South Carolina"
+      ]
+    },
+    {
+      "url": "https://dor.sd.gov/businesses/taxes/",
+      "status": 200,
+      "resolved_url": "https://dor.sd.gov/businesses/taxes/",
+      "content_type": "text/html; charset=utf-8",
+      "states": [
+        "South Dakota"
+      ]
+    },
+    {
+      "url": "https://dor.sd.gov/businesses/taxes/bank-franchise-tax/",
+      "status": 200,
+      "resolved_url": "https://dor.sd.gov/businesses/taxes/bank-franchise-tax/",
+      "content_type": "text/html; charset=utf-8",
+      "states": [
+        "South Dakota"
+      ]
+    },
+    {
+      "url": "https://dor.sd.gov/businesses/taxes/contractors-excise-tax/",
+      "status": 200,
+      "resolved_url": "https://dor.sd.gov/businesses/taxes/contractors-excise-tax/",
+      "content_type": "text/html; charset=utf-8",
+      "states": [
+        "South Dakota"
+      ]
+    },
+    {
+      "url": "https://dor.sd.gov/businesses/taxes/sales-use-tax/",
+      "status": 200,
+      "resolved_url": "https://dor.sd.gov/businesses/taxes/sales-use-tax/",
+      "content_type": "text/html; charset=utf-8",
+      "states": [
+        "South Dakota"
+      ]
+    },
+    {
+      "url": "https://dor.sd.gov/media/00iatnn2/beauty-salons.pdf",
+      "status": 200,
+      "resolved_url": "https://dor.sd.gov/media/00iatnn2/beauty-salons.pdf",
+      "content_type": "application/pdf",
+      "states": [
+        "South Dakota"
+      ]
+    },
+    {
+      "url": "https://dor.wa.gov/file-pay-taxes/file-or-amend-my-return/instructions-completing-combined-excise-tax-return/combined-excise-tax-return-state-business-and-occupation-tax",
+      "status": "Access not verified",
+      "detail": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)>",
+      "states": [
+        "Washington"
+      ]
+    },
+    {
+      "url": "https://dor.wa.gov/laws-rules/interim_guidance_statements/interim-guidance-statement-regarding-changes-made-essb-5814-das-exclusions-and-definition-retail",
+      "status": "Access not verified",
+      "detail": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)>",
+      "states": [
+        "Washington"
+      ]
+    },
+    {
+      "url": "https://dor.wa.gov/taxes-rates/retail-sales-tax/services-newly-subject-retail-sales-tax",
+      "status": "Access not verified",
+      "detail": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)>",
+      "states": [
+        "Washington"
+      ]
+    },
+    {
+      "url": "https://dwd.wi.gov/ui201/t4201.htm",
+      "status": 200,
+      "resolved_url": "https://dwd.wi.gov/ui201/t4201.htm",
+      "content_type": "text/html",
+      "states": [
+        "Wisconsin"
+      ]
+    },
+    {
+      "url": "https://dwd.wisconsin.gov/uiben/wagehome.htm/wagefaqs.htm",
+      "status": 200,
+      "resolved_url": "https://dwd.wisconsin.gov/uiben/wagehome.htm/wagefaqs.htm",
+      "content_type": "text/html",
+      "states": [
+        "Wisconsin"
+      ]
+    },
+    {
+      "url": "https://dws.arkansas.gov/workforce-services/unemployment/employer-ui-information/",
+      "status": 200,
+      "resolved_url": "https://dws.arkansas.gov/workforce-services/unemployment/employer-ui-information/",
+      "content_type": "text/html; charset=UTF-8",
+      "states": [
+        "Arkansas"
+      ]
+    },
+    {
+      "url": "https://dws.arkansas.gov/workforce-services/unemployment/faq/",
+      "status": 200,
+      "resolved_url": "https://dws.arkansas.gov/workforce-services/unemployment/faq/",
+      "content_type": "text/html; charset=UTF-8",
+      "states": [
+        "Arkansas"
+      ]
+    },
+    {
+      "url": "https://dws.wyo.gov/dws-division/unemployment-insurance/employers/",
+      "status": 200,
+      "resolved_url": "https://dws.wyo.gov/dws-division/unemployment-insurance/employers/",
+      "content_type": "text/html; charset=UTF-8",
+      "states": [
+        "Wyoming"
+      ]
+    },
+    {
+      "url": "https://dws.wyo.gov/dws-division/workers-compensation/employers/new-employers/",
+      "status": 200,
+      "resolved_url": "https://dws.wyo.gov/dws-division/workers-compensation/employers/new-employers/",
+      "content_type": "text/html; charset=UTF-8",
+      "states": [
+        "Wyoming"
+      ]
+    },
+    {
+      "url": "https://edd.ca.gov/en/payroll_taxes/Reporting_Requirements",
+      "status": 200,
+      "resolved_url": "https://edd.ca.gov/en/payroll_taxes/Reporting_Requirements",
+      "content_type": "text/html; charset=utf-8",
+      "states": [
+        "California"
+      ]
+    },
+    {
+      "url": "https://edd.ca.gov/en/payroll_taxes/employer-payroll-taxes/",
+      "status": 200,
+      "resolved_url": "https://edd.ca.gov/en/payroll_taxes/employer-payroll-taxes/",
+      "content_type": "text/html; charset=utf-8",
+      "states": [
+        "California"
+      ]
+    },
+    {
+      "url": "https://efte.twc.texas.gov/general_recordkeeping_requirements.html",
+      "status": 200,
+      "resolved_url": "https://efte.twc.texas.gov/general_recordkeeping_requirements.html",
+      "content_type": "text/html; charset=UTF-8",
+      "states": [
+        "Texas"
+      ]
+    },
+    {
+      "url": "https://efte.twc.texas.gov/how_ui_claims_affect_employers.html",
+      "status": 200,
+      "resolved_url": "https://efte.twc.texas.gov/how_ui_claims_affect_employers.html",
+      "content_type": "text/html; charset=UTF-8",
+      "states": [
+        "Texas"
+      ]
+    },
+    {
+      "url": "https://esd.wa.gov/employer-requirements/quarterly-reports/how-file-your-quarterly-tax-and-wage-reports",
+      "status": 200,
+      "resolved_url": "https://esd.wa.gov/employer-requirements/quarterly-reports/how-file-your-quarterly-tax-and-wage-reports",
+      "content_type": "text/html; charset=UTF-8",
+      "states": [
+        "Washington"
+      ]
+    },
+    {
+      "url": "https://excise-tax-div.wyo.gov/",
+      "status": 200,
+      "resolved_url": "https://excise-tax-div.wyo.gov/",
+      "content_type": "text/html; charset=utf-8",
+      "states": [
+        "Wyoming"
+      ]
+    },
+    {
+      "url": "https://famli.colorado.gov/employers/private-plans",
+      "status": 403,
+      "detail": "HTTP Error 403: Forbidden",
+      "states": [
+        "Colorado"
+      ]
+    },
+    {
+      "url": "https://files.hawaii.gov/tax/forms/current/n30ins.pdf",
+      "status": 200,
+      "resolved_url": "https://files.hawaii.gov/tax/forms/current/n30ins.pdf",
+      "content_type": "application/pdf",
+      "states": [
+        "Hawaii"
+      ]
+    },
+    {
+      "url": "https://files.hawaii.gov/tax/legal/brochures/GE_brochure-25.pdf",
+      "status": 200,
+      "resolved_url": "https://files.hawaii.gov/tax/legal/brochures/GE_brochure-25.pdf",
+      "content_type": "application/pdf",
+      "states": [
+        "Hawaii"
+      ]
+    },
+    {
+      "url": "https://floridarevenue.com/Forms_library/current/guides/rt800002.pdf",
+      "status": 200,
+      "resolved_url": "https://floridarevenue.com/Forms_library/current/guides/rt800002.pdf",
+      "content_type": "application/pdf",
+      "states": [
+        "Florida"
+      ]
+    },
+    {
+      "url": "https://floridarevenue.com/taxes/eservices/Pages/rtlogin.aspx",
+      "status": 200,
+      "resolved_url": "https://floridarevenue.com/taxes/eservices/Pages/rtlogin.aspx",
+      "content_type": "text/html; charset=utf-8",
+      "states": [
+        "Florida"
+      ]
+    },
+    {
+      "url": "https://floridarevenue.com/taxes/taxesfees/Pages/corporate.aspx",
+      "status": 200,
+      "resolved_url": "https://floridarevenue.com/taxes/taxesfees/Pages/corporate.aspx",
+      "content_type": "text/html; charset=utf-8",
+      "states": [
+        "Florida"
+      ]
+    },
+    {
+      "url": "https://floridarevenue.com/taxes/taxesfees/Pages/sales_tax.aspx",
+      "status": 200,
+      "resolved_url": "https://floridarevenue.com/taxes/taxesfees/Pages/sales_tax.aspx",
+      "content_type": "text/html; charset=utf-8",
+      "states": [
+        "Florida"
+      ]
+    },
+    {
+      "url": "https://floridarevenue.com/taxes/taxesfees/pages/reemployment.aspx",
+      "status": 200,
+      "resolved_url": "https://floridarevenue.com/taxes/taxesfees/pages/reemployment.aspx",
+      "content_type": "text/html; charset=utf-8",
+      "states": [
+        "Florida"
+      ]
+    },
+    {
+      "url": "https://floridarevenue.com/taxes/tips/Documents/TIP_25A01-04.pdf",
+      "status": 200,
+      "resolved_url": "https://floridarevenue.com/taxes/tips/Documents/TIP_25A01-04.pdf",
+      "content_type": "application/pdf",
+      "states": [
+        "Florida"
+      ]
+    },
+    {
+      "url": "https://ides.illinois.gov/employer-resources/tax-employer-information.html",
+      "status": 200,
+      "resolved_url": "https://ides.illinois.gov/employer-resources/tax-employer-information.html",
+      "content_type": "text/html;charset=utf-8",
+      "states": [
+        "Illinois"
+      ]
+    },
+    {
+      "url": "https://ides.illinois.gov/employer-resources/taxes-reporting/monthly-wages.html",
+      "status": 200,
+      "resolved_url": "https://ides.illinois.gov/employer-resources/taxes-reporting/monthly-wages.html",
+      "content_type": "text/html;charset=utf-8",
+      "states": [
+        "Illinois"
+      ]
+    },
+    {
+      "url": "https://jobs.utah.gov/UI/Employer/Public/Questions/QuarterlyReporting.aspx",
+      "status": 200,
+      "resolved_url": "https://jobs.utah.gov/UI/Employer/Public/Questions/QuarterlyReporting.aspx",
+      "content_type": "text/html; charset=utf-8",
+      "states": [
+        "Utah"
+      ]
+    },
+    {
+      "url": "https://kewes.ky.gov/Documents/ELECTRONIC_WAGE_AND_TAX_REPORTING.pdf",
+      "status": "Access not verified",
+      "detail": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)>",
+      "states": [
+        "Kentucky"
+      ]
+    },
+    {
+      "url": "https://ksrevenue.gov/pub1510.html",
+      "status": 200,
+      "resolved_url": "https://ksrevenue.gov/pub1510.html",
+      "content_type": "text/html",
+      "states": [
+        "Kansas"
+      ]
+    },
+    {
+      "url": "https://ksrevenue.gov/scorpbook25.html",
+      "status": 200,
+      "resolved_url": "https://ksrevenue.gov/scorpbook25.html",
+      "content_type": "text/html",
+      "states": [
+        "Kansas"
+      ]
+    },
+    {
+      "url": "https://labor.alaska.gov/estax/documents/taxbook.pdf",
+      "status": "Access not verified",
+      "detail": "<urlopen error timed out>",
+      "states": [
+        "Alaska"
+      ]
+    },
+    {
+      "url": "https://labor.alaska.gov/unemployment/home.htm",
+      "status": "Access not verified",
+      "detail": "<urlopen error timed out>",
+      "states": [
+        "Alaska"
+      ]
+    },
+    {
+      "url": "https://labor.delaware.gov/delaware-paid-leave/employers/",
+      "status": 200,
+      "resolved_url": "https://labor.delaware.gov/delaware-paid-leave/employers/",
+      "content_type": "text/html; charset=UTF-8",
+      "states": [
+        "Delaware"
+      ]
+    },
+    {
+      "url": "https://labor.delaware.gov/divisions/unemployment-insurance/employer-faqs/",
+      "status": 200,
+      "resolved_url": "https://labor.delaware.gov/divisions/unemployment-insurance/employer-faqs/",
+      "content_type": "text/html; charset=UTF-8",
+      "states": [
+        "Delaware"
+      ]
+    },
+    {
+      "url": "https://labor.delaware.gov/laborfirst/hours-wage-reporting-knowledge-base/",
+      "status": 200,
+      "resolved_url": "https://labor.delaware.gov/laborfirst/hours-wage-reporting-knowledge-base/",
+      "content_type": "text/html; charset=UTF-8",
+      "states": [
+        "Delaware"
+      ]
+    },
+    {
+      "url": "https://labor.hawaii.gov/DCD/HOME/ABOUT-TDI/",
+      "status": 200,
+      "resolved_url": "https://labor.hawaii.gov/DCD/HOME/ABOUT-TDI/",
+      "content_type": "text/html; charset=UTF-8",
+      "states": [
+        "Hawaii"
+      ]
+    },
+    {
+      "url": "https://labor.hawaii.gov/dcd/home/about-phc/",
+      "status": 200,
+      "resolved_url": "https://labor.hawaii.gov/dcd/home/about-phc/",
+      "content_type": "text/html; charset=UTF-8",
+      "states": [
+        "Hawaii"
+      ]
+    },
+    {
+      "url": "https://labor.hawaii.gov/ui/906-2/",
+      "status": 200,
+      "resolved_url": "https://labor.hawaii.gov/ui/906-2/",
+      "content_type": "text/html; charset=UTF-8",
+      "states": [
+        "Hawaii"
+      ]
+    },
+    {
+      "url": "https://labor.md.gov/unemployment-insurance/technical-support/employers.shtml",
+      "status": 200,
+      "resolved_url": "https://labor.md.gov/unemployment-insurance/technical-support/employers.shtml",
+      "content_type": "text/html",
+      "states": [
+        "Maryland"
+      ]
+    },
+    {
+      "url": "https://labor.mo.gov/des/employers/quarterly-reports",
+      "status": 200,
+      "resolved_url": "https://labor.mo.gov/des/employers/quarterly-reports",
+      "content_type": "text/html; charset=UTF-8",
+      "states": [
+        "Missouri"
+      ]
+    },
+    {
+      "url": "https://labor.vermont.gov/unemployment-insurance/unemployment-information-employers/employer-online-services/employer",
+      "status": 200,
+      "resolved_url": "https://labor.vermont.gov/unemployment-insurance/unemployment-information-employers/employer-online-services/employer",
+      "content_type": "text/html; charset=UTF-8",
+      "states": [
+        "Vermont"
+      ]
+    },
+    {
+      "url": "https://le.utah.gov/xcode/Title59/Chapter1/C59-1-P14_1800010118000101.pdf",
+      "status": 200,
+      "resolved_url": "https://le.utah.gov/xcode/Title59/Chapter1/C59-1-P14_1800010118000101.pdf",
+      "content_type": "application/pdf",
+      "states": [
+        "Utah"
+      ]
+    },
+    {
+      "url": "https://legis.la.gov/Legis/Law.aspx?d=101930",
+      "status": 200,
+      "resolved_url": "https://legis.la.gov/Legis/Law.aspx?d=101930",
+      "content_type": "text/html; charset=utf-8",
+      "states": [
+        "Louisiana"
+      ]
+    },
+    {
+      "url": "https://legislature.maine.gov/statutes/36/title36sec135.html",
+      "status": 200,
+      "resolved_url": "https://legislature.maine.gov/statutes/36/title36sec135.html",
+      "content_type": "text/html",
+      "states": [
+        "Maine"
+      ]
+    },
+    {
+      "url": "https://legislature.vermont.gov/statutes/section/32/233/09709",
+      "status": 200,
+      "resolved_url": "https://legislature.vermont.gov/statutes/section/32/233/09709",
+      "content_type": "text/html; charset=utf-8",
+      "states": [
+        "Vermont"
+      ]
+    },
+    {
+      "url": "https://lni.wa.gov/workers-rights/workplace-policies/payroll-and-personnel-records",
+      "status": 200,
+      "resolved_url": "https://lni.wa.gov/workers-rights/workplace-policies/payroll-and-personnel-records",
+      "content_type": "text/html;charset=UTF-8",
+      "states": [
+        "Washington"
+      ]
+    },
+    {
+      "url": "https://mdes.ms.gov/employers/unemployment-tax/reporting-and-filing/quarterly-report-and-tax-due-dates/",
+      "status": 200,
+      "resolved_url": "https://mdes.ms.gov/employers/unemployment-tax/reporting-and-filing/quarterly-report-and-tax-due-dates/",
+      "content_type": "text/html; charset=utf-8",
+      "states": [
+        "Mississippi"
+      ]
+    },
+    {
+      "url": "https://ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_105/GS_105-164.22.html",
+      "status": 200,
+      "resolved_url": "https://ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_105/GS_105-164.22.html",
+      "content_type": "text/html",
+      "states": [
+        "North Carolina"
+      ]
+    },
+    {
+      "url": "https://ndlegis.gov/cencode/t57c40-2.pdf",
+      "status": 200,
+      "resolved_url": "https://ndlegis.gov/cencode/t57c40-2.pdf",
+      "content_type": "application/pdf",
+      "states": [
+        "North Dakota"
+      ]
+    },
+    {
+      "url": "https://nj.gov/labor/ea/employer-services/who-qualifies/",
+      "status": 200,
+      "resolved_url": "https://nj.gov/labor/ea/employer-services/who-qualifies/",
+      "content_type": "text/html",
+      "states": [
+        "New Jersey"
+      ]
+    },
+    {
+      "url": "https://nj.gov/njbonds/treasury/taxation/corp_over.shtml",
+      "status": 200,
+      "resolved_url": "https://nj.gov/njbonds/treasury/taxation/corp_over.shtml",
+      "content_type": "text/html",
+      "states": [
+        "New Jersey"
+      ]
+    },
+    {
+      "url": "https://oklahoma.gov/content/dam/ok/en/tax/documents/resources/rules-and-policies/agency-rules/2024/Chapter_65_Sales_and_Use_Tax__2024.pdf",
+      "status": 200,
+      "resolved_url": "https://oklahoma.gov/content/dam/ok/en/tax/documents/resources/rules-and-policies/agency-rules/2024/Chapter_65_Sales_and_Use_Tax__2024.pdf",
+      "content_type": "application/pdf",
+      "states": [
+        "Oklahoma"
+      ]
+    },
+    {
+      "url": "https://oklahoma.gov/oesc/employers/tax/wage-reporting.html",
+      "status": 200,
+      "resolved_url": "https://oklahoma.gov/oesc/employers/tax/wage-reporting.html",
+      "content_type": "text/html;charset=utf-8",
+      "states": [
+        "Oklahoma"
+      ]
+    },
+    {
+      "url": "https://oklahoma.gov/tax/businesses/other-taxes.html",
+      "status": 200,
+      "resolved_url": "https://oklahoma.gov/tax/businesses/other-taxes.html",
+      "content_type": "text/html;charset=utf-8",
+      "states": [
+        "Oklahoma"
+      ]
+    },
+    {
+      "url": "https://oklahoma.gov/tax/businesses/sales-use-tax.html",
+      "status": 200,
+      "resolved_url": "https://oklahoma.gov/tax/businesses/sales-use-tax.html",
+      "content_type": "text/html;charset=utf-8",
+      "states": [
+        "Oklahoma"
+      ]
+    },
+    {
+      "url": "https://oklahoma.gov/tax/reporting-resources/publications.html",
+      "status": 200,
+      "resolved_url": "https://oklahoma.gov/tax/reporting-resources/publications.html",
+      "content_type": "text/html;charset=utf-8",
+      "states": [
+        "Oklahoma"
+      ]
+    },
+    {
+      "url": "https://paidleave.wa.gov/reporting/",
+      "status": 200,
+      "resolved_url": "https://paidleave.wa.gov/reporting/",
+      "content_type": "text/html; charset=UTF-8",
+      "states": [
+        "Washington"
+      ]
+    },
+    {
+      "url": "https://portal.ct.gov/-/media/drs/publications/pubsip/2018/ip-2018%285%29.pdf?la=en",
+      "status": 200,
+      "resolved_url": "https://portal.ct.gov/-/media/drs/publications/pubsip/2018/ip-2018%285%29.pdf?la=en",
+      "content_type": "application/pdf",
+      "states": [
+        "Connecticut"
+      ]
+    },
+    {
+      "url": "https://portal.ct.gov/dol/Divisions/Unemployment-Insurance-Tax?language=en_US",
+      "status": 200,
+      "resolved_url": "https://portal.ct.gov/dol/Divisions/Unemployment-Insurance-Tax?language=en_US",
+      "content_type": "text/html; charset=utf-8",
+      "states": [
+        "Connecticut"
+      ]
+    },
+    {
+      "url": "https://portal.ct.gov/dol/knowledge-base/articles/unemployment-taxes/the-statement-of-benefit-charges-in-reemployct?language=en_US",
+      "status": 200,
+      "resolved_url": "https://portal.ct.gov/dol/knowledge-base/articles/unemployment-taxes/the-statement-of-benefit-charges-in-reemployct?language=en_US",
+      "content_type": "text/html; charset=utf-8",
+      "states": [
+        "Connecticut"
+      ]
+    },
+    {
+      "url": "https://portal.ct.gov/drs/corporation-tax/tax-information",
+      "status": 200,
+      "resolved_url": "https://portal.ct.gov/drs/corporation-tax/tax-information",
+      "content_type": "text/html; charset=utf-8",
+      "states": [
+        "Connecticut"
+      ]
+    },
+    {
+      "url": "https://portal.ct.gov/drs/sales-tax/tax-information",
+      "status": 200,
+      "resolved_url": "https://portal.ct.gov/drs/sales-tax/tax-information",
+      "content_type": "text/html; charset=utf-8",
+      "states": [
+        "Connecticut"
+      ]
+    },
+    {
+      "url": "https://portal.ct.gov/drs/taxes/pass-through-entity/tax-information",
+      "status": 200,
+      "resolved_url": "https://portal.ct.gov/drs/taxes/pass-through-entity/tax-information",
+      "content_type": "text/html; charset=utf-8",
+      "states": [
+        "Connecticut"
+      ]
+    },
+    {
+      "url": "https://portal.ct.gov/drs/withholding-taxes/new-employer-information",
+      "status": 200,
+      "resolved_url": "https://portal.ct.gov/drs/withholding-taxes/new-employer-information",
+      "content_type": "text/html; charset=utf-8",
+      "states": [
+        "Connecticut"
+      ]
+    },
+    {
+      "url": "https://portal.ct.gov/drs/withholding-taxes/w2-electronic-filing-requirements/filing-requirements",
+      "status": 200,
+      "resolved_url": "https://portal.ct.gov/drs/withholding-taxes/w2-electronic-filing-requirements/filing-requirements",
+      "content_type": "text/html; charset=utf-8",
+      "states": [
+        "Connecticut"
+      ]
+    },
+    {
+      "url": "https://realfile.tax.newmexico.gov/FYI-105.pdf",
+      "status": 200,
+      "resolved_url": "https://realfile.tax.newmexico.gov/FYI-105.pdf",
+      "content_type": "application/octet-stream",
+      "states": [
+        "New Mexico"
+      ]
+    },
+    {
+      "url": "https://realfile.tax.newmexico.gov/FYI-350.pdf",
+      "status": 200,
+      "resolved_url": "https://realfile.tax.newmexico.gov/FYI-350.pdf",
+      "content_type": "application/octet-stream",
+      "states": [
+        "New Mexico"
+      ]
+    },
+    {
+      "url": "https://revenue.delaware.gov/business-tax-forms/doing-business-in-delaware/step-4-gross-receipts-taxes/",
+      "status": 200,
+      "resolved_url": "https://revenue.delaware.gov/business-tax-forms/doing-business-in-delaware/step-4-gross-receipts-taxes/",
+      "content_type": "text/html; charset=UTF-8",
+      "states": [
+        "Delaware"
+      ]
+    },
+    {
+      "url": "https://revenue.delaware.gov/employers-guide-withholding-regulations-employers-duties/",
+      "status": 200,
+      "resolved_url": "https://revenue.delaware.gov/employers-guide-withholding-regulations-employers-duties/",
+      "content_type": "text/html; charset=UTF-8",
+      "states": [
+        "Delaware"
+      ]
+    },
+    {
+      "url": "https://revenue.delaware.gov/frequently-asked-questions/corporate-income-tax-faqs/",
+      "status": 200,
+      "resolved_url": "https://revenue.delaware.gov/frequently-asked-questions/corporate-income-tax-faqs/",
+      "content_type": "text/html; charset=UTF-8",
+      "states": [
+        "Delaware"
+      ]
+    },
+    {
+      "url": "https://revenue.delaware.gov/frequently-asked-questions/gross-receipts-tax-faqs/",
+      "status": 200,
+      "resolved_url": "https://revenue.delaware.gov/frequently-asked-questions/gross-receipts-tax-faqs/",
+      "content_type": "text/html; charset=UTF-8",
+      "states": [
+        "Delaware"
+      ]
+    },
+    {
+      "url": "https://revenue.iowa.gov/taxes/file-w-2-or-1099",
+      "status": 200,
+      "resolved_url": "https://revenue.iowa.gov/taxes/file-w-2-or-1099",
+      "content_type": "text/html; charset=utf-8",
+      "states": [
+        "Iowa"
+      ]
+    },
+    {
+      "url": "https://revenue.iowa.gov/taxes/tax-guidance/business-income-tax/estimated-income-tax-payments-business-entities",
+      "status": 200,
+      "resolved_url": "https://revenue.iowa.gov/taxes/tax-guidance/business-income-tax/estimated-income-tax-payments-business-entities",
+      "content_type": "text/html; charset=utf-8",
+      "states": [
+        "Iowa"
+      ]
+    },
+    {
+      "url": "https://revenue.iowa.gov/taxes/tax-guidance/business-income-tax/pass-through-entity-tax-ptet",
+      "status": 200,
+      "resolved_url": "https://revenue.iowa.gov/taxes/tax-guidance/business-income-tax/pass-through-entity-tax-ptet",
+      "content_type": "text/html; charset=utf-8",
+      "states": [
+        "Iowa"
+      ]
+    },
+    {
+      "url": "https://revenue.iowa.gov/taxes/tax-guidance/sales-use-excise-tax/sales-use-tax-guide",
+      "status": 200,
+      "resolved_url": "https://revenue.iowa.gov/taxes/tax-guidance/sales-use-excise-tax/sales-use-tax-guide",
+      "content_type": "text/html; charset=utf-8",
+      "states": [
+        "Iowa"
+      ]
+    },
+    {
+      "url": "https://revenue.iowa.gov/taxes/tax-guidance/withholding-tax/iowa-withholding-tax-information",
+      "status": 200,
+      "resolved_url": "https://revenue.iowa.gov/taxes/tax-guidance/withholding-tax/iowa-withholding-tax-information",
+      "content_type": "text/html; charset=utf-8",
+      "states": [
+        "Iowa"
+      ]
+    },
+    {
+      "url": "https://revenue.iowa.gov/topics/corporation-income-tax",
+      "status": 200,
+      "resolved_url": "https://revenue.iowa.gov/topics/corporation-income-tax",
+      "content_type": "text/html; charset=utf-8",
+      "states": [
+        "Iowa"
+      ]
+    },
+    {
+      "url": "https://revenue.ky.gov/Business/Corporation-Income-and-Limited-Liability-Entity-Tax/Pages/Corporation-LLC-Pass-Through-Tax-FAQs.aspx",
+      "status": 200,
+      "resolved_url": "https://revenue.ky.gov/Business/Corporation-Income-and-Limited-Liability-Entity-Tax/Pages/Corporation-LLC-Pass-Through-Tax-FAQs.aspx",
+      "content_type": "text/html; charset=utf-8",
+      "states": [
+        "Kentucky"
+      ]
+    },
+    {
+      "url": "https://revenue.ky.gov/Business/Corporation-Income-and-Limited-Liability-Entity-Tax/Pages/default.aspx",
+      "status": 200,
+      "resolved_url": "https://revenue.ky.gov/Business/Corporation-Income-and-Limited-Liability-Entity-Tax/Pages/default.aspx",
+      "content_type": "text/html; charset=utf-8",
+      "states": [
+        "Kentucky"
+      ]
+    },
+    {
+      "url": "https://revenue.ky.gov/Business/Pages/Employer-Payroll-Withholding.aspx",
+      "status": 200,
+      "resolved_url": "https://revenue.ky.gov/Business/Pages/Employer-Payroll-Withholding.aspx",
+      "content_type": "text/html; charset=utf-8",
+      "states": [
+        "Kentucky"
+      ]
+    },
+    {
+      "url": "https://revenue.ky.gov/Pages/MyTaxes.aspx",
+      "status": 200,
+      "resolved_url": "https://revenue.ky.gov/Pages/MyTaxes.aspx",
+      "content_type": "text/html; charset=utf-8",
+      "states": [
+        "Kentucky"
+      ]
+    },
+    {
+      "url": "https://revenue.louisiana.gov/businesses/widely-used-tax-types/corporate-income-franchise-tax/",
+      "status": 200,
+      "resolved_url": "https://revenue.louisiana.gov/businesses/widely-used-tax-types/corporate-income-franchise-tax/",
+      "content_type": "text/html",
+      "states": [
+        "Louisiana"
+      ]
+    },
+    {
+      "url": "https://revenue.louisiana.gov/businesses/widely-used-tax-types/withholding/",
+      "status": 200,
+      "resolved_url": "https://revenue.louisiana.gov/businesses/widely-used-tax-types/withholding/",
+      "content_type": "text/html",
+      "states": [
+        "Louisiana"
+      ]
+    },
+    {
+      "url": "https://revenue.louisiana.gov/tax-education-and-faqs/faqs/fairs-festivals-and-other-special-events/why-do-i-have-to-pay-two-taxes/",
+      "status": 200,
+      "resolved_url": "https://revenue.louisiana.gov/tax-education-and-faqs/faqs/fairs-festivals-and-other-special-events/why-do-i-have-to-pay-two-taxes/",
+      "content_type": "text/html",
+      "states": [
+        "Louisiana"
+      ]
+    },
+    {
+      "url": "https://revenue.mt.gov/taxes/general-sales-tax",
+      "status": 200,
+      "resolved_url": "https://revenue.mt.gov/taxes/general-sales-tax",
+      "content_type": "text/html; charset=UTF-8",
+      "states": [
+        "Montana"
+      ]
+    },
+    {
+      "url": "https://revenue.mt.gov/taxes/tax-records",
+      "status": 200,
+      "resolved_url": "https://revenue.mt.gov/taxes/tax-records",
+      "content_type": "text/html; charset=UTF-8",
+      "states": [
+        "Montana"
+      ]
+    },
+    {
+      "url": "https://revenue.mt.gov/taxes/withholding-tax/accounts",
+      "status": 200,
+      "resolved_url": "https://revenue.mt.gov/taxes/withholding-tax/accounts",
+      "content_type": "text/html; charset=UTF-8",
+      "states": [
+        "Montana"
+      ]
+    },
+    {
+      "url": "https://revenue.mt.gov/taxes/withholding-tax/wage-withholding-returns-and-payments",
+      "status": 200,
+      "resolved_url": "https://revenue.mt.gov/taxes/withholding-tax/wage-withholding-returns-and-payments",
+      "content_type": "text/html; charset=UTF-8",
+      "states": [
+        "Montana"
+      ]
+    },
+    {
+      "url": "https://revenue.nebraska.gov/about/chapter-1-sales-and-use-tax",
+      "status": 200,
+      "resolved_url": "https://revenue.nebraska.gov/about/chapter-1-sales-and-use-tax",
+      "content_type": "text/html; charset=utf-8",
+      "states": [
+        "Nebraska"
+      ]
+    },
+    {
+      "url": "https://revenue.nebraska.gov/about/chapter-21-income-tax-withholding",
+      "status": 200,
+      "resolved_url": "https://revenue.nebraska.gov/about/chapter-21-income-tax-withholding",
+      "content_type": "text/html; charset=utf-8",
+      "states": [
+        "Nebraska"
+      ]
+    },
+    {
+      "url": "https://revenue.nebraska.gov/about/frequently-asked-questions/business-income-tax-faqs",
+      "status": 200,
+      "resolved_url": "https://revenue.nebraska.gov/about/frequently-asked-questions/business-income-tax-faqs",
+      "content_type": "text/html; charset=utf-8",
+      "states": [
+        "Nebraska"
+      ]
+    },
+    {
+      "url": "https://revenue.nebraska.gov/about/frequently-asked-questions/pass-through-entity-tax-faqs",
+      "status": 200,
+      "resolved_url": "https://revenue.nebraska.gov/about/frequently-asked-questions/pass-through-entity-tax-faqs",
+      "content_type": "text/html; charset=utf-8",
+      "states": [
+        "Nebraska"
+      ]
+    },
+    {
+      "url": "https://revenue.nebraska.gov/about/legal-information/regulations/chapter-22-individual-income-tax",
+      "status": 200,
+      "resolved_url": "https://revenue.nebraska.gov/about/legal-information/regulations/chapter-22-individual-income-tax",
+      "content_type": "text/html; charset=utf-8",
+      "states": [
+        "Nebraska"
+      ]
+    },
+    {
+      "url": "https://rules.sos.ri.gov/regulations/Part/280-20-70-12",
+      "status": 200,
+      "resolved_url": "https://rules.sos.ri.gov/regulations/Part/280-20-70-12",
+      "content_type": "text/html; charset=utf-8",
+      "states": [
+        "Rhode Island"
+      ]
+    },
+    {
+      "url": "https://services.marylandcomptroller.gov/taxes/en/business-income-tax-information?id=kb_article_view&sysparm_article=KB0010043",
+      "status": 200,
+      "resolved_url": "https://services.marylandcomptroller.gov/taxes/en/business-income-tax-information?id=kb_article_view&sysparm_article=KB0010043",
+      "content_type": "text/html;charset=UTF-8",
+      "states": [
+        "Maryland"
+      ]
+    },
+    {
+      "url": "https://services.marylandcomptroller.gov/taxes/en/employer-withholding?id=kb_article_view&sysparm_article=KB0010017",
+      "status": 200,
+      "resolved_url": "https://services.marylandcomptroller.gov/taxes/en/employer-withholding?id=kb_article_view&sysparm_article=KB0010017",
+      "content_type": "text/html;charset=UTF-8",
+      "states": [
+        "Maryland"
+      ]
+    },
+    {
+      "url": "https://services.marylandcomptroller.gov/taxes/en/filing-using-a-pass-through-entity-in-maryland?id=kb_article_view&sysparm_article=KB0010121",
+      "status": 200,
+      "resolved_url": "https://services.marylandcomptroller.gov/taxes/en/filing-using-a-pass-through-entity-in-maryland?id=kb_article_view&sysparm_article=KB0010121",
+      "content_type": "text/html;charset=UTF-8",
+      "states": [
+        "Maryland"
+      ]
+    },
+    {
+      "url": "https://sos.oregon.gov/business/information-center/Pages/relocating-business.aspx",
+      "status": 200,
+      "resolved_url": "https://sos.oregon.gov/business/information-center/Pages/relocating-business.aspx",
+      "content_type": "text/html; charset=utf-8",
+      "states": [
+        "Oregon"
+      ]
+    },
+    {
+      "url": "https://sos.wyo.gov/FAQS.aspx?root=BUS",
+      "status": 200,
+      "resolved_url": "https://sos.wyo.gov/FAQS.aspx?root=BUS",
+      "content_type": "text/html; charset=utf-8",
+      "states": [
+        "Wyoming"
+      ]
+    },
+    {
+      "url": "https://sos.wyo.gov/forms/business/general/arworksheet.pdf",
+      "status": 200,
+      "resolved_url": "https://sos.wyo.gov/forms/business/general/arworksheet.pdf",
+      "content_type": "application/pdf",
+      "states": [
+        "Wyoming"
+      ]
+    },
+    {
+      "url": "https://tax.alaska.gov/programs/index.aspx",
+      "status": 200,
+      "resolved_url": "https://tax.alaska.gov/programs/index.aspx",
+      "content_type": "text/html; charset=utf-8",
+      "states": [
+        "Alaska"
+      ]
+    },
+    {
+      "url": "https://tax.colorado.gov/SUTS-FAQ",
+      "status": 403,
+      "detail": "HTTP Error 403: Forbidden",
+      "states": [
+        "Colorado"
+      ]
+    },
+    {
+      "url": "https://tax.colorado.gov/corporate-income-tax-guide",
+      "status": 403,
+      "detail": "HTTP Error 403: Forbidden",
+      "states": [
+        "Colorado"
+      ]
+    },
+    {
+      "url": "https://tax.colorado.gov/income-tax-topics-salt-parity-act",
+      "status": 403,
+      "detail": "HTTP Error 403: Forbidden",
+      "states": [
+        "Colorado"
+      ]
+    },
+    {
+      "url": "https://tax.colorado.gov/local-government-sales-tax",
+      "status": 403,
+      "detail": "HTTP Error 403: Forbidden",
+      "states": [
+        "Colorado"
+      ]
+    },
+    {
+      "url": "https://tax.colorado.gov/sales-tax-guide",
+      "status": 403,
+      "detail": "HTTP Error 403: Forbidden",
+      "states": [
+        "Colorado"
+      ]
+    },
+    {
+      "url": "https://tax.colorado.gov/withholding-tax",
+      "status": 403,
+      "detail": "HTTP Error 403: Forbidden",
+      "states": [
+        "Colorado"
+      ]
+    },
+    {
+      "url": "https://tax.hawaii.gov/forms/a1_1alphalist/",
+      "status": 200,
+      "resolved_url": "https://tax.hawaii.gov/forms/a1_1alphalist/",
+      "content_type": "text/html; charset=UTF-8",
+      "states": [
+        "Hawaii"
+      ]
+    },
+    {
+      "url": "https://tax.hawaii.gov/pte/",
+      "status": 200,
+      "resolved_url": "https://tax.hawaii.gov/pte/",
+      "content_type": "text/html; charset=UTF-8",
+      "states": [
+        "Hawaii"
+      ]
+    },
+    {
+      "url": "https://tax.idaho.gov/pressrelease/new-law-changes-abe-election-timing-idaho-income-tax-adjustments-after-irs-audit/",
+      "status": "Access not verified",
+      "detail": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)>",
+      "states": [
+        "Idaho"
+      ]
+    },
+    {
+      "url": "https://tax.idaho.gov/taxes/income-tax/business-income/guides-for-certain-businesses/income-tax-for-partnerships/",
+      "status": "Access not verified",
+      "detail": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)>",
+      "states": [
+        "Idaho"
+      ]
+    },
+    {
+      "url": "https://tax.idaho.gov/taxes/income-tax/withholding/withholding-filing/filing-form-967/",
+      "status": "Access not verified",
+      "detail": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)>",
+      "states": [
+        "Idaho"
+      ]
+    },
+    {
+      "url": "https://tax.idaho.gov/taxes/sales-use/guides-for-certain-groups/wholesalers/record-keeping/",
+      "status": "Access not verified",
+      "detail": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)>",
+      "states": [
+        "Idaho"
+      ]
+    },
+    {
+      "url": "https://tax.illinois.gov/forms/withholding/currentyear/il-941-instr.html",
+      "status": 200,
+      "resolved_url": "https://tax.illinois.gov/forms/withholding/currentyear/il-941-instr.html",
+      "content_type": "text/html;charset=utf-8",
+      "states": [
+        "Illinois"
+      ]
+    },
+    {
+      "url": "https://tax.illinois.gov/research/publications/pubs/pass-through-information.html",
+      "status": 200,
+      "resolved_url": "https://tax.illinois.gov/research/publications/pubs/pass-through-information.html",
+      "content_type": "text/html;charset=utf-8",
+      "states": [
+        "Illinois"
+      ]
+    },
+    {
+      "url": "https://tax.illinois.gov/research/publications/pubs/retailers-overview-of-sales-and-use-tax/keeping-complete-and-accurate-records.html",
+      "status": 200,
+      "resolved_url": "https://tax.illinois.gov/research/publications/pubs/retailers-overview-of-sales-and-use-tax/keeping-complete-and-accurate-records.html",
+      "content_type": "text/html;charset=utf-8",
+      "states": [
+        "Illinois"
+      ]
+    },
+    {
+      "url": "https://tax.nv.gov/faqs/audits/",
+      "status": 200,
+      "resolved_url": "https://tax.nv.gov/faqs/audits/",
+      "content_type": "text/html; charset=UTF-8",
+      "states": [
+        "Nevada"
+      ]
+    },
+    {
+      "url": "https://tax.nv.gov/faqs/commerce-tax-faqs/",
+      "status": 200,
+      "resolved_url": "https://tax.nv.gov/faqs/commerce-tax-faqs/",
+      "content_type": "text/html; charset=UTF-8",
+      "states": [
+        "Nevada"
+      ]
+    },
+    {
+      "url": "https://tax.nv.gov/tax-types/commerce-tax/",
+      "status": 200,
+      "resolved_url": "https://tax.nv.gov/tax-types/commerce-tax/",
+      "content_type": "text/html; charset=UTF-8",
+      "states": [
+        "Nevada"
+      ]
+    },
+    {
+      "url": "https://tax.nv.gov/tax-types/modified-business-tax/",
+      "status": 200,
+      "resolved_url": "https://tax.nv.gov/tax-types/modified-business-tax/",
+      "content_type": "text/html; charset=UTF-8",
+      "states": [
+        "Nevada"
+      ]
+    },
+    {
+      "url": "https://tax.nv.gov/tax-types/sales-tax-use-tax/",
+      "status": 200,
+      "resolved_url": "https://tax.nv.gov/tax-types/sales-tax-use-tax/",
+      "content_type": "text/html; charset=UTF-8",
+      "states": [
+        "Nevada"
+      ]
+    },
+    {
+      "url": "https://tax.ri.gov/guidance/information-and-faqs/general-faqs",
+      "status": 200,
+      "resolved_url": "https://tax.ri.gov/guidance/information-and-faqs/general-faqs",
+      "content_type": "text/html; charset=utf-8",
+      "states": [
+        "Rhode Island"
+      ]
+    },
+    {
+      "url": "https://tax.ri.gov/tax-sections/corporate-tax",
+      "status": 200,
+      "resolved_url": "https://tax.ri.gov/tax-sections/corporate-tax",
+      "content_type": "text/html; charset=utf-8",
+      "states": [
+        "Rhode Island"
+      ]
+    },
+    {
+      "url": "https://tax.ri.gov/tax-sections/sales-excise-taxes/sales-use-tax",
+      "status": 200,
+      "resolved_url": "https://tax.ri.gov/tax-sections/sales-excise-taxes/sales-use-tax",
+      "content_type": "text/html; charset=utf-8",
+      "states": [
+        "Rhode Island"
+      ]
+    },
+    {
+      "url": "https://tax.utah.gov/business/audits/recordkeeping/",
+      "status": 200,
+      "resolved_url": "https://tax.utah.gov/business/audits/recordkeeping/",
+      "content_type": "text/html; charset=UTF-8",
+      "states": [
+        "Utah"
+      ]
+    },
+    {
+      "url": "https://tax.utah.gov/business/sales-tax/sales/",
+      "status": 200,
+      "resolved_url": "https://tax.utah.gov/business/sales-tax/sales/",
+      "content_type": "text/html; charset=UTF-8",
+      "states": [
+        "Utah"
+      ]
+    },
+    {
+      "url": "https://tax.utah.gov/business/withholding-overview/employers/",
+      "status": 200,
+      "resolved_url": "https://tax.utah.gov/business/withholding-overview/employers/",
+      "content_type": "text/html; charset=UTF-8",
+      "states": [
+        "Utah"
+      ]
+    },
+    {
+      "url": "https://tax.utah.gov/business/withholding-overview/pass-through-withholding/",
+      "status": 200,
+      "resolved_url": "https://tax.utah.gov/business/withholding-overview/pass-through-withholding/",
+      "content_type": "text/html; charset=UTF-8",
+      "states": [
+        "Utah"
+      ]
+    },
+    {
+      "url": "https://tax.vermont.gov/business/business-entity-income-tax",
+      "status": 200,
+      "resolved_url": "https://tax.vermont.gov/business/business-entity-income-tax",
+      "content_type": "text/html; charset=UTF-8",
+      "states": [
+        "Vermont"
+      ]
+    },
+    {
+      "url": "https://tax.vermont.gov/business/business-entity-income-tax/business-income-tax-form-set-faqs",
+      "status": 200,
+      "resolved_url": "https://tax.vermont.gov/business/business-entity-income-tax/business-income-tax-form-set-faqs",
+      "content_type": "text/html; charset=UTF-8",
+      "states": [
+        "Vermont"
+      ]
+    },
+    {
+      "url": "https://tax.vermont.gov/business/meals-and-rooms-tax/getting-started",
+      "status": 200,
+      "resolved_url": "https://tax.vermont.gov/business/meals-and-rooms-tax/getting-started",
+      "content_type": "text/html; charset=UTF-8",
+      "states": [
+        "Vermont"
+      ]
+    },
+    {
+      "url": "https://tax.vermont.gov/instructions/form-BR-400",
+      "status": 200,
+      "resolved_url": "https://tax.vermont.gov/instructions/form-BR-400",
+      "content_type": "text/html; charset=UTF-8",
+      "states": [
+        "Vermont"
+      ]
+    },
+    {
+      "url": "https://tax.vermont.gov/sites/tax/files/documents/MRT%20Regs%20final%20effective%206%201%2022.pdf",
+      "status": 200,
+      "resolved_url": "https://tax.vermont.gov/sites/tax/files/documents/MRT%20Regs%20final%20effective%206%201%2022.pdf",
+      "content_type": "application/pdf",
+      "states": [
+        "Vermont"
+      ]
+    },
+    {
+      "url": "https://tax.vermont.gov/tax-law-and-guidance/compliance/archive",
+      "status": 200,
+      "resolved_url": "https://tax.vermont.gov/tax-law-and-guidance/compliance/archive",
+      "content_type": "text/html; charset=UTF-8",
+      "states": [
+        "Vermont"
+      ]
+    },
+    {
+      "url": "https://tax.wv.gov/Business/SalesAndUseTax/MunicipalSalesAndUseTax/Pages/MunicipalSalesAndUseTax.aspx",
+      "status": 200,
+      "resolved_url": "https://tax.wv.gov/Business/SalesAndUseTax/MunicipalSalesAndUseTax/Pages/MunicipalSalesAndUseTax.aspx",
+      "content_type": "text/html; charset=utf-8",
+      "states": [
+        "West Virginia"
+      ]
+    },
+    {
+      "url": "https://tax.wv.gov/Business/Withholding/Pages/WithholdingTaxQuestionsAndAnswers.aspx",
+      "status": 200,
+      "resolved_url": "https://tax.wv.gov/Business/Withholding/Pages/WithholdingTaxQuestionsAndAnswers.aspx",
+      "content_type": "text/html; charset=utf-8",
+      "states": [
+        "West Virginia"
+      ]
+    },
+    {
+      "url": "https://tax.wv.gov/Documents/TSD/tsd450.pdf",
+      "status": 200,
+      "resolved_url": "https://tax.wv.gov/Documents/TSD/tsd450.pdf",
+      "content_type": "application/pdf",
+      "states": [
+        "West Virginia"
+      ]
+    },
+    {
+      "url": "https://tax.wv.gov/business/corporateincometax/pages/corporateincometax.aspx",
+      "status": 200,
+      "resolved_url": "https://tax.wv.gov/business/corporateincometax/pages/corporateincometax.aspx",
+      "content_type": "text/html; charset=utf-8",
+      "states": [
+        "West Virginia"
+      ]
+    },
+    {
+      "url": "https://tax.wv.gov/business/passthroughentity/pages/passthroughentity.aspx",
+      "status": 200,
+      "resolved_url": "https://tax.wv.gov/business/passthroughentity/pages/passthroughentity.aspx",
+      "content_type": "text/html; charset=utf-8",
+      "states": [
+        "West Virginia"
+      ]
+    },
+    {
+      "url": "https://taxes.ca.gov/small-business-assistance-center/keeping-good-business-records/",
+      "status": 200,
+      "resolved_url": "https://taxes.ca.gov/small-business-assistance-center/keeping-good-business-records/",
+      "content_type": "text/html; charset=UTF-8",
+      "states": [
+        "California"
+      ]
+    },
+    {
+      "url": "https://uid.dli.mt.gov/employers/",
+      "status": "Access not verified",
+      "detail": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1000)>",
+      "states": [
+        "Montana"
+      ]
+    },
+    {
+      "url": "https://uid.dli.mt.gov/employers/reimbursable-employers",
+      "status": "Access not verified",
+      "detail": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1000)>",
+      "states": [
+        "Montana"
+      ]
+    },
+    {
+      "url": "https://vec.virginia.gov/tax-filing-registration",
+      "status": 200,
+      "resolved_url": "https://vec.virginia.gov/tax-filing-registration",
+      "content_type": "text/html; charset=UTF-8",
+      "states": [
+        "Virginia"
+      ]
+    },
+    {
+      "url": "https://workforce.alabama.gov/employers/faq/",
+      "status": 200,
+      "resolved_url": "https://workforce.alabama.gov/employers/faq/",
+      "content_type": "text/html; charset=UTF-8",
+      "states": [
+        "Alabama"
+      ]
+    },
+    {
+      "url": "https://workforce.iowa.gov/employers/unemployment-insurance/unemployment-insurance-employer-handbook/employing-units",
+      "status": 200,
+      "resolved_url": "https://workforce.iowa.gov/employers/unemployment-insurance/unemployment-insurance-employer-handbook/employing-units",
+      "content_type": "text/html; charset=utf-8",
+      "states": [
+        "Iowa"
+      ]
+    },
+    {
+      "url": "https://workforcewv.org/businesses/unemployment-tax-information/navigate-the-unemployment-process/",
+      "status": 200,
+      "resolved_url": "https://workforcewv.org/businesses/unemployment-tax-information/navigate-the-unemployment-process/",
+      "content_type": "text/html; charset=UTF-8",
+      "states": [
+        "West Virginia"
+      ]
+    },
+    {
+      "url": "https://www.akleg.gov/basis/get_documents.asp?docid=2172&session=34",
+      "status": "Access not verified",
+      "detail": "The read operation timed out",
+      "states": [
+        "Alaska"
+      ]
+    },
+    {
+      "url": "https://www.cdtfa.ca.gov/formspubs/pub116/retaining-records.htm",
+      "status": 200,
+      "resolved_url": "https://cdtfa.ca.gov/formspubs/pub116/retaining-records.htm",
+      "content_type": "text/html",
+      "states": [
+        "California"
+      ]
+    },
+    {
+      "url": "https://www.cdtfa.ca.gov/taxes-and-fees/sutprograms.htm",
+      "status": 200,
+      "resolved_url": "https://cdtfa.ca.gov/taxes-and-fees/sutprograms.htm",
+      "content_type": "text/html",
+      "states": [
+        "California"
+      ]
+    },
+    {
+      "url": "https://www.commerce.alaska.gov/web/dcra/officeofthestateassessor/alaskasalestaxinformation.aspx",
+      "status": 403,
+      "detail": "HTTP Error 403: Forbidden",
+      "states": [
+        "Alaska"
+      ]
+    },
+    {
+      "url": "https://www.ctpaidleave.org/For-Businesses-and-Employers/I-am-an-employer",
+      "status": 200,
+      "resolved_url": "https://www.ctpaidleave.org/For-Businesses-and-Employers/I-am-an-employer",
+      "content_type": "text/html; charset=utf-8",
+      "states": [
+        "Connecticut"
+      ]
+    },
+    {
+      "url": "https://www.des.nc.gov/employers/file-adjust-or-review-quarterly-tax-wage-report",
+      "status": 200,
+      "resolved_url": "https://www.des.nc.gov/employers/file-adjust-or-review-quarterly-tax-wage-report",
+      "content_type": "text/html; charset=UTF-8",
+      "states": [
+        "North Carolina"
+      ]
+    },
+    {
+      "url": "https://www.dfa.arkansas.gov/office/taxes/excise-tax-administration/sales-use-tax/",
+      "status": 200,
+      "resolved_url": "https://www.dfa.arkansas.gov/office/taxes/excise-tax-administration/sales-use-tax/",
+      "content_type": "text/html; charset=UTF-8",
+      "states": [
+        "Arkansas"
+      ]
+    },
+    {
+      "url": "https://www.dfa.arkansas.gov/office/taxes/excise-tax-administration/sales-use-tax/sales-and-use-tax-faqs/",
+      "status": 200,
+      "resolved_url": "https://www.dfa.arkansas.gov/office/taxes/excise-tax-administration/sales-use-tax/sales-and-use-tax-faqs/",
+      "content_type": "text/html; charset=UTF-8",
+      "states": [
+        "Arkansas"
+      ]
+    },
+    {
+      "url": "https://www.dfa.arkansas.gov/office/taxes/income-tax-administration/pass-through-entity-tax/",
+      "status": 200,
+      "resolved_url": "https://www.dfa.arkansas.gov/office/taxes/income-tax-administration/pass-through-entity-tax/",
+      "content_type": "text/html; charset=UTF-8",
+      "states": [
+        "Arkansas"
+      ]
+    },
+    {
+      "url": "https://www.dfa.arkansas.gov/online-services/taxpayers/",
+      "status": 200,
+      "resolved_url": "https://www.dfa.arkansas.gov/online-services/taxpayers/",
+      "content_type": "text/html; charset=UTF-8",
+      "states": [
+        "Arkansas"
+      ]
+    },
+    {
+      "url": "https://www.dfa.arkansas.gov/wp-content/uploads/withholdInstructions.pdf",
+      "status": 200,
+      "resolved_url": "https://www.dfa.arkansas.gov/wp-content/uploads/withholdInstructions.pdf",
+      "content_type": "application/pdf",
+      "states": [
+        "Arkansas"
+      ]
+    },
+    {
+      "url": "https://www.dol.ks.gov/employers/employer-services/unemployment-tax",
+      "status": 403,
+      "detail": "HTTP Error 403: Forbidden",
+      "states": [
+        "Kansas"
+      ]
+    },
+    {
+      "url": "https://www.dor.ms.gov/business/business-tax-frequently-asked-questions",
+      "status": 200,
+      "resolved_url": "https://www.dor.ms.gov/business/business-tax-frequently-asked-questions",
+      "content_type": "text/html; charset=UTF-8",
+      "states": [
+        "Mississippi"
+      ]
+    },
+    {
+      "url": "https://www.dor.ms.gov/business/corporate-income-and-franchise-tax",
+      "status": 200,
+      "resolved_url": "https://www.dor.ms.gov/business/corporate-income-and-franchise-tax",
+      "content_type": "text/html; charset=UTF-8",
+      "states": [
+        "Mississippi"
+      ]
+    },
+    {
+      "url": "https://www.dor.ms.gov/forms-resources/taxpayer-guidance/record-keeping-document-retention",
+      "status": 200,
+      "resolved_url": "https://www.dor.ms.gov/forms-resources/taxpayer-guidance/record-keeping-document-retention",
+      "content_type": "text/html; charset=UTF-8",
+      "states": [
+        "Mississippi"
+      ]
+    },
+    {
+      "url": "https://www.dor.ms.gov/sites/default/files/tax-forms/business/2025%20CIT%20INSTRUCTIONS%2083-100%20-%20Final%20%2001.14.2026.pdf",
+      "status": 200,
+      "resolved_url": "https://www.dor.ms.gov/sites/default/files/tax-forms/business/2025%20CIT%20INSTRUCTIONS%2083-100%20-%20Final%20%2001.14.2026.pdf",
+      "content_type": "application/pdf",
+      "states": [
+        "Mississippi"
+      ]
+    },
+    {
+      "url": "https://www.dor.sc.gov/business-income-taxes/corporate/s-corporation",
+      "status": 200,
+      "resolved_url": "https://www.dor.sc.gov/business-income-taxes/corporate/s-corporation",
+      "content_type": "text/html; charset=UTF-8",
+      "states": [
+        "South Carolina"
+      ]
+    },
+    {
+      "url": "https://www.dor.sc.gov/sales-use-tax-index/sales-tax",
+      "status": 200,
+      "resolved_url": "https://www.dor.sc.gov/sales-use-tax-index/sales-tax",
+      "content_type": "text/html; charset=UTF-8",
+      "states": [
+        "South Carolina"
+      ]
+    },
+    {
+      "url": "https://www.dor.sc.gov/withholding",
+      "status": 200,
+      "resolved_url": "https://www.dor.sc.gov/withholding",
+      "content_type": "text/html; charset=UTF-8",
+      "states": [
+        "South Carolina"
+      ]
+    },
+    {
+      "url": "https://www.dws.state.nm.us/Portals/0/DM/Business/ES903_AB_Employers_Quarterly_Wage_Contribution_Report.pdf",
+      "status": 200,
+      "resolved_url": "https://www.dws.state.nm.us/Portals/0/DM/Business/ES903_AB_Employers_Quarterly_Wage_Contribution_Report.pdf",
+      "content_type": "text/plain",
+      "states": [
+        "New Mexico"
+      ]
+    },
+    {
+      "url": "https://www.dws.state.nm.us/UI-Tax-Information",
+      "status": 200,
+      "resolved_url": "https://www.dws.state.nm.us/UI-Tax-Information",
+      "content_type": "text/plain",
+      "states": [
+        "New Mexico"
+      ]
+    },
+    {
+      "url": "https://www.floridarevenue.com/Forms_library/current/dr7n.pdf",
+      "status": 200,
+      "resolved_url": "https://www.floridarevenue.com/Forms_library/current/dr7n.pdf",
+      "content_type": "application/pdf",
+      "states": [
+        "Florida"
+      ]
+    },
+    {
+      "url": "https://www.ftb.ca.gov/file/after-you-file/keeping-your-tax-records.html",
+      "status": 200,
+      "resolved_url": "https://www.ftb.ca.gov/file/after-you-file/keeping-your-tax-records.html",
+      "content_type": "text/html",
+      "states": [
+        "California"
+      ]
+    },
+    {
+      "url": "https://www.gc.nh.gov/rsa/html/V/78-A/78-A-19.htm",
+      "status": 200,
+      "resolved_url": "https://www.gc.nh.gov/rsa/html/V/78-A/78-A-19.htm",
+      "content_type": "text/html",
+      "states": [
+        "New Hampshire"
+      ]
+    },
+    {
+      "url": "https://www.gc.nh.gov/rules/state_agencies/rev300.html",
+      "status": 200,
+      "resolved_url": "https://www.gc.nh.gov/rules/state_agencies/rev300.html",
+      "content_type": "text/html",
+      "states": [
+        "New Hampshire"
+      ]
+    },
+    {
+      "url": "https://www.in.gov/dor/files/audit-manual.pdf",
+      "status": 200,
+      "resolved_url": "https://www.in.gov/dor/files/audit-manual.pdf",
+      "content_type": "application/pdf",
+      "states": [
+        "Indiana"
+      ]
+    },
+    {
+      "url": "https://www.in.gov/dor/files/new-small-business-handbook.pdf",
+      "status": 200,
+      "resolved_url": "https://www.in.gov/dor/files/new-small-business-handbook.pdf",
+      "content_type": "application/pdf",
+      "states": [
+        "Indiana"
+      ]
+    },
+    {
+      "url": "https://www.in.gov/dor/files/reference/ib12.pdf",
+      "status": 200,
+      "resolved_url": "https://www.in.gov/dor/files/reference/ib12.pdf",
+      "content_type": "application/pdf",
+      "states": [
+        "Indiana"
+      ]
+    },
+    {
+      "url": "https://www.in.gov/dor/i-am-a/business-corp/business-faq/",
+      "status": 200,
+      "resolved_url": "https://www.in.gov/dor/i-am-a/business-corp/business-faq/",
+      "content_type": "text/html;charset=UTF-8",
+      "states": [
+        "Indiana"
+      ]
+    },
+    {
+      "url": "https://www.in.gov/dor/i-am-a/business-corp/withholding/",
+      "status": 200,
+      "resolved_url": "https://www.in.gov/dor/i-am-a/business-corp/withholding/",
+      "content_type": "text/html;charset=UTF-8",
+      "states": [
+        "Indiana"
+      ]
+    },
+    {
+      "url": "https://www.in.gov/dor/tax-forms/other-forms/ptet/faq/",
+      "status": 200,
+      "resolved_url": "https://www.in.gov/dor/tax-forms/other-forms/ptet/faq/",
+      "content_type": "text/html;charset=UTF-8",
+      "states": [
+        "Indiana"
+      ]
+    },
+    {
+      "url": "https://www.in.gov/dwd/indiana-unemployment/employers/",
+      "status": 200,
+      "resolved_url": "https://www.in.gov/dwd/indiana-unemployment/employers/",
+      "content_type": "text/html;charset=UTF-8",
+      "states": [
+        "Indiana"
+      ]
+    },
+    {
+      "url": "https://www.in.gov/dwd/indiana-unemployment/employers/employer-guide/wage-reporting-need-to-know/quarterly-report-due-dates/",
+      "status": 200,
+      "resolved_url": "https://www.in.gov/dwd/indiana-unemployment/employers/employer-guide/wage-reporting-need-to-know/quarterly-report-due-dates/",
+      "content_type": "text/html;charset=UTF-8",
+      "states": [
+        "Indiana"
+      ]
+    },
+    {
+      "url": "https://www.irs.gov/businesses/small-businesses-self-employed/employment-tax-recordkeeping",
+      "status": 200,
+      "resolved_url": "https://www.irs.gov/businesses/small-businesses-self-employed/employment-tax-recordkeeping",
+      "content_type": "text/html; charset=UTF-8",
+      "states": [
+        "Louisiana"
+      ]
+    },
+    {
+      "url": "https://www.jobsnd.com/unemployment-business-tax/ui-easy",
+      "status": 200,
+      "resolved_url": "https://www.jobsnd.com/unemployment-business-tax/ui-easy",
+      "content_type": "text/html; charset=UTF-8",
+      "states": [
+        "North Dakota"
+      ]
+    },
+    {
+      "url": "https://www.ksrevenue.gov/business.html",
+      "status": 200,
+      "resolved_url": "https://www.ksrevenue.gov/business.html",
+      "content_type": "text/html",
+      "states": [
+        "Kansas"
+      ]
+    },
+    {
+      "url": "https://www.ksrevenue.gov/bustaxtypescorp.html",
+      "status": 200,
+      "resolved_url": "https://www.ksrevenue.gov/bustaxtypescorp.html",
+      "content_type": "text/html",
+      "states": [
+        "Kansas"
+      ]
+    },
+    {
+      "url": "https://www.ksrevenue.gov/kw100.html",
+      "status": 200,
+      "resolved_url": "https://www.ksrevenue.gov/kw100.html",
+      "content_type": "text/html",
+      "states": [
+        "Kansas"
+      ]
+    },
+    {
+      "url": "https://www.labor.alabama.gov/NewHire",
+      "status": 200,
+      "resolved_url": "https://www.labor.alabama.gov/NewHire",
+      "content_type": "text/html; charset=utf-8",
+      "states": [
+        "Alabama"
+      ]
+    },
+    {
+      "url": "https://www.labor.idaho.gov/businesses/help-with-unemployment-tax/",
+      "status": "Access not verified",
+      "detail": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)>",
+      "states": [
+        "Idaho"
+      ]
+    },
+    {
+      "url": "https://www.labor.idaho.gov/wp-content/uploads/2025/11/Handbook_Tax-information_Nov.-2025-1.pdf",
+      "status": "Access not verified",
+      "detail": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)>",
+      "states": [
+        "Idaho"
+      ]
+    },
+    {
+      "url": "https://www.laworks.net/UnemploymentInsurance/UI_WageTaxReportingOverview.asp",
+      "status": 200,
+      "resolved_url": "https://www.laworks.net/UnemploymentInsurance/UI_WageTaxReportingOverview.asp",
+      "content_type": "text/html",
+      "states": [
+        "Louisiana"
+      ]
+    },
+    {
+      "url": "https://www.lni.wa.gov/agency/small-business/recordkeeping-requirements",
+      "status": 200,
+      "resolved_url": "https://www.lni.wa.gov/agency/small-business/recordkeeping-requirements",
+      "content_type": "text/html;charset=UTF-8",
+      "states": [
+        "Washington"
+      ]
+    },
+    {
+      "url": "https://www.maine.gov/revenue/faq/income-tax-withholding",
+      "status": 403,
+      "detail": "HTTP Error 403: Forbidden",
+      "states": [
+        "Maine"
+      ]
+    },
+    {
+      "url": "https://www.maine.gov/revenue/faq/passthrough-entity-withholding",
+      "status": 403,
+      "detail": "HTTP Error 403: Forbidden",
+      "states": [
+        "Maine"
+      ]
+    },
+    {
+      "url": "https://www.maine.gov/revenue/sites/maine.gov.revenue/files/inline-files/Business%20Guide%20for%20December%202025%20FINAL.pdf",
+      "status": 403,
+      "detail": "HTTP Error 403: Forbidden",
+      "states": [
+        "Maine"
+      ]
+    },
+    {
+      "url": "https://www.maine.gov/revenue/sites/maine.gov.revenue/files/inline-files/GIB%20115_FINAL_2025_10_17_0.pdf",
+      "status": 403,
+      "detail": "HTTP Error 403: Forbidden",
+      "states": [
+        "Maine"
+      ]
+    },
+    {
+      "url": "https://www.maine.gov/revenue/taxes",
+      "status": 403,
+      "detail": "HTTP Error 403: Forbidden",
+      "states": [
+        "Maine"
+      ]
+    },
+    {
+      "url": "https://www.maine.gov/unemployment/employers/",
+      "status": 403,
+      "detail": "HTTP Error 403: Forbidden",
+      "states": [
+        "Maine"
+      ]
+    },
+    {
+      "url": "https://www.marylandcomptroller.gov/content/dam/mdcomp/tax/instructions/withholding/2026/withholding-guide.pdf",
+      "status": 200,
+      "resolved_url": "https://www.marylandcomptroller.gov/content/dam/mdcomp/tax/instructions/withholding/2026/withholding-guide.pdf",
+      "content_type": "application/pdf",
+      "states": [
+        "Maryland"
+      ]
+    },
+    {
+      "url": "https://www.marylandcomptroller.gov/content/dam/mdcomp/tax/legal-publications/tips/business/bustip2.pdf",
+      "status": 200,
+      "resolved_url": "https://www.marylandcomptroller.gov/content/dam/mdcomp/tax/legal-publications/tips/business/bustip2.pdf",
+      "content_type": "application/pdf",
+      "states": [
+        "Maryland"
+      ]
+    },
+    {
+      "url": "https://www.mass.gov/guides/sales-and-use-tax",
+      "status": 403,
+      "detail": "HTTP Error 403: Forbidden",
+      "states": [
+        "Massachusetts"
+      ]
+    },
+    {
+      "url": "https://www.mass.gov/info-details/corporate-excise-tax-guide",
+      "status": 403,
+      "detail": "HTTP Error 403: Forbidden",
+      "states": [
+        "Massachusetts"
+      ]
+    },
+    {
+      "url": "https://www.mass.gov/info-details/employer-contributions-to-unemployment",
+      "status": 403,
+      "detail": "HTTP Error 403: Forbidden",
+      "states": [
+        "Massachusetts"
+      ]
+    },
+    {
+      "url": "https://www.mass.gov/info-details/withholding-tax-guide",
+      "status": 403,
+      "detail": "HTTP Error 403: Forbidden",
+      "states": [
+        "Massachusetts"
+      ]
+    },
+    {
+      "url": "https://www.mass.gov/regulations/830-CMR-62c251-record-retention",
+      "status": 403,
+      "detail": "HTTP Error 403: Forbidden",
+      "states": [
+        "Massachusetts"
+      ]
+    },
+    {
+      "url": "https://www.michigan.gov/leo/bureaus-agencies/uia/employers/about-taxes-and-ui",
+      "status": 200,
+      "resolved_url": "https://www.michigan.gov/leo/bureaus-agencies/uia/employers/about-taxes-and-ui",
+      "content_type": "text/html; charset=utf-8",
+      "states": [
+        "Michigan"
+      ]
+    },
+    {
+      "url": "https://www.michigan.gov/leo/bureaus-agencies/uia/employers/frequently-asked-questions-for-employers/for-employers/quarterly-reports",
+      "status": 200,
+      "resolved_url": "https://www.michigan.gov/leo/bureaus-agencies/uia/employers/frequently-asked-questions-for-employers/for-employers/quarterly-reports",
+      "content_type": "text/html; charset=utf-8",
+      "states": [
+        "Michigan"
+      ]
+    },
+    {
+      "url": "https://www.michigan.gov/taxes/business-taxes/cit/detail/corporate-tax-base",
+      "status": 200,
+      "resolved_url": "https://www.michigan.gov/taxes/business-taxes/cit/detail/corporate-tax-base",
+      "content_type": "text/html; charset=utf-8",
+      "states": [
+        "Michigan"
+      ]
+    },
+    {
+      "url": "https://www.michigan.gov/taxes/business-taxes/flowthrough-entity-tax",
+      "status": 200,
+      "resolved_url": "https://www.michigan.gov/taxes/business-taxes/flowthrough-entity-tax",
+      "content_type": "text/html; charset=utf-8",
+      "states": [
+        "Michigan"
+      ]
+    },
+    {
+      "url": "https://www.michigan.gov/taxes/business-taxes/sales-use-tax",
+      "status": 200,
+      "resolved_url": "https://www.michigan.gov/taxes/business-taxes/sales-use-tax",
+      "content_type": "text/html; charset=utf-8",
+      "states": [
+        "Michigan"
+      ]
+    },
+    {
+      "url": "https://www.michigan.gov/taxes/business-taxes/withholding/withholding-tax-faqs",
+      "status": 200,
+      "resolved_url": "https://www.michigan.gov/taxes/business-taxes/withholding/withholding-tax-faqs",
+      "content_type": "text/html; charset=utf-8",
+      "states": [
+        "Michigan"
+      ]
+    },
+    {
+      "url": "https://www.michigan.gov/taxes/rep-legal/rab/2024-revenue-administrative-bulletins/revenue-administrative-bulletin-2024-11",
+      "status": 200,
+      "resolved_url": "https://www.michigan.gov/taxes/rep-legal/rab/2024-revenue-administrative-bulletins/revenue-administrative-bulletin-2024-11",
+      "content_type": "text/html; charset=utf-8",
+      "states": [
+        "Michigan"
+      ]
+    },
+    {
+      "url": "https://www.ncdor.gov/documents/bulletins/2024-corporate-income-franchise-and-insurance-tax-bulletin/open",
+      "status": 200,
+      "resolved_url": "https://www.ncdor.gov/documents/bulletins/2024-corporate-income-franchise-and-insurance-tax-bulletin/open",
+      "content_type": "application/pdf",
+      "states": [
+        "North Carolina"
+      ]
+    },
+    {
+      "url": "https://www.ncdor.gov/income-tax-withholding-tables-and-instructions-employers/open",
+      "status": 200,
+      "resolved_url": "https://www.ncdor.gov/income-tax-withholding-tables-and-instructions-employers/open",
+      "content_type": "application/pdf",
+      "states": [
+        "North Carolina"
+      ]
+    },
+    {
+      "url": "https://www.ncdor.gov/sutb-2026pdf/open",
+      "status": 200,
+      "resolved_url": "https://www.ncdor.gov/sutb-2026pdf/open",
+      "content_type": "application/pdf",
+      "states": [
+        "North Carolina"
+      ]
+    },
+    {
+      "url": "https://www.ncdor.gov/taxes-forms/information-tax-professionals/tax-bulletins-directives-and-other-important-notices/important-notices-and-frequently-asked-questions-personal-taxes/important-notice-regarding-north-carolinas-recently-enacted-pass-through-entity-tax",
+      "status": 200,
+      "resolved_url": "https://www.ncdor.gov/taxes-forms/information-tax-professionals/tax-bulletins-directives-and-other-important-notices/important-notices-and-frequently-asked-questions-personal-taxes/important-notice-regarding-north-carolinas-recently-enacted-pass-through-entity-tax",
+      "content_type": "text/html; charset=UTF-8",
+      "states": [
+        "North Carolina"
+      ]
+    },
+    {
+      "url": "https://www.nh.gov/labor/documents/misclassification.pdf",
+      "status": 403,
+      "detail": "HTTP Error 403: Forbidden",
+      "states": [
+        "New Hampshire"
+      ]
+    },
+    {
+      "url": "https://www.nhes.nh.gov/forms/documents/quarterly-tax-wage-report.pdf",
+      "status": 403,
+      "detail": "HTTP Error 403: Forbidden",
+      "states": [
+        "New Hampshire"
+      ]
+    },
+    {
+      "url": "https://www.nj.gov/njbonds/treasury/taxation/prntempl.shtml",
+      "status": 200,
+      "resolved_url": "https://www.nj.gov/njbonds/treasury/taxation/prntempl.shtml",
+      "content_type": "text/html",
+      "states": [
+        "New Jersey"
+      ]
+    },
+    {
+      "url": "https://www.nj.gov/treasury/taxation/businesses/payroll/payroll-filing.shtml",
+      "status": 200,
+      "resolved_url": "https://www.nj.gov/treasury/taxation/businesses/payroll/payroll-filing.shtml",
+      "content_type": "text/html",
+      "states": [
+        "New Jersey"
+      ]
+    },
+    {
+      "url": "https://www.nj.gov/treasury/taxation/pdf/current/part/1065i.pdf",
+      "status": 200,
+      "resolved_url": "https://www.nj.gov/treasury/taxation/pdf/current/part/1065i.pdf",
+      "content_type": "application/pdf",
+      "states": [
+        "New Jersey"
+      ]
+    },
+    {
+      "url": "https://www.ny.gov/new-york-paid-sick-leave/new-york-paid-sick-leave",
+      "status": 200,
+      "resolved_url": "https://www.ny.gov/new-york-paid-sick-leave/new-york-paid-sick-leave",
+      "content_type": "text/html; charset=UTF-8",
+      "states": [
+        "New York"
+      ]
+    },
+    {
+      "url": "https://www.oklahoma.gov/tax/businesses/withholding.html",
+      "status": 200,
+      "resolved_url": "https://www.oklahoma.gov/tax/businesses/withholding.html",
+      "content_type": "text/html;charset=utf-8",
+      "states": [
+        "Oklahoma"
+      ]
+    },
+    {
+      "url": "https://www.oregon.gov/DOR/programs/businesses/Pages/corporate-activity-tax.aspx/",
+      "status": 200,
+      "resolved_url": "https://www.oregon.gov/DOR/programs/businesses/Pages/corporate-activity-tax.aspx/",
+      "content_type": "text/html; charset=utf-8",
+      "states": [
+        "Oregon"
+      ]
+    },
+    {
+      "url": "https://www.oregon.gov/dor/forms/FormsPubs/combined-payroll_211-155-2_2026.pdf",
+      "status": 200,
+      "resolved_url": "https://www.oregon.gov/dor/forms/FormsPubs/combined-payroll_211-155-2_2026.pdf",
+      "content_type": "application/pdf",
+      "states": [
+        "Oregon"
+      ]
+    },
+    {
+      "url": "https://www.oregon.gov/dor/programs/businesses/Pages/statewide-transit-tax.aspx",
+      "status": 200,
+      "resolved_url": "https://www.oregon.gov/dor/programs/businesses/Pages/statewide-transit-tax.aspx",
+      "content_type": "text/html; charset=utf-8",
+      "states": [
+        "Oregon"
+      ]
+    },
+    {
+      "url": "https://www.oregon.gov/dor/programs/businesses/pages/withholding-and-payroll-tax.aspx",
+      "status": 200,
+      "resolved_url": "https://www.oregon.gov/dor/programs/businesses/pages/withholding-and-payroll-tax.aspx",
+      "content_type": "text/html; charset=utf-8",
+      "states": [
+        "Oregon"
+      ]
+    },
+    {
+      "url": "https://www.oregon.gov/employ/businesses/pages/employer-responsibilities.aspx",
+      "status": 200,
+      "resolved_url": "https://www.oregon.gov/employ/businesses/pages/employer-responsibilities.aspx",
+      "content_type": "text/html; charset=utf-8",
+      "states": [
+        "Oregon"
+      ]
+    },
+    {
+      "url": "https://www.pa.gov/agencies/dli/programs-services/unemployment/for-employers/wage-report",
+      "status": 200,
+      "resolved_url": "https://www.pa.gov/agencies/dli/programs-services/unemployment/for-employers/wage-report",
+      "content_type": "text/html;charset=utf-8",
+      "states": [
+        "Pennsylvania"
+      ]
+    },
+    {
+      "url": "https://www.pa.gov/agencies/revenue/forms-and-publications/pa-personal-income-tax-guide/income-subject-withholding-estimated-payments-penalties-interest-other-additions",
+      "status": 200,
+      "resolved_url": "https://www.pa.gov/agencies/revenue/forms-and-publications/pa-personal-income-tax-guide/income-subject-withholding-estimated-payments-penalties-interest-other-additions",
+      "content_type": "text/html;charset=utf-8",
+      "states": [
+        "Pennsylvania"
+      ]
+    },
+    {
+      "url": "https://www.pa.gov/agencies/revenue/resources/tax-types-and-information/partnerships-s-corporations-llcs",
+      "status": 200,
+      "resolved_url": "https://www.pa.gov/agencies/revenue/resources/tax-types-and-information/partnerships-s-corporations-llcs",
+      "content_type": "text/html;charset=utf-8",
+      "states": [
+        "Pennsylvania"
+      ]
+    },
+    {
+      "url": "https://www.pa.gov/agencies/revenue/resources/tax-types-and-information/sales-use-and-hotel-occupancy-tax/use-tax/use-tax-for-businesses",
+      "status": 200,
+      "resolved_url": "https://www.pa.gov/agencies/revenue/resources/tax-types-and-information/sales-use-and-hotel-occupancy-tax/use-tax/use-tax-for-businesses",
+      "content_type": "text/html;charset=utf-8",
+      "states": [
+        "Pennsylvania"
+      ]
+    },
+    {
+      "url": "https://www.pacodeandbulletin.gov/secure/pacode/data/061/chapter34/s34.2.html",
+      "status": 200,
+      "resolved_url": "https://www.pacodeandbulletin.gov/secure/pacode/data/061/chapter34/s34.2.html",
+      "content_type": "text/html",
+      "states": [
+        "Pennsylvania"
+      ]
+    },
+    {
+      "url": "https://www.revenue.alabama.gov/division/sales-use/",
+      "status": 200,
+      "resolved_url": "https://www.revenue.alabama.gov/division/sales-use/",
+      "content_type": "text/html; charset=UTF-8",
+      "states": [
+        "Alabama"
+      ]
+    },
+    {
+      "url": "https://www.revenue.alabama.gov/forms/",
+      "status": 200,
+      "resolved_url": "https://www.revenue.alabama.gov/forms/",
+      "content_type": "text/html; charset=UTF-8",
+      "states": [
+        "Alabama"
+      ]
+    },
+    {
+      "url": "https://www.revenue.alabama.gov/individual-corporate/alabama-business-privilege-tax-and-corporate-share-tax/",
+      "status": 200,
+      "resolved_url": "https://www.revenue.alabama.gov/individual-corporate/alabama-business-privilege-tax-and-corporate-share-tax/",
+      "content_type": "text/html; charset=UTF-8",
+      "states": [
+        "Alabama"
+      ]
+    },
+    {
+      "url": "https://www.revenue.alabama.gov/sales-use/one-spot/",
+      "status": 200,
+      "resolved_url": "https://www.revenue.alabama.gov/sales-use/one-spot/",
+      "content_type": "text/html; charset=UTF-8",
+      "states": [
+        "Alabama"
+      ]
+    },
+    {
+      "url": "https://www.revenue.alabama.gov/tax-types/corporate-income-tax/",
+      "status": 200,
+      "resolved_url": "https://www.revenue.alabama.gov/tax-types/corporate-income-tax/",
+      "content_type": "text/html; charset=UTF-8",
+      "states": [
+        "Alabama"
+      ]
+    },
+    {
+      "url": "https://www.revenue.mt.gov/taxes/corporate-income-tax",
+      "status": "Access not verified",
+      "detail": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.revenue.mt.gov'. (_ssl.c:1000)>",
+      "states": [
+        "Montana"
+      ]
+    },
+    {
+      "url": "https://www.revenue.mt.gov/taxes/pass-through-entities/pass-through-entity-tax",
+      "status": "Access not verified",
+      "detail": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.revenue.mt.gov'. (_ssl.c:1000)>",
+      "states": [
+        "Montana"
+      ]
+    },
+    {
+      "url": "https://www.revenue.nh.gov/faq/does-new-hampshire-have-sales-tax",
+      "status": 403,
+      "detail": "HTTP Error 403: Forbidden",
+      "states": [
+        "New Hampshire"
+      ]
+    },
+    {
+      "url": "https://www.revenue.nh.gov/taxes-glance/business-taxes",
+      "status": 403,
+      "detail": "HTTP Error 403: Forbidden",
+      "states": [
+        "New Hampshire"
+      ]
+    },
+    {
+      "url": "https://www.revenue.state.mn.us/book/export/html/10021",
+      "status": 200,
+      "resolved_url": "https://www.revenue.state.mn.us/book/export/html/10021",
+      "content_type": "text/html; charset=utf-8",
+      "states": [
+        "Minnesota"
+      ]
+    },
+    {
+      "url": "https://www.revenue.state.mn.us/mndor-pp/19556?type=html",
+      "status": 200,
+      "resolved_url": "https://www.revenue.state.mn.us/mndor-pp/19556?type=html",
+      "content_type": "text/html; charset=utf-8",
+      "states": [
+        "Minnesota"
+      ]
+    },
+    {
+      "url": "https://www.revenue.state.mn.us/new-employer-guide",
+      "status": 200,
+      "resolved_url": "https://www.revenue.state.mn.us/new-employer-guide",
+      "content_type": "text/html; charset=utf-8",
+      "states": [
+        "Minnesota"
+      ]
+    },
+    {
+      "url": "https://www.revenue.state.mn.us/sites/default/files/2026-07/m4-inst-25.pdf",
+      "status": 200,
+      "resolved_url": "https://www.revenue.state.mn.us/sites/default/files/2026-07/m4-inst-25.pdf",
+      "content_type": "application/pdf",
+      "states": [
+        "Minnesota"
+      ]
+    },
+    {
+      "url": "https://www.revenue.wi.gov/Pages/CorpFranchise/home.aspx",
+      "status": 200,
+      "resolved_url": "https://www.revenue.wi.gov/Pages/CorpFranchise/home.aspx",
+      "content_type": "text/html; charset=utf-8",
+      "states": [
+        "Wisconsin"
+      ]
+    },
+    {
+      "url": "https://www.revenue.wi.gov/Pages/FAQS/pcs-keeprec.aspx",
+      "status": 200,
+      "resolved_url": "https://www.revenue.wi.gov/Pages/FAQS/pcs-keeprec.aspx",
+      "content_type": "text/html; charset=utf-8",
+      "states": [
+        "Wisconsin"
+      ]
+    },
+    {
+      "url": "https://www.revenue.wi.gov/Pages/Withholding/home.aspx",
+      "status": 200,
+      "resolved_url": "https://www.revenue.wi.gov/Pages/Withholding/home.aspx",
+      "content_type": "text/html; charset=utf-8",
+      "states": [
+        "Wisconsin"
+      ]
+    },
+    {
+      "url": "https://www.revenue.wi.gov/Pages/faqs/pcs-sales.aspx",
+      "status": 200,
+      "resolved_url": "https://www.revenue.wi.gov/Pages/faqs/pcs-sales.aspx",
+      "content_type": "text/html; charset=utf-8",
+      "states": [
+        "Wisconsin"
+      ]
+    },
+    {
+      "url": "https://www.revisor.mn.gov/rules/3315.1010/",
+      "status": 200,
+      "resolved_url": "https://www.revisor.mn.gov/rules/3315.1010/",
+      "content_type": "text/html; charset=utf-8",
+      "states": [
+        "Minnesota"
+      ]
+    },
+    {
+      "url": "https://www.srca.nm.gov/parts/title03/03.001.0005.html",
+      "status": 200,
+      "resolved_url": "https://www.srca.nm.gov/parts/title03/03.001.0005.html",
+      "content_type": "text/html; charset=windows-1252",
+      "states": [
+        "New Mexico"
+      ]
+    },
+    {
+      "url": "https://www.state.nj.us/treasury/taxation/pdf/pubs/sales/su4.pdf",
+      "status": 200,
+      "resolved_url": "https://www.nj.gov/treasury/taxation/pdf/pubs/sales/su4.pdf",
+      "content_type": "application/pdf",
+      "states": [
+        "New Jersey"
+      ]
+    },
+    {
+      "url": "https://www.tax.nd.gov/income-tax-withholding",
+      "status": 200,
+      "resolved_url": "https://www.tax.nd.gov/income-tax-withholding",
+      "content_type": "text/html; charset=UTF-8",
+      "states": [
+        "North Dakota"
+      ]
+    },
+    {
+      "url": "https://www.tax.nd.gov/s-corp-and-partnership-tax",
+      "status": 200,
+      "resolved_url": "https://www.tax.nd.gov/s-corp-and-partnership-tax",
+      "content_type": "text/html; charset=UTF-8",
+      "states": [
+        "North Dakota"
+      ]
+    },
+    {
+      "url": "https://www.tax.nd.gov/sales-and-use-tax",
+      "status": 200,
+      "resolved_url": "https://www.tax.nd.gov/sales-and-use-tax",
+      "content_type": "text/html; charset=UTF-8",
+      "states": [
+        "North Dakota"
+      ]
+    },
+    {
+      "url": "https://www.tax.newmexico.gov/businesses/gross-receipts-overview/",
+      "status": 200,
+      "resolved_url": "https://www.tax.newmexico.gov/businesses/gross-receipts-overview/",
+      "content_type": "text/html; charset=UTF-8",
+      "states": [
+        "New Mexico"
+      ]
+    },
+    {
+      "url": "https://www.tax.newmexico.gov/businesses/non-taxable-transaction-certificates-nttc/",
+      "status": 200,
+      "resolved_url": "https://www.tax.newmexico.gov/businesses/non-taxable-transaction-certificates-nttc/",
+      "content_type": "text/html; charset=UTF-8",
+      "states": [
+        "New Mexico"
+      ]
+    },
+    {
+      "url": "https://www.tax.newmexico.gov/businesses/withholding-tax-and-workers-compensation/",
+      "status": 200,
+      "resolved_url": "https://www.tax.newmexico.gov/businesses/withholding-tax-and-workers-compensation/",
+      "content_type": "text/html; charset=UTF-8",
+      "states": [
+        "New Mexico"
+      ]
+    },
+    {
+      "url": "https://www.tax.newmexico.gov/governments/2020/10/22/pass-through-entity/",
+      "status": 200,
+      "resolved_url": "https://www.tax.newmexico.gov/governments/2020/10/22/pass-through-entity/",
+      "content_type": "text/html; charset=UTF-8",
+      "states": [
+        "New Mexico"
+      ]
+    },
+    {
+      "url": "https://www.tax.ny.gov/bus/doingbus/recordkeeping.htm",
+      "status": 200,
+      "resolved_url": "https://www.tax.ny.gov/bus/doingbus/recordkeeping.htm",
+      "content_type": "text/html",
+      "states": [
+        "New York"
+      ]
+    },
+    {
+      "url": "https://www.tax.ny.gov/bus/wt/filing_requirements.htm",
+      "status": 200,
+      "resolved_url": "https://www.tax.ny.gov/bus/wt/filing_requirements.htm",
+      "content_type": "text/html",
+      "states": [
+        "New York"
+      ]
+    },
+    {
+      "url": "https://www.tax.ny.gov/data/stats/taxfacts/corporation-tax.htm",
+      "status": 200,
+      "resolved_url": "https://www.tax.ny.gov/data/stats/taxfacts/corporation-tax.htm",
+      "content_type": "text/html",
+      "states": [
+        "New York"
+      ]
+    },
+    {
+      "url": "https://www.tax.ny.gov/pubs_and_bulls/tg_bulletins/st/do_i_need_to_register_for_sales_tax.htm",
+      "status": 200,
+      "resolved_url": "https://www.tax.ny.gov/pubs_and_bulls/tg_bulletins/st/do_i_need_to_register_for_sales_tax.htm",
+      "content_type": "text/html",
+      "states": [
+        "New York"
+      ]
+    },
+    {
+      "url": "https://www.tax.ny.gov/pubs_and_bulls/tg_bulletins/st/record-keeping_requirements_for_sales_tax_vendors.htm",
+      "status": 200,
+      "resolved_url": "https://www.tax.ny.gov/pubs_and_bulls/tg_bulletins/st/record-keeping_requirements_for_sales_tax_vendors.htm",
+      "content_type": "text/html",
+      "states": [
+        "New York"
+      ]
+    },
+    {
+      "url": "https://www.tax.virginia.gov/corporation-income-tax",
+      "status": 200,
+      "resolved_url": "https://www.tax.virginia.gov/corporation-income-tax",
+      "content_type": "text/html; charset=UTF-8",
+      "states": [
+        "Virginia"
+      ]
+    },
+    {
+      "url": "https://www.tax.virginia.gov/laws-rules-decisions/rulings-tax-commissioner/25-3",
+      "status": 200,
+      "resolved_url": "https://www.tax.virginia.gov/laws-rules-decisions/rulings-tax-commissioner/25-3",
+      "content_type": "text/html; charset=UTF-8",
+      "states": [
+        "Virginia"
+      ]
+    },
+    {
+      "url": "https://www.tax.virginia.gov/sites/default/files/vatax-pdf/r-1-business-registration-instructions.pdf",
+      "status": 200,
+      "resolved_url": "https://www.tax.virginia.gov/sites/default/files/vatax-pdf/r-1-business-registration-instructions.pdf",
+      "content_type": "application/pdf",
+      "states": [
+        "Virginia"
+      ]
+    },
+    {
+      "url": "https://www.tax.virginia.gov/withholding-tax",
+      "status": 200,
+      "resolved_url": "https://www.tax.virginia.gov/withholding-tax",
+      "content_type": "text/html; charset=UTF-8",
+      "states": [
+        "Virginia"
+      ]
+    },
+    {
+      "url": "https://www.tn.gov/content/dam/tn/revenue/documents/tax_manuals/june-2023/Sales-Use-Tax-Manual.pdf",
+      "status": "Access not verified",
+      "detail": "<urlopen error [WinError 10054] An existing connection was forcibly closed by the remote host>",
+      "states": [
+        "Tennessee"
+      ]
+    },
+    {
+      "url": "https://www.tn.gov/content/dam/tn/workforce/documents/employers/FAQ-UI-Tax-Employers.pdf",
+      "status": 200,
+      "resolved_url": "https://www.tn.gov/content/dam/tn/workforce/documents/employers/FAQ-UI-Tax-Employers.pdf",
+      "content_type": "application/pdf",
+      "states": [
+        "Tennessee"
+      ]
+    },
+    {
+      "url": "https://www.tn.gov/revenue/taxes/business-tax.html.html",
+      "status": 200,
+      "resolved_url": "https://www.tn.gov/revenue/taxes/business-tax.html.html",
+      "content_type": "text/html;charset=utf-8",
+      "states": [
+        "Tennessee"
+      ]
+    },
+    {
+      "url": "https://www.tn.gov/revenue/taxes/franchise---excise-tax.html.html",
+      "status": 200,
+      "resolved_url": "https://www.tn.gov/revenue/taxes/franchise---excise-tax.html.html",
+      "content_type": "text/html;charset=utf-8",
+      "states": [
+        "Tennessee"
+      ]
+    },
+    {
+      "url": "https://www.tn.gov/revenue/taxes/sales-and-use-tax.html",
+      "status": "Access not verified",
+      "detail": "<urlopen error [WinError 10054] An existing connection was forcibly closed by the remote host>",
+      "states": [
+        "Tennessee"
+      ]
+    },
+    {
+      "url": "https://www.tn.gov/workforce/employers/tax-and-insurance-redirect/unemployment-insurance-tax.html",
+      "status": 200,
+      "resolved_url": "https://www.tn.gov/workforce/employers/tax-and-insurance-redirect/unemployment-insurance-tax.html",
+      "content_type": "text/html;charset=utf-8",
+      "states": [
+        "Tennessee"
+      ]
+    },
+    {
+      "url": "https://www.uimn.org/employers/",
+      "status": "Access not verified",
+      "detail": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1000)>",
+      "states": [
+        "Minnesota"
+      ]
+    },
+    {
+      "url": "https://www.vec.virginia.gov/employers",
+      "status": 200,
+      "resolved_url": "https://www.vec.virginia.gov/employers",
+      "content_type": "text/html; charset=UTF-8",
+      "states": [
+        "Virginia"
+      ]
+    },
+    {
+      "url": "https://www.wcb.ny.gov/content/main/coverage-required-db.jsp",
+      "status": "Access not verified",
+      "detail": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1000)>",
+      "states": [
+        "New York"
+      ]
+    },
+    {
+      "url": "https://wyoleg.gov/statutes/compress/title39.pdf",
+      "status": 200,
+      "resolved_url": "https://wyoleg.gov/statutes/compress/title39.pdf",
+      "content_type": "application/pdf",
+      "states": [
+        "Wyoming"
+      ]
+    }
+  ]
+}

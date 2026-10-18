@@ -1,0 +1,10 @@
+{
+  "existing_css_unchanged": true,
+  "all_new_layout_css_inside_mobile_media_query": true,
+  "mobile_max_width": 650,
+  "main_notes_page_selectors_added": false,
+  "home_notes_only_photo_change": true,
+  "exact_location_wording": "Nationwide-Based Out Of Los Angeles",
+  "html_pages_with_exact_wording": 192,
+  "original_image_files_modified": false
+}

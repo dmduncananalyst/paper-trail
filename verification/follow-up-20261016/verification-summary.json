@@ -1,0 +1,17 @@
+{
+  "pages": 192,
+  "page_device_checks": 576,
+  "language_checks": 60,
+  "cold_load_checks": 42,
+  "cold_load_protocols": [
+    "http",
+    "file"
+  ],
+  "maximum_observed_layout_shift": 0,
+  "missing_images": 0,
+  "overflow_failures": 0,
+  "runtime_exceptions": 0,
+  "google_translation_requests": 0,
+  "forms_submitted": 0,
+  "publication_performed": false
+}

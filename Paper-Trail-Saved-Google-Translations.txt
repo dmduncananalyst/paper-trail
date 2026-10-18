@@ -1,0 +1,45 @@
+Paper Trail saved Google translations
+
+Initial project
+The owner approved translating the existing English website into nine languages.
+Google results are saved as individual response receipts before another batch is
+sent. A compact cache and immutable release retain source hashes and provenance.
+Existing exact Google results can be reused from Dami Dom without modifying it.
+No translation service is called when someone visits or switches languages.
+
+Website behavior
+The globe and language selector appear in every page header, to the left of the
+phone number, as requested in the latest owner correction. Saved
+language pages retain the approved page layout, images, navigation and forms.
+Internal links stay in the selected language. The Google Translate badge and
+expandable translation information appear at the bottom of translated pages.
+English URLs and their canonical URLs are retained. Unapproved state content
+and its translated copies retain noindex and remain outside the sitemaps.
+
+New Blog posts and edits
+1. Save the English post and its Blog listing card, with the real publication date.
+2. Run the offline inventory:
+   python -B tools/paper-trail-translations.py --mode inventory
+3. Prepare using already saved translations, without Google calls:
+   python -B tools/paper-trail-translations.py --mode prepare
+4. If new or changed text is pending, obtain the owner's separate approval for
+   that exact paid scope before explicitly running:
+   python -B tools/paper-trail-translations.py --mode refresh --approve-google-calls
+5. Review verification/google-translation-20261016/latest.json. Confirm no pending
+   fields and inspect the generated language pages before your normal Git actions.
+
+The refresh command buys only missing source/language pairs and uses the existing
+shared ongoing budget, with its current warning and pause thresholds. It does not
+reuse the one-time initial allowance. Budget or authentication failures leave the
+paid results saved and the pending work visible. There are no automatic retries.
+No Git hook, commit, staging, push, deployment, scheduled task or publication is
+performed by these commands. The owner handles Git and publication.
+
+Permanent files
+.translation-cache/provider-responses/ contains durable Google response receipts.
+.translation-cache/google-site-fields.json contains the compact saved cache.
+assets/translation-workflow/releases/ contains immutable Google result releases.
+assets/locales/home-blog/current.js contains saved menu and chat dictionaries.
+The nine language directories contain the generated static website pages.
+Keep the public release files and generated pages with the website. Private
+credentials and the shared usage database remain outside the website repository.

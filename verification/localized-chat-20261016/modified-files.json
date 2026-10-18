@@ -1,0 +1,30 @@
+{
+  "functional_and_layout_files": [
+    "assets/site.js",
+    "assets/design.css",
+    "assets/design.js",
+    "assets/hubspot.js",
+    "index.html",
+    "blog.html",
+    "notes.html",
+    "assets/locales/home-blog/chat.json",
+    "assets/locales/home-blog/current.js",
+    "assets/locales/home-blog/manifest.json",
+    "assets/locales/home-blog/ar.json",
+    "assets/locales/home-blog/en.json",
+    "assets/locales/home-blog/es.json",
+    "assets/locales/home-blog/fa.json",
+    "assets/locales/home-blog/hy.json",
+    "assets/locales/home-blog/ko.json",
+    "assets/locales/home-blog/ru.json",
+    "assets/locales/home-blog/te.json",
+    "assets/locales/home-blog/tl.json",
+    "assets/locales/home-blog/zh-CN.json"
+  ],
+  "resource_version_updates": "All 192 website and state HTML files reference the current local assets.",
+  "audit_findings_updated": [
+    "SEO-AEO-Master-Audit.md",
+    "SEO-AEO-Priority-Fix-List.csv"
+  ],
+  "no_commits_pushes_or_publication": true
+}

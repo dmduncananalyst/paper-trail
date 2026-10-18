@@ -1,0 +1,126 @@
+{
+  "method": "Exact paragraph comparison plus pairwise five word sequence overlap. Measures text repetition, not factual originality or publication approval.",
+  "exact_duplicate_paragraphs": [],
+  "highest_overlap_pairs": [
+    {
+      "first": "Vermont",
+      "second": "Virginia",
+      "shared_five_word_sequences": 11,
+      "jaccard": 0.0102
+    },
+    {
+      "first": "Indiana",
+      "second": "Kentucky",
+      "shared_five_word_sequences": 12,
+      "jaccard": 0.0076
+    },
+    {
+      "first": "Idaho",
+      "second": "Kentucky",
+      "shared_five_word_sequences": 12,
+      "jaccard": 0.0075
+    },
+    {
+      "first": "Hawaii",
+      "second": "Kansas",
+      "shared_five_word_sequences": 12,
+      "jaccard": 0.0074
+    },
+    {
+      "first": "Rhode Island",
+      "second": "South Dakota",
+      "shared_five_word_sequences": 7,
+      "jaccard": 0.0067
+    },
+    {
+      "first": "Ohio",
+      "second": "South Carolina",
+      "shared_five_word_sequences": 7,
+      "jaccard": 0.0063
+    },
+    {
+      "first": "Maryland",
+      "second": "Rhode Island",
+      "shared_five_word_sequences": 7,
+      "jaccard": 0.0058
+    },
+    {
+      "first": "Minnesota",
+      "second": "Virginia",
+      "shared_five_word_sequences": 7,
+      "jaccard": 0.0057
+    },
+    {
+      "first": "South Dakota",
+      "second": "Tennessee",
+      "shared_five_word_sequences": 6,
+      "jaccard": 0.0057
+    },
+    {
+      "first": "Massachusetts",
+      "second": "Montana",
+      "shared_five_word_sequences": 8,
+      "jaccard": 0.0056
+    },
+    {
+      "first": "Pennsylvania",
+      "second": "Rhode Island",
+      "shared_five_word_sequences": 6,
+      "jaccard": 0.0056
+    },
+    {
+      "first": "South Dakota",
+      "second": "Utah",
+      "shared_five_word_sequences": 6,
+      "jaccard": 0.0056
+    },
+    {
+      "first": "Iowa",
+      "second": "Wisconsin",
+      "shared_five_word_sequences": 7,
+      "jaccard": 0.0054
+    },
+    {
+      "first": "Minnesota",
+      "second": "Ohio",
+      "shared_five_word_sequences": 7,
+      "jaccard": 0.0054
+    },
+    {
+      "first": "Ohio",
+      "second": "Wisconsin",
+      "shared_five_word_sequences": 6,
+      "jaccard": 0.0054
+    },
+    {
+      "first": "Delaware",
+      "second": "South Dakota",
+      "shared_five_word_sequences": 7,
+      "jaccard": 0.0052
+    },
+    {
+      "first": "Illinois",
+      "second": "North Carolina",
+      "shared_five_word_sequences": 8,
+      "jaccard": 0.0052
+    },
+    {
+      "first": "Louisiana",
+      "second": "New Mexico",
+      "shared_five_word_sequences": 7,
+      "jaccard": 0.0048
+    },
+    {
+      "first": "Minnesota",
+      "second": "Vermont",
+      "shared_five_word_sequences": 6,
+      "jaccard": 0.0048
+    },
+    {
+      "first": "Rhode Island",
+      "second": "South Carolina",
+      "shared_five_word_sequences": 5,
+      "jaccard": 0.0048
+    }
+  ]
+}

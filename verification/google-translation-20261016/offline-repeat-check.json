@@ -1,0 +1,23 @@
+{
+  "mode": "offline_only",
+  "workflow": "whole-site",
+  "provenance": "Saved Google translations; native speaker review pending",
+  "source_pages": 192,
+  "target_languages": 9,
+  "saved_bundle_sha256": "7f052510ee8c0f05582e40224d56995d1ef0d5577a0b988e59c96809e8acc6e5",
+  "verified_google_cache_fields": 33570,
+  "pending_fields": 0,
+  "pending_characters": 0,
+  "google_requests": 0,
+  "characters_dispatched_to_google": 0,
+  "historical_google_requests": 1234,
+  "historical_google_characters": 5223994,
+  "translation_runner": "tools/paper-trail-translations.py",
+  "note": "Read only audit. No provider dispatch, ledger writes, or publishing.",
+  "repeat_check": {
+    "unchanged_source_and_saved_bundle": true,
+    "new_google_requests": 0,
+    "new_google_characters": 0,
+    "note": "Offline repeat only. No provider requests."
+  }
+}

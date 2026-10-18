@@ -1,0 +1,452 @@
+﻿[
+    {
+        "state":  "Alabama",
+        "code":  "AL",
+        "local_file":  "assets/state-flags/al.png",
+        "width_px":  330,
+        "height_px":  220,
+        "source_file_page":  "https://commons.wikimedia.org/wiki/File:Flag_of_Alabama.svg",
+        "license":  "Public domain"
+    },
+    {
+        "state":  "Alaska",
+        "code":  "AK",
+        "local_file":  "assets/state-flags/ak.png",
+        "width_px":  330,
+        "height_px":  234,
+        "source_file_page":  "https://commons.wikimedia.org/wiki/File:Flag_of_Alaska.svg",
+        "license":  "Public domain"
+    },
+    {
+        "state":  "Arizona",
+        "code":  "AZ",
+        "local_file":  "assets/state-flags/az.png",
+        "width_px":  330,
+        "height_px":  220,
+        "source_file_page":  "https://commons.wikimedia.org/wiki/File:Flag_of_Arizona.svg",
+        "license":  "Public domain"
+    },
+    {
+        "state":  "Arkansas",
+        "code":  "AR",
+        "local_file":  "assets/state-flags/ar.png",
+        "width_px":  330,
+        "height_px":  220,
+        "source_file_page":  "https://commons.wikimedia.org/wiki/File:Flag_of_Arkansas.svg",
+        "license":  "Public domain"
+    },
+    {
+        "state":  "California",
+        "code":  "CA",
+        "local_file":  "assets/state-flags/ca.png",
+        "width_px":  330,
+        "height_px":  220,
+        "source_file_page":  "https://commons.wikimedia.org/wiki/File:Flag_of_California.svg",
+        "license":  "Public domain"
+    },
+    {
+        "state":  "Colorado",
+        "code":  "CO",
+        "local_file":  "assets/state-flags/co.png",
+        "width_px":  330,
+        "height_px":  220,
+        "source_file_page":  "https://commons.wikimedia.org/wiki/File:Flag_of_Colorado.svg",
+        "license":  "Public domain"
+    },
+    {
+        "state":  "Connecticut",
+        "code":  "CT",
+        "local_file":  "assets/state-flags/ct.png",
+        "width_px":  330,
+        "height_px":  260,
+        "source_file_page":  "https://commons.wikimedia.org/wiki/File:Flag_of_Connecticut.svg",
+        "license":  "Public domain"
+    },
+    {
+        "state":  "Delaware",
+        "code":  "DE",
+        "local_file":  "assets/state-flags/de.png",
+        "width_px":  330,
+        "height_px":  220,
+        "source_file_page":  "https://commons.wikimedia.org/wiki/File:Flag_of_Delaware.svg",
+        "license":  "Public domain"
+    },
+    {
+        "state":  "Florida",
+        "code":  "FL",
+        "local_file":  "assets/state-flags/fl.png",
+        "width_px":  330,
+        "height_px":  220,
+        "source_file_page":  "https://commons.wikimedia.org/wiki/File:Flag_of_Florida.svg",
+        "license":  "Public domain"
+    },
+    {
+        "state":  "Georgia",
+        "code":  "GA",
+        "local_file":  "assets/state-flags/ga.png",
+        "width_px":  250,
+        "height_px":  167,
+        "source_file_page":  "https://commons.wikimedia.org/wiki/File:Flag_of_Georgia.svg",
+        "license":  "Public domain"
+    },
+    {
+        "state":  "Hawaii",
+        "code":  "HI",
+        "local_file":  "assets/state-flags/hi.png",
+        "width_px":  330,
+        "height_px":  165,
+        "source_file_page":  "https://commons.wikimedia.org/wiki/File:Flag_of_Hawaii.svg",
+        "license":  "Public domain"
+    },
+    {
+        "state":  "Idaho",
+        "code":  "ID",
+        "local_file":  "assets/state-flags/id.svg",
+        "width_px":  "",
+        "height_px":  "",
+        "source_file_page":  "https://commons.wikimedia.org/wiki/File:Flag_of_Idaho.svg",
+        "license":  "Public domain"
+    },
+    {
+        "state":  "Illinois",
+        "code":  "IL",
+        "local_file":  "assets/state-flags/il.svg",
+        "width_px":  "",
+        "height_px":  "",
+        "source_file_page":  "https://commons.wikimedia.org/wiki/File:Flag_of_Illinois.svg",
+        "license":  "Public domain"
+    },
+    {
+        "state":  "Indiana",
+        "code":  "IN",
+        "local_file":  "assets/state-flags/in.svg",
+        "width_px":  "",
+        "height_px":  "",
+        "source_file_page":  "https://commons.wikimedia.org/wiki/File:Flag_of_Indiana.svg",
+        "license":  "Public domain"
+    },
+    {
+        "state":  "Iowa",
+        "code":  "IA",
+        "local_file":  "assets/state-flags/ia.png",
+        "width_px":  250,
+        "height_px":  168,
+        "source_file_page":  "https://commons.wikimedia.org/wiki/File:Flag_of_Iowa.svg",
+        "license":  "Public domain"
+    },
+    {
+        "state":  "Kansas",
+        "code":  "KS",
+        "local_file":  "assets/state-flags/ks.png",
+        "width_px":  330,
+        "height_px":  198,
+        "source_file_page":  "https://commons.wikimedia.org/wiki/File:Flag_of_Kansas.svg",
+        "license":  "Public domain"
+    },
+    {
+        "state":  "Kentucky",
+        "code":  "KY",
+        "local_file":  "assets/state-flags/ky.svg",
+        "width_px":  "",
+        "height_px":  "",
+        "source_file_page":  "https://commons.wikimedia.org/wiki/File:Flag_of_Kentucky.svg",
+        "license":  "Public domain"
+    },
+    {
+        "state":  "Louisiana",
+        "code":  "LA",
+        "local_file":  "assets/state-flags/la.png",
+        "width_px":  250,
+        "height_px":  162,
+        "source_file_page":  "https://commons.wikimedia.org/wiki/File:Flag_of_Louisiana.svg",
+        "license":  "Public domain"
+    },
+    {
+        "state":  "Maine",
+        "code":  "ME",
+        "local_file":  "assets/state-flags/me.png",
+        "width_px":  250,
+        "height_px":  197,
+        "source_file_page":  "https://commons.wikimedia.org/wiki/File:Flag_of_Maine.svg",
+        "license":  "Public domain"
+    },
+    {
+        "state":  "Maryland",
+        "code":  "MD",
+        "local_file":  "assets/state-flags/md.png",
+        "width_px":  250,
+        "height_px":  167,
+        "source_file_page":  "https://commons.wikimedia.org/wiki/File:Flag_of_Maryland.svg",
+        "license":  "Public domain"
+    },
+    {
+        "state":  "Massachusetts",
+        "code":  "MA",
+        "local_file":  "assets/state-flags/ma.png",
+        "width_px":  250,
+        "height_px":  150,
+        "source_file_page":  "https://commons.wikimedia.org/wiki/File:Flag_of_Massachusetts.svg",
+        "license":  "Public domain"
+    },
+    {
+        "state":  "Michigan",
+        "code":  "MI",
+        "local_file":  "assets/state-flags/mi.png",
+        "width_px":  250,
+        "height_px":  167,
+        "source_file_page":  "https://commons.wikimedia.org/wiki/File:Flag_of_Michigan.svg",
+        "license":  "Public domain"
+    },
+    {
+        "state":  "Minnesota",
+        "code":  "MN",
+        "local_file":  "assets/state-flags/mn.png",
+        "width_px":  250,
+        "height_px":  150,
+        "source_file_page":  "https://commons.wikimedia.org/wiki/File:Flag_of_Minnesota.svg",
+        "license":  "Public domain"
+    },
+    {
+        "state":  "Mississippi",
+        "code":  "MS",
+        "local_file":  "assets/state-flags/ms.png",
+        "width_px":  250,
+        "height_px":  150,
+        "source_file_page":  "https://commons.wikimedia.org/wiki/File:Flag_of_Mississippi.svg",
+        "license":  "Copyrighted free use"
+    },
+    {
+        "state":  "Missouri",
+        "code":  "MO",
+        "local_file":  "assets/state-flags/mo.png",
+        "width_px":  250,
+        "height_px":  146,
+        "source_file_page":  "https://commons.wikimedia.org/wiki/File:Flag_of_Missouri.svg",
+        "license":  "Public domain"
+    },
+    {
+        "state":  "Montana",
+        "code":  "MT",
+        "local_file":  "assets/state-flags/mt.png",
+        "width_px":  330,
+        "height_px":  220,
+        "source_file_page":  "https://commons.wikimedia.org/wiki/File:Flag_of_Montana.svg",
+        "license":  "Public domain"
+    },
+    {
+        "state":  "Nebraska",
+        "code":  "NE",
+        "local_file":  "assets/state-flags/ne.png",
+        "width_px":  500,
+        "height_px":  300,
+        "source_file_page":  "https://commons.wikimedia.org/wiki/File:Flag_of_Nebraska.svg",
+        "license":  "Public domain"
+    },
+    {
+        "state":  "Nevada",
+        "code":  "NV",
+        "local_file":  "assets/state-flags/nv.png",
+        "width_px":  500,
+        "height_px":  334,
+        "source_file_page":  "https://commons.wikimedia.org/wiki/File:Flag_of_Nevada.svg",
+        "license":  "Public domain"
+    },
+    {
+        "state":  "New Hampshire",
+        "code":  "NH",
+        "local_file":  "assets/state-flags/nh.png",
+        "width_px":  500,
+        "height_px":  334,
+        "source_file_page":  "https://commons.wikimedia.org/wiki/File:Flag_of_New_Hampshire.svg",
+        "license":  "Public domain"
+    },
+    {
+        "state":  "New Jersey",
+        "code":  "NJ",
+        "local_file":  "assets/state-flags/nj.png",
+        "width_px":  500,
+        "height_px":  300,
+        "source_file_page":  "https://commons.wikimedia.org/wiki/File:Flag_of_New_Jersey.svg",
+        "license":  "Public domain"
+    },
+    {
+        "state":  "New Mexico",
+        "code":  "NM",
+        "local_file":  "assets/state-flags/nm.png",
+        "width_px":  500,
+        "height_px":  334,
+        "source_file_page":  "https://commons.wikimedia.org/wiki/File:Flag_of_New_Mexico.svg",
+        "license":  "Public domain"
+    },
+    {
+        "state":  "New York",
+        "code":  "NY",
+        "local_file":  "assets/state-flags/ny.png",
+        "width_px":  250,
+        "height_px":  125,
+        "source_file_page":  "https://commons.wikimedia.org/wiki/File:Flag_of_New_York.svg",
+        "license":  "Public domain"
+    },
+    {
+        "state":  "North Carolina",
+        "code":  "NC",
+        "local_file":  "assets/state-flags/nc.png",
+        "width_px":  330,
+        "height_px":  220,
+        "source_file_page":  "https://commons.wikimedia.org/wiki/File:Flag_of_North_Carolina.svg",
+        "license":  "Public domain"
+    },
+    {
+        "state":  "North Dakota",
+        "code":  "ND",
+        "local_file":  "assets/state-flags/nd.svg",
+        "width_px":  "",
+        "height_px":  "",
+        "source_file_page":  "https://commons.wikimedia.org/wiki/File:Flag_of_North_Dakota.svg",
+        "license":  "Public domain"
+    },
+    {
+        "state":  "Ohio",
+        "code":  "OH",
+        "local_file":  "assets/state-flags/oh.png",
+        "width_px":  500,
+        "height_px":  308,
+        "source_file_page":  "https://commons.wikimedia.org/wiki/File:Flag_of_Ohio.svg",
+        "license":  "Public domain"
+    },
+    {
+        "state":  "Oklahoma",
+        "code":  "OK",
+        "local_file":  "assets/state-flags/ok.png",
+        "width_px":  500,
+        "height_px":  334,
+        "source_file_page":  "https://commons.wikimedia.org/wiki/File:Flag_of_Oklahoma.svg",
+        "license":  "Public domain"
+    },
+    {
+        "state":  "Oregon",
+        "code":  "OR",
+        "local_file":  "assets/state-flags/or.png",
+        "width_px":  500,
+        "height_px":  334,
+        "source_file_page":  "https://commons.wikimedia.org/wiki/File:Flag_of_Oregon.svg",
+        "license":  "Public domain"
+    },
+    {
+        "state":  "Pennsylvania",
+        "code":  "PA",
+        "local_file":  "assets/state-flags/pa.png",
+        "width_px":  500,
+        "height_px":  365,
+        "source_file_page":  "https://commons.wikimedia.org/wiki/File:Flag_of_Pennsylvania.svg",
+        "license":  "Public domain"
+    },
+    {
+        "state":  "Rhode Island",
+        "code":  "RI",
+        "local_file":  "assets/state-flags/ri.png",
+        "width_px":  250,
+        "height_px":  220,
+        "source_file_page":  "https://commons.wikimedia.org/wiki/File:Flag_of_Rhode_Island.svg",
+        "license":  "Public domain"
+    },
+    {
+        "state":  "South Carolina",
+        "code":  "SC",
+        "local_file":  "assets/state-flags/sc.png",
+        "width_px":  500,
+        "height_px":  334,
+        "source_file_page":  "https://commons.wikimedia.org/wiki/File:Flag_of_South_Carolina.svg",
+        "license":  "Public domain"
+    },
+    {
+        "state":  "South Dakota",
+        "code":  "SD",
+        "local_file":  "assets/state-flags/sd.png",
+        "width_px":  960,
+        "height_px":  600,
+        "source_file_page":  "https://commons.wikimedia.org/wiki/File:Flag_of_South_Dakota.svg",
+        "license":  "Public domain"
+    },
+    {
+        "state":  "Tennessee",
+        "code":  "TN",
+        "local_file":  "assets/state-flags/tn.png",
+        "width_px":  330,
+        "height_px":  198,
+        "source_file_page":  "https://commons.wikimedia.org/wiki/File:Flag_of_Tennessee.svg",
+        "license":  "Public domain"
+    },
+    {
+        "state":  "Texas",
+        "code":  "TX",
+        "local_file":  "assets/state-flags/tx.png",
+        "width_px":  960,
+        "height_px":  640,
+        "source_file_page":  "https://commons.wikimedia.org/wiki/File:Flag_of_Texas.svg",
+        "license":  "Public domain"
+    },
+    {
+        "state":  "Utah",
+        "code":  "UT",
+        "local_file":  "assets/state-flags/ut.png",
+        "width_px":  960,
+        "height_px":  576,
+        "source_file_page":  "https://commons.wikimedia.org/wiki/File:Flag_of_Utah.svg",
+        "license":  "Public domain"
+    },
+    {
+        "state":  "Vermont",
+        "code":  "VT",
+        "local_file":  "assets/state-flags/vt.png",
+        "width_px":  250,
+        "height_px":  150,
+        "source_file_page":  "https://commons.wikimedia.org/wiki/File:Flag_of_Vermont.svg",
+        "license":  "Public domain"
+    },
+    {
+        "state":  "Virginia",
+        "code":  "VA",
+        "local_file":  "assets/state-flags/va.png",
+        "width_px":  960,
+        "height_px":  640,
+        "source_file_page":  "https://commons.wikimedia.org/wiki/File:Flag_of_Virginia.svg",
+        "license":  "Public domain"
+    },
+    {
+        "state":  "Washington",
+        "code":  "WA",
+        "local_file":  "assets/state-flags/wa.png",
+        "width_px":  960,
+        "height_px":  600,
+        "source_file_page":  "https://commons.wikimedia.org/wiki/File:Flag_of_Washington.svg",
+        "license":  "Public domain"
+    },
+    {
+        "state":  "West Virginia",
+        "code":  "WV",
+        "local_file":  "assets/state-flags/wv.png",
+        "width_px":  500,
+        "height_px":  264,
+        "source_file_page":  "https://commons.wikimedia.org/wiki/File:Flag_of_West_Virginia.svg",
+        "license":  "Public domain"
+    },
+    {
+        "state":  "Wisconsin",
+        "code":  "WI",
+        "local_file":  "assets/state-flags/wi.png",
+        "width_px":  330,
+        "height_px":  220,
+        "source_file_page":  "https://commons.wikimedia.org/wiki/File:Flag_of_Wisconsin.svg",
+        "license":  "Public domain"
+    },
+    {
+        "state":  "Wyoming",
+        "code":  "WY",
+        "local_file":  "assets/state-flags/wy.png",
+        "width_px":  960,
+        "height_px":  672,
+        "source_file_page":  "https://commons.wikimedia.org/wiki/File:Flag_of_Wyoming.svg",
+        "license":  "Public domain"
+    }
+]

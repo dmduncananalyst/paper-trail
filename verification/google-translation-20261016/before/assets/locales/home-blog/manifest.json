@@ -1,0 +1,424 @@
+{
+  "status": "Locally authored drafts. Not Google translations. Speaker review pending.",
+  "provider": "none",
+  "google_calls": 0,
+  "google_characters_sent": 0,
+  "source_pages": [
+    "index.html",
+    "blog.html"
+  ],
+  "reference_only": [
+    "assets/locales/ui.js"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "fa",
+    "hy",
+    "zh-CN",
+    "ko",
+    "tl",
+    "te",
+    "ru",
+    "ar"
+  ],
+  "fields": {
+    "about": {
+      "source": "About",
+      "source_sha256": "4efca0d10c5feb8e9b35eb1d994f2905bb71714e6a271f511d713b539ea5faa1",
+      "origin": "local_ai_draft",
+      "provider_verified": false
+    },
+    "aboutBody": {
+      "source": "Behind every business is someone trying to keep everything moving. Paper Trail brings structure to the financial records, with bookkeeping repair and monthly support that helps the numbers make sense.",
+      "source_sha256": "8d0ed7db7f0df62a48526f4731b110b93a3ea7dcda5e6e688599a990c4667877",
+      "origin": "local_ai_draft",
+      "provider_verified": false
+    },
+    "aboutClosing": {
+      "source": "Useful records. Clear explanations. A little more room to focus.",
+      "source_sha256": "f73c3d8f14d492716a8aa9384861519b46113f576ce3879200253e65fdb05dbd",
+      "origin": "local_ai_draft",
+      "provider_verified": false
+    },
+    "aboutPaperTrail": {
+      "source": "About Paper Trail",
+      "source_sha256": "0648fa8f46b2276d7ceecfa1120ecd125e62361e4d80b33bd82a15cb7e7fbb3f",
+      "origin": "local_ai_draft",
+      "provider_verified": false
+    },
+    "allNotes": {
+      "source": "All Notes",
+      "source_sha256": "00a187caec8445f759eff75f41c262ae069ea27f14b45463dc9428488b64953c",
+      "origin": "local_ai_draft",
+      "provider_verified": false
+    },
+    "allServices": {
+      "source": "All Services",
+      "source_sha256": "7a8b4ce4cde3c7f68b532fae9cccea2bb4b9e94c10e9f3e98bfaf229bf7a4cfd",
+      "origin": "local_ai_draft",
+      "provider_verified": false
+    },
+    "balancing": {
+      "source": "Balancing & Corrections",
+      "source_sha256": "42f9fd4c276cf3c4f50ee23fd563d2b0917b473191de5175b1023ca2c8cff51c",
+      "origin": "local_ai_draft",
+      "provider_verified": false
+    },
+    "bank": {
+      "source": "Bank & Credit Card Balancing",
+      "source_sha256": "a5f51f656a954513c46905d86d1c32e5d26bcaebc690d17b9a4b237791d91d92",
+      "origin": "local_ai_draft",
+      "provider_verified": false
+    },
+    "blog": {
+      "source": "Blog",
+      "source_sha256": "8c6bc099534a0251b576f6b88bd2db124ae9497c64bd9242e92a6aec23e6a73a",
+      "origin": "local_ai_draft",
+      "provider_verified": false
+    },
+    "blogPreview0": {
+      "source": "Overdue bookkeeping starts with identifying missing records and the last completed month. See how statements, receipts, and reconciliations fit into a catch up plan.",
+      "source_sha256": "7da1334098f021b4b3005697ccd700eb66883ebdd747f150219406cf934d3be1",
+      "origin": "local_ai_draft",
+      "provider_verified": false
+    },
+    "blogPreview1": {
+      "source": "Profit and cash flow describe different parts of your business finances. Learn why unpaid invoices, bills, and timing can leave a profitable business short of cash.",
+      "source_sha256": "e94934638f56412740e499da047d86f9bc178b6187a800b8a122a8971edab991",
+      "origin": "local_ai_draft",
+      "provider_verified": false
+    },
+    "blogPreview2": {
+      "source": "Organized books help your tax preparer trace income, expenses, and account balances. Review the reports and supporting records to gather before the tax handoff.",
+      "source_sha256": "e1b24c0244bd53dcae29e24b2e3d9f17de455727d0a83b13a952de585b7ea5ad",
+      "origin": "local_ai_draft",
+      "provider_verified": false
+    },
+    "blogTitle0": {
+      "source": "Catch Up Bookkeeping: Bring Months of Overdue Books Up to Date",
+      "source_sha256": "d5b03c74dceb1c2775009a20c6f25cb85b84d0c9feb14bd4fdff618845dbec3d",
+      "origin": "local_ai_draft",
+      "provider_verified": false
+    },
+    "blogTitle1": {
+      "source": "Profit vs. Cash Flow: Where Your Business Money Is Going",
+      "source_sha256": "ce597c484b00f37d496c8ffa04f8d0b6bec2b153e829fe0aef622d047b68102c",
+      "origin": "local_ai_draft",
+      "provider_verified": false
+    },
+    "blogTitle2": {
+      "source": "Tax Ready Bookkeeping: Organize Your Records Before Filing",
+      "source_sha256": "c354f8e2f6aa4e87c70929ca953de5ffb9811ba7f40db5fbe868fc0b123620a2",
+      "origin": "local_ai_draft",
+      "provider_verified": false
+    },
+    "catchUp": {
+      "source": "Catch up overdue books",
+      "source_sha256": "45b51ac8ec7ce03a3ff4d16432ac98b317fda08acbb37407ae64222702c2d8b3",
+      "origin": "local_ai_draft",
+      "provider_verified": false
+    },
+    "categorization": {
+      "source": "Transaction Categorization",
+      "source_sha256": "cd31098fe7bdff6f4c0b3cb4824c3ebaf5a532fdbfb0395f83519e8e6e9a10a3",
+      "origin": "local_ai_draft",
+      "provider_verified": false
+    },
+    "chatClose": {
+      "source": "Close Conversation",
+      "source_sha256": "293c79beeca4c98807aac5cff17366015a1cc44a2533e334f1d44a51d9e1eac1",
+      "origin": "local_ai_draft",
+      "provider_verified": false
+    },
+    "chatContinue": {
+      "source": "Continue preparing my note",
+      "source_sha256": "3468c6931e124e693d4bec2d4b48025208e45c13f79b9874197e56131d6a1816",
+      "origin": "local_ai_draft",
+      "provider_verified": false
+    },
+    "chatHelp": {
+      "source": "Help me understand this",
+      "source_sha256": "8e629e8dbf4ec88a7904e2a308139a4eb5c6672663b94b45ca034f13ba65be8e",
+      "origin": "local_ai_draft",
+      "provider_verified": false
+    },
+    "chatNotice": {
+      "source": "Answer one question at a time to prepare your message.",
+      "source_sha256": "26f9485ccea59c13e8c74b846c8797b7251a9432021f859b1fa960066b81f673",
+      "origin": "local_ai_draft",
+      "provider_verified": false
+    },
+    "chatReply": {
+      "source": "Write a reply…",
+      "source_sha256": "182fe0aac991af4414c564d8b155ecdfd71fe4315caaadfd3d4acd2feba6cdad",
+      "origin": "local_ai_draft",
+      "provider_verified": false
+    },
+    "chatReset": {
+      "source": "Start Over",
+      "source_sha256": "09d37c7e0dc6a6681afcf28faf312bc52e93800f6c3d23bb2412320a847ea6a1",
+      "origin": "local_ai_draft",
+      "provider_verified": false
+    },
+    "chatSend": {
+      "source": "Send",
+      "source_sha256": "f6f4688ff23d50c67053963c251fa0ce64a925cf283537cf066b1f362cb9b778",
+      "origin": "local_ai_draft",
+      "provider_verified": false
+    },
+    "contact": {
+      "source": "Contact Us",
+      "source_sha256": "98b67063cf8e584d75e53b88472ee85473e01e0ea16f29ece9cc98f4a2710494",
+      "origin": "local_ai_draft",
+      "provider_verified": false
+    },
+    "copied": {
+      "source": "Email address copied.",
+      "source_sha256": "af96ee5076bb00a7320e1cc7cecfc44bfca716d8bc4faa553d995fe700edae55",
+      "origin": "local_ai_draft",
+      "provider_verified": false
+    },
+    "copyEmail": {
+      "source": "Copy email address",
+      "source_sha256": "61b9484603b5933f85c244dad3fd1c2983030930491dde7c262c0be59278102c",
+      "origin": "local_ai_draft",
+      "provider_verified": false
+    },
+    "copyright": {
+      "source": "© 2026 Paper Trail. All rights reserved.",
+      "source_sha256": "1d85232fd2c890fb646c4f8cc3eaf1d5885c373792bf1301fdc7c01251cee743",
+      "origin": "local_ai_draft",
+      "provider_verified": false
+    },
+    "credit": {
+      "source": "Web Design and SEO by StartWeb7",
+      "source_sha256": "46b1158ad6f97feec68d3fdb57eb51748e720fa4c8a0e64bc58b4689fa8523b3",
+      "origin": "local_ai_draft",
+      "provider_verified": false
+    },
+    "defaultEmail": {
+      "source": "Default email app",
+      "source_sha256": "6cf63bdda1357263bbaca2e5ca0518a79113cae68205d262169a8fa293603598",
+      "origin": "local_ai_draft",
+      "provider_verified": false
+    },
+    "emailTitle": {
+      "source": "Email Paper Trail",
+      "source_sha256": "fbbee0673d3000321d927650187e935b59aa90d3a8a00f2a9c41fdefa09624da",
+      "origin": "local_ai_draft",
+      "provider_verified": false
+    },
+    "englishNote": {
+      "source": "Full text is available in English.",
+      "source_sha256": "3807cb07378f2eee88c1b87f8c4e2d015b70accf91b92b03b1b2e0bbaec755f1",
+      "origin": "local_ai_draft",
+      "provider_verified": false
+    },
+    "hero": {
+      "source": "Bookkeeping",
+      "source_sha256": "f47f3fc97e87f5fe2676251df56151858b26bff14f8e0b31a53d70dcd36c8307",
+      "origin": "local_ai_draft",
+      "provider_verified": false
+    },
+    "heroDescription": {
+      "source": "From overdue records to monthly reports, we help you keep track of income, expenses, and account balances.",
+      "source_sha256": "da949f36d538fc80af48695fae160ecadff711654c6011a62eee43d223a5c97b",
+      "origin": "local_ai_draft",
+      "provider_verified": false
+    },
+    "home": {
+      "source": "Home",
+      "source_sha256": "3a78695388b38b5cceefaf6796b0137877514593543b91af2752d5a17e3d736c",
+      "origin": "local_ai_draft",
+      "provider_verified": false
+    },
+    "homeNote0": {
+      "source": "The Work a Bookkeeper Handles for a Business",
+      "source_sha256": "00def675fe6a67d487faf5b2b1cd59d81740dd61b6cdeba29962ae3e1eac0180",
+      "origin": "local_ai_draft",
+      "provider_verified": false
+    },
+    "homeNote1": {
+      "source": "Set a Reliable Bank Reconciliation Routine",
+      "source_sha256": "90e18d472207449c0c7a20127c53f2a222ddbeca4f9ac18567dd522c4c67cdfd",
+      "origin": "local_ai_draft",
+      "provider_verified": false
+    },
+    "homeNote2": {
+      "source": "Business Expenses Worth Tracking Consistently",
+      "source_sha256": "e98b96b24a5c90177d404f0e1d8c9bb24b13b8c14a1147565f27acce272ecab9",
+      "origin": "local_ai_draft",
+      "provider_verified": false
+    },
+    "homeNote3": {
+      "source": "Give Your Tax Preparer an Organized Set of Books",
+      "source_sha256": "ab73c9cd3117abee44034d4bc88de97dca29314ff0c2e98a3477b443c79193cb",
+      "origin": "local_ai_draft",
+      "provider_verified": false
+    },
+    "income": {
+      "source": "Income & Expense Tracking",
+      "source_sha256": "9b98fe2fed5f6dc922f1aa448e7bb2d8a37ddec8122d23d63a5067db028b7c66",
+      "origin": "local_ai_draft",
+      "provider_verified": false
+    },
+    "keepCurrent": {
+      "source": "Keep monthly records current",
+      "source_sha256": "c950bc330fc085ad353ffb20139c209c9ea9f1d93727f016f426808237060aac",
+      "origin": "local_ai_draft",
+      "provider_verified": false
+    },
+    "language": {
+      "source": "Language",
+      "source_sha256": "a4fe65264ef7dbb38d104b1e81eb3350f3142f3d16f32bdec39b1d9b42c1b8d1",
+      "origin": "local_ai_draft",
+      "provider_verified": false
+    },
+    "location": {
+      "source": "Nationwide-Based Out Of Los Angeles",
+      "source_sha256": "fca1bd3e04a171139f331f31d891eb5d9924135c5d788a1914903a453888ef79",
+      "origin": "local_ai_draft",
+      "provider_verified": false
+    },
+    "monthly": {
+      "source": "Monthly Bookkeeping",
+      "source_sha256": "22b3ce35951f1bd8a2b3cced15087fc18fa50af8496acb92d3be8e142e60a342",
+      "origin": "local_ai_draft",
+      "provider_verified": false
+    },
+    "monthlyOverview": {
+      "source": "Monthly Bookkeeping Overview",
+      "source_sha256": "a10a037a1e55874acc13d81e1ba4401ff05b6f4215daf7e29b03d316cb392459",
+      "origin": "local_ai_draft",
+      "provider_verified": false
+    },
+    "notes": {
+      "source": "Notes",
+      "source_sha256": "8a7525b1492fb84833f5c4a69b30f4bfbb134f9b666b61a2c1872d63d234c085",
+      "origin": "local_ai_draft",
+      "provider_verified": false
+    },
+    "notice": {
+      "source": "Only the Home and Blog pages are available in this language.",
+      "source_sha256": "facd0e70b49cdbaf04cdc0a42034bf1ab5320fbd92271644af7b4d34bd7013e5",
+      "origin": "local_ai_draft",
+      "provider_verified": false
+    },
+    "pastDue": {
+      "source": "Past Due Bookkeeping",
+      "source_sha256": "ab15dae59f2c7cc1057a88a39b63e0c7af326db993fe325d62c347ddcee6f8ba",
+      "origin": "local_ai_draft",
+      "provider_verified": false
+    },
+    "payables": {
+      "source": "Accounts Payable & Receivable",
+      "source_sha256": "c3fb6ca5be370f76010c129080aa15f164dbcc86264f5cc17857068d6509c0bd",
+      "origin": "local_ai_draft",
+      "provider_verified": false
+    },
+    "readNote": {
+      "source": "Read",
+      "source_sha256": "9b9a8d05a7ec353bda84f9c1bb3178c299de3001b5e970508ddc889c487f92ca",
+      "origin": "local_ai_draft",
+      "provider_verified": false
+    },
+    "repair": {
+      "source": "Bookkeeping Repair",
+      "source_sha256": "852cda0538b9e44a4d456c8483ed838ff0d5e7dc6ff37564fbddb3f58cc66d29",
+      "origin": "local_ai_draft",
+      "provider_verified": false
+    },
+    "repairOverview": {
+      "source": "Bookkeeping Overview",
+      "source_sha256": "192a8f6c93a8adcde61839840bd53ed61a1d128bf3f15102896f105a0c8d76b3",
+      "origin": "local_ai_draft",
+      "provider_verified": false
+    },
+    "reports": {
+      "source": "Monthly Financial Reports",
+      "source_sha256": "ebe3d260d3f8d305569f09c27c15ccbb6ee8c3382eb24ee4754a06444cd26439",
+      "origin": "local_ai_draft",
+      "provider_verified": false
+    },
+    "review": {
+      "source": "Monthly Bookkeeping Review",
+      "source_sha256": "a06fd07fe85678f622f7b78d65398b79e1c9d57f8d72e7d2a41f8458ad29112a",
+      "origin": "local_ai_draft",
+      "provider_verified": false
+    },
+    "services": {
+      "source": "Services",
+      "source_sha256": "604dce445e326d952308addc99bd3d0e3ffb0ed9a455e4aa0190641fc5facccc",
+      "origin": "local_ai_draft",
+      "provider_verified": false
+    },
+    "talk": {
+      "source": "Talk with Paper Trail",
+      "source_sha256": "6e95b4ad58508eabce8fb2a06c660283c4c45bfb4b4104b7c407f14fb6f6c16f",
+      "origin": "local_ai_draft",
+      "provider_verified": false
+    },
+    "taxReady": {
+      "source": "Tax Ready Bookkeeping",
+      "source_sha256": "e874ab9accbf5244277b55bc0956998c0ea0b92974e57652485c755bd7c76682",
+      "origin": "local_ai_draft",
+      "provider_verified": false
+    },
+    "viewMonthly": {
+      "source": "View Monthly",
+      "source_sha256": "7fed9c5149d0138f9f7720f6832068e62232235485349693d41678a8e20ae7c2",
+      "origin": "local_ai_draft",
+      "provider_verified": false
+    },
+    "viewRepair": {
+      "source": "View Repair",
+      "source_sha256": "b7333598b6ee422e01daef89d1bb2897cccc812656be7367dbc4b8b93dfe9a78",
+      "origin": "local_ai_draft",
+      "provider_verified": false
+    },
+    "viewService": {
+      "source": "View service",
+      "source_sha256": "dc2a62fb3391631068954412fda4ed82f906c737cb370b352be9342a1a78f6ac",
+      "origin": "local_ai_draft",
+      "provider_verified": false
+    },
+    "yearEnd": {
+      "source": "Year End Bookkeeping",
+      "source_sha256": "ac1217ea1b308456ea12eeaa87fce31c26cc92ced6ca46af00453829632009ef",
+      "origin": "local_ai_draft",
+      "provider_verified": false
+    },
+    "mobileSupport": {
+      "source": "Get Bookkeeping Support",
+      "source_sha256": "312e1519cad65bceb7d95d22c3aee742729ca2249934514044c9b7f2874b10c7",
+      "origin": "local_ai_draft",
+      "provider_verified": false
+    },
+    "mobileBlogSupport": {
+      "source": "Use the chat to tell Paper Trail about your bookkeeping needs.",
+      "source_sha256": "334fdbdba77378ca53de9f1307843c20155e3cdeccf09142e6224522b53aa4d0",
+      "origin": "local_ai_draft",
+      "provider_verified": false
+    }
+  },
+  "guided_chat": {
+    "file": "chat.json",
+    "languages": [
+      "en",
+      "es",
+      "fa",
+      "hy",
+      "zh-CN",
+      "ko",
+      "tl",
+      "te",
+      "ru",
+      "ar"
+    ],
+    "phrases_per_language": 89,
+    "origin": "local_authored_draft",
+    "google_calls": 0,
+    "speaker_review": "pending"
+  }
+}

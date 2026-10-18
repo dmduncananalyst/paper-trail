@@ -1,0 +1,897 @@
+{
+  "schema_version": 1,
+  "created_on": "2026-10-16",
+  "language": "en",
+  "publication_status": "LOCAL_DRAFT_NOT_APPROVED_NOT_IN_SITEMAP",
+  "editorial_policy": "Official sources support the regulatory explanations. General accounting recommendations are distinguished from state requirements. Five pilots await owner approval and qualified professional review.",
+  "pilots": [
+    {
+      "state": "California",
+      "code": "CA",
+      "slug": "california-bookkeeping-recordkeeping-guide",
+      "title": "California Bookkeeping & Financial Recordkeeping Resource",
+      "description": "A California bookkeeping resource to CDTFA sales and use tax records, EDD payroll documentation, reconciliations, retention and a tax ready year end handoff.",
+      "summary": "California records often need to support three different agency relationships: CDTFA sales and use tax, EDD employer reporting, and FTB income or franchise tax. Build an accounting file that explains each balance and preserves the documents behind it.",
+      "verified_on": "2026-10-16",
+      "status": "Local Draft Owner And Qualified Professional Review Pending",
+      "notice": "General bookkeeping information, not tax preparation, legal advice or a determination of your obligations. Agency pages were checked October 16, 2026; confirm current rules and your business facts before acting.",
+      "sections": [
+        {
+          "heading": "California Registrations And Agency Accounts",
+          "source_ids": [
+            "CA1",
+            "CA2",
+            "CA3"
+          ],
+          "paragraphs": [
+            "Start with an agency account register rather than assuming one California registration covers everything. Keep the legal entity name, ownership changes, federal identification number, CDTFA permit details where applicable, EDD employer account, FTB correspondence and the person authorized to receive notices together. A sales tax permit and an employer payroll account serve different purposes. Entity formation also does not settle whether a particular sale is taxable or which returns a business must file.",
+            "CDTFA administers sales and use tax; EDD provides the employer registration and reporting workflow; FTB publishes filing resources for business entity types. Give your tax professional the actual activity, locations, workforce and entity election information. For multistate operations, record customer delivery destinations, employee work locations and inventory locations so a specialist can evaluate nexus. This resource deliberately supplies no universal nexus threshold or registration conclusion."
+          ]
+        },
+        {
+          "heading": "Sales, Resale Documents And Purchase Use Tax",
+          "source_ids": [
+            "CA1",
+            "CA4"
+          ],
+          "paragraphs": [
+            "California sales tax generally concerns retail goods unless an exemption applies; use tax can concern taxable goods used in California when sales tax was not charged. The state, local and district components make the transaction location important. Preserve the product description, sale date, delivery evidence, gross sale, separately identified tax and the documentation supporting any claimed exclusion. Do not substitute the payment processor's net bank deposit for the underlying sale.",
+            "For a resale transaction, associate the supporting certificate with the purchaser and transaction records. For purchases, retain vendor invoices and identify charges on which no tax appears. Put those purchases on a review list with their use location and business purpose. A missing tax line does not itself prove an exemption, and an invoice from another state does not itself prove tax is due. Have the authorized preparer resolve the treatment before reporting."
+          ]
+        },
+        {
+          "heading": "Payroll And Worker Documentation",
+          "source_ids": [
+            "CA2",
+            "CA5"
+          ],
+          "paragraphs": [
+            "EDD's employer workflow separates registration, worker reporting, withholding/payment and returns. Keep approved time records, payroll registers, worker addresses and work locations, deductions, employer charges, payment confirmations and filed wage reports. Reconcile gross payroll to the ledger; then reconcile each liability to payments and the payroll provider's reports. An amount withheld from an employee is not ordinary company revenue.",
+            "EDD also identifies reporting requirements for new hires and certain independent contractors. Maintain agreements and a vendor payment history, but do not treat a Form 1099 or a vendor's business name as proof of worker status. Classification and multistate wage allocation need a qualified payroll or employment specialist. The exact wage bases, rates, deposit schedule and employment law rules are outside this draft's verified scope."
+          ]
+        },
+        {
+          "heading": "Payables, Income And Expense Evidence",
+          "source_ids": [
+            "CA3",
+            "CA4"
+          ],
+          "paragraphs": [
+            "Use a vendor file that connects the bill, purchase approval, delivery record and payment. Separate inventory bought for resale from equipment, supplies and personal spending. For a disputed invoice, retain the credit memo and correspondence rather than deleting the original bill. Keep a review flag for purchase use tax, missing receipts and uncertain worker classifications; these are different issues and should not share one unexplained suspense balance.",
+            "FTB's recordkeeping guidance identifies income, expense and property evidence. In practice, an owner contribution, loan deposit, customer payment and refund can all appear as money entering the same bank account. Label their origin and attach the relevant agreement or invoice. Asset purchases also need acquisition and improvement records so the tax professional can determine basis and depreciation; the bank description alone cannot establish that treatment."
+          ]
+        },
+        {
+          "heading": "Monthly Financial Statements And California Liabilities",
+          "source_ids": [
+            "CABK"
+          ],
+          "paragraphs": [
+            "The following is general bookkeeping practice, not a special California accounting standard. Close bank and card reconciliations, compare customer balances with invoices and receipts, review unpaid vendor bills and investigate old clearing entries. Present a profit and loss statement and balance sheet on the business's agreed accounting basis. If cash flow is tight, show upcoming payroll, approved bills and tax payments separately from the income statement.",
+            "Keep distinct liability schedules for sales/use tax and payroll components that actually apply. Each schedule should show opening balance, current period activity, payments, adjustments and closing balance. Compare the ledger with filed return copies and agency notices. Identify timing differences explicitly, such as a liability recorded at month end but paid next month; do not force the account to zero to make a report appear complete."
+          ],
+          "source_context": "General bookkeeping reference. The example and monthly routine are practical illustrations, not additional state requirements."
+        },
+        {
+          "heading": "Illustration: A California Retail Purchase",
+          "source_ids": [
+            "CA1"
+          ],
+          "paragraphs": [
+            "Hypothetical example: a small retailer buys display equipment from an out of state supplier, and the invoice contains no California tax. The bookkeeper saves the invoice, delivery address, purchase date and payment, distinguishes equipment from resale stock, and sends the purchase for use tax review. No rate or automatic tax conclusion is assumed here. If the preparer determines a liability exists, its support should identify the applicable period and how it was calculated.",
+            "Separately, the shop receives a customer card settlement reduced by processing fees. Record the underlying sales, refunds and tax from the sales system, with processor fees and settlement timing reconciled to cash. This prevents a net deposit from understating gross sales or obscuring tax collected. It also preserves a usable trail if the shop later changes its point of sale provider."
+          ]
+        },
+        {
+          "heading": "Year End Handoff And Retention",
+          "source_ids": [
+            "CA3",
+            "CA4",
+            "CA6"
+          ],
+          "paragraphs": [
+            "For year end, assemble reconciled accounts, open invoices/bills, inventory support where relevant, fixed asset documents, payroll annual reports, sales/use return copies and unresolved items for the tax professional. Keep filing acknowledgments with the relevant reporting period. Use the agency assigned calendar and current instructions; a calendar year business, fiscal year entity and employer can have different obligations. Disaster relief or an extension should be documented, not inferred.",
+            "CDTFA Publication 116 states a minimum four year period for required sales/use tax records and longer preservation during audits or disputes. Export point of sale detail before an overwrite or migration. FTB says its ordinary assessment period is usually four years, with exceptions, and property basis records may need longer preservation. Those statements are not one universal destruction date. Obtain a separate payroll/personnel retention schedule; the older EDD resource located during research is not a substitute for verification of the current edition."
+          ]
+        },
+        {
+          "heading": "Industry Boundaries And Professional Review",
+          "source_ids": [
+            "CA1",
+            "CA2",
+            "CA3"
+          ],
+          "paragraphs": [
+            "A retailer's resale documentation, a contractor's job records and a professional firm's service invoices can require different review. Mixed goods and services contracts, marketplaces, district tax sourcing and worker classification should be evaluated from the actual facts. Do not copy a tax treatment from another company merely because both businesses use the same bookkeeping software.",
+            "Paper Trail's role described here is organizing and reconciling records for a useful handoff. A CPA or enrolled agent should review filing positions, entity taxes and tax adjustments; a payroll specialist or attorney should resolve employment and classification questions. Before publication, an independent reviewer should confirm the California specific statements and current agency links."
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "id": "CA1",
+          "title": "CDTFA — Sales & Use Tax In California",
+          "url": "https://www.cdtfa.ca.gov/taxes-and-fees/sutprograms.htm",
+          "claims": [
+            "Retail goods and use-tax overview; state/local/district components; registration and industry-guide resources."
+          ]
+        },
+        {
+          "id": "CA2",
+          "title": "EDD — Employer Payroll Taxes",
+          "url": "https://edd.ca.gov/en/payroll_taxes/employer-payroll-taxes/",
+          "claims": [
+            "Employer account, worker reporting, payment and return workflow."
+          ]
+        },
+        {
+          "id": "CA3",
+          "title": "FTB — Keeping Your Tax Records",
+          "url": "https://www.ftb.ca.gov/file/after-you-file/keeping-your-tax-records.html",
+          "claims": [
+            "Income/expense/property evidence; ordinary four-year assessment period with exceptions; longer basis retention."
+          ]
+        },
+        {
+          "id": "CA4",
+          "title": "California Tax Service Center — Keeping Good Business Records",
+          "url": "https://taxes.ca.gov/small-business-assistance-center/keeping-good-business-records/",
+          "claims": [
+            "Sales/purchase source documents; resale support; tax working papers."
+          ]
+        },
+        {
+          "id": "CA5",
+          "title": "EDD — Reporting Requirements",
+          "url": "https://edd.ca.gov/en/payroll_taxes/Reporting_Requirements",
+          "claims": [
+            "New hire and certain independent-contractor reporting; current filings resources."
+          ]
+        },
+        {
+          "id": "CA6",
+          "title": "CDTFA Publication 116 — Retaining Records",
+          "url": "https://www.cdtfa.ca.gov/formspubs/pub116/retaining-records.htm",
+          "claims": [
+            "At least four years; preserve audit/dispute records; export POS data before overwrite."
+          ]
+        },
+        {
+          "id": "CABK",
+          "title": "IRS, Small Business Recordkeeping",
+          "url": "https://www.irs.gov/businesses/small-businesses-self-employed/recordkeeping",
+          "claims": [
+            "General support for income, expense and transaction documentation, financial statements and tax preparation. Not a state specific monthly reporting mandate."
+          ],
+          "checked_on": "2026-10-16",
+          "verification": "Official IRS page read. Hypothetical examples remain illustrative, not agency examples."
+        }
+      ],
+      "review_gaps": [
+        "Current EDD DE 44 PDF exceeded browser retrieval size; no current payroll specific retention period asserted.",
+        "No rates, nexus thresholds, district sourcing conclusion, entity tax calculation or tax return deadline asserted.",
+        "Independent qualified California tax/payroll review and owner approval required before publication."
+      ],
+      "quality_review": {
+        "reviewed_on": "2026-10-16",
+        "state_specificity": "CDTFA, EDD and FTB responsibilities are separated; district details and resale support make the California scope explicit.",
+        "source_bounds": "Only official agency sources support regulatory statements. Rates and monetary thresholds are intentionally omitted. Examples are hypothetical and accounting recommendations are identified as general practices.",
+        "originality": "Written for the state's actual issues with a distinct example. Shared accounting principles are not claimed as unique state law. No identical body paragraph is reused across pilots.",
+        "currency": "Official sources inspected October 16, 2026. Material changes and retrieval limitations are recorded in the source review. No qualified professional review or publication approval is claimed.",
+        "approval_status": "Owner design and content approval plus qualified factual review required before publication."
+      }
+    },
+    {
+      "state": "Texas",
+      "code": "TX",
+      "slug": "texas-bookkeeping-recordkeeping-guide",
+      "title": "Texas Bookkeeping, Sales Tax & Franchise Tax Records",
+      "description": "Texas recordkeeping guidance covering sales and use tax, service classifications, franchise tax handoffs, unemployment payroll records and monthly reconciliations.",
+      "summary": "Texas bookkeeping needs to distinguish sales/use tax reporting, franchise tax information and employer unemployment records. The useful question is which evidence supports each obligation, not whether one bank reconciliation proves the business is tax ready.",
+      "verified_on": "2026-10-16",
+      "status": "Local Draft Owner And Qualified Professional Review Pending",
+      "notice": "General bookkeeping information, not tax preparation, legal advice or a determination of your obligations. Agency pages were checked October 16, 2026; confirm current rules and your business facts before acting.",
+      "sections": [
+        {
+          "heading": "Texas Tax Accounts And Filing Responsibilities",
+          "source_ids": [
+            "TX1",
+            "TX2"
+          ],
+          "paragraphs": [
+            "Maintain separate records of Comptroller sales tax permits, franchise tax accounts, TWC unemployment registration where applicable and the people responsible for each filing. Record the legal entity, federal identification number, location history and notices. A federal tax election does not by itself decide Texas franchise tax status, and a sales permit does not establish that every service offered is taxable.",
+            "Texas franchise tax concerns taxable entities formed or doing business in Texas, subject to statutory exceptions. Beginning with reports due in 2024, entities at or below the no tax due threshold generally no longer file a Franchise Tax Report but still have an annual information report requirement. Verify the current report year's instructions and entity facts rather than deleting the annual task because the expected tax payment is zero. No threshold amount is asserted in this resource."
+          ]
+        },
+        {
+          "heading": "Sales And Use Tax Evidence",
+          "source_ids": [
+            "TX1",
+            "TX3"
+          ],
+          "paragraphs": [
+            "Texas taxes most retail goods and specified services, and local tax jurisdictions matter. Preserve what was sold, the customer's delivery location, date, tax charged, returns and supporting certificates. Build a sales system to ledger reconciliation that retains gross receipts even when a marketplace or processor settles only a net amount. Keep marketplace documentation separate from direct sale records so the preparer can determine collection and reporting responsibilities.",
+            "On the purchase side, identify taxable items used in Texas for which the vendor did not charge tax. Keep the invoice, delivery/use location and any exemption or resale basis together. A vendor bill with no tax is a review item, not automatic permission to ignore use tax. The Comptroller assigns reporting frequency; preserve the assignment notice and use the current calendar rather than assuming all businesses file monthly."
+          ]
+        },
+        {
+          "heading": "Service Classification And Vendor Bills",
+          "source_ids": [
+            "TX4"
+          ],
+          "paragraphs": [
+            "Texas provides an especially important distinction for service businesses: taxable data processing can include entering or manipulating customer data, while using a computer to apply accounting knowledge and prepare financial statements is described differently by the Comptroller. That does not establish the treatment of every bookkeeping package. Scope, bundling and what is actually delivered matter, including when taxable and unrelated nontaxable work share an invoice.",
+            "Keep contracts and invoices descriptive enough for a qualified adviser to review each component. Avoid applying a blanket 'all professional services exempt' label or treating any software assisted work as taxable data processing. For accounts payable, request corrected invoices or classification advice when treatment is unclear; preserve the original and correction. This resource gives no percentage allocation or service tax conclusion for Paper Trail or any particular client."
+          ]
+        },
+        {
+          "heading": "Payroll And Unemployment Documentation",
+          "source_ids": [
+            "TX5",
+            "TX6"
+          ],
+          "paragraphs": [
+            "For employers subject to Texas unemployment tax, keep worker level wage records, payroll registers, employer rate notices, quarterly reports, amendments and payment confirmations. Reconcile wages and taxable wage calculations with the provider's output before comparing the liability ledger to TWC. An employee's net paycheck does not explain gross wages or the employer's unemployment expense.",
+            "TWC's employer guidance distinguishes employees from independent contractors and identifies covered, exempt and reimbursing arrangements. Retain contracts and evidence about how work is performed, but send classification questions to a payroll specialist or employment attorney. Do not assume that contractor treatment follows from a payment method or an agreement's heading. TWC's general recordkeeping guidance specifies at least four years for unemployment tax and employee compensation records; other employment records have separate requirements."
+          ]
+        },
+        {
+          "heading": "Income, Expenses And Franchise Tax Handoff",
+          "source_ids": [
+            "TX2",
+            "TX7"
+          ],
+          "paragraphs": [
+            "Keep customer revenue, refunds, loans, owner contributions and transfers identifiable. For a multistate seller, preserve records that let the preparer examine Texas receipts and activity without guessing from a bank address. Track costs by a meaningful business category, but do not assume the ledger's ordinary cost of goods sold account equals the amount allowed in a franchise tax computation.",
+            "At year end, provide the preparer with ownership and entity changes, trial balance, revenue detail, payroll/compensation schedules, asset records, earlier franchise filings and prior adjustments. The 2026 forms are available separately from older report year forms. The ordinary annual franchise deadline is May 15, shifted when it falls on a weekend or legal holiday; extension, final report and special case requirements need review. Keep the information report and tax payment responsibilities separately assigned."
+          ]
+        },
+        {
+          "heading": "Monthly Reports And Cash Commitments",
+          "source_ids": [
+            "TXBK"
+          ],
+          "paragraphs": [
+            "These are general bookkeeping practices rather than Texas only accounting standards. Reconcile bank and card balances, review customer aging, match deposits to invoices and examine unpaid supplier bills. Show owner spending and financing outside ordinary operating income where appropriate. Prepare financial statements on a consistent agreed basis so a month to month comparison means something.",
+            "Use separate schedules for sales/use tax, payroll withholdings and employer charges. A tax remittance is not a second operating expense if the liability was already recorded. Identify payments in transit and old balances that need follow up. For cash planning, list approved vendor payments and upcoming agency remittances alongside expected customer receipts; a profitable income statement does not establish that cash is available to pay them."
+          ],
+          "source_context": "General bookkeeping reference. The example and monthly routine are practical illustrations, not additional state requirements."
+        },
+        {
+          "heading": "Illustration: Direct Sales And Marketplace Settlements",
+          "source_ids": [
+            "TX3"
+          ],
+          "paragraphs": [
+            "Hypothetical example: a Texas maker sells products through its own website and a marketplace. Its bank receives two deposits after fees. The bookkeeper retains the platform reports, delivery details, refunds and marketplace tax documentation, then reconciles each settlement to the gross activity. The direct and marketplace streams remain distinguishable for the sales tax preparer.",
+            "The same business purchases equipment from another seller without a tax line. Rather than treating it as resale inventory, the bookkeeper records the asset purchase and adds the invoice to the use tax review list. The hypothetical assumes neither a particular tax rate nor that the marketplace removes every reporting duty. Its purpose is to preserve the information needed for a defensible decision."
+          ]
+        },
+        {
+          "heading": "Retention, Industry Limits And Review",
+          "source_ids": [
+            "TX3",
+            "TX5"
+          ],
+          "paragraphs": [
+            "The Comptroller requires sales/use records for at least four years unless it authorizes earlier destruction; retain relevant audit, appeal or refund records until the matter is resolved. Preserve certificates, transaction detail and purchase evidence, not only annual summaries. Before replacing software, test that old invoices and tax coding remain retrievable and understandable.",
+            "A retailer, data processing provider, restaurant or construction contractor can have materially different tax questions. This pilot does not decide construction contract treatment, local sourcing, exemptions, remote seller nexus or combined franchise reporting. A CPA or enrolled agent should review filing positions; TWC or qualified employment counsel should address worker classification. Paper Trail can organize and reconcile the records without representing that bookkeeping itself guarantees compliance."
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "id": "TX1",
+          "title": "Texas Comptroller — Sales And Use Tax",
+          "url": "https://comptroller.texas.gov/taxes/sales/",
+          "claims": [
+            "Taxable goods/services overview; local jurisdictions; assigned filing frequency."
+          ]
+        },
+        {
+          "id": "TX2",
+          "title": "Texas Comptroller — Franchise Tax Overview",
+          "url": "https://comptroller.texas.gov/taxes/publications/98-806.php",
+          "claims": [
+            "Taxable-entity scope; report-year 2024 no-tax-due reporting change; annual information report; May 15 timing."
+          ]
+        },
+        {
+          "id": "TX3",
+          "title": "Texas Comptroller — Keeping Sales And Use Tax Records",
+          "url": "https://comptroller.texas.gov/taxes/sales/faq/records.php",
+          "claims": [
+            "Gross receipts/purchases/certificates; four years; audit and dispute holds."
+          ]
+        },
+        {
+          "id": "TX4",
+          "title": "Texas Comptroller — Taxable Services",
+          "url": "https://comptroller.texas.gov/taxes/publications/96-259.php",
+          "claims": [
+            "Data-processing vs professional bookkeeping/financial-statement distinction; not a ruling on any actual package."
+          ]
+        },
+        {
+          "id": "TX5",
+          "title": "TWC — General Recordkeeping Requirements",
+          "url": "https://efte.twc.texas.gov/general_recordkeeping_requirements.html",
+          "claims": [
+            "At least four years unemployment/compensation record retention; separate employment record rules."
+          ]
+        },
+        {
+          "id": "TX6",
+          "title": "TWC — How UI Claims Affect Employers",
+          "url": "https://efte.twc.texas.gov/how_ui_claims_affect_employers.html",
+          "claims": [
+            "Quarterly reporting; covered/exempt/reimbursing categories and worker distinctions."
+          ]
+        },
+        {
+          "id": "TX7",
+          "title": "Texas Comptroller — Franchise Tax Forms",
+          "url": "https://comptroller.texas.gov/taxes/franchise/forms/",
+          "claims": [
+            "2026 report-year forms distinct from prior years."
+          ]
+        },
+        {
+          "id": "TXBK",
+          "title": "IRS, Small Business Recordkeeping",
+          "url": "https://www.irs.gov/businesses/small-businesses-self-employed/recordkeeping",
+          "claims": [
+            "General support for income, expense and transaction documentation, financial statements and tax preparation. Not a state specific monthly reporting mandate."
+          ],
+          "checked_on": "2026-10-16",
+          "verification": "Official IRS page read. Hypothetical examples remain illustrative, not agency examples."
+        }
+      ],
+      "review_gaps": [
+        "No current rate, wage base, franchise threshold or remote seller threshold asserted.",
+        "Service classification, bundling, sourcing and combined reporting facts require qualified review.",
+        "Independent Texas tax/payroll review and approval pending."
+      ],
+      "quality_review": {
+        "reviewed_on": "2026-10-16",
+        "state_specificity": "Franchise information reporting and data processing classification are treated distinctly from sales and unemployment records.",
+        "source_bounds": "Only official agency sources support regulatory statements. Rates and monetary thresholds are intentionally omitted. Examples are hypothetical and accounting recommendations are identified as general practices.",
+        "originality": "Written for the state's actual issues with a distinct example. Shared accounting principles are not claimed as unique state law. No identical body paragraph is reused across pilots.",
+        "currency": "Official sources inspected October 16, 2026. Material changes and retrieval limitations are recorded in the source review. No qualified professional review or publication approval is claimed.",
+        "approval_status": "Owner design and content approval plus qualified factual review required before publication."
+      }
+    },
+    {
+      "state": "Florida",
+      "code": "FL",
+      "slug": "florida-bookkeeping-recordkeeping-guide",
+      "title": "Florida Bookkeeping, Sales Tax & Reemployment Records",
+      "description": "Florida recordkeeping guidance for sales tax, resale certificates, commercial rent changes, reemployment tax, corporate tax handoffs and monthly closing.",
+      "summary": "Florida bookkeeping should keep sales/use tax evidence, reemployment payroll records and entity tax information distinct. Recent commercial rental changes also make the occupancy period more important than the date a late payment reaches the bank.",
+      "verified_on": "2026-10-16",
+      "status": "Local Draft Owner And Qualified Professional Review Pending",
+      "notice": "General bookkeeping information, not tax preparation, legal advice or a determination of your obligations. Agency pages were checked October 16, 2026; confirm current rules and your business facts before acting.",
+      "sections": [
+        {
+          "heading": "Florida Registration And Tax Account Records",
+          "source_ids": [
+            "FL1",
+            "FL2"
+          ],
+          "paragraphs": [
+            "Keep the Department of Revenue registration, legal entity details, approved activity/location information and tax account notices in an accessible file. Sales/use tax, reemployment tax and corporate income tax are separate subjects even where the same department administers them. Record who receives electronic notices and who is authorized to approve, file and pay each obligation. Formation documents alone do not establish every tax account a business needs.",
+            "Use the actual facts about products, customers, employees, entity classification and locations to ask an adviser which registrations apply. A Florida corporation, an LLC with a particular tax treatment and a sole proprietor should not be assigned identical filing tasks merely because they operate in the same city. This resource does not supply a universal registration threshold or determine whether a remote seller has Florida nexus."
+          ]
+        },
+        {
+          "heading": "Sales, Use Tax And Resale Support",
+          "source_ids": [
+            "FL1",
+            "FL3"
+          ],
+          "paragraphs": [
+            "Preserve gross sales, taxable and exempt categories, location/delivery details, returns and separately recorded tax. A marketplace deposit or card settlement can be reduced by fees, refunds or tax retained by another party; retain the underlying reports so the sales tax preparer can distinguish those items. Check current Department guidance for the activity and any applicable county discretionary sales surtax rather than using a single remembered rate.",
+            "Florida's Annual Resale Certificate concerns purchases for resale, not a general exemption for everything a business buys. Retain the current certificate or supporting verification used, the related purchase and its intended resale. For equipment, supplies and other business use purchases with no tax charged, preserve the invoice and use location for use tax review. Do not use a resale document to make an unreviewed tax decision about an item consumed by the business."
+          ]
+        },
+        {
+          "heading": "Commercial Rent: Preserve The Occupancy Period",
+          "source_ids": [
+            "FL4"
+          ],
+          "paragraphs": [
+            "Florida repealed sales tax and discretionary sales surtax on covered commercial real property rentals for rental or occupancy periods beginning on or after October 1, 2025. The Department's notice explicitly separates that rule from payments for earlier periods. It also lists categories outside the repeal, including transient accommodations, vehicle parking/storage, boat docking/storage and aircraft tie down/storage. Do not generalize the change into 'all rent is exempt.'",
+            "For a landlord or tenant reviewing old books, save the lease, rent ledger, occupancy period, payment allocation and credits. A payment received after the effective date may still relate to a prior taxable period. Keep old commercial rental tax balances separate from current rent and follow Department instructions on remaining returns and later collections. This pilot does not decide whether an unusual lease or bundled charge falls within the repeal."
+          ]
+        },
+        {
+          "heading": "Reemployment Payroll And Worker Records",
+          "source_ids": [
+            "FL5",
+            "FL6",
+            "FL7"
+          ],
+          "paragraphs": [
+            "Florida's unemployment related employer tax is called reemployment tax. For covered employers, preserve the assigned rate notice, employee wages, payroll registers, quarterly reports, amendments and payment confirmations. Reconcile payroll expense and employer liabilities to the supporting payroll output, then compare filings with remittances. Do not infer the assigned rate from another employer's experience.",
+            "The Department's employer resource requires true and accurate work records for five calendar years. Keep the source details behind the report, including worker identity, payment periods and supporting employment records. Classification and the treatment of officer payments can require professional review; a vendor invoice or a contractor label alone cannot resolve them. Also retain independent copies of filings: the Department moved reemployment eFile/Pay to a new system on August 24, 2026, and its notice says prior system access ended after September 30, 2026. Missing older returns may require a formal copy request."
+          ]
+        },
+        {
+          "heading": "Vendor Bills, Receipts And Entity Tax Handoff",
+          "source_ids": [
+            "FL2"
+          ],
+          "paragraphs": [
+            "Link each payable to the vendor's legal name, invoice number, purchase description, approval, date, payment and credit adjustments. Maintain a separate queue for missing receipts, uncertain use tax and disputed bills. A tax question should remain visible until resolved, but it should not prevent the business from knowing which supplier balance is actually outstanding.",
+            "Florida corporate income/franchise tax is a separate review from sales tax and payroll. Give the qualified preparer the entity documents, elections supplied by the owner, ownership changes, trial balance, asset purchases and earlier return adjustments. Do not assume that a business has no state entity tax work because an owner expects no individual Florida income tax. This resource does not determine the tax status of an LLC, S corporation, partnership or a multistate business."
+          ]
+        },
+        {
+          "heading": "Monthly Statements And Tax Liabilities",
+          "source_ids": [
+            "FLBK"
+          ],
+          "paragraphs": [
+            "The accounting mechanics here are general bookkeeping practice. Reconcile bank and card accounts, investigate undeposited receipts, match customer payments to invoices and review supplier aging. Preserve financing and owner transaction explanations so cash receipts are not all treated as operating sales. Use an agreed accounting basis consistently when comparing months.",
+            "Roll each applicable tax liability forward: opening balance plus recorded activity, less payments, with adjustments and remaining balance explained. Separate collected sales tax from revenue and employer reemployment expense from employee net pay. A cash forecast can then show customer receipts, payroll, approved bills and agency payments without suggesting that the income statement is the same as cash available."
+          ],
+          "source_context": "General bookkeeping reference. The example and monthly routine are practical illustrations, not additional state requirements."
+        },
+        {
+          "heading": "Illustration: Late Commercial Rent And A Vendor Purchase",
+          "source_ids": [
+            "FL4"
+          ],
+          "paragraphs": [
+            "Hypothetical example: a tenant pays an overdue September 2025 office rent installment together with a later covered rental period. The bookkeeper obtains the landlord statement and allocates the payment to each occupancy period. The qualified preparer checks the earlier period under the pre repeal rule rather than applying the payment date to everything. No tax rate is supplied or assumed.",
+            "The tenant also receives an equipment invoice without sales tax. Save the invoice, delivery location and proof of payment, distinguish the asset from office consumables, and refer the use tax question for review. These are two separate tasks: a commercial rent law change does not decide the treatment of an equipment purchase."
+          ]
+        },
+        {
+          "heading": "Year End Close, Retention And Review",
+          "source_ids": [
+            "FL3",
+            "FL6"
+          ],
+          "paragraphs": [
+            "Assemble year end reconciliations, outstanding receivables/payables, payroll totals, filed sales/use and reemployment reports, agency notices and unresolved classification questions. Use the filing frequency and current instructions applicable to each account. Store confirmations and payments with the precise reporting period so an adviser can distinguish a late filing from a timing difference.",
+            "The sales/use instructions checked specify support for at least three years from the return filing date or required filing date, whichever is later; reemployment work records have the separate five calendar year requirement above. Neither is a universal permission to destroy all other records. Confirm longer needs for assets, audits, disputes, federal taxes and contracts. Retailers, accommodation operators and contractors need industry specific review. Owner approval and an independent Florida tax/payroll editorial review remain required before this draft can be published."
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "id": "FL1",
+          "title": "Florida DOR — Sales And Use Tax",
+          "url": "https://floridarevenue.com/taxes/taxesfees/Pages/sales_tax.aspx",
+          "claims": [
+            "Sales/use registration, taxable activities and discretionary surtax resources."
+          ]
+        },
+        {
+          "id": "FL2",
+          "title": "Florida DOR — Corporate Income Tax",
+          "url": "https://floridarevenue.com/taxes/taxesfees/Pages/corporate.aspx",
+          "claims": [
+            "Separate corporate income/franchise tax and entity-specific filing review."
+          ]
+        },
+        {
+          "id": "FL3",
+          "title": "Florida DOR — Consolidated Sales And Use Tax Return Instructions",
+          "url": "https://www.floridarevenue.com/Forms_library/current/dr7n.pdf",
+          "claims": [
+            "Resale certificate purpose; sales/use support retained three years from filing or required filing, whichever later."
+          ]
+        },
+        {
+          "id": "FL4",
+          "title": "Florida DOR TIP 25A01-04 — Commercial Rental Repeal",
+          "url": "https://floridarevenue.com/taxes/tips/Documents/TIP_25A01-04.pdf",
+          "claims": [
+            "Effective occupancy periods from October 1, 2025; late earlier rent remains distinguishable; excluded rental categories."
+          ]
+        },
+        {
+          "id": "FL5",
+          "title": "Florida DOR — Reemployment Tax",
+          "url": "https://floridarevenue.com/taxes/taxesfees/pages/reemployment.aspx",
+          "claims": [
+            "Employer reemployment framework and corporate officer wage issue."
+          ]
+        },
+        {
+          "id": "FL6",
+          "title": "Florida DOR — Employer Guide To Reemployment Tax",
+          "url": "https://floridarevenue.com/Forms_library/current/guides/rt800002.pdf",
+          "claims": [
+            "Five-calendar-year work record preservation; reporting/correction resources."
+          ]
+        },
+        {
+          "id": "FL7",
+          "title": "Florida DOR — Reemployment eFile And Pay",
+          "url": "https://floridarevenue.com/taxes/eservices/Pages/rtlogin.aspx",
+          "claims": [
+            "August 24, 2026 system transition; prior history access through September 30, 2026; DR-841 copy-request alternative."
+          ]
+        },
+        {
+          "id": "FLBK",
+          "title": "IRS, Small Business Recordkeeping",
+          "url": "https://www.irs.gov/businesses/small-businesses-self-employed/recordkeeping",
+          "claims": [
+            "General support for income, expense and transaction documentation, financial statements and tax preparation. Not a state specific monthly reporting mandate."
+          ],
+          "checked_on": "2026-10-16",
+          "verification": "Official IRS page read. Hypothetical examples remain illustrative, not agency examples."
+        }
+      ],
+      "review_gaps": [
+        "Confirm the current DR 7N and reemployment resource revision immediately before release; current form URLs can be replaced by agency.",
+        "No sales tax rate, nexus threshold, payroll wage base or entity tax result asserted.",
+        "Professional review needed for leases, worker status, industry treatment and entity classification."
+      ],
+      "quality_review": {
+        "reviewed_on": "2026-10-16",
+        "state_specificity": "Commercial rental repeal is tied to occupancy periods; reemployment records and the 2026 portal change are independently addressed.",
+        "source_bounds": "Only official agency sources support regulatory statements. Rates and monetary thresholds are intentionally omitted. Examples are hypothetical and accounting recommendations are identified as general practices.",
+        "originality": "Written for the state's actual issues with a distinct example. Shared accounting principles are not claimed as unique state law. No identical body paragraph is reused across pilots.",
+        "currency": "Official sources inspected October 16, 2026. Material changes and retrieval limitations are recorded in the source review. No qualified professional review or publication approval is claimed.",
+        "approval_status": "Owner design and content approval plus qualified factual review required before publication."
+      }
+    },
+    {
+      "state": "New York",
+      "code": "NY",
+      "slug": "new-york-bookkeeping-recordkeeping-guide",
+      "title": "New York Sales Tax, Payroll & Bookkeeping Records",
+      "description": "A New York bookkeeping resource to sales tax audit trails, local delivery records, withholding, leave records, vendor evidence and tax ready reporting.",
+      "summary": "New York records need to distinguish the locality of a sale, the parts of a combined payroll filing and separate benefit obligations. Preserve transaction detail and employee records instead of relying only on a year end total.",
+      "verified_on": "2026-10-16",
+      "status": "Local Draft Owner And Qualified Professional Review Pending",
+      "notice": "General bookkeeping information, not tax preparation, legal advice or a determination of your obligations. Agency pages were checked October 16, 2026; confirm current rules and your business facts before acting.",
+      "sections": [
+        {
+          "heading": "Registration And New York Account Records",
+          "source_ids": [
+            "NY1",
+            "NY2"
+          ],
+          "paragraphs": [
+            "Keep a register of the business's sales tax Certificate of Authority where applicable, employer accounts, entity details and agency notices. New York's Tax Department says businesses required to register for sales tax should apply at least 20 days before starting the activity. This is a registration lead time, not a rule saying every new business must collect sales tax.",
+            "Record what the business sells, where goods or services are delivered, employee work locations and changes in ownership. These facts help a tax professional evaluate registrations and local obligations. A New York mailing address, incorporation document or bank account is not by itself a full nexus analysis. Preserve copies of the registration and assigned filing information instead of relying on a password saved by one employee."
+          ]
+        },
+        {
+          "heading": "Sales Tax Audit Trails And Locality Detail",
+          "source_ids": [
+            "NY3"
+          ],
+          "paragraphs": [
+            "New York sales tax vendor records must establish each sale's taxable status and tax due, connect exempt transactions to supporting certificates, and retain delivery location evidence where relevant. Maintain gross sales, taxable sales, credits, purchases subject to use tax and tax by locality. Invoices should identify taxable and nontaxable items and separately state tax.",
+            "For the bookkeeper, this means preserving detail before it is compressed into a settlement deposit. Match processor activity, refunds and fees to the sales system and ledger. A net deposit does not show which customer received a refund or which locality belonged on a return. Use the agency's current industry guidance for the actual product or service; a mixed invoice should not inherit one unreviewed default category."
+          ]
+        },
+        {
+          "heading": "Purchases, Payables And Vendor Documentation",
+          "source_ids": [
+            "NY3"
+          ],
+          "paragraphs": [
+            "Save the supplier invoice, description, use/delivery location, exemption basis where relevant and proof of payment. New York's vendor guidance includes purchase records supporting expenses and cost of goods sold, as well as taxable status. Send purchases without tax, uncertain exemptions and unusual bundled charges to the responsible preparer for review; do not silently treat all out of state vendor charges as exempt.",
+            "Keep payable adjustments traceable. If a supplier issues a credit or replaces an incorrect invoice, retain the link to the original rather than deleting the history. A vendor account should explain both the remaining amount owed and the tax review status. Obtain identity and contractual documentation needed for information reporting review, while leaving employee/contractor classification to a qualified specialist."
+          ]
+        },
+        {
+          "heading": "Withholding, Wage Reporting And Benefit Liabilities",
+          "source_ids": [
+            "NY4",
+            "NY5"
+          ],
+          "paragraphs": [
+            "Employers required to withhold New York wages file NYS-45 each calendar quarter, with electronic filing/payment requirements described by the Tax Department. Keep payroll registers, withholding details, employee work/residence information, filed reports, amendments and confirmations. Where New York City or Yonkers withholding applies, preserve the data supporting it instead of assuming every New York employee has identical local treatment.",
+            "The combined filing does not make every payroll liability interchangeable. Reconcile withholding and unemployment components separately and compare them with provider reports and remittances. Disability and Paid Family Leave coverage are also separate matters addressed by the Workers' Compensation Board. Coverage depends on facts and exceptions; this resource supplies no contribution rate or determination for a specific employer. Save policy invoices, deduction schedules and benefit related payments for the payroll specialist."
+          ]
+        },
+        {
+          "heading": "Paid Sick Leave And Retention Boundaries",
+          "source_ids": [
+            "NY6",
+            "NY3",
+            "NY2"
+          ],
+          "paragraphs": [
+            "New York's paid sick leave resource specifies six years of payroll records including weekly leave accrual and use. Preserve the approved policy, hours information, leave balances and payroll links. A bank debit to the payroll company cannot establish how leave was earned or used. Keep access limited to appropriate staff and distinguish accounting evidence from confidential employee medical information.",
+            "That payroll period differs from sales tax records: the vendor bulletin states at least three years from the relevant return's due date or filing date, whichever is later, and longer preservation may be required for an audit or proceeding. The general business guidance also identifies a three year baseline after filing. Do not turn these into a single deletion rule; assets, federal obligations, disputes and other employment laws can require longer preservation."
+          ]
+        },
+        {
+          "heading": "Income, Expenses And Entity Tax Preparation",
+          "source_ids": [
+            "NY7"
+          ],
+          "paragraphs": [
+            "Track gross receipts, refunds, loans, owner contributions and transfers distinctly. Keep receipts and agreements that explain unusual income or expense categories. For a business operating in several states, maintain enough customer and activity detail for an adviser to review allocation and sourcing rather than labeling everything from a bank location.",
+            "New York's corporate tax information identifies different tax bases and possible additional metropolitan or New York City obligations. This resource does not calculate those taxes or assume they apply to every business. Provide entity/election documents, ownership information, revenue detail, fixed assets and earlier return adjustments to the CPA or enrolled agent. A bookkeeper's financial statement and a tax return can use different classifications and adjustments; preserve the reconciliation between them."
+          ]
+        },
+        {
+          "heading": "Monthly Close And An Illustrative Mixed Sale",
+          "source_ids": [
+            "NY3"
+          ],
+          "paragraphs": [
+            "The following closing routine is general bookkeeping practice. Reconcile cash and cards; review customer aging, unpaid bills and clearing accounts; then prepare reports on a consistent agreed basis. Roll sales tax and payroll liabilities forward independently so tax collected is not mistaken for sales revenue and an agency payment is not recorded twice as an expense.",
+            "Hypothetical example: a retailer delivers an order containing taxable merchandise and an item claimed exempt. Keep the itemized invoice, delivery evidence, certificate where required, tax detail and subsequent refund. If the processor settles a lower net amount after fees, reconcile that settlement separately. The example deliberately supplies no rate or taxability conclusion; its point is to prevent a single gross deposit entry from losing the locality and exemption evidence the preparer needs.",
+            "An unpaid invoice remains a customer balance until matched with a receipt or an authorized adjustment. If a refund occurs in a later reporting period, preserve both transaction dates and the link between them. This makes the adjustment explainable without rewriting the earlier sales history."
+          ]
+        },
+        {
+          "heading": "Year End Package And Professional Review",
+          "source_ids": [
+            "NY2",
+            "NY4",
+            "NY5"
+          ],
+          "paragraphs": [
+            "Prepare reconciliations, open receivables/payables, sales tax return copies, payroll quarterly totals, year end employee forms, asset documents and a list of unresolved items. Compare the year end payroll summary with the filed quarterly reports before handing it off. Use current agency calendars and the assigned filing schedule; entity, payroll and sales tax obligations do not necessarily share one deadline.",
+            "Restaurants, contractors, e commerce sellers and professional firms need different taxability or employment reviews. This pilot is not a comprehensive New York City tax resource, a ruling on remote worker withholding or a determination of employee status. A tax professional should review filing positions, a payroll expert should confirm wage reporting and benefits, and counsel should address employment law questions. Paper Trail's bookkeeping role organizes the evidence; it does not guarantee compliance or replace those services."
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "id": "NY1",
+          "title": "New York Tax — Do I Need To Register For Sales Tax?",
+          "url": "https://www.tax.ny.gov/pubs_and_bulls/tg_bulletins/st/do_i_need_to_register_for_sales_tax.htm",
+          "claims": [
+            "Certificate of Authority scope; at least 20-day application lead time where registration required."
+          ]
+        },
+        {
+          "id": "NY2",
+          "title": "New York Tax — Recordkeeping For Businesses",
+          "url": "https://www.tax.ny.gov/bus/doingbus/recordkeeping.htm",
+          "claims": [
+            "Supporting documents and general three-year-after-filing baseline; comparable period records."
+          ]
+        },
+        {
+          "id": "NY3",
+          "title": "New York Tax — Recordkeeping Requirements For Sales Tax Vendors",
+          "url": "https://www.tax.ny.gov/pubs_and_bulls/tg_bulletins/st/record-keeping_requirements_for_sales_tax_vendors.htm",
+          "claims": [
+            "Item taxability, separately stated tax, certificates, locality/delivery records, purchase records; three-year timing and longer holds."
+          ]
+        },
+        {
+          "id": "NY4",
+          "title": "New York Tax — Withholding Tax Filing Requirements",
+          "url": "https://www.tax.ny.gov/bus/wt/filing_requirements.htm",
+          "claims": [
+            "Quarterly NYS-45; electronic reporting; state/NYC/Yonkers withholding where applicable."
+          ]
+        },
+        {
+          "id": "NY5",
+          "title": "New York WCB — Disability And Paid Family Leave Coverage Requirements",
+          "url": "https://www.wcb.ny.gov/content/main/coverage-required-db.jsp",
+          "claims": [
+            "Coverage scope and exceptions; disability/PFL are distinct benefit requirements."
+          ]
+        },
+        {
+          "id": "NY6",
+          "title": "New York State — Paid Sick Leave Eligibility And Information",
+          "url": "https://www.ny.gov/new-york-paid-sick-leave/new-york-paid-sick-leave",
+          "claims": [
+            "Six-year payroll records including weekly sick-leave accrual/use."
+          ]
+        },
+        {
+          "id": "NY7",
+          "title": "New York Tax — Corporate Taxes",
+          "url": "https://www.tax.ny.gov/data/stats/taxfacts/corporation-tax.htm",
+          "claims": [
+            "Article 9-A bases; potential MTA surcharge and NYC business corporation tax."
+          ]
+        }
+      ],
+      "review_gaps": [
+        "Qualified reviewer must confirm current payroll, NYC/Yonkers, entity and industry rules for release.",
+        "No rates, nexus thresholds, wage bases, withholding calculations or PFL contribution amount asserted.",
+        "NYS 45 reporting changed in March 2025; use current reporting formats and actual employer facts."
+      ],
+      "quality_review": {
+        "reviewed_on": "2026-10-16",
+        "state_specificity": "Sales tax locality evidence, NYS 45 reporting, benefit coverage and sick leave retention are separately scoped.",
+        "source_bounds": "Only official agency sources support regulatory statements. Rates and monetary thresholds are intentionally omitted. Examples are hypothetical and accounting recommendations are identified as general practices.",
+        "originality": "Written for the state's actual issues with a distinct example. Shared accounting principles are not claimed as unique state law. No identical body paragraph is reused across pilots.",
+        "currency": "Official sources inspected October 16, 2026. Material changes and retrieval limitations are recorded in the source review. No qualified professional review or publication approval is claimed.",
+        "approval_status": "Owner design and content approval plus qualified factual review required before publication."
+      }
+    },
+    {
+      "state": "Washington",
+      "code": "WA",
+      "slug": "washington-bookkeeping-recordkeeping-guide",
+      "title": "Washington B&O, Sales Tax & Payroll Recordkeeping",
+      "description": "Washington bookkeeping guidance for gross receipts B&O tax, changing service sales tax rules, payroll reporting, records retention and year end preparation.",
+      "summary": "Washington's B&O tax, retail sales tax and employer programs use different information. Keep gross receipts and activity classifications visible, and review the recent service tax changes before relying on old invoice settings.",
+      "verified_on": "2026-10-16",
+      "status": "Local Draft Owner And Qualified Professional Review Pending",
+      "notice": "General bookkeeping information, not tax preparation, legal advice or a determination of your obligations. Agency pages were checked October 16, 2026; confirm current rules and your business facts before acting.",
+      "sections": [
+        {
+          "heading": "Washington Registration And Activity Classification",
+          "source_ids": [
+            "WA1",
+            "WA2"
+          ],
+          "paragraphs": [
+            "Keep the business license, Unified Business Identifier, Department of Revenue account details and employer registrations where applicable in an account register. Record actual locations, employee work locations and business activities. ESD directs businesses hiring Washington employees to apply for or update the state business license. Access to a shared sign in does not mean all agency reports have been filed.",
+            "Washington B&O tax is a gross receipts tax measured by business activity, rather than simply by the net profit on an income statement. Ordinary operating costs such as wages and materials are not general B&O deductions, although specific statutory deductions and credits may apply. Preserve revenue by relevant activity and ask the tax professional to review classifications. Do not assume that a loss on the financial statements eliminates every Washington tax obligation."
+          ]
+        },
+        {
+          "heading": "Retail Sales Tax And The Service Tax Changes",
+          "source_ids": [
+            "WA3",
+            "WA4"
+          ],
+          "paragraphs": [
+            "Washington expanded retail sales tax to certain services effective October 1, 2025 under ESSB 5814. DOR's current page also identifies exclusions and exemptions effective July 1, 2026 and ongoing legal proceedings. The agency says affected taxpayers should follow current guidance while proceedings continue. An older chart saying a service is never taxable is not adequate support for current invoice settings.",
+            "Save the contract, description of the deliverable, service dates, customer/location evidence, invoice and any reseller permit or exemption support. Classification can depend on what is actually supplied, including digital features or data processing, rather than the seller's industry label. Ask a qualified adviser or DOR to resolve uncertain arrangements. This draft intentionally does not declare all professional services taxable or exempt, or determine Paper Trail's own service classification."
+          ]
+        },
+        {
+          "heading": "Vendor Invoices And Purchase Use Tax",
+          "source_ids": [
+            "WA3",
+            "WA5"
+          ],
+          "paragraphs": [
+            "Review vendor bills as well as outgoing invoices. A service tax change may affect a buyer's expense or asset acquisition, not only a seller's tax collection. Preserve the invoice detail and period, identify whether tax was charged, and retain the reason for any claimed exemption. A charge with no tax belongs on a review list; it is not automatically a tax free business purchase.",
+            "For accounts payable, connect the purchase order or approval, invoice, credit, payment and delivery/use information. Do not erase an earlier bill when a vendor corrects its tax treatment. Keep the original, correction and corresponding ledger adjustment together. A tax specialist should resolve sourcing, resale and mixed service questions; the bookkeeper should make sure the decision has a retrievable evidence trail."
+          ]
+        },
+        {
+          "heading": "Payroll: Separate Reports And Separate Liabilities",
+          "source_ids": [
+            "WA2",
+            "WA6"
+          ],
+          "paragraphs": [
+            "ESD describes two quarterly tax/wage reports: unemployment insurance, and the combined Paid Leave/WA Cares report. Keep worker wage/hour data, provider reports, applicable rate or exemption notices, amendments and payment confirmations for each program. A payment credited to one program should not be assumed to satisfy another. Reconcile the ledger's liabilities by program.",
+            "Use a payroll specialist to determine employee coverage, wage definitions, employer contributions and any current exemption rules. No premium rates or wage bases are asserted here. For employees working in several states, preserve dates and actual work locations for review rather than assigning everything from the home address. Keep federal payroll reporting and Washington employer programs distinguishable even when the payroll provider withdraws money in one combined bank debit."
+          ]
+        },
+        {
+          "heading": "Labor Records, Contractors And Retention",
+          "source_ids": [
+            "WA7",
+            "WA8",
+            "WA5"
+          ],
+          "paragraphs": [
+            "Washington L&I's payroll/personnel page specifies at least three years of payroll records, including hours, rates, earnings and deductions. Its separate business recordkeeping guidance identifies current year plus three previous calendar years for records within that guidance, including workers' compensation and subcontractor documentation. These are different scopes; do not present three years as sufficient for every employer record.",
+            "For DOR administered tax records, WAC 458-20-254 specifies five years. Keep gross receipts, invoices, exemption/deduction support and an understandable electronic audit trail. Before a software migration, test that transactions can still be interpreted, including any vendor or product codes. A longer federal, asset, litigation or contractual need may remain. Worker classification and subcontractor coverage should be reviewed with an appropriate payroll or legal professional; a Form 1099 alone is not a determination."
+          ]
+        },
+        {
+          "heading": "Monthly Statements And B&O Reconciliation",
+          "source_ids": [
+            "WA1"
+          ],
+          "paragraphs": [
+            "The following workflow is general bookkeeping practice. Reconcile cash and card accounts, review outstanding invoices and bills, clear unexplained transfers and prepare financial statements on a consistent basis. Keep gross revenue, refunds, owner funding and loans separately identifiable. Explain differences between billed revenue, cash received and amounts reported for tax instead of assuming one total serves every purpose.",
+            "For the Washington tax handoff, maintain an activity schedule that reconciles ledger revenue to the B&O reporting workpaper, with any proposed deductions identified for preparer approval. Keep sales tax collected in a liability schedule distinct from business revenue. Review tax payments against the correct reporting period and agency/program. This prevents a bank payment from becoming a duplicate expense or concealing an old unpaid balance."
+          ]
+        },
+        {
+          "heading": "Illustration: An Advertising Contract And A Credit",
+          "source_ids": [
+            "WA3"
+          ],
+          "paragraphs": [
+            "Hypothetical example: a Washington business buys a package described as advertising, and a supplier later issues a credit. Save the contract and the specific services delivered rather than relying only on the word 'marketing.' Because DOR lists advertising among the affected service categories, send the scope and dates for current law review. No rate, exemption or sourcing result is assumed.",
+            "The bookkeeper records the approved bill and related credit, preserves any tax correction and matches the net payment. If the business also sells products through a marketplace, keep those receipts and marketplace statements separate from this vendor expense. A tax change affecting a purchased service does not explain how the company's product sales should be reported. The books should preserve both trails so the preparer can evaluate each independently."
+          ]
+        },
+        {
+          "heading": "Year End Preparation And Scope Of Review",
+          "source_ids": [
+            "WA1",
+            "WA3",
+            "WA6"
+          ],
+          "paragraphs": [
+            "At year end, gather B&O and sales/use workpapers, excise return copies, payroll program reports, confirmations, open receivables/payables, asset documentation and unresolved items. Review any activity reclassification with the preparer and retain the effective date. Keep earlier guidance and the reason for a later change, especially where an invoice crosses a law change period.",
+            "Retail, construction, professional services, digital activities and multistate operations need different factual reviews. This resource is not a comprehensive account of municipal B&O taxes, capital gains tax, future legislative changes or every industry exemption. A CPA or enrolled agent should review tax positions; payroll specialists and counsel should resolve coverage and employment issues. Paper Trail organizes the records and reconciliations without claiming state offices, licensed tax advice or guaranteed compliance."
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "id": "WA1",
+          "title": "Washington DOR — B&O Combined Excise Return Instructions",
+          "url": "https://dor.wa.gov/file-pay-taxes/file-or-amend-my-return/instructions-completing-combined-excise-tax-return/combined-excise-tax-return-state-business-and-occupation-tax",
+          "claims": [
+            "Gross-receipts measurement; ordinary operating-cost deductions unavailable; classifications and specific deduction workpaper."
+          ]
+        },
+        {
+          "id": "WA2",
+          "title": "Washington ESD — Quarterly Tax And Wage Reports",
+          "url": "https://esd.wa.gov/employer-requirements/quarterly-reports/how-file-your-quarterly-tax-and-wage-reports",
+          "claims": [
+            "Business license application/update; unemployment and Paid Leave/WA Cares reports."
+          ]
+        },
+        {
+          "id": "WA3",
+          "title": "Washington DOR — Services Newly Subject To Retail Sales Tax",
+          "url": "https://dor.wa.gov/taxes-rates/retail-sales-tax/services-newly-subject-retail-sales-tax",
+          "claims": [
+            "October 1, 2025 ESSB 5814 expansion; July 1, 2026 exceptions; ongoing proceedings and current-agency guidance; advertising category."
+          ]
+        },
+        {
+          "id": "WA4",
+          "title": "Washington DOR — ESSB 5814 DAS Interim Guidance",
+          "url": "https://dor.wa.gov/laws-rules/interim_guidance_statements/interim-guidance-statement-regarding-changes-made-essb-5814-das-exclusions-and-definition-retail",
+          "claims": [
+            "Service classification depends on actual digital/data-processing activity; guidance dated September 12, 2025."
+          ]
+        },
+        {
+          "id": "WA5",
+          "title": "Washington Legislature — WAC 458-20-254 Recordkeeping",
+          "url": "https://app.leg.wa.gov/wac/default.aspx?cite=458-20-254",
+          "claims": [
+            "DOR tax-record scope; five years; supporting detail and interpretable electronic records."
+          ]
+        },
+        {
+          "id": "WA6",
+          "title": "Washington Paid Leave — File Quarterly Reports And Pay Premiums",
+          "url": "https://paidleave.wa.gov/reporting/",
+          "claims": [
+            "Program-specific quarterly reporting and payment; amendment resources."
+          ]
+        },
+        {
+          "id": "WA7",
+          "title": "Washington L&I — Payroll And Personnel Records",
+          "url": "https://lni.wa.gov/workers-rights/workplace-policies/payroll-and-personnel-records",
+          "claims": [
+            "At least three years payroll record scope and required worker/time/pay details."
+          ]
+        },
+        {
+          "id": "WA8",
+          "title": "Washington L&I — Recordkeeping Requirements",
+          "url": "https://www.lni.wa.gov/agency/small-business/recordkeeping-requirements",
+          "claims": [
+            "Current plus three prior years for covered records; subcontractor/industrial insurance support."
+          ]
+        }
+      ],
+      "review_gaps": [
+        "ESSB 5814 litigation, interim rules and July 2026 changes require re check immediately before approval.",
+        "No B&O/sales/premium rates, nexus thresholds, or Paper Trail service tax classification asserted.",
+        "Municipal B&O, capital gains and future tax law changes excluded; no blanket claim of no Washington income taxes.",
+        "Independent Washington tax/payroll and owner approval pending."
+      ],
+      "quality_review": {
+        "reviewed_on": "2026-10-16",
+        "state_specificity": "B&O gross receipts, recent retail service changes and separate payroll programs distinguish Washington.",
+        "source_bounds": "Only official agency sources support regulatory statements. Rates and monetary thresholds are intentionally omitted. Examples are hypothetical and accounting recommendations are identified as general practices.",
+        "originality": "Written for the state's actual issues with a distinct example. Shared accounting principles are not claimed as unique state law. No identical body paragraph is reused across pilots.",
+        "currency": "Official sources inspected October 16, 2026. Material changes and retrieval limitations are recorded in the source review. No qualified professional review or publication approval is claimed.",
+        "approval_status": "Owner design and content approval plus qualified factual review required before publication."
+      }
+    }
+  ]
+}

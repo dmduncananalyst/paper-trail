@@ -1,0 +1,35 @@
+﻿{
+    "home":  {
+                 "emailOpens":  true,
+                 "emailChoices":  [
+                                      "Gmail",
+                                      "Microsoft 365 / Outlook",
+                                      "Default email app",
+                                      "Copy email address"
+                                  ],
+                 "uniqueIcons":  true,
+                 "footerLogos":  0,
+                 "videoSrc":  "http://127.0.0.1:8765/assets/video/home.mp4",
+                 "playing":  true,
+                 "pauseControlWorks":  true,
+                 "resumeControlWorks":  true,
+                 "videoWidth":  1280,
+                 "icons":  [
+                               "past-due-service",
+                               "monthly-service",
+                               "corrections-service",
+                               "tax-ready-service",
+                               "bookkeeper-work",
+                               "reconciliation-routine",
+                               "business-expenses",
+                               "tax-preparer-handoff",
+                               "approve-monthly-reports"
+                           ],
+                 "serviceCards":  4,
+                 "notesCards":  5,
+                 "menuClickOpens":  true,
+                 "escapeCloses":  true,
+                 "chatOpens":  true,
+                 "chatCloses":  true
+             }
+}

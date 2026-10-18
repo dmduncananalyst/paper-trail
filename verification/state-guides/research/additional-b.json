@@ -1,0 +1,2940 @@
+{
+  "schema_version": 1,
+  "created_on": "2026-10-16",
+  "language": "en",
+  "publication_status": "LOCAL_DRAFT_NOT_APPROVED_NOT_IN_SITEMAP",
+  "editorial_policy": "Official sources support regulatory statements. General accounting practices are identified separately. Qualified review pending.",
+  "pilots": [
+    {
+      "state": "Louisiana",
+      "code": "LA",
+      "slug": "louisiana-bookkeeping",
+      "title": "Louisiana Bookkeeping",
+      "description": "Louisiana bookkeeping for state and parish sales records, digital product purchases, payroll accounts and location reconciliations.",
+      "summary": "Louisiana books need transaction locations and separate state and parish tax support, including current digital product records.",
+      "verified_on": "2026-10-16",
+      "status": "Local Draft Qualified Review Pending",
+      "notice": "General bookkeeping information. Last reviewed October 16, 2026. Confirm treatment with a qualified professional using current instructions and business facts.",
+      "sections": [
+        {
+          "heading": "State And Parish Sales Support",
+          "source_ids": [
+            "LA1",
+            "LA2"
+          ],
+          "paragraphs": [
+            "Louisiana state and parish taxes involve separate taxing jurisdictions. Maintain the location behind each sale and preserve state and local return acknowledgments. A centralized filing portal does not remove the need to explain which transactions belong to each jurisdiction.",
+            "The current dealer record statute includes tangible property, digital products and taxable services. Keep the product description, transaction date, delivery information and evidence supporting any deduction. Review purchased software and digital products with the preparer using current rules rather than relying on an old tax code in the accounting system."
+          ]
+        },
+        {
+          "heading": "Payroll Accounts And Withholding",
+          "source_ids": [
+            "LA3"
+          ],
+          "paragraphs": [
+            "Louisiana requires withholding returns and payments electronically. Its current employer page requires a quarterly return for each assigned period, including zero periods, and an annual reconciliation. An active account does not close merely because the business stops paying wages.",
+            "As a payroll control, preserve worker certificates, wage registers, actual work locations and confirmations from LaTAP or approved software. Reconcile the withholding liability separately from net wages, federal taxes and unemployment obligations. Keep any final return and account closure evidence with the last payroll."
+          ]
+        },
+        {
+          "heading": "Business Income And Entity Tax Records",
+          "source_ids": [
+            "LA5"
+          ],
+          "paragraphs": [
+            "Louisiana corporation income tax remains distinct from the corporation franchise tax, which was repealed for franchise tax periods beginning on or after January 1, 2026. A corporation should have the preparer evaluate its income tax filing position and any earlier franchise periods. Preserve federal taxable income support, Louisiana adjustments, activity locations, credits and estimated payments; do not remove old franchise balances solely because current periods changed.",
+            "For the monthly tax schedule, distinguish current income tax estimates, prior franchise liabilities and interest or penalties. At year end, give the preparer a reconciliation from the ledger to payments by tax type and period, along with ownership changes and historical filings. A franchise account credit or notice can relate to a period that survives repeal."
+          ]
+        },
+        {
+          "heading": "Vendor Bills And Operating Income",
+          "source_ids": [
+            "LA2"
+          ],
+          "paragraphs": [
+            "The dealer statute calls for invoices, shipping papers and other pertinent records supporting taxable purchases and use. Keep a vendor register identifying resale stock, operating supplies, equipment and digital subscriptions. Send invoices with uncertain tax treatment to a purchase review list with their use location.",
+            "For the general ledger, identify customer receipts separately from owner advances, borrowings and refunds. Connect supplier credits to the original invoice and customer credits to the original sale. Preserve contracts and financing documents for assets so cost and debt are not confused."
+          ]
+        },
+        {
+          "heading": "Unemployment Contributions And Wage Reports",
+          "source_ids": [
+            "LA6"
+          ],
+          "paragraphs": [
+            "Liable Louisiana employers file quarterly wage and tax reports through Louisiana Works. Its employer services provide wage amendments, payments, benefit charges and tax rate notices. Preserve the unemployment employer account number separately from the revenue withholding account, together with employee wage detail, the assigned rate and filed report confirmation.",
+            "As a practical reconciliation, compare quarterly report wages with payroll registers and explain any difference in taxable wages. Match contributions and benefit charge activity to the unemployment liability account. Include rate changes, amended quarters and outstanding notices in the year end payroll handoff so the preparer can distinguish reporting corrections from ordinary payroll expense."
+          ]
+        },
+        {
+          "heading": "Monthly Statements By Location",
+          "source_ids": [
+            "LABK"
+          ],
+          "paragraphs": [
+            "A business serving several parishes benefits from a location reconciliation that bridges sales system totals to tax reports and bank settlements. Investigate missing address information before the close. A processor deposit reduced by fees should still connect to the gross sale and tax detail.",
+            "Reconcile cash, cards, receivables, bills and debt before delivering financial statements. Keep state and local liability rollforwards beside the balance sheet. Explain payments applied to an earlier period and avoid clearing an unexplained agency balance through miscellaneous expense."
+          ],
+          "source_context": "General bookkeeping reference. The example and monthly routine are practical illustrations, not additional state requirements."
+        },
+        {
+          "heading": "Hypothetical Festival Seller",
+          "source_ids": [
+            "LA1"
+          ],
+          "paragraphs": [
+            "Hypothetical example: a Louisiana maker sells at events in two parishes and also ships online orders. The bookkeeper saves each event location, sale detail and shipping address, separates deposits by event, and gives the preparer a jurisdiction summary. The scenario establishes neither an exemption nor a universal filing method for every seller."
+          ]
+        },
+        {
+          "heading": "Year End And Preservation",
+          "source_ids": [
+            "LA2",
+            "LA4"
+          ],
+          "paragraphs": [
+            "Prepare a handoff containing sales by location and product class, exemption evidence, payroll annual reconciliation, inventory counts, asset invoices and unresolved purchase questions. Keep historical tax mappings where a system changed its treatment of digital products.",
+            "Louisiana RS 47:309 requires dealer records to remain until the related taxes have prescribed. That is a legal condition requiring review of the relevant periods and any suspension or interruption, rather than an automatic number of years from the invoice. Federal employment tax records have their own minimum four year requirement. Obtain written retention decisions for state payroll, income tax and contested periods before destruction."
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "id": "LA1",
+          "title": "Louisiana State And Parish Tax FAQ",
+          "url": "https://revenue.louisiana.gov/tax-education-and-faqs/faqs/fairs-festivals-and-other-special-events/why-do-i-have-to-pay-two-taxes/",
+          "claims": [
+            "Separate state and parish taxing jurisdictions."
+          ],
+          "checked_on": "2026-10-16",
+          "verification": "Official content inspected through web retrieval or current indexed official excerpts."
+        },
+        {
+          "id": "LA2",
+          "title": "Louisiana RS 47:309 Dealer Records",
+          "url": "https://legis.la.gov/Legis/Law.aspx?d=101930",
+          "claims": [
+            "Tangible property, digital products, services, invoice and shipping evidence and preservation until prescription."
+          ],
+          "checked_on": "2026-10-16",
+          "verification": "Official content inspected through web retrieval or current indexed official excerpts."
+        },
+        {
+          "id": "LA3",
+          "title": "Louisiana Withholding",
+          "url": "https://revenue.louisiana.gov/businesses/widely-used-tax-types/withholding/",
+          "claims": [
+            "Electronic returns and payment, zero returns, annual reconciliation and account closing."
+          ],
+          "checked_on": "2026-10-16",
+          "verification": "Official content inspected through web retrieval or current indexed official excerpts."
+        },
+        {
+          "id": "LA4",
+          "title": "IRS Employment Tax Records",
+          "url": "https://www.irs.gov/businesses/small-businesses-self-employed/employment-tax-recordkeeping",
+          "claims": [
+            "Federal employment tax minimum four year preservation."
+          ],
+          "checked_on": "2026-10-16",
+          "verification": "Official content inspected through web retrieval or current indexed official excerpts."
+        },
+        {
+          "id": "LA5",
+          "title": "Louisiana Corporation Income And Franchise Tax",
+          "url": "https://revenue.louisiana.gov/businesses/widely-used-tax-types/corporate-income-franchise-tax/",
+          "claims": [
+            "Continuing corporation income tax and franchise repeal for tax periods beginning January 1, 2026."
+          ],
+          "checked_on": "2026-10-16",
+          "verification": "Official agency content inspected in current web results or retrieval."
+        },
+        {
+          "id": "LA6",
+          "title": "Louisiana Employer Wage And Tax Reporting",
+          "url": "https://www.laworks.net/UnemploymentInsurance/UI_WageTaxReportingOverview.asp",
+          "claims": [
+            "Quarterly employer reporting, amendments, benefit charges, payments and rate notices."
+          ],
+          "checked_on": "2026-10-16",
+          "verification": "Official agency content inspected in current web results or retrieval."
+        },
+        {
+          "id": "LABK",
+          "title": "IRS, Small Business Recordkeeping",
+          "url": "https://www.irs.gov/businesses/small-businesses-self-employed/recordkeeping",
+          "claims": [
+            "General support for income, expense and transaction documentation, financial statements and tax preparation. Not a state specific monthly reporting mandate."
+          ],
+          "checked_on": "2026-10-16",
+          "verification": "Official IRS page read. Hypothetical examples remain illustrative, not agency examples."
+        }
+      ],
+      "review_gaps": [
+        "Louisiana prescription and current state and local classifications require professional review; no numeric universal state retention period asserted."
+      ],
+      "quality_review": {
+        "reviewed_on": "2026-10-16",
+        "state_specificity": "Louisiana books need transaction locations and separate state and parish tax support, including current digital product records.",
+        "topic_coverage": [
+          "Sales and use tax or applicable alternative",
+          "Employer records",
+          "Accounts payable and vendor evidence",
+          "Income and expenses",
+          "Monthly financial reporting",
+          "Year end handoff",
+          "Retention by verified record type",
+          "Distinct hypothetical example",
+          "Actual business income or entity tax obligations",
+          "Employer unemployment contributions and reporting"
+        ],
+        "source_bounds": "Section references identify regulatory support. General accounting recommendations are practice suggestions, not additional state mandates. Added entity tax and unemployment sections identify applicable state obligations and the supporting reconciliation and handoff records.",
+        "originality": "Individually composed state discussion and hypothetical business scenario.",
+        "approval_status": "Owner approval and qualified factual review pending.",
+        "currency": "Income and entity tax and employer unemployment reporting separately checked October 16, 2026. No rate or filing deadline assumed.",
+        "review_depth": "Individual income and employer sections explain actual state taxes, conditional applicability, liability reconciliations and annual handoff evidence."
+      }
+    },
+    {
+      "state": "Maine",
+      "code": "ME",
+      "slug": "maine-bookkeeping",
+      "title": "Maine Bookkeeping",
+      "description": "Maine bookkeeping for the 2026 service tax transition, seasonal payroll, vendor evidence and six year sales records.",
+      "summary": "Maine businesses need a clear boundary between legacy service provider tax records and sales tax activity beginning in 2026.",
+      "verified_on": "2026-10-16",
+      "status": "Local Draft Qualified Review Pending",
+      "notice": "General bookkeeping information. Last reviewed October 16, 2026. Confirm treatment with a qualified professional using current instructions and business facts.",
+      "sections": [
+        {
+          "heading": "The 2026 Service Tax Transition",
+          "source_ids": [
+            "ME1"
+          ],
+          "paragraphs": [
+            "Maine repealed the Service Provider Tax effective January 1, 2026 and moved the affected services into sales and use tax. The official bulletin identifies fabrication, telecommunications and related services among the affected activities. Retain the service description and transaction date so the preparer can distinguish a current sale from an amendment to a legacy period.",
+            "As a practical accounting control, archive the old tax mapping before changing invoice settings. A business migrating fabrication receipts should be able to reproduce its former returns and explain why current invoices use a different tax account. Do not assume an old agency navigation label establishes current tax treatment."
+          ]
+        },
+        {
+          "heading": "Sales And Purchase Documentation",
+          "source_ids": [
+            "ME2"
+          ],
+          "paragraphs": [
+            "Maine sales records include purchase price information for property and taxable services used in Maine. Attach vendor invoices, shipping evidence and exemption support to the relevant period. A resale purchase and a tool consumed in the business belong on different review paths.",
+            "For accounts payable, record supplier credits against the original bill and preserve the reason for the adjustment. Keep delivery charges and separately stated taxes visible. A card charge proves payment but usually does not describe the item well enough to support a tax classification."
+          ]
+        },
+        {
+          "heading": "Business Income And Entity Tax Records",
+          "source_ids": [
+            "ME5",
+            "ME6"
+          ],
+          "paragraphs": [
+            "Maine administers corporate income tax separately from sales and payroll taxes. A partnership or S corporation with Maine source income and nonresident members can also have member withholding and return obligations. The 2026 FAQ explicitly separates nonresident member withholding from employee withholding. Preserve entity classification, ownership percentages, member residence and Maine income allocation evidence for preparer review.",
+            "Keep member tax payments, distributions and employee payroll on separate schedules. Reconcile amounts actually withheld by the entity to member statements and return copies; a payment by a member is not automatically an entity payment. The year end handoff should include member affidavits, changes in ownership and any composite filing decision as well as the corporate or owner income tax reconciliation that applies."
+          ]
+        },
+        {
+          "heading": "Seasonal Payroll And Employer Accounts",
+          "source_ids": [
+            "ME3"
+          ],
+          "paragraphs": [
+            "An active Maine withholding account requires quarterly returns even when there were no employees or no withholding. The current agency FAQ specifically says there is no seasonal withholding filing frequency. Maintain a calendar linked to the active account rather than assuming a winter shutdown ends reporting.",
+            "Reconcile approved hours, wages, deductions, payments and filed payroll totals. As a general control, retain the payroll provider export and payment acknowledgment together; keep unemployment and other employer obligations on distinct schedules for specialist review."
+          ]
+        },
+        {
+          "heading": "Unemployment Contributions And Wage Reports",
+          "source_ids": [
+            "ME7"
+          ],
+          "paragraphs": [
+            "Maine employer unemployment contributions are reported through the Department of Labor workflow, with quarterly ME UC-1 and employee wage detail. This is separate from Maine Revenue Services income withholding even when both use the same payroll register. Preserve unemployment registration, contribution notices, quarterly wage submissions and payment evidence.",
+            "For a seasonal employer, compare each quarter wage report with actual payroll activity and retain the reason for any correction. Reconcile contributions independently from withholding, keeping any agency credit assigned to the correct period. Give the preparer all four quarter reports, outstanding adjustments and account status at year end rather than relying on the annual wage statement alone."
+          ]
+        },
+        {
+          "heading": "Monthly Reports And Income Evidence",
+          "source_ids": [
+            "MEBK"
+          ],
+          "paragraphs": [
+            "A seasonal business should compare current profit and loss results with both the prior month and the corresponding operating season. Reconcile cash, cards, deposits and loans before explaining the results. Customer advance payments and owner funding should each retain their original description.",
+            "Review unpaid vendor bills and the purchase tax question list during the close. An offseason cash balance may include customer deposits needed for next season, so explain those balances beside the balance sheet instead of treating every bank dollar as available profit."
+          ],
+          "source_context": "General bookkeeping reference. The example and monthly routine are practical illustrations, not additional state requirements."
+        },
+        {
+          "heading": "Hypothetical Fabrication Shop",
+          "source_ids": [
+            "ME1"
+          ],
+          "paragraphs": [
+            "Hypothetical example: a Maine metal shop completes a fabricated railing in 2026 and later discovers an invoice correction relating to a 2025 project. The bookkeeper separates the two transaction histories, saves the signed orders and completion evidence, and gives the preparer both tax account mappings. The example establishes no rate, exemption or reporting period conclusion."
+          ]
+        },
+        {
+          "heading": "Year End And Retention",
+          "source_ids": [
+            "ME2",
+            "ME4"
+          ],
+          "paragraphs": [
+            "Deliver annual sales totals by activity, legacy corrections, inventory counts, asset invoices, payroll reconciliations and unresolved purchase questions to the tax preparer. Include a written explanation of any conversion between accounting systems so beginning balances can be traced.",
+            "The current Maine sales publication requires six year retention and specifically preserves legacy Service Provider Tax records for six years after generation despite repeal. Title 36 section 135 separately ties income tax records under Part 8 to applicable federal rules; it does not give every record one six year destruction date. Preserve records subject to an audit or other hold and obtain a separate employer retention schedule."
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "id": "ME1",
+          "title": "Maine 2025 Legislative Bulletin 115",
+          "url": "https://www.maine.gov/revenue/sites/maine.gov.revenue/files/inline-files/GIB%20115_FINAL_2025_10_17_0.pdf",
+          "claims": [
+            "SPT repeal and affected services entering sales and use tax January 1, 2026."
+          ],
+          "checked_on": "2026-10-16",
+          "verification": "Official content inspected through web retrieval or current indexed official excerpts."
+        },
+        {
+          "id": "ME2",
+          "title": "Maine Sales And Use Tax Business Publication December 2025",
+          "url": "https://www.maine.gov/revenue/sites/maine.gov.revenue/files/inline-files/Business%20Guide%20for%20December%202025%20FINAL.pdf",
+          "claims": [
+            "Sales and purchase documentation and six year sales and legacy SPT preservation."
+          ],
+          "checked_on": "2026-10-16",
+          "verification": "Official content inspected through web retrieval or current indexed official excerpts."
+        },
+        {
+          "id": "ME3",
+          "title": "Maine Income Tax Withholding FAQ",
+          "url": "https://www.maine.gov/revenue/faq/income-tax-withholding",
+          "claims": [
+            "Quarterly active account reporting including seasonal zero periods."
+          ],
+          "checked_on": "2026-10-16",
+          "verification": "Official content inspected through web retrieval or current indexed official excerpts."
+        },
+        {
+          "id": "ME4",
+          "title": "Maine Title 36 Section 135",
+          "url": "https://legislature.maine.gov/statutes/36/title36sec135.html",
+          "claims": [
+            "Record security and access, six year general tax rule and federal alignment exceptions for income taxes."
+          ],
+          "checked_on": "2026-10-16",
+          "verification": "Official content inspected through web retrieval or current indexed official excerpts."
+        },
+        {
+          "id": "ME5",
+          "title": "Maine Business Tax Types",
+          "url": "https://www.maine.gov/revenue/taxes",
+          "claims": [
+            "Corporate income tax as a distinct tax."
+          ],
+          "checked_on": "2026-10-16",
+          "verification": "Official agency content inspected in current web results or retrieval."
+        },
+        {
+          "id": "ME6",
+          "title": "Maine Member Withholding FAQ",
+          "url": "https://www.maine.gov/revenue/faq/passthrough-entity-withholding",
+          "claims": [
+            "Nonresident member withholding separate from payroll, member statements and entity reporting."
+          ],
+          "checked_on": "2026-10-16",
+          "verification": "Official agency content inspected in current web results or retrieval."
+        },
+        {
+          "id": "ME7",
+          "title": "Maine Employer Unemployment Services",
+          "url": "https://www.maine.gov/unemployment/employers/",
+          "claims": [
+            "Quarterly unemployment contribution and employee wage reporting resources including current 2026 ME UC-1."
+          ],
+          "checked_on": "2026-10-16",
+          "verification": "Official agency content inspected in current web results or retrieval."
+        },
+        {
+          "id": "MEBK",
+          "title": "IRS, Small Business Recordkeeping",
+          "url": "https://www.irs.gov/businesses/small-businesses-self-employed/recordkeeping",
+          "claims": [
+            "General support for income, expense and transaction documentation, financial statements and tax preparation. Not a state specific monthly reporting mandate."
+          ],
+          "checked_on": "2026-10-16",
+          "verification": "Official IRS page read. Hypothetical examples remain illustrative, not agency examples."
+        }
+      ],
+      "review_gaps": [
+        "Individual service classification and employer retention periods require specialist review. No rate or payment deadline asserted."
+      ],
+      "quality_review": {
+        "reviewed_on": "2026-10-16",
+        "state_specificity": "Maine businesses need a clear boundary between legacy service provider tax records and sales tax activity beginning in 2026.",
+        "topic_coverage": [
+          "Sales and use tax or applicable alternative",
+          "Employer records",
+          "Accounts payable and vendor evidence",
+          "Income and expenses",
+          "Monthly financial reporting",
+          "Year end handoff",
+          "Retention by verified record type",
+          "Distinct hypothetical example",
+          "Actual business income or entity tax obligations",
+          "Employer unemployment contributions and reporting"
+        ],
+        "source_bounds": "Section references identify regulatory support. General accounting recommendations are practice suggestions, not additional state mandates. Added entity tax and unemployment sections identify applicable state obligations and the supporting reconciliation and handoff records.",
+        "originality": "Individually composed state discussion and hypothetical business scenario.",
+        "approval_status": "Owner approval and qualified factual review pending.",
+        "currency": "Income and entity tax and employer unemployment reporting separately checked October 16, 2026. No rate or filing deadline assumed.",
+        "review_depth": "Individual income and employer sections explain actual state taxes, conditional applicability, liability reconciliations and annual handoff evidence."
+      }
+    },
+    {
+      "state": "Maryland",
+      "code": "MD",
+      "slug": "maryland-bookkeeping",
+      "title": "Maryland Bookkeeping",
+      "description": "Maryland bookkeeping for sales evidence, state and local withholding information, vendor payments and separate retention clocks.",
+      "summary": "Maryland sales records and employer withholding records have different preservation periods, and payroll needs accurate residence information.",
+      "verified_on": "2026-10-16",
+      "status": "Local Draft Qualified Review Pending",
+      "notice": "General bookkeeping information. Last reviewed October 16, 2026. Confirm treatment with a qualified professional using current instructions and business facts.",
+      "sections": [
+        {
+          "heading": "Sales And Use Tax Evidence",
+          "source_ids": [
+            "MD1"
+          ],
+          "paragraphs": [
+            "Maryland requires records pertaining to sales and purchases, including information needed to determine sales and use tax. Organize original sales, exempt sales and purchase invoices so a reviewer can trace return totals to transactions. Keep a certificate with the customer relationship and preserve the evidence supporting its use.",
+            "As an accounts payable practice, flag equipment and supply invoices without tax, preserve their use location and send the facts for use tax review. Avoid deciding tax solely from a vendor name or a payment description."
+          ]
+        },
+        {
+          "heading": "Employer Withholding And Local Information",
+          "source_ids": [
+            "MD2",
+            "MD3"
+          ],
+          "paragraphs": [
+            "The Maryland employer publication covers state and local withholding and requires wage dates and amounts, taxes withheld, employee identity, employment periods and exemption certificates. Preserve residence changes with their effective dates so the payroll professional can apply the appropriate instructions.",
+            "The Comptroller requires withheld sums to appear in a ledger account identifying the state tax. Reconcile that account with payroll registers, payments and return acknowledgments. The annual MW508 reconciliation needs wage and withholding detail, not simply the annual cash withdrawn by the payroll provider."
+          ]
+        },
+        {
+          "heading": "Business Income And Entity Tax Records",
+          "source_ids": [
+            "MD4",
+            "MD5"
+          ],
+          "paragraphs": [
+            "Maryland corporation filing obligations depend on tax classification and state activity; the Comptroller identifies Form 500 for applicable corporations and separate returns for partnerships and S corporations. Pass through entities can have nonresident member tax and an elective entity tax route. Preserve federal classification, member residence, ownership changes, state source income and any signed election documentation for professional evaluation.",
+            "Keep entity estimates and nonresident member payments distinct from payroll withholding and owner distributions. The preparer needs federal return schedules, Maryland modifications, multistate activity support and member credit records to explain the tax computation. Reconcile each payment to its entity, tax year and return before year end so an owner credit is not omitted or counted twice."
+          ]
+        },
+        {
+          "heading": "Vendor Bills And Income Classification",
+          "source_ids": [
+            "MDBK"
+          ],
+          "paragraphs": [
+            "A Maryland professional practice can receive insurer settlements, direct customer payments, loan proceeds and owner contributions in one account. Identify the origin of each deposit before posting it. Preserve adjustment explanations when a settlement differs from the customer invoice.",
+            "Match vendor bills to approval, receipt and payment. Track equipment financing separately from the equipment cost, and separate principal from financing charges in the debt schedule. These are general bookkeeping practices; tax deductibility and capitalization decisions remain with the preparer."
+          ],
+          "source_context": "General bookkeeping reference. The example and monthly routine are practical illustrations, not additional state requirements."
+        },
+        {
+          "heading": "Unemployment Contributions And Wage Reports",
+          "source_ids": [
+            "MD6"
+          ],
+          "paragraphs": [
+            "Maryland requires quarterly unemployment contribution reports showing gross wages and applicable unemployment tax payments. BEACON provides employer balances, rate information and reporting access through the Department of Labor. Preserve the unemployment account number, assigned rate, employee wage submission and payment acknowledgment independently from the Comptroller withholding records.",
+            "Compare reported gross wages and unemployment taxable wages with the payroll export and document exclusions or annual wage base differences for payroll review. Match payments and adjustments to the liability rollforward, and investigate notices against the quarter concerned. The year end package should include BEACON balance evidence, corrected reports and unresolved contribution items."
+          ]
+        },
+        {
+          "heading": "Monthly Reconciliation And Reporting",
+          "source_ids": [
+            "MDBK"
+          ],
+          "paragraphs": [
+            "Close the bank, card, customer and vendor ledgers before delivering a profit and loss statement and balance sheet. Investigate old credits and outstanding checks with the owner. A clean bank reconciliation alone does not establish that customer balances or tax liabilities are correct.",
+            "For payroll, compare quarterly wages with year to date records after each close and annotate residence changes affecting local withholding. Maintain a notice log so a payment posted under the wrong account does not become a recurring unexplained adjustment."
+          ],
+          "source_context": "General bookkeeping reference. The example and monthly routine are practical illustrations, not additional state requirements."
+        },
+        {
+          "heading": "Hypothetical Employee Move",
+          "source_ids": [
+            "MD2"
+          ],
+          "paragraphs": [
+            "Hypothetical example: a Maryland design studio employee changes residence during the year. The bookkeeper obtains the updated withholding certificate and effective date, sends the change through payroll review and preserves the adjustment report. The studio then reconciles the annual wage record to the corrected payroll totals. The example assumes no local rate or retroactive adjustment entitlement."
+          ]
+        },
+        {
+          "heading": "Year End And Record Retention",
+          "source_ids": [
+            "MD1",
+            "MD2"
+          ],
+          "paragraphs": [
+            "Prepare the tax handoff with reconciled statements, receivable adjustments, vendor totals, asset and debt schedules, sales returns and the annual payroll reconciliation. Give the preparer a separate list of uncertain exemptions and expenses with missing support.",
+            "Maryland Business Tax Tip 2 states four years for sales and purchase records. The 2026 employer publication states at least three years after the related tax became due or was paid, whichever is later, for withholding records. Those are distinct rules; broader employment, federal and property basis obligations may require longer preservation."
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "id": "MD1",
+          "title": "Maryland Business Tax Tip 2 Sales And Use Records",
+          "url": "https://www.marylandcomptroller.gov/content/dam/mdcomp/tax/legal-publications/tips/business/bustip2.pdf",
+          "claims": [
+            "Sales and purchases documentation and four year retention."
+          ],
+          "checked_on": "2026-10-16",
+          "verification": "Official content inspected through web retrieval or current indexed official excerpts."
+        },
+        {
+          "id": "MD2",
+          "title": "Maryland 2026 Employer Withholding Publication",
+          "url": "https://www.marylandcomptroller.gov/content/dam/mdcomp/tax/instructions/withholding/2026/withholding-guide.pdf",
+          "claims": [
+            "State and local withholding, required employer records, three year due or paid retention clock, MW508 reconciliation."
+          ],
+          "checked_on": "2026-10-16",
+          "verification": "Official content inspected through web retrieval or current indexed official excerpts."
+        },
+        {
+          "id": "MD3",
+          "title": "Maryland Employer Withholding",
+          "url": "https://services.marylandcomptroller.gov/taxes/en/employer-withholding?id=kb_article_view&sysparm_article=KB0010017",
+          "claims": [
+            "Separate withholding ledger account and annual reconciliation."
+          ],
+          "checked_on": "2026-10-16",
+          "verification": "Official content inspected through web retrieval or current indexed official excerpts."
+        },
+        {
+          "id": "MD4",
+          "title": "Maryland Business Income Tax Information",
+          "url": "https://services.marylandcomptroller.gov/taxes/en/business-income-tax-information?id=kb_article_view&sysparm_article=KB0010043",
+          "claims": [
+            "Distinct corporation and pass through filing and nonresident member tax obligations."
+          ],
+          "checked_on": "2026-10-16",
+          "verification": "Official agency content inspected in current web results or retrieval."
+        },
+        {
+          "id": "MD5",
+          "title": "Maryland Elective Entity Filing",
+          "url": "https://services.marylandcomptroller.gov/taxes/en/filing-using-a-pass-through-entity-in-maryland?id=kb_article_view&sysparm_article=KB0010121",
+          "claims": [
+            "Entity election route distinct from mandatory nonresident member tax."
+          ],
+          "checked_on": "2026-10-16",
+          "verification": "Official agency content inspected in current web results or retrieval."
+        },
+        {
+          "id": "MD6",
+          "title": "Maryland Employer BEACON Instructions",
+          "url": "https://labor.md.gov/unemployment-insurance/technical-support/employers.shtml",
+          "claims": [
+            "Quarterly gross wages and unemployment contributions, employer balance and rate records."
+          ],
+          "checked_on": "2026-10-16",
+          "verification": "Official agency content inspected in current web results or retrieval."
+        },
+        {
+          "id": "MDBK",
+          "title": "IRS, Small Business Recordkeeping",
+          "url": "https://www.irs.gov/businesses/small-businesses-self-employed/recordkeeping",
+          "claims": [
+            "General support for income, expense and transaction documentation, financial statements and tax preparation. Not a state specific monthly reporting mandate."
+          ],
+          "checked_on": "2026-10-16",
+          "verification": "Official IRS page read. Hypothetical examples remain illustrative, not agency examples."
+        }
+      ],
+      "review_gaps": [
+        "Unemployment insurance, leave programs, labor records and industry specific taxes need separate applicability review."
+      ],
+      "quality_review": {
+        "reviewed_on": "2026-10-16",
+        "state_specificity": "Maryland sales records and employer withholding records have different preservation periods, and payroll needs accurate residence information.",
+        "topic_coverage": [
+          "Sales and use tax or applicable alternative",
+          "Employer records",
+          "Accounts payable and vendor evidence",
+          "Income and expenses",
+          "Monthly financial reporting",
+          "Year end handoff",
+          "Retention by verified record type",
+          "Distinct hypothetical example",
+          "Actual business income or entity tax obligations",
+          "Employer unemployment contributions and reporting"
+        ],
+        "source_bounds": "Section references identify regulatory support. General accounting recommendations are practice suggestions, not additional state mandates. Added entity tax and unemployment sections identify applicable state obligations and the supporting reconciliation and handoff records.",
+        "originality": "Individually composed state discussion and hypothetical business scenario.",
+        "approval_status": "Owner approval and qualified factual review pending.",
+        "currency": "Income and entity tax and employer unemployment reporting separately checked October 16, 2026. No rate or filing deadline assumed.",
+        "review_depth": "Individual income and employer sections explain actual state taxes, conditional applicability, liability reconciliations and annual handoff evidence."
+      }
+    },
+    {
+      "state": "Massachusetts",
+      "code": "MA",
+      "slug": "massachusetts-bookkeeping",
+      "title": "Massachusetts Bookkeeping",
+      "description": "Massachusetts bookkeeping for sales detail, work location payroll evidence, vendor records and tax retention exceptions.",
+      "summary": "Massachusetts records need to support both taxable and exempt activity, with special attention to the work location evidence behind nonresident withholding.",
+      "verified_on": "2026-10-16",
+      "status": "Local Draft Qualified Review Pending",
+      "notice": "General bookkeeping information. Last reviewed October 16, 2026. Confirm treatment with a qualified professional using current instructions and business facts.",
+      "sections": [
+        {
+          "heading": "Sales And Use Tax Records",
+          "source_ids": [
+            "MA1"
+          ],
+          "paragraphs": [
+            "Massachusetts vendors must keep complete sales and purchase records whether transactions are taxable or not. Preserve invoices, register details and the basis for exemptions. Keep sale price, tax, refund and payment processor fees separately identifiable when reconciling settlements.",
+            "For vendor purchases, retain item descriptions and destination information for use tax review. A bill for a computer, materials and a service should preserve each component so the preparer can resolve treatment from the actual purchase. Keep disputed bills and supplier credit memoranda linked."
+          ]
+        },
+        {
+          "heading": "Payroll And Work Location Support",
+          "source_ids": [
+            "MA2",
+            "MA3"
+          ],
+          "paragraphs": [
+            "The withholding publication requires employee identity, wage dates and amounts, withholding certificates, wage statements and filed returns. For a nonresident whose withholding depends on workdays within Massachusetts, the record retention regulation calls for payroll and attendance records establishing location or documentation of an allowed alternative method.",
+            "As a bookkeeping control, reconcile payroll liabilities separately from net pay and employer costs. If an employee changes remote work arrangements, record the effective date and preserve the supporting statement for payroll review. Assess unemployment, paid leave and other employer programs separately."
+          ]
+        },
+        {
+          "heading": "Business Income And Entity Tax Records",
+          "source_ids": [
+            "MA4"
+          ],
+          "paragraphs": [
+            "Massachusetts corporate excise can involve an income measure and a separate nonincome measure or minimum, depending on the corporation. Ownership or use of property, employees and other business activity can affect jurisdiction. Preserve legal and tax classification, state activity, property balances, liabilities and the reconciliation of federal income to Massachusetts income for preparer review.",
+            "An accounting loss alone should not be used to erase a corporate excise accrual. Keep estimated excise payments, credits and assessments tied to their periods, and ask the preparer to explain which measures apply. At year end, provide the balance sheet detail behind property and net worth calculations as well as the income statement and return history."
+          ]
+        },
+        {
+          "heading": "Income And Payables Evidence",
+          "source_ids": [
+            "MABK"
+          ],
+          "paragraphs": [
+            "Keep project deposits, invoices, retainers and collection adjustments in a customer ledger that explains what has been earned under the agreed accounting basis. A bank deposit from a client may settle several invoices, so retain the remittance detail. Owner loans should remain identifiable through their agreements.",
+            "For purchases, connect the approved bill to receiving evidence and payment. Save asset installation and improvement documents with the original purchase record. Review personal charges and reimbursements with the owner before closing the expense accounts."
+          ],
+          "source_context": "General bookkeeping reference. The example and monthly routine are practical illustrations, not additional state requirements."
+        },
+        {
+          "heading": "Unemployment Contributions And Wage Reports",
+          "source_ids": [
+            "MA5"
+          ],
+          "paragraphs": [
+            "Employers subject to Massachusetts unemployment insurance must file quarterly employment and wage detail reports and pay contributions. The assigned employer rate and covered wages drive the amount; the state provides Unemployment Services for Employers for reporting and payment. Save rate notices, employee wage detail, filing confirmations and the amount remitted.",
+            "Reconcile unemployment contributions separately from income withholding and any paid leave program amounts. Compare total reported wages with payroll and document differences in contribution wages. Include all quarterly reports and unresolved rate or benefit charge questions in the annual payroll file; a withholding reconciliation does not establish that the unemployment account is settled."
+          ]
+        },
+        {
+          "heading": "Monthly Financial Review",
+          "source_ids": [
+            "MABK"
+          ],
+          "paragraphs": [
+            "A useful monthly package includes reconciled cash, customer aging, unpaid bills, a profit and loss statement and a balance sheet. Explain any material difference between invoiced revenue and cash collected. Review unearned deposits and unfinished work under the accounting method chosen with the preparer.",
+            "Keep sales tax and payroll reconciliations alongside the package, each showing beginning liability, new activity, payments and adjustments. Confirm that return corrections appear in the ledger and that old credits have documented owners and next actions."
+          ],
+          "source_context": "General bookkeeping reference. The example and monthly routine are practical illustrations, not additional state requirements."
+        },
+        {
+          "heading": "Hypothetical Visiting Designer",
+          "source_ids": [
+            "MABK"
+          ],
+          "paragraphs": [
+            "Hypothetical example: a New Hampshire resident employed by a Massachusetts studio divides work between home and the studio. The bookkeeper preserves dated work location records and any signed certification used by payroll. A later correction remains attached to the original wage report. This scenario does not decide withholding eligibility or estimate the number of taxable days."
+          ],
+          "source_context": "General bookkeeping reference. The example and monthly routine are practical illustrations, not additional state requirements."
+        },
+        {
+          "heading": "Year End And Preservation Clocks",
+          "source_ids": [
+            "MA1",
+            "MA2",
+            "MA3"
+          ],
+          "paragraphs": [
+            "At year end, assemble the sales reconciliation, wage statement support, asset rollforward, debt confirmations and customer deposit schedule. Preserve current and amended filings with their submission evidence so the preparer can connect the books to the tax history.",
+            "Sales and withholding publications generally specify at least three years after the return was filed or due, whichever is later. The regulation contains exceptions, including records supporting future property dispositions, which remain needed through three years after the disposition year return was due or filed, whichever is later. Fraud, missing returns, substantial understatements and proceedings can extend the relevant period."
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "id": "MA1",
+          "title": "Massachusetts Sales And Use Tax",
+          "url": "https://www.mass.gov/guides/sales-and-use-tax",
+          "claims": [
+            "Sales documentation and ordinary three year retention with exceptions."
+          ],
+          "checked_on": "2026-10-16",
+          "verification": "Official content inspected through web retrieval or current indexed official excerpts."
+        },
+        {
+          "id": "MA2",
+          "title": "Massachusetts Regulation 830 CMR 62C.25.1",
+          "url": "https://www.mass.gov/regulations/830-CMR-62c251-record-retention",
+          "claims": [
+            "Tax records, nonresident location evidence, ordinary retention and property disposition exception."
+          ],
+          "checked_on": "2026-10-16",
+          "verification": "Official content inspected through web retrieval or current indexed official excerpts."
+        },
+        {
+          "id": "MA3",
+          "title": "Massachusetts Withholding Tax Publication",
+          "url": "https://www.mass.gov/info-details/withholding-tax-guide",
+          "claims": [
+            "Required payroll withholding documents and three year filed or due retention period."
+          ],
+          "checked_on": "2026-10-16",
+          "verification": "Official content inspected through web retrieval or current indexed official excerpts."
+        },
+        {
+          "id": "MA4",
+          "title": "Massachusetts Corporate Excise",
+          "url": "https://www.mass.gov/info-details/corporate-excise-tax-guide",
+          "claims": [
+            "Corporate excise jurisdiction, income and nonincome measures and minimum concepts."
+          ],
+          "checked_on": "2026-10-16",
+          "verification": "Official agency content inspected in current web results or retrieval."
+        },
+        {
+          "id": "MA5",
+          "title": "Massachusetts Employer Unemployment Contributions",
+          "url": "https://www.mass.gov/info-details/employer-contributions-to-unemployment",
+          "claims": [
+            "Quarterly employment and wage detail reports, contributions and assigned rates."
+          ],
+          "checked_on": "2026-10-16",
+          "verification": "Official agency content inspected in current web results or retrieval."
+        },
+        {
+          "id": "MABK",
+          "title": "IRS, Small Business Recordkeeping",
+          "url": "https://www.irs.gov/businesses/small-businesses-self-employed/recordkeeping",
+          "claims": [
+            "General support for income, expense and transaction documentation, financial statements and tax preparation. Not a state specific monthly reporting mandate."
+          ],
+          "checked_on": "2026-10-16",
+          "verification": "Official IRS page read. Hypothetical examples remain illustrative, not agency examples."
+        }
+      ],
+      "review_gaps": [
+        "Paid leave, unemployment and industry rules need independent applicability and retention review."
+      ],
+      "quality_review": {
+        "reviewed_on": "2026-10-16",
+        "state_specificity": "Massachusetts records need to support both taxable and exempt activity, with special attention to the work location evidence behind nonresident withholding.",
+        "topic_coverage": [
+          "Sales and use tax or applicable alternative",
+          "Employer records",
+          "Accounts payable and vendor evidence",
+          "Income and expenses",
+          "Monthly financial reporting",
+          "Year end handoff",
+          "Retention by verified record type",
+          "Distinct hypothetical example",
+          "Actual business income or entity tax obligations",
+          "Employer unemployment contributions and reporting"
+        ],
+        "source_bounds": "Section references identify regulatory support. General accounting recommendations are practice suggestions, not additional state mandates. Added entity tax and unemployment sections identify applicable state obligations and the supporting reconciliation and handoff records.",
+        "originality": "Individually composed state discussion and hypothetical business scenario.",
+        "approval_status": "Owner approval and qualified factual review pending.",
+        "currency": "Income and entity tax and employer unemployment reporting separately checked October 16, 2026. No rate or filing deadline assumed.",
+        "review_depth": "Individual income and employer sections explain actual state taxes, conditional applicability, liability reconciliations and annual handoff evidence."
+      }
+    },
+    {
+      "state": "Michigan",
+      "code": "MI",
+      "slug": "michigan-bookkeeping",
+      "title": "Michigan Bookkeeping",
+      "description": "Michigan bookkeeping for exemption evidence, use tax purchases, combined tax reporting and annual reconciliations.",
+      "summary": "Michigan combined sales, use and withholding reporting makes separate ledger schedules essential even when several taxes share a return.",
+      "verified_on": "2026-10-16",
+      "status": "Local Draft Qualified Review Pending",
+      "notice": "General bookkeeping information. Last reviewed October 16, 2026. Confirm treatment with a qualified professional using current instructions and business facts.",
+      "sections": [
+        {
+          "heading": "Sales And Exemption Evidence",
+          "source_ids": [
+            "MI1",
+            "MI2"
+          ],
+          "paragraphs": [
+            "Michigan Treasury requires sellers to maintain accurate sales records. Its exemption bulletin identifies the purchaser, transaction date, item, exemption type and sales amount among the required information, with registration details for applicable resale or lease claims. Preserve this support alongside the underlying invoice.",
+            "Purchases from vendors that do not collect Michigan tax can need use tax review. Maintain a purchase register showing the item, use location, tax paid elsewhere and the preparer decision. A missing tax line is a question to resolve, not permission to omit the purchase from review."
+          ]
+        },
+        {
+          "heading": "Employer Withholding And Reporting",
+          "source_ids": [
+            "MI3",
+            "MI4"
+          ],
+          "paragraphs": [
+            "Michigan generally connects employer withholding registration to the federal employer withholding requirement. Preserve employee certificates, wage details and actual work locations for payroll review, especially where reciprocity or remote work is involved. Worker classification needs facts about the relationship beyond a vendor invoice.",
+            "Michigan reports sales, use and withholding through its reporting system, while unemployment insurance belongs to the Unemployment Insurance Agency. Maintain distinct liability accounts and payment support. A single portal payment should be allocated to the relevant tax schedules rather than posted entirely to payroll expense."
+          ]
+        },
+        {
+          "heading": "Business Income And Entity Tax Records",
+          "source_ids": [
+            "MI5",
+            "MI6"
+          ],
+          "paragraphs": [
+            "Michigan corporate income tax applies to applicable corporations, including entities electing federal corporate treatment, while an eligible partnership or S corporation may elect Michigan flow through entity tax. Keep federal classification and any entity election with state activity, income adjustments and allocation support. Do not assume an LLC name establishes which business income tax applies.",
+            "For an electing entity, preserve the calculation and payment of tax and the credit information communicated to members. Treasury current guidance describes member credit reporting changes beginning with 2025 returns. Reconcile entity payments with member statements at year end, and keep personal estimates or distributions distinct from the entity liability."
+          ]
+        },
+        {
+          "heading": "Accounts Payable And Income Controls",
+          "source_ids": [
+            "MIBK"
+          ],
+          "paragraphs": [
+            "A small manufacturer should distinguish raw materials, machinery, repair parts and general office purchases in its vendor files. The accounting description should explain how the item is used so a preparer can evaluate a claimed exemption. Retain the original bill when a supplier issues a correction.",
+            "Customer receipts should connect to invoices, deposits and credit memoranda. Record loan proceeds and owner funding separately from operating income, and preserve asset purchase and financing agreements together without combining debt principal and expense."
+          ],
+          "source_context": "General bookkeeping reference. The example and monthly routine are practical illustrations, not additional state requirements."
+        },
+        {
+          "heading": "Unemployment Contributions And Wage Reports",
+          "source_ids": [
+            "MI7"
+          ],
+          "paragraphs": [
+            "Michigan UIA current employer guidance uses MiUI for unemployment tax functions, including quarterly wage and tax reports and wage adjustments. Older MiWAM instructions should not determine the current tax filing workflow. Preserve the accepted quarterly file, contribution calculation, rate notice and payment confirmation, including migrated account information.",
+            "Compare quarterly UI wages with the same employee level payroll register used for withholding, while preserving any difference in taxable wage calculation. Reconcile unemployment account balances and amended quarter activity separately from Treasury liabilities. Give the preparer evidence of accepted MiUI reports and any transition related discrepancies so a successful payroll withdrawal is not confused with a successful filing."
+          ]
+        },
+        {
+          "heading": "Monthly Close And Annual Return Bridge",
+          "source_ids": [
+            "MI2"
+          ],
+          "paragraphs": [
+            "Treasury assigns filing frequency and requires an annual return regardless of the periodic schedule. As a practical monthly control, maintain year to date reconciliations for each applicable tax so the annual totals can be reproduced from the books.",
+            "Review bank and card reconciliations, vendor aging, stock adjustments and customer balances before issuing financial statements. Explain timing differences between tax payments and ledger liabilities. Reconcile sales reported by the selling platform with processor deposits and any marketplace collection records."
+          ]
+        },
+        {
+          "heading": "Hypothetical Resale Certificate Change",
+          "source_ids": [
+            "MI1"
+          ],
+          "paragraphs": [
+            "Hypothetical example: a Michigan parts distributor changes customer software and discovers that an exempt customer flag migrated without its supporting certificate. The bookkeeper retrieves the purchaser information and original exemption evidence, links it to affected invoices and sends unresolved transactions to the preparer. A software flag alone is not treated as substantiation."
+          ]
+        },
+        {
+          "heading": "Year End Records And Retention",
+          "source_ids": [
+            "MI1",
+            "MI2"
+          ],
+          "paragraphs": [
+            "The year end package should connect annual sales, purchase use tax and withholding totals to the ledger. Include inventory count adjustments, asset disposals, wage reporting confirmations, debts and unresolved exemption questions. Preserve the version of the tax mapping used for each period.",
+            "Treasury exemption bulletin 2024 11 requires substantiating data for an exempt sale for at least four years from the date tax was due on that transaction. Apply that verified clock to exemption evidence. It is not a universal four year rule for payroll, personnel, federal income tax or property basis records; establish separate schedules before disposing of them."
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "id": "MI1",
+          "title": "Michigan Revenue Administrative Bulletin 2024 11",
+          "url": "https://www.michigan.gov/taxes/rep-legal/rab/2024-revenue-administrative-bulletins/revenue-administrative-bulletin-2024-11",
+          "claims": [
+            "Exemption evidence and four years from transaction tax due date."
+          ],
+          "checked_on": "2026-10-16",
+          "verification": "Official content inspected through web retrieval or current indexed official excerpts."
+        },
+        {
+          "id": "MI2",
+          "title": "Michigan Sales And Use Taxes",
+          "url": "https://www.michigan.gov/taxes/business-taxes/sales-use-tax",
+          "claims": [
+            "Purchase use tax, assigned filing frequency and annual return."
+          ],
+          "checked_on": "2026-10-16",
+          "verification": "Official content inspected through web retrieval or current indexed official excerpts."
+        },
+        {
+          "id": "MI3",
+          "title": "Michigan Withholding Tax FAQs",
+          "url": "https://www.michigan.gov/taxes/business-taxes/withholding/withholding-tax-faqs",
+          "claims": [
+            "Employer withholding registration and relationship to federal withholding."
+          ],
+          "checked_on": "2026-10-16",
+          "verification": "Official content inspected through web retrieval or current indexed official excerpts."
+        },
+        {
+          "id": "MI4",
+          "title": "Michigan Employer Unemployment Insurance",
+          "url": "https://www.michigan.gov/leo/bureaus-agencies/uia/employers/about-taxes-and-ui",
+          "claims": [
+            "Separate unemployment employer program."
+          ],
+          "checked_on": "2026-10-16",
+          "verification": "Official content inspected through web retrieval or current indexed official excerpts."
+        },
+        {
+          "id": "MI5",
+          "title": "Michigan Corporate Tax Base",
+          "url": "https://www.michigan.gov/taxes/business-taxes/cit/detail/corporate-tax-base",
+          "claims": [
+            "Federal corporate classification and Michigan corporate income tax base."
+          ],
+          "checked_on": "2026-10-16",
+          "verification": "Official agency content inspected in current web results or retrieval."
+        },
+        {
+          "id": "MI6",
+          "title": "Michigan Flow Through Entity Tax",
+          "url": "https://www.michigan.gov/taxes/business-taxes/flowthrough-entity-tax",
+          "claims": [
+            "Elective entity tax and current member credit reporting changes."
+          ],
+          "checked_on": "2026-10-16",
+          "verification": "Official agency content inspected in current web results or retrieval."
+        },
+        {
+          "id": "MI7",
+          "title": "Michigan UIA Quarterly Reports",
+          "url": "https://www.michigan.gov/leo/bureaus-agencies/uia/employers/frequently-asked-questions-for-employers/for-employers/quarterly-reports",
+          "claims": [
+            "Current MiUI wage and tax reports and wage adjustments."
+          ],
+          "checked_on": "2026-10-16",
+          "verification": "Official agency content inspected in current web results or retrieval."
+        },
+        {
+          "id": "MIBK",
+          "title": "IRS, Small Business Recordkeeping",
+          "url": "https://www.irs.gov/businesses/small-businesses-self-employed/recordkeeping",
+          "claims": [
+            "General support for income, expense and transaction documentation, financial statements and tax preparation. Not a state specific monthly reporting mandate."
+          ],
+          "checked_on": "2026-10-16",
+          "verification": "Official IRS page read. Hypothetical examples remain illustrative, not agency examples."
+        }
+      ],
+      "review_gaps": [
+        "Payroll retention, reciprocity, industrial processing exemptions and marketplace facts need individualized review."
+      ],
+      "quality_review": {
+        "reviewed_on": "2026-10-16",
+        "state_specificity": "Michigan combined sales, use and withholding reporting makes separate ledger schedules essential even when several taxes share a return.",
+        "topic_coverage": [
+          "Sales and use tax or applicable alternative",
+          "Employer records",
+          "Accounts payable and vendor evidence",
+          "Income and expenses",
+          "Monthly financial reporting",
+          "Year end handoff",
+          "Retention by verified record type",
+          "Distinct hypothetical example",
+          "Actual business income or entity tax obligations",
+          "Employer unemployment contributions and reporting"
+        ],
+        "source_bounds": "Section references identify regulatory support. General accounting recommendations are practice suggestions, not additional state mandates. Added entity tax and unemployment sections identify applicable state obligations and the supporting reconciliation and handoff records.",
+        "originality": "Individually composed state discussion and hypothetical business scenario.",
+        "approval_status": "Owner approval and qualified factual review pending.",
+        "currency": "Income and entity tax and employer unemployment reporting separately checked October 16, 2026. No rate or filing deadline assumed.",
+        "review_depth": "Individual income and employer sections explain actual state taxes, conditional applicability, liability reconciliations and annual handoff evidence."
+      }
+    },
+    {
+      "state": "Minnesota",
+      "code": "MN",
+      "slug": "minnesota-bookkeeping",
+      "title": "Minnesota Bookkeeping",
+      "description": "Minnesota bookkeeping for local sales reporting, employee service locations, vendor evidence and unemployment record preservation.",
+      "summary": "Minnesota employer records include service locations and daily hours, while sales reporting needs state and local tax detail.",
+      "verified_on": "2026-10-16",
+      "status": "Local Draft Qualified Review Pending",
+      "notice": "General bookkeeping information. Last reviewed October 16, 2026. Confirm treatment with a qualified professional using current instructions and business facts.",
+      "sections": [
+        {
+          "heading": "Sales And Local Tax Detail",
+          "source_ids": [
+            "MN1"
+          ],
+          "paragraphs": [
+            "The Minnesota sales and use tax publication distinguishes registration, local taxes, taxable purchases and reporting. Keep customer delivery evidence, gross sales, refunds and exemption support in a form that can be reconciled to the return. Preserve original and amended filing workpapers together.",
+            "For accounts payable, separate purchases consumed by the business from goods intended for resale. Save the vendor invoice and any tax charged elsewhere, and record where the purchase is used. Route uncertain use tax treatment to the preparer before approving the reporting schedule."
+          ]
+        },
+        {
+          "heading": "Employee Forms And Service Records",
+          "source_ids": [
+            "MN2",
+            "MN3"
+          ],
+          "paragraphs": [
+            "Minnesota employers need federal and Minnesota withholding certificates; the new employer publication identifies Form W-4MN. Retain replacements with their effective dates rather than overwriting the earlier employee instructions. Reconcile wages and deductions to the liability accounts and payment confirmations.",
+            "The unemployment record rule requires individual service dates, daily hours, location, wages paid and unpaid, pay rate, residence and certain reimbursements. For services across states, it also identifies base of operations, direction and control, and service dates by state. Capture these facts as work occurs so payroll review does not depend on year end recollection."
+          ]
+        },
+        {
+          "heading": "Business Income And Entity Tax Records",
+          "source_ids": [
+            "MN4",
+            "MN5"
+          ],
+          "paragraphs": [
+            "Minnesota corporate franchise tax and entity filing treatment require review of the federal classification and Minnesota activity. Certain corporations, partnerships and S corporations can also owe a minimum fee based on Minnesota property, payroll and sales or receipts. Preserve these factors even when the business shows little net income; the fee question uses a different measure from accounting profit.",
+            "Keep the trial balance, federal income reconciliation, Minnesota activity schedules and all estimated payments available for the preparer. Where owner level or elective entity treatment applies, include member ownership and residence records and the actual election evidence. At year end, reconcile tax and minimum fee payments by period and document any credit carried to the next year."
+          ]
+        },
+        {
+          "heading": "Income And Vendor Review",
+          "source_ids": [
+            "MNBK"
+          ],
+          "paragraphs": [
+            "A field service company can collect deposits for scheduled work while receiving reimbursements and loan funds in the same bank account. Label each source and maintain the job reference. An unexplained deposit should remain on the owner review list until supported.",
+            "Payable records should show which job received materials and whether an item became company equipment. Retain receiving evidence, supplier returns and financing agreements. These practical controls help the preparer distinguish an operating cost from an asset or balance sheet item."
+          ],
+          "source_context": "General bookkeeping reference. The example and monthly routine are practical illustrations, not additional state requirements."
+        },
+        {
+          "heading": "Unemployment Contributions And Wage Reports",
+          "source_ids": [
+            "MN6"
+          ],
+          "paragraphs": [
+            "Minnesota employers with employees covered by unemployment insurance or Paid Leave must register for an employer account. The employer reporting resources distinguish quarterly UI wage detail, payment and hours information. Preserve covered employee wages and hours, registration and rate information, submitted reports and confirmations for the applicable programs.",
+            "Keep unemployment contributions separately identifiable from Paid Leave premiums and wage withholding in the payroll ledger. Compare accepted wage detail with payroll hours and wages and explain amendments. Provide the preparer a year end reconciliation of each liability and payments, together with agency balances and any coverage questions; sharing employer account access does not make the liabilities interchangeable."
+          ]
+        },
+        {
+          "heading": "Monthly Reports And Wage Reconciliation",
+          "source_ids": [
+            "MNBK"
+          ],
+          "paragraphs": [
+            "Review revenue and direct spending by completed job, with outstanding deposits and unbilled work explained under the chosen accounting basis. Reconcile the bank, cards, customer ledger and supplier balances before issuing the profit and loss statement and balance sheet.",
+            "Compare payroll work location records with the payroll system allocation and investigate differences promptly. Maintain separate schedules for income withholding, unemployment and other employer programs that apply. Return acknowledgments should identify both the reporting period and tax type."
+          ],
+          "source_context": "General bookkeeping reference. The example and monthly routine are practical illustrations, not additional state requirements."
+        },
+        {
+          "heading": "Hypothetical Mobile Repair Crew",
+          "source_ids": [
+            "MN3"
+          ],
+          "paragraphs": [
+            "Hypothetical example: a Minnesota repair crew spends part of a week servicing equipment across the state border. The bookkeeper preserves the daily job tickets, hours, location, travel reimbursements and information about where the work is directed. Payroll specialists receive the facts before deciding state allocation; the scenario assumes no reciprocity or automatic exemption."
+          ]
+        },
+        {
+          "heading": "Year End And Record Preservation",
+          "source_ids": [
+            "MN3"
+          ],
+          "paragraphs": [
+            "Provide the preparer with job revenue detail, inventory adjustments, equipment additions, debt balances, wage reconciliations and sales return history. Keep an exception schedule for missing certificates and uncertain purchase taxes, including the person responsible for resolution.",
+            "Minnesota Rule 3315.1010 requires the covered employer service records for at least four years in addition to the current calendar year. Apply that specific unemployment record rule without shortening it to four years from an individual paycheck. Sales, income tax, paid leave and property records require their own retention analysis; an amendment deadline is not itself a destruction rule."
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "id": "MN1",
+          "title": "Minnesota Sales And Use Tax Business Publication",
+          "url": "https://www.revenue.state.mn.us/book/export/html/10021",
+          "claims": [
+            "Registration, state and local tax, purchases and amended return support."
+          ],
+          "checked_on": "2026-10-16",
+          "verification": "Official content inspected through web retrieval or current indexed official excerpts."
+        },
+        {
+          "id": "MN2",
+          "title": "Minnesota New Employer Publication",
+          "url": "https://www.revenue.state.mn.us/new-employer-guide",
+          "claims": [
+            "Federal and Minnesota withholding certificates."
+          ],
+          "checked_on": "2026-10-16",
+          "verification": "Official content inspected through web retrieval or current indexed official excerpts."
+        },
+        {
+          "id": "MN3",
+          "title": "Minnesota Rule 3315.1010",
+          "url": "https://www.revisor.mn.gov/rules/3315.1010/",
+          "claims": [
+            "Employer service record fields, interstate service facts and four years in addition to current calendar year."
+          ],
+          "checked_on": "2026-10-16",
+          "verification": "Official content inspected through web retrieval or current indexed official excerpts."
+        },
+        {
+          "id": "MN4",
+          "title": "Minnesota 2025 Corporation Franchise Tax Instructions Revised July 2026",
+          "url": "https://www.revenue.state.mn.us/sites/default/files/2026-07/m4-inst-25.pdf",
+          "claims": [
+            "Corporate franchise tax and additional minimum fee."
+          ],
+          "checked_on": "2026-10-16",
+          "verification": "Official current form search identifies the July 2026 PDF; full 16 page PDF retrieved successfully through web tool and corporate filing and minimum fee passages inspected."
+        },
+        {
+          "id": "MN5",
+          "title": "Minnesota Minimum Fee",
+          "url": "https://www.revenue.state.mn.us/mndor-pp/19556?type=html",
+          "claims": [
+            "Minimum fee consideration for partnerships, S corporations and corporations based on Minnesota factors."
+          ],
+          "checked_on": "2026-10-16",
+          "verification": "Official agency content inspected in current web results or retrieval."
+        },
+        {
+          "id": "MN6",
+          "title": "Minnesota Employer UI And Paid Leave Accounts",
+          "url": "https://www.uimn.org/employers/",
+          "claims": [
+            "Covered employers register for UI or Paid Leave; wage reporting and payment resources."
+          ],
+          "checked_on": "2026-10-16",
+          "verification": "Official agency content inspected in current web results or retrieval."
+        },
+        {
+          "id": "MNBK",
+          "title": "IRS, Small Business Recordkeeping",
+          "url": "https://www.irs.gov/businesses/small-businesses-self-employed/recordkeeping",
+          "claims": [
+            "General support for income, expense and transaction documentation, financial statements and tax preparation. Not a state specific monthly reporting mandate."
+          ],
+          "checked_on": "2026-10-16",
+          "verification": "Official IRS page read. Hypothetical examples remain illustrative, not agency examples."
+        }
+      ],
+      "review_gaps": [
+        "Minnesota Paid Leave and other 2026 employer programs require separate review. No statewide sales record destruction date asserted."
+      ],
+      "quality_review": {
+        "reviewed_on": "2026-10-16",
+        "state_specificity": "Minnesota employer records include service locations and daily hours, while sales reporting needs state and local tax detail.",
+        "topic_coverage": [
+          "Sales and use tax or applicable alternative",
+          "Employer records",
+          "Accounts payable and vendor evidence",
+          "Income and expenses",
+          "Monthly financial reporting",
+          "Year end handoff",
+          "Retention by verified record type",
+          "Distinct hypothetical example",
+          "Actual business income or entity tax obligations",
+          "Employer unemployment contributions and reporting"
+        ],
+        "source_bounds": "Section references identify regulatory support. General accounting recommendations are practice suggestions, not additional state mandates. Added entity tax and unemployment sections identify applicable state obligations and the supporting reconciliation and handoff records.",
+        "originality": "Individually composed state discussion and hypothetical business scenario.",
+        "approval_status": "Owner approval and qualified factual review pending.",
+        "currency": "Income and entity tax and employer unemployment reporting separately checked October 16, 2026. No rate or filing deadline assumed.",
+        "review_depth": "Individual income and employer sections explain actual state taxes, conditional applicability, liability reconciliations and annual handoff evidence."
+      }
+    },
+    {
+      "state": "Mississippi",
+      "code": "MS",
+      "slug": "mississippi-bookkeeping",
+      "title": "Mississippi Bookkeeping",
+      "description": "Mississippi bookkeeping for location sales records, tax permits, payroll evidence and the agency retention conflict.",
+      "summary": "Mississippi records must preserve each business location and the evidence supporting exempt sales; current agency retention statements need careful separation.",
+      "verified_on": "2026-10-16",
+      "status": "Local Draft Qualified Review Pending",
+      "notice": "General bookkeeping information. Last reviewed October 16, 2026. Confirm treatment with a qualified professional using current instructions and business facts.",
+      "sections": [
+        {
+          "heading": "Location Records And Exempt Sales",
+          "source_ids": [
+            "MS1"
+          ],
+          "paragraphs": [
+            "Mississippi DOR calls for a separate set of sales records for each business location. Exempt sales need documentation, and sales involving permits or material purchase certificates require the relevant transaction and purchaser information. Keep the actual product description when an exemption depends on the item.",
+            "As an accounts payable control, save supplier invoices with purchase approvals, payment and the job or location receiving the items. Preserve any permit evidence relied upon and send equipment or supply purchases without tax for review. A permit number alone does not explain how the purchased item was used."
+          ]
+        },
+        {
+          "heading": "Payroll And Employer Registration",
+          "source_ids": [
+            "MS2"
+          ],
+          "paragraphs": [
+            "The agency business FAQ describes withholding registration for covered businesses paying Mississippi residents or nonresidents performing services in Mississippi. Preserve employee identity, home address, employment periods, wage payments and withholding records, then give multistate facts to a payroll professional.",
+            "Reconcile employee deductions and employer costs separately. Match the payroll register with payment confirmations and wage statements, and retain amended reports with an explanation. A vendor agreement or information return does not decide whether a worker is an employee."
+          ]
+        },
+        {
+          "heading": "Business Income And Entity Tax Records",
+          "source_ids": [
+            "MS3",
+            "MS4"
+          ],
+          "paragraphs": [
+            "Mississippi administers corporate income and franchise taxes and separate pass through entity returns. Applicability depends on the entity and tax year, so do not assume every legal business form uses only an owner return. Preserve federal classification, state source activity, capital balances and any entity tax election evidence for the preparer.",
+            "Use separate schedules for income tax estimates, franchise amounts and member related payments. The franchise phaseout makes the year attached to a balance especially important; a future repeal does not erase an older liability. Include federal and Mississippi returns, capital and ownership changes, reconciled estimates and unresolved notices in the year end handoff."
+          ]
+        },
+        {
+          "heading": "Income, Inventory And Expense Files",
+          "source_ids": [
+            "MS1"
+          ],
+          "paragraphs": [
+            "DOR identifies records supporting income, deductions and credits, including state and federal returns and their schedules. Keep sales, returns and damaged inventory adjustments linked to source documents. A physical stock count should explain quantity differences from the ledger.",
+            "For management purposes, classify owner withdrawals and loan repayments separately from operating expenses. Maintain asset invoices with repair and improvement history. Supplier credits and customer bad debts should have a documented reason instead of being cleared through a general adjustment account."
+          ]
+        },
+        {
+          "heading": "Unemployment Contributions And Wage Reports",
+          "source_ids": [
+            "MS5"
+          ],
+          "paragraphs": [
+            "Mississippi Department of Employment Security requires quarterly wage reports and unemployment taxes for liable employers. Save the MDES account details, assigned rate, employee wage report and payment confirmation separately from Department of Revenue withholding records. Keep a correction linked to the quarter in which the wages belonged.",
+            "Compare gross wages in the submitted report with payroll, explain differences in taxable wages and reconcile contributions to payments and agency credits. For seasonal location changes, retain which workers and payroll periods are included in each filing. The year end payroll package should identify unpaid MDES balances and amended quarters alongside the four regular reports."
+          ]
+        },
+        {
+          "heading": "Monthly Reporting Across Locations",
+          "source_ids": [
+            "MSBK"
+          ],
+          "paragraphs": [
+            "Reconcile each location sales report to deposits and interlocation transfers before combining the financial statements. A transfer of inventory should preserve the sending and receiving location so it is not mistaken for an external sale or an unexplained shrinkage adjustment.",
+            "Review cash, cards, customer aging and unpaid bills, then present consolidated profit and loss and balance sheet results with location exceptions. Maintain separate schedules for sales tax, purchase tax review and payroll liabilities. Investigate agency notices against the exact tax period rather than against the current month balance."
+          ],
+          "source_context": "General bookkeeping reference. The example and monthly routine are practical illustrations, not additional state requirements."
+        },
+        {
+          "heading": "Hypothetical Two Store Transfer",
+          "source_ids": [
+            "MS1"
+          ],
+          "paragraphs": [
+            "Hypothetical example: a Mississippi hardware business moves stock between two stores and later sells some items to a customer claiming an exemption. The bookkeeper preserves the transfer record separately from the customer invoice and links the customer exemption documentation to the actual sale. The example does not determine eligibility for any exemption."
+          ]
+        },
+        {
+          "heading": "Year End And Conflicting Retention Statements",
+          "source_ids": [
+            "MS1",
+            "MS2"
+          ],
+          "paragraphs": [
+            "Give the preparer location sales totals, inventory count adjustments, exemption evidence, asset schedules, payroll support and filed returns. Identify material purchase certificates and unresolved use tax questions separately so they receive substantive review.",
+            "The general DOR recordkeeping page states at least three years for business records, while its business FAQ specifies a minimum four year period in the sales record answer and at least three years in its withholding answer. Preserve sales records for at least four years while the discrepancy is resolved with DOR or a qualified adviser; do not present the shorter general statement as a safe sales destruction date. Other holds and record categories can require longer."
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "id": "MS1",
+          "title": "Mississippi Record Keeping And Document Retention",
+          "url": "https://www.dor.ms.gov/forms-resources/taxpayer-guidance/record-keeping-document-retention",
+          "claims": [
+            "Location records, exemption evidence, income and withholding documentation; general three year language."
+          ],
+          "checked_on": "2026-10-16",
+          "verification": "Official content inspected through web retrieval or current indexed official excerpts."
+        },
+        {
+          "id": "MS2",
+          "title": "Mississippi Business Tax FAQ",
+          "url": "https://www.dor.ms.gov/business/business-tax-frequently-asked-questions",
+          "claims": [
+            "Withholding registration and records, four year sales retention answer and three year withholding answer."
+          ],
+          "checked_on": "2026-10-16",
+          "verification": "Official content inspected through web retrieval or current indexed official excerpts."
+        },
+        {
+          "id": "MS3",
+          "title": "Mississippi Corporate Income And Franchise Taxes",
+          "url": "https://www.dor.ms.gov/business/corporate-income-and-franchise-tax",
+          "claims": [
+            "Distinct corporate, franchise and pass through reporting and payment resources."
+          ],
+          "checked_on": "2026-10-16",
+          "verification": "Official agency content inspected in current web results or retrieval."
+        },
+        {
+          "id": "MS4",
+          "title": "Mississippi 2025 Corporate Income And Franchise Tax Instructions",
+          "url": "https://www.dor.ms.gov/sites/default/files/tax-forms/business/2025%20CIT%20INSTRUCTIONS%2083-100%20-%20Final%20%2001.14.2026.pdf",
+          "claims": [
+            "Franchise phaseout by tax year and capital schedule context."
+          ],
+          "checked_on": "2026-10-16",
+          "verification": "Official current 24 page PDF retrieved successfully through web tool; page 3 verifies franchise phaseout through 2027, repeal in 2028 and capital basis."
+        },
+        {
+          "id": "MS5",
+          "title": "Mississippi MDES Quarterly Reporting",
+          "url": "https://mdes.ms.gov/employers/unemployment-tax/reporting-and-filing/quarterly-report-and-tax-due-dates/",
+          "claims": [
+            "Quarterly employer wage reports and unemployment tax payments."
+          ],
+          "checked_on": "2026-10-16",
+          "verification": "Official agency content inspected in current web results or retrieval."
+        },
+        {
+          "id": "MSBK",
+          "title": "IRS, Small Business Recordkeeping",
+          "url": "https://www.irs.gov/businesses/small-businesses-self-employed/recordkeeping",
+          "claims": [
+            "General support for income, expense and transaction documentation, financial statements and tax preparation. Not a state specific monthly reporting mandate."
+          ],
+          "checked_on": "2026-10-16",
+          "verification": "Official IRS page read. Hypothetical examples remain illustrative, not agency examples."
+        }
+      ],
+      "review_gaps": [
+        "Official DOR pages conflict on general versus sales retention; conservative four year sales preservation recommended pending qualified resolution. Special industries and workforce retention excluded."
+      ],
+      "quality_review": {
+        "reviewed_on": "2026-10-16",
+        "state_specificity": "Mississippi records must preserve each business location and the evidence supporting exempt sales; current agency retention statements need careful separation.",
+        "topic_coverage": [
+          "Sales and use tax or applicable alternative",
+          "Employer records",
+          "Accounts payable and vendor evidence",
+          "Income and expenses",
+          "Monthly financial reporting",
+          "Year end handoff",
+          "Retention by verified record type",
+          "Distinct hypothetical example",
+          "Actual business income or entity tax obligations",
+          "Employer unemployment contributions and reporting"
+        ],
+        "source_bounds": "Section references identify regulatory support. General accounting recommendations are practice suggestions, not additional state mandates. Added entity tax and unemployment sections identify applicable state obligations and the supporting reconciliation and handoff records.",
+        "originality": "Individually composed state discussion and hypothetical business scenario.",
+        "approval_status": "Owner approval and qualified factual review pending.",
+        "currency": "Income and entity tax and employer unemployment reporting separately checked October 16, 2026. No rate or filing deadline assumed.",
+        "review_depth": "Individual income and employer sections explain actual state taxes, conditional applicability, liability reconciliations and annual handoff evidence."
+      }
+    },
+    {
+      "state": "Missouri",
+      "code": "MO",
+      "slug": "missouri-bookkeeping",
+      "title": "Missouri Bookkeeping",
+      "description": "Missouri bookkeeping for sales and use records, active withholding accounts, annual wage evidence and tax audit preservation.",
+      "summary": "Missouri active withholding accounts require returns even during zero periods, and sales evidence should survive beyond the legal minimum when audit issues remain.",
+      "verified_on": "2026-10-16",
+      "status": "Local Draft Qualified Review Pending",
+      "notice": "General bookkeeping information. Last reviewed October 16, 2026. Confirm treatment with a qualified professional using current instructions and business facts.",
+      "sections": [
+        {
+          "heading": "Sales Records And Purchase Use Tax",
+          "source_ids": [
+            "MO1"
+          ],
+          "paragraphs": [
+            "Missouri sales instructions identify filed returns, working papers, sales invoices, exemption support, purchase invoices and asset schedules among the records to preserve. Keep the chart of accounts and customer references used to produce the return so totals remain understandable after a software change.",
+            "For payables, identify purchases used by the business separately from inventory for resale. Attach the supplier bill, delivery information, tax charged and payment. Uncertain tax treatment belongs on a use tax review schedule with the preparer decision recorded beside the original evidence."
+          ]
+        },
+        {
+          "heading": "Active Employer Accounts",
+          "source_ids": [
+            "MO2"
+          ],
+          "paragraphs": [
+            "Missouri requires an active withholding account to file Form MO-941 even when no tax is due. The current agency explanation also states that Missouri does not honor reciprocity agreements. Keep residence and actual service location evidence for review rather than assuming an employee living across a border qualifies for an exemption.",
+            "Use completed Missouri withholding certificates in payroll and preserve changes. Reconcile wage registers, withholding liability, payments and annual statements. When an account closes, save the closure request and final reporting evidence; a quiet payroll period does not explain a missing filing."
+          ]
+        },
+        {
+          "heading": "Business Income And Entity Tax Records",
+          "source_ids": [
+            "MO4"
+          ],
+          "paragraphs": [
+            "Missouri generally follows federal LLC income tax classification. A business treated as a corporation uses corporate reporting, while an S corporation generally files an informational return and its shareholders report their shares, subject to applicable exceptions and elections. Preserve classification and election evidence, owner percentages, Missouri source activity and the federal return reconciliation for review.",
+            "Do not treat every tax payment from the business bank account as corporate income tax expense. Identify whether it concerns the entity, an owner or nonresident member requirements, and retain the preparer treatment. At year end, provide member schedules, estimated payments, credits and any notices with the financial statements so income and owner reporting remain connected."
+          ]
+        },
+        {
+          "heading": "Vendor And Income Documentation",
+          "source_ids": [
+            "MOBK"
+          ],
+          "paragraphs": [
+            "A repair business should connect each supplier invoice to parts received, parts returned and the job using them. Separate installed parts from equipment retained by the shop. Retain supplier credit correspondence when a disputed item is settled after the original month closes.",
+            "Record customer payments against the invoice ledger and label deposits for future work. Owner contributions, equipment loans and insurance recoveries need their own source evidence. The resulting income statement should not depend on the bank feed guessing what a deposit represents."
+          ],
+          "source_context": "General bookkeeping reference. The example and monthly routine are practical illustrations, not additional state requirements."
+        },
+        {
+          "heading": "Unemployment Contributions And Wage Reports",
+          "source_ids": [
+            "MO5"
+          ],
+          "paragraphs": [
+            "Missouri DES requires individual wage reports each quarter. UInteract supports contribution and wage reporting and calculates total, excess and taxable wages from the submitted detail. Preserve accepted reports, payroll exports, assigned contribution rates and payments; the withholding filing at DOR does not replace the DES report.",
+            "Compare the UInteract totals with payroll and maintain a bridge explaining excess wages and corrections. Reconcile the contribution account to the ledger and retain any payment arrangement or notice with the quarter concerned. Give the preparer the annual contribution reconciliation, amended reports and remaining balance; a business unable to pay still needs to address its reporting duties."
+          ]
+        },
+        {
+          "heading": "Monthly Reporting And Agency Balances",
+          "source_ids": [
+            "MOBK"
+          ],
+          "paragraphs": [
+            "Reconcile operating accounts, credit cards, repair receivables, vendor balances and loans before producing statements. Review uncashed payroll checks and old customer credits with the owner. Explain cash collected for unfinished jobs under the accounting basis agreed with the preparer.",
+            "Maintain a liability rollforward for sales and use taxes and for each payroll tax. Compare ledger activity with MyTax Missouri filings and confirmations. A credit appearing on an agency account should be documented and reviewed before it is applied to a future return."
+          ],
+          "source_context": "General bookkeeping reference. The example and monthly routine are practical illustrations, not additional state requirements."
+        },
+        {
+          "heading": "Hypothetical Border Employee",
+          "source_ids": [
+            "MO2"
+          ],
+          "paragraphs": [
+            "Hypothetical example: a Missouri repair shop hires an employee who lives in Kansas and performs work at its Missouri premises. The bookkeeper preserves the residence, work location and withholding certificate, sends the facts to payroll review and does not mark the employee exempt solely because the address is outside Missouri. No specific tax amount is assumed."
+          ]
+        },
+        {
+          "heading": "Year End And Retention",
+          "source_ids": [
+            "MO1",
+            "MO3"
+          ],
+          "paragraphs": [
+            "Prepare the year end handoff with sales and purchase tax reconciliations, wage statements, open job deposits, inventory counts, asset and debt schedules and unresolved customer credits. Include amended returns and the reason for every material accounting adjustment.",
+            "Missouri identifies at least three years for sales and use tax records under section 144.320. DOR recommends five years or as long as necessary to establish that no liability exists for periods under audit, and extends the same guidance to corporate tax records. Distinguish that recommendation from the minimum; establish separate employer and federal retention schedules before deleting payroll evidence."
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "id": "MO1",
+          "title": "Missouri Sales Tax Detailed Instructions",
+          "url": "https://dor.mo.gov/forms/4789.pdf",
+          "claims": [
+            "Sales, purchase and asset record scope and three year minimum."
+          ],
+          "checked_on": "2026-10-16",
+          "verification": "Official content inspected through web retrieval or current indexed official excerpts."
+        },
+        {
+          "id": "MO2",
+          "title": "Missouri Maintain Employer Withholding",
+          "url": "https://dor.mo.gov/taxation/business/registration/small-business/maintain/withholding.html",
+          "claims": [
+            "Active account zero returns, Missouri certificate and no reciprocity agreements."
+          ],
+          "checked_on": "2026-10-16",
+          "verification": "Official content inspected through web retrieval or current indexed official excerpts."
+        },
+        {
+          "id": "MO3",
+          "title": "Missouri Tax Audit FAQ",
+          "url": "https://dor.mo.gov/faq/taxation/business/tax-audits.html",
+          "claims": [
+            "Three year statutory sales minimum and DOR five year or audit need recommendation; corporate records guidance."
+          ],
+          "checked_on": "2026-10-16",
+          "verification": "Official content inspected through web retrieval or current indexed official excerpts."
+        },
+        {
+          "id": "MO4",
+          "title": "Missouri Corporation Income FAQ",
+          "url": "https://dor.mo.gov/faq/taxation/business/corporation-income.html",
+          "claims": [
+            "LLC classification, corporation reporting and ordinary S corporation shareholder tax treatment."
+          ],
+          "checked_on": "2026-10-16",
+          "verification": "Official agency content inspected in current web results or retrieval."
+        },
+        {
+          "id": "MO5",
+          "title": "Missouri DES Quarterly Reports",
+          "url": "https://labor.mo.gov/des/employers/quarterly-reports",
+          "claims": [
+            "Quarterly individual wage reports, UInteract contribution calculation, reporting and payment separation."
+          ],
+          "checked_on": "2026-10-16",
+          "verification": "Official agency content inspected in current web results or retrieval."
+        },
+        {
+          "id": "MOBK",
+          "title": "IRS, Small Business Recordkeeping",
+          "url": "https://www.irs.gov/businesses/small-businesses-self-employed/recordkeeping",
+          "claims": [
+            "General support for income, expense and transaction documentation, financial statements and tax preparation. Not a state specific monthly reporting mandate."
+          ],
+          "checked_on": "2026-10-16",
+          "verification": "Official IRS page read. Hypothetical examples remain illustrative, not agency examples."
+        }
+      ],
+      "review_gaps": [
+        "Local tax sourcing, special district treatment, employer retention and worker classification need individual review."
+      ],
+      "quality_review": {
+        "reviewed_on": "2026-10-16",
+        "state_specificity": "Missouri active withholding accounts require returns even during zero periods, and sales evidence should survive beyond the legal minimum when audit issues remain.",
+        "topic_coverage": [
+          "Sales and use tax or applicable alternative",
+          "Employer records",
+          "Accounts payable and vendor evidence",
+          "Income and expenses",
+          "Monthly financial reporting",
+          "Year end handoff",
+          "Retention by verified record type",
+          "Distinct hypothetical example",
+          "Actual business income or entity tax obligations",
+          "Employer unemployment contributions and reporting"
+        ],
+        "source_bounds": "Section references identify regulatory support. General accounting recommendations are practice suggestions, not additional state mandates. Added entity tax and unemployment sections identify applicable state obligations and the supporting reconciliation and handoff records.",
+        "originality": "Individually composed state discussion and hypothetical business scenario.",
+        "approval_status": "Owner approval and qualified factual review pending.",
+        "currency": "Income and entity tax and employer unemployment reporting separately checked October 16, 2026. No rate or filing deadline assumed.",
+        "review_depth": "Individual income and employer sections explain actual state taxes, conditional applicability, liability reconciliations and annual handoff evidence."
+      }
+    },
+    {
+      "state": "Montana",
+      "code": "MT",
+      "slug": "montana-bookkeeping",
+      "title": "Montana Bookkeeping",
+      "description": "Montana bookkeeping for resale documentation, specialized taxes, annual payroll reconciliation and property record preservation.",
+      "summary": "Montana has no general sales tax, but resale paperwork, specialized taxes and employer accounts still require organized evidence.",
+      "verified_on": "2026-10-16",
+      "status": "Local Draft Qualified Review Pending",
+      "notice": "General bookkeeping information. Last reviewed October 16, 2026. Confirm treatment with a qualified professional using current instructions and business facts.",
+      "sections": [
+        {
+          "heading": "General Sales Tax And Resale Purchases",
+          "source_ids": [
+            "MT1"
+          ],
+          "paragraphs": [
+            "Montana does not have a general sales tax. Its Business Registry Resale Certificate can be provided to an outside vendor, but the vendor is not required to accept it and another state may require its own form. Preserve the certificate supplied and the delivery facts with the purchase.",
+            "A Montana address does not resolve taxes on transactions delivered or performed elsewhere. As a bookkeeping practice, retain customer destinations, travel and inventory locations for multistate review. Assess specialized activities such as lodging and resort operations with the appropriate professional before deciding which accounts are needed."
+          ]
+        },
+        {
+          "heading": "Annual Withholding Reconciliation",
+          "source_ids": [
+            "MT2",
+            "MT3"
+          ],
+          "paragraphs": [
+            "Montana requires a withholding account for businesses issuing Montana wages or specified wage and withholding statements. Every year an account remains open, an annual MW-3 reconciliation is required. The agency specifies wage statements for Montana wages even where no tax was withheld.",
+            "Keep worker instructions, payroll registers, payments and statement submission evidence. Reconcile the annual filing with the wage ledger before sending it to the preparer. Maintain unemployment and insurance records separately from income withholding, and preserve closure evidence if the last payroll ends an account."
+          ]
+        },
+        {
+          "heading": "Business Income And Entity Tax Records",
+          "source_ids": [
+            "MT5",
+            "MT6"
+          ],
+          "paragraphs": [
+            "Montana C corporations doing business in the state generally file a corporate income tax return, while federal S corporations use Montana pass through reporting. Eligible partnerships and S corporations can elect Montana pass through entity tax annually, with the election applying to affected owners. Preserve federal classification, annual election evidence, owner residence and distributive income schedules.",
+            "Reconcile corporate or elected entity tax estimates separately from owner distributions and wage withholding. For an elected entity, retain the designated representative record and calculation of Montana income allocated to affected owners. The year end package should connect payments, carryovers and member information with the return, including any change in ownership or an election affecting resident income."
+          ]
+        },
+        {
+          "heading": "Vendor And Income Evidence",
+          "source_ids": [
+            "MTBK"
+          ],
+          "paragraphs": [
+            "An outfitting business may buy resale merchandise, rental equipment and supplies for its own use from the same supplier. Describe each item and its purpose in the vendor record. Match the invoice with receiving evidence, any resale certificate and payment; preserve credit memoranda for returned stock.",
+            "Separate customer booking deposits from earned receipts under the agreed accounting basis. Keep borrowing, owner advances and refund transactions identifiable in the bank reconciliation. An equipment purchase needs acquisition and financing records so the preparer can determine basis and debt treatment."
+          ],
+          "source_context": "General bookkeeping reference. The example and monthly routine are practical illustrations, not additional state requirements."
+        },
+        {
+          "heading": "Unemployment Contributions And Wage Reports",
+          "source_ids": [
+            "MT7",
+            "MT8"
+          ],
+          "paragraphs": [
+            "Montana unemployment quarterly reports must be filed electronically under the current employer guidance. UI eServices supports reporting and contribution payments, while the employer assigned rate and excess wage calculation affect the tax. Preserve accepted wage files, rate notices and payment evidence independently from the revenue withholding reconciliation.",
+            "Compare UI gross and taxable wages with employee payroll histories, investigate an unexpected excess wage amount and document corrections by quarter. Reconcile the unemployment liability to agency balances before year end. If the employer uses reimbursement status instead of regular contributions, give the preparer the actual status election and benefit charge statements so the financial statements reflect the correct obligation."
+          ]
+        },
+        {
+          "heading": "Monthly Statements And Seasonal Cash",
+          "source_ids": [
+            "MTBK"
+          ],
+          "paragraphs": [
+            "Review bank balances, cards, booking deposits, supplier bills and equipment debt before preparing monthly statements. A seasonal business should show the amount of cash committed to future bookings and payroll alongside the profit and loss statement. Explain cancellations and refunds with their original reservation references.",
+            "Keep a calendar of the actual employer and specialized tax accounts assigned to the business. Match payments with the appropriate liability account and investigate notices before closing the month. A zero sales tax account is not evidence that every other state or local obligation has been evaluated."
+          ],
+          "source_context": "General bookkeeping reference. The example and monthly routine are practical illustrations, not additional state requirements."
+        },
+        {
+          "heading": "Hypothetical Resale Order",
+          "source_ids": [
+            "MT1"
+          ],
+          "paragraphs": [
+            "Hypothetical example: a Montana outdoor shop orders merchandise from a Washington supplier. The supplier requests Washington documentation instead of accepting the Montana resale certificate. The bookkeeper saves the request, shipment destination and completed paperwork, then refers unresolved treatment to the preparer. The scenario does not promise that the Montana form creates an exemption elsewhere."
+          ]
+        },
+        {
+          "heading": "Year End And Retention",
+          "source_ids": [
+            "MT4"
+          ],
+          "paragraphs": [
+            "Provide the preparer with annual sales and booking reconciliations, vendor totals, equipment additions and disposals, debts, MW-3 support and unresolved specialized tax questions. Preserve the descriptions behind resale stock and rental equipment classifications.",
+            "Montana DOR recommends keeping ordinary tax records through the limitation period, usually three years after the return was due or filed, whichever is later. Its property guidance calls for records during ownership and at least five years after reporting disposition; loss records should remain through the claim years and at least five years after the final claim. These income and property recommendations do not establish an employer record destruction schedule."
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "id": "MT1",
+          "title": "Montana Sales Tax Guidance",
+          "url": "https://revenue.mt.gov/taxes/general-sales-tax",
+          "claims": [
+            "No general sales tax and limits on outside vendor acceptance of Montana resale certificate."
+          ],
+          "checked_on": "2026-10-16",
+          "verification": "Official content inspected through web retrieval or current indexed official excerpts."
+        },
+        {
+          "id": "MT2",
+          "title": "Montana Withholding Accounts",
+          "url": "https://revenue.mt.gov/taxes/withholding-tax/accounts",
+          "claims": [
+            "Account opening and closing requirements."
+          ],
+          "checked_on": "2026-10-16",
+          "verification": "Official content inspected through web retrieval or current indexed official excerpts."
+        },
+        {
+          "id": "MT3",
+          "title": "Montana Wage Withholding Returns And Payments",
+          "url": "https://revenue.mt.gov/taxes/withholding-tax/wage-withholding-returns-and-payments",
+          "claims": [
+            "Annual MW-3 for open accounts and required Montana wage statements."
+          ],
+          "checked_on": "2026-10-16",
+          "verification": "Official content inspected through web retrieval or current indexed official excerpts."
+        },
+        {
+          "id": "MT4",
+          "title": "Montana Tax Record Preservation",
+          "url": "https://revenue.mt.gov/taxes/tax-records",
+          "claims": [
+            "Ordinary tax limitation period, extended cases, property and loss preservation recommendations."
+          ],
+          "checked_on": "2026-10-16",
+          "verification": "Official content inspected through web retrieval or current indexed official excerpts."
+        },
+        {
+          "id": "MT5",
+          "title": "Montana Corporate Income Tax",
+          "url": "https://www.revenue.mt.gov/taxes/corporate-income-tax",
+          "claims": [
+            "C corporation filing and federal S corporation Montana pass through reporting."
+          ],
+          "checked_on": "2026-10-16",
+          "verification": "Official agency content inspected in current web results or retrieval."
+        },
+        {
+          "id": "MT6",
+          "title": "Montana Elective Entity Tax",
+          "url": "https://www.revenue.mt.gov/taxes/pass-through-entities/pass-through-entity-tax",
+          "claims": [
+            "Annual PTET election, representative, affected owners and allocated income."
+          ],
+          "checked_on": "2026-10-16",
+          "verification": "Official agency content inspected in current web results or retrieval."
+        },
+        {
+          "id": "MT7",
+          "title": "Montana UI Employer Resources",
+          "url": "https://uid.dli.mt.gov/employers/",
+          "claims": [
+            "Quarterly UI electronic reporting requirement, employer rates and contribution payment workflow."
+          ],
+          "checked_on": "2026-10-16",
+          "verification": "Official agency content inspected in current web results or retrieval."
+        },
+        {
+          "id": "MT8",
+          "title": "Montana Reimbursable Employers",
+          "url": "https://uid.dli.mt.gov/employers/reimbursable-employers",
+          "claims": [
+            "Reimbursement status distinct from regular employer contributions and quarterly wage reporting."
+          ],
+          "checked_on": "2026-10-16",
+          "verification": "Official agency content inspected in current web results."
+        },
+        {
+          "id": "MTBK",
+          "title": "IRS, Small Business Recordkeeping",
+          "url": "https://www.irs.gov/businesses/small-businesses-self-employed/recordkeeping",
+          "claims": [
+            "General support for income, expense and transaction documentation, financial statements and tax preparation. Not a state specific monthly reporting mandate."
+          ],
+          "checked_on": "2026-10-16",
+          "verification": "Official IRS page read. Hypothetical examples remain illustrative, not agency examples."
+        }
+      ],
+      "review_gaps": [
+        "Current employer withholding and unemployment retention must be independently confirmed. Proposed rule text was excluded as proof of a current rule."
+      ],
+      "quality_review": {
+        "reviewed_on": "2026-10-16",
+        "state_specificity": "Montana has no general sales tax, but resale paperwork, specialized taxes and employer accounts still require organized evidence.",
+        "topic_coverage": [
+          "Sales and use tax or applicable alternative",
+          "Employer records",
+          "Accounts payable and vendor evidence",
+          "Income and expenses",
+          "Monthly financial reporting",
+          "Year end handoff",
+          "Retention by verified record type",
+          "Distinct hypothetical example",
+          "Actual business income or entity tax obligations",
+          "Employer unemployment contributions and reporting"
+        ],
+        "source_bounds": "Section references identify regulatory support. General accounting recommendations are practice suggestions, not additional state mandates. Added entity tax and unemployment sections identify applicable state obligations and the supporting reconciliation and handoff records.",
+        "originality": "Individually composed state discussion and hypothetical business scenario.",
+        "approval_status": "Owner approval and qualified factual review pending.",
+        "currency": "Income and entity tax and employer unemployment reporting separately checked October 16, 2026. No rate or filing deadline assumed.",
+        "review_depth": "Individual income and employer sections explain actual state taxes, conditional applicability, liability reconciliations and annual handoff evidence."
+      }
+    },
+    {
+      "state": "Nebraska",
+      "code": "NE",
+      "slug": "nebraska-bookkeeping",
+      "title": "Nebraska Bookkeeping",
+      "description": "Nebraska bookkeeping for delivery records, purchase use tax, separate state wages and retention tied to filed returns.",
+      "summary": "Nebraska reporting needs delivery evidence for sales tax and separately identified Nebraska wages in payroll records.",
+      "verified_on": "2026-10-16",
+      "status": "Local Draft Qualified Review Pending",
+      "notice": "General bookkeeping information. Last reviewed October 16, 2026. Confirm treatment with a qualified professional using current instructions and business facts.",
+      "sections": [
+        {
+          "heading": "Sales, Delivery And Purchase Use Tax",
+          "source_ids": [
+            "NE1"
+          ],
+          "paragraphs": [
+            "Nebraska sales regulations generally locate a sale where the purchaser takes delivery. Keep the actual receiving address and item description with each invoice. The record rules require books, supporting documents, return workpapers and exemption evidence, including support for deductions from gross receipts.",
+            "In payables, retain invoices showing where goods or services are used and the sales tax already paid. Route purchases without tax to a use tax review schedule. Document the preparer decision and any credit for tax properly paid elsewhere rather than assuming an outside supplier means the purchase is exempt."
+          ]
+        },
+        {
+          "heading": "Payroll Records And Employee Statements",
+          "source_ids": [
+            "NE2"
+          ],
+          "paragraphs": [
+            "Nebraska withholding rules call for Nebraska wages and withholding to be stated separately from amounts for other jurisdictions on payroll records furnished to employees. Preserve work allocation information, wage registers and employee instructions so the payroll professional can support the separation.",
+            "Reconcile the annual withholding submission with periodic filings, wage statements and bank payments. Save complete, legible copies and submission confirmations. Keep unemployment obligations distinct from income withholding, and investigate payroll provider adjustments against the original pay period."
+          ]
+        },
+        {
+          "heading": "Business Income And Entity Tax Records",
+          "source_ids": [
+            "NE4",
+            "NE5"
+          ],
+          "paragraphs": [
+            "Nebraska corporate income tax generally concerns entities taxed federally as corporations with Nebraska source income, subject to exceptions. S corporations and partnerships have their own reporting, and eligible entities may elect Nebraska pass through entity tax. Keep federal classification, Nebraska income and owner schedules, election documentation and state source activity available for the preparer.",
+            "An eligible entity makes a separate PTET election for each year, and the election for that year is binding. Reconcile entity payments and member credits with that specific year instead of assuming a prior election carries forward. At year end, include owner changes, nonresident information, incentive credit support and tax estimates alongside the trial balance; a bank payment does not itself establish that the return election was completed."
+          ]
+        },
+        {
+          "heading": "Income, Inventory And Supplier Documents",
+          "source_ids": [
+            "NE3"
+          ],
+          "paragraphs": [
+            "Nebraska income rules require records sufficient to establish gross income, deductions and credits. A farm related business should preserve beginning stock, purchases, sales and count adjustments alongside the general ledger. Keep any claim for a special treatment attached to the actual item and business use.",
+            "As a practical control, identify financing receipts and owner funds separately from operating revenue. Vendor bills should connect to purchase approval, receiving evidence and payment. Track asset acquisitions and improvements independently from routine repairs for the tax preparer decision."
+          ]
+        },
+        {
+          "heading": "Unemployment Contributions And Wage Reports",
+          "source_ids": [
+            "NE6"
+          ],
+          "paragraphs": [
+            "Nebraska Department of Labor administers unemployment tax accounts and provides NEworks functions for tax and wage reports and payments. Keep the NDOL account, employee wage detail and contribution notices separate from Department of Revenue withholding records. Save the accepted report and payment confirmation for each required period.",
+            "Compare reported wages with payroll, preserve the reason for any coverage or taxable wage difference and reconcile contributions to the ledger. Maintain an amendment log that identifies the affected workers and quarter. Give the preparer the year end unemployment balance and outstanding tax notices as well as the wage history needed to review the next contribution rate."
+          ]
+        },
+        {
+          "heading": "Monthly Reporting And Use Tax Review",
+          "source_ids": [
+            "NEBK"
+          ],
+          "paragraphs": [
+            "A monthly close should reconcile cash, credit cards, customer balances, unpaid bills and debt before presenting financial statements. Review deposits for future deliveries and unrecorded supplier bills with the owner. Explain material seasonality in the income statement and cash needs.",
+            "Keep a purchase tax review register with vendor, use location, amount, tax already paid and decision. Compare the completed tax workpapers with ledger liabilities and filing acknowledgments. An unresolved purchase should remain visible even when the bank reconciles."
+          ],
+          "source_context": "General bookkeeping reference. The example and monthly routine are practical illustrations, not additional state requirements."
+        },
+        {
+          "heading": "Hypothetical Delivery Change",
+          "source_ids": [
+            "NE1"
+          ],
+          "paragraphs": [
+            "Hypothetical example: a Nebraska equipment dealer accepts an order for customer pickup, but later delivers it to a different Nebraska location. The bookkeeper retains the changed order and proof of delivery and asks the preparer to review the tax sourcing before final reporting. A billing address alone is not substituted for the actual transaction facts."
+          ]
+        },
+        {
+          "heading": "Year End And Distinct Retention Rules",
+          "source_ids": [
+            "NE1",
+            "NE2",
+            "NE3"
+          ],
+          "paragraphs": [
+            "Prepare the handoff with sales by delivery location, exemption support, purchase tax decisions, inventory adjustments, assets, loans and payroll reconciliations. Include open deficiency notices and unresolved credits so the preparer knows which periods remain unsettled.",
+            "Sales rule 008.07 requires at least three years after filing and preservation while relevant refund or redetermination matters remain pending. Withholding rule 013.05 requires employer filed forms and employee documents for at least three years, with unresolved notices extending preservation. Income records remain needed while material to tax administration and unresolved deficiencies. These rules do not authorize destroying property basis evidence merely because three years passed."
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "id": "NE1",
+          "title": "Nebraska Chapter 1 Sales And Use Tax",
+          "url": "https://revenue.nebraska.gov/about/chapter-1-sales-and-use-tax",
+          "claims": [
+            "Delivery sourcing, purchase use tax, required records and three years after filing with pending matter exceptions."
+          ],
+          "checked_on": "2026-10-16",
+          "verification": "Official content inspected through web retrieval or current indexed official excerpts."
+        },
+        {
+          "id": "NE2",
+          "title": "Nebraska Chapter 21 Withholding",
+          "url": "https://revenue.nebraska.gov/about/chapter-21-income-tax-withholding",
+          "claims": [
+            "Separate Nebraska wage figures and employer forms retention with unresolved notice exception."
+          ],
+          "checked_on": "2026-10-16",
+          "verification": "Official content inspected through web retrieval or current indexed official excerpts."
+        },
+        {
+          "id": "NE3",
+          "title": "Nebraska Chapter 22 Income Tax",
+          "url": "https://revenue.nebraska.gov/about/legal-information/regulations/chapter-22-individual-income-tax",
+          "claims": [
+            "Income evidence and records needed while material or deficiency remains unresolved."
+          ],
+          "checked_on": "2026-10-16",
+          "verification": "Official content inspected through web retrieval or current indexed official excerpts."
+        },
+        {
+          "id": "NE4",
+          "title": "Nebraska Business Income Tax FAQ",
+          "url": "https://revenue.nebraska.gov/about/frequently-asked-questions/business-income-tax-faqs",
+          "claims": [
+            "Corporate income tax and separate S corporation, partnership and LLC reporting."
+          ],
+          "checked_on": "2026-10-16",
+          "verification": "Official agency content inspected in current web results or retrieval."
+        },
+        {
+          "id": "NE5",
+          "title": "Nebraska PTET FAQ",
+          "url": "https://revenue.nebraska.gov/about/frequently-asked-questions/pass-through-entity-tax-faqs",
+          "claims": [
+            "Annual entity election, binding year specific treatment and reporting support."
+          ],
+          "checked_on": "2026-10-16",
+          "verification": "Official agency content inspected in current web results or retrieval."
+        },
+        {
+          "id": "NE6",
+          "title": "Nebraska Unemployment Tax",
+          "url": "https://dol.nebraska.gov/uitax",
+          "claims": [
+            "Separate NDOL employer account, NEworks tax and wage reporting and contribution payment tools."
+          ],
+          "checked_on": "2026-10-16",
+          "verification": "Official agency content inspected in current web results or retrieval."
+        },
+        {
+          "id": "NEBK",
+          "title": "IRS, Small Business Recordkeeping",
+          "url": "https://www.irs.gov/businesses/small-businesses-self-employed/recordkeeping",
+          "claims": [
+            "General support for income, expense and transaction documentation, financial statements and tax preparation. Not a state specific monthly reporting mandate."
+          ],
+          "checked_on": "2026-10-16",
+          "verification": "Official IRS page read. Hypothetical examples remain illustrative, not agency examples."
+        }
+      ],
+      "review_gaps": [
+        "Industry exemptions, workforce retention and local rate conclusions require review; no numeric rate or deadline asserted."
+      ],
+      "quality_review": {
+        "reviewed_on": "2026-10-16",
+        "state_specificity": "Nebraska reporting needs delivery evidence for sales tax and separately identified Nebraska wages in payroll records.",
+        "topic_coverage": [
+          "Sales and use tax or applicable alternative",
+          "Employer records",
+          "Accounts payable and vendor evidence",
+          "Income and expenses",
+          "Monthly financial reporting",
+          "Year end handoff",
+          "Retention by verified record type",
+          "Distinct hypothetical example",
+          "Actual business income or entity tax obligations",
+          "Employer unemployment contributions and reporting"
+        ],
+        "source_bounds": "Section references identify regulatory support. General accounting recommendations are practice suggestions, not additional state mandates. Added entity tax and unemployment sections identify applicable state obligations and the supporting reconciliation and handoff records.",
+        "originality": "Individually composed state discussion and hypothetical business scenario.",
+        "approval_status": "Owner approval and qualified factual review pending.",
+        "currency": "Income and entity tax and employer unemployment reporting separately checked October 16, 2026. No rate or filing deadline assumed.",
+        "review_depth": "Individual income and employer sections explain actual state taxes, conditional applicability, liability reconciliations and annual handoff evidence."
+      }
+    },
+    {
+      "state": "Nevada",
+      "code": "NV",
+      "slug": "nevada-bookkeeping",
+      "title": "Nevada Bookkeeping",
+      "description": "Nevada bookkeeping for county sales records, purchase use tax, Modified Business Tax payroll and Commerce Tax evidence.",
+      "summary": "Nevada combines sales and use reporting with a payroll based Modified Business Tax and a separate gross revenue Commerce Tax review.",
+      "verified_on": "2026-10-16",
+      "status": "Local Draft Qualified Review Pending",
+      "notice": "General bookkeeping information. Last reviewed October 16, 2026. Confirm treatment with a qualified professional using current instructions and business facts.",
+      "sections": [
+        {
+          "heading": "Sales And County Purchase Records",
+          "source_ids": [
+            "NV1"
+          ],
+          "paragraphs": [
+            "Nevada sales and use taxes cover taxable tangible property transactions. Consumer use tax complements sales tax when taxable property is used, stored or consumed in Nevada without the applicable sales tax paid. Keep the invoice description and use or delivery county for review.",
+            "Link sales, returns, resale support and purchase invoices with the reporting period. A vendor bill lacking tax should enter the purchase review register. Preserve equipment delivery evidence and separate items bought for resale from items retained for company use."
+          ]
+        },
+        {
+          "heading": "Modified Business Tax And Employer Wages",
+          "source_ids": [
+            "NV2"
+          ],
+          "paragraphs": [
+            "Nevada Modified Business Tax is based on payroll, with different employer categories and exceptions. The agency ties gross wages to the quarterly wages reported to the Employment Security Division and identifies eligible employer paid health benefits in the calculation. Preserve the wage comparison and benefit evidence.",
+            "Reconcile gross wages, employee deductions and employer costs before reviewing the MBT return. Keep unemployment reporting and MBT schedules separately identifiable even when they use the same underlying wage register. Do not assume a tax account registration creates every other required account."
+          ]
+        },
+        {
+          "heading": "Business Income And Entity Tax Records",
+          "source_ids": [
+            "NV5"
+          ],
+          "paragraphs": [
+            "Nevada business tax review should identify Commerce Tax applicability and any payroll based Modified Business Tax rather than assuming an ordinary state net income return describes the obligation. Commerce Tax depends on Nevada gross revenue and industry, with exclusions and threshold rules requiring actual entity facts. Preserve the federal classification and ownership chart with Nevada revenue sourcing support.",
+            "Where Commerce Tax applies, prepare a separate annual bridge from revenue per books to the reported Nevada revenue base. Keep deduction decisions and any Commerce Tax credit used against Modified Business Tax with both return files. At year end, the preparer needs gross receipts detail and credit utilization records as well as net profit; federal income tax and other jurisdictions still require their own analysis."
+          ]
+        },
+        {
+          "heading": "Commerce Tax And Revenue Classification",
+          "source_ids": [
+            "NV3"
+          ],
+          "paragraphs": [
+            "Nevada Commerce Tax uses Nevada gross revenue and industry classification, with an annual filing threshold. Retain revenue by business activity and the evidence for where receipts are assigned. Have the preparer evaluate the current threshold and exclusions using the actual entity facts.",
+            "For management accounting, customer deposits, operating receipts, borrowings and owner contributions should remain distinct. Accounts payable should preserve the vendor invoice, business purpose, payment and any capitalization decision. An expense recognized in the profit and loss statement does not automatically reduce a gross revenue tax base."
+          ]
+        },
+        {
+          "heading": "Unemployment Contributions And Wage Reports",
+          "source_ids": [
+            "NV6"
+          ],
+          "paragraphs": [
+            "Nevada DETR requires covered employers to report and pay unemployment contributions through its employer workflow, distinct from Modified Business Tax at the Department of Taxation. The quarterly contribution and wage report uses individual gross wages and tips. Save the employer contribution rate notice, wage submission and payment acknowledgment from the current employer service.",
+            "Reconcile unemployment report wages to the payroll register and separately bridge those wages to MBT calculations, including any difference attributable to the MBT benefit deduction. An early wage response requested for a benefit claim does not replace the normal quarterly report. Include all quarterly submissions, corrections and outstanding unemployment balances in the annual handoff."
+          ]
+        },
+        {
+          "heading": "Monthly Reports And Tax Bridges",
+          "source_ids": [
+            "NVBK"
+          ],
+          "paragraphs": [
+            "Reconcile bank accounts, card settlements, supplier balances and equipment debt before issuing monthly statements. Keep county sales totals linked to gross receipts and tax liabilities, with processing fees shown separately. Explain outstanding customer deposits and inventory differences beside the balance sheet.",
+            "Maintain a quarterly wage bridge for MBT and unemployment, plus a separate annual revenue bridge for Commerce Tax review. This allows the owner to understand why a profitable month, a large payroll and a gross revenue threshold measure different things. Keep preparer adjustments documented by period."
+          ],
+          "source_context": "General bookkeeping reference. The example and monthly routine are practical illustrations, not additional state requirements."
+        },
+        {
+          "heading": "Hypothetical Health Benefit Adjustment",
+          "source_ids": [
+            "NV2"
+          ],
+          "paragraphs": [
+            "Hypothetical example: a Nevada shop pays a health insurance invoice covering several employees and later receives a credit. The bookkeeper saves the coverage details, payment and credit, then gives payroll specialists the facts needed to evaluate the MBT health benefit treatment. The example assumes neither deductibility nor a specific tax saving."
+          ]
+        },
+        {
+          "heading": "Year End And Preservation",
+          "source_ids": [
+            "NV4"
+          ],
+          "paragraphs": [
+            "At year end, supply reconciled statements, sales and use workpapers, wage comparisons, benefit support, industry revenue detail, asset records and all relevant agency acknowledgments. Keep tax account notices with their original periods and unresolved credits on a separate schedule.",
+            "Nevada DOR audit guidance states a four year minimum for registered business records and eight years for an unregistered business in the sales and use context. Preserve invoices, return workpapers, exemption documents and system exports accordingly, with longer holds where required. The usual audit lookback is not the same as the preservation minimum, and other tax or employment categories need separate review."
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "id": "NV1",
+          "title": "Nevada Sales And Use Tax",
+          "url": "https://tax.nv.gov/tax-types/sales-tax-use-tax/",
+          "claims": [
+            "Sales and use tax on tangible property, consumer use tax and county reporting."
+          ],
+          "checked_on": "2026-10-16",
+          "verification": "Official content inspected through web retrieval or current indexed official excerpts."
+        },
+        {
+          "id": "NV2",
+          "title": "Nevada Modified Business Tax",
+          "url": "https://tax.nv.gov/tax-types/modified-business-tax/",
+          "claims": [
+            "Payroll basis, wage comparison, employer categories and health benefits."
+          ],
+          "checked_on": "2026-10-16",
+          "verification": "Official content inspected through web retrieval or current indexed official excerpts."
+        },
+        {
+          "id": "NV3",
+          "title": "Nevada Commerce Tax",
+          "url": "https://tax.nv.gov/tax-types/commerce-tax/",
+          "claims": [
+            "Nevada gross revenue, industry categories and annual threshold."
+          ],
+          "checked_on": "2026-10-16",
+          "verification": "Official content inspected through web retrieval or current indexed official excerpts."
+        },
+        {
+          "id": "NV4",
+          "title": "Nevada Audit FAQ",
+          "url": "https://tax.nv.gov/faqs/audits/",
+          "claims": [
+            "Four year registered and eight year unregistered records preservation and audit record scope."
+          ],
+          "checked_on": "2026-10-16",
+          "verification": "Official content inspected through web retrieval or current indexed official excerpts."
+        },
+        {
+          "id": "NV5",
+          "title": "Nevada Commerce Tax And MBT Credit FAQ",
+          "url": "https://tax.nv.gov/faqs/commerce-tax-faqs/",
+          "claims": [
+            "Commerce gross revenue tax applicability and qualified credit against MBT."
+          ],
+          "checked_on": "2026-10-16",
+          "verification": "Official agency content inspected in current web results or retrieval."
+        },
+        {
+          "id": "NV6",
+          "title": "Nevada DETR Employer UI Information",
+          "url": "https://detr.nv.gov/Page/UI_Information_for_Employers",
+          "claims": [
+            "Quarterly unemployment wage and contribution reporting and early wage request distinction."
+          ],
+          "checked_on": "2026-10-16",
+          "verification": "Official agency content inspected in current web results or retrieval."
+        },
+        {
+          "id": "NVBK",
+          "title": "IRS, Small Business Recordkeeping",
+          "url": "https://www.irs.gov/businesses/small-businesses-self-employed/recordkeeping",
+          "claims": [
+            "General support for income, expense and transaction documentation, financial statements and tax preparation. Not a state specific monthly reporting mandate."
+          ],
+          "checked_on": "2026-10-16",
+          "verification": "Official IRS page read. Hypothetical examples remain illustrative, not agency examples."
+        }
+      ],
+      "review_gaps": [
+        "Commerce Tax credit, MBT deductions, thresholds, worker status and non sales retention require specialist determination."
+      ],
+      "quality_review": {
+        "reviewed_on": "2026-10-16",
+        "state_specificity": "Nevada combines sales and use reporting with a payroll based Modified Business Tax and a separate gross revenue Commerce Tax review.",
+        "topic_coverage": [
+          "Sales and use tax or applicable alternative",
+          "Employer records",
+          "Accounts payable and vendor evidence",
+          "Income and expenses",
+          "Monthly financial reporting",
+          "Year end handoff",
+          "Retention by verified record type",
+          "Distinct hypothetical example",
+          "Actual business income or entity tax obligations",
+          "Employer unemployment contributions and reporting"
+        ],
+        "source_bounds": "Section references identify regulatory support. General accounting recommendations are practice suggestions, not additional state mandates. Added entity tax and unemployment sections identify applicable state obligations and the supporting reconciliation and handoff records.",
+        "originality": "Individually composed state discussion and hypothetical business scenario.",
+        "approval_status": "Owner approval and qualified factual review pending.",
+        "currency": "Income and entity tax and employer unemployment reporting separately checked October 16, 2026. No rate or filing deadline assumed.",
+        "review_depth": "Individual income and employer sections explain actual state taxes, conditional applicability, liability reconciliations and annual handoff evidence."
+      }
+    },
+    {
+      "state": "New Hampshire",
+      "code": "NH",
+      "slug": "new-hampshire-bookkeeping",
+      "title": "New Hampshire Bookkeeping",
+      "description": "New Hampshire bookkeeping for business profits and enterprise taxes, hospitality records, employer evidence and retention.",
+      "summary": "New Hampshire has no general sales tax, but business profits, enterprise value and hospitality activity need distinct accounting support.",
+      "verified_on": "2026-10-16",
+      "status": "Local Draft Qualified Review Pending",
+      "notice": "General bookkeeping information. Last reviewed October 16, 2026. Confirm treatment with a qualified professional using current instructions and business facts.",
+      "sections": [
+        {
+          "heading": "General Sales And Hospitality Activity",
+          "source_ids": [
+            "NH1",
+            "NH2"
+          ],
+          "paragraphs": [
+            "New Hampshire has no general sales tax on goods purchased in the state. That statement does not eliminate the separate Meals and Rentals tax or another state tax where a transaction reaches another jurisdiction. Retain sales destinations and the exact activity description for professional review.",
+            "A lodging or food business should preserve room, meal, rental and refund detail separately from other receipts. Save vendor invoices and receiving evidence for all purchases. A New Hampshire supplier address should not be used to decide an outside jurisdiction obligation without the actual delivery and use facts."
+          ]
+        },
+        {
+          "heading": "Business Profits And Enterprise Value",
+          "source_ids": [
+            "NH3"
+          ],
+          "paragraphs": [
+            "New Hampshire Business Profits Tax and Business Enterprise Tax measure different bases. The agency describes enterprise value using compensation, interest and dividends, while business profits concerns taxable business profits. Maintain separate schedules so a preparer can evaluate applicability and available credits.",
+            "As a bookkeeping practice, distinguish operating expense, debt interest, owner distributions and compensation in the ledger. A company showing a small accounting profit can still need enterprise tax review. Retain the tax professional calculation and reconciliation rather than posting an unexplained annual tax adjustment."
+          ]
+        },
+        {
+          "heading": "Business Income And Entity Tax Records",
+          "source_ids": [
+            "NH6"
+          ],
+          "paragraphs": [
+            "New Hampshire business profits and enterprise taxes have independent applicability tests and bases; the absence of general sales tax does not resolve them. Enterprise value includes compensation, interest and dividends, while taxable business profits uses the business tax computation. Keep gross receipts, entity ownership, federal classification and state activity evidence for the preparer eligibility review.",
+            "Maintain schedules of owner compensation, interest and distributions with source documents, and retain business tax estimates and any enterprise tax credit used against profits tax. At year end, reconcile the two tax calculations and all payments rather than applying one flat percentage to accounting profit. A change in legal form or operating locations belongs in the handoff because it can affect return preparation and allocation."
+          ]
+        },
+        {
+          "heading": "Employer And Vendor Records",
+          "source_ids": [
+            "NH4",
+            "NH5"
+          ],
+          "paragraphs": [
+            "New Hampshire business record rules include payroll, paid and unpaid vendor invoices, bank records and contracts. State labor guidance identifies unemployment coverage as a separate employer question. Maintain wage registers, approved hours, work locations and worker agreements so payroll specialists can assess the actual relationships.",
+            "Reconcile payroll deductions and employer charges to payments and reporting confirmations. For accounts payable, link supplier bills to services or goods received, approvals and credits. A contractor invoice should describe the engagement, but its label does not by itself establish independent contractor status."
+          ]
+        },
+        {
+          "heading": "Unemployment Contributions And Wage Reports",
+          "source_ids": [
+            "NH7"
+          ],
+          "paragraphs": [
+            "Liable New Hampshire employers must file a quarterly tax and wage report and pay unemployment contributions, including a report when no wages were paid. NH Employment Security separately identifies gross, excess and taxable wages. Keep its employer account, assigned rate and accepted wage detail independent from business enterprise compensation schedules.",
+            "Compare reported worker wages with the payroll register, explain annual wage base differences and preserve corrections on the appropriate adjustment records. Reconcile contributions, payments and account credits before preparing year end statements. Include zero quarter confirmations and any closure or suspension communication so a temporary business shutdown does not leave an unexplained missing report."
+          ]
+        },
+        {
+          "heading": "Monthly Financial Statements",
+          "source_ids": [
+            "NHBK"
+          ],
+          "paragraphs": [
+            "For a hospitality business, compare booking system activity with deposits, refunds and cash settlements before preparing financial statements. Review advance bookings and amounts still owed to suppliers. Explain why current cash can include payments for services scheduled in a later period.",
+            "Maintain a monthly bridge from the ledger to the business profits and enterprise value schedules. Preserve separate information on compensation, financing costs and distributions so annual tax work can use the books directly. Review bank reconciliations, receivables, payables and debt with the owner."
+          ],
+          "source_context": "General bookkeeping reference. The example and monthly routine are practical illustrations, not additional state requirements."
+        },
+        {
+          "heading": "Hypothetical Workshop And Guest Rooms",
+          "source_ids": [
+            "NH2",
+            "NH3"
+          ],
+          "paragraphs": [
+            "Hypothetical example: a New Hampshire woodworking business adds guest rooms above its studio. The bookkeeper creates distinct receipt categories for merchandise, room stays and customer deposits, preserves booking and refund records and asks the preparer to review hospitality tax registration. The general absence of sales tax is not treated as an exemption for room receipts."
+          ]
+        },
+        {
+          "heading": "Year End And Retention",
+          "source_ids": [
+            "NH2",
+            "NH4"
+          ],
+          "paragraphs": [
+            "Give the preparer annual statements, compensation and interest schedules, distribution records, hospitality reports, assets, loans and outstanding notices. Preserve filing versions and any credit carryforward calculations so next year begins with supported balances.",
+            "Rev 308.01 requires business profits records for at least three years from filing or through completion of audits, administrative appeals and judicial proceedings. Meals and Rentals operator records have a separate three year rule under RSA 78-A:19. Employer unemployment, federal tax, property basis and unresolved claims can need other periods, so do not apply the business profits minimum to every file."
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "id": "NH1",
+          "title": "New Hampshire Sales Tax FAQ",
+          "url": "https://www.revenue.nh.gov/faq/does-new-hampshire-have-sales-tax",
+          "claims": [
+            "No general sales tax on goods."
+          ],
+          "checked_on": "2026-10-16",
+          "verification": "Official content inspected through web retrieval or current indexed official excerpts."
+        },
+        {
+          "id": "NH2",
+          "title": "New Hampshire RSA 78-A:19",
+          "url": "https://www.gc.nh.gov/rsa/html/V/78-A/78-A-19.htm",
+          "claims": [
+            "Meals and Rentals operator books and three year preservation."
+          ],
+          "checked_on": "2026-10-16",
+          "verification": "Official content inspected through web retrieval or current indexed official excerpts."
+        },
+        {
+          "id": "NH3",
+          "title": "New Hampshire Business Taxes",
+          "url": "https://www.revenue.nh.gov/taxes-glance/business-taxes",
+          "claims": [
+            "Distinct Business Profits and Business Enterprise bases and credit relationship."
+          ],
+          "checked_on": "2026-10-16",
+          "verification": "Official content inspected through web retrieval or current indexed official excerpts."
+        },
+        {
+          "id": "NH4",
+          "title": "New Hampshire Rev 300",
+          "url": "https://www.gc.nh.gov/rules/state_agencies/rev300.html",
+          "claims": [
+            "Current 2025 adopted business record scope and three years from filing with proceedings exception."
+          ],
+          "checked_on": "2026-10-16",
+          "verification": "Official content inspected through web retrieval or current indexed official excerpts."
+        },
+        {
+          "id": "NH5",
+          "title": "New Hampshire Labor Worker Classification",
+          "url": "https://www.nh.gov/labor/documents/misclassification.pdf",
+          "claims": [
+            "Unemployment coverage and worker classification facts."
+          ],
+          "checked_on": "2026-10-16",
+          "verification": "Official content inspected through web retrieval or current indexed official excerpts."
+        },
+        {
+          "id": "NH6",
+          "title": "New Hampshire Business Taxes",
+          "url": "https://www.revenue.nh.gov/taxes-glance/business-taxes",
+          "claims": [
+            "Distinct business profits and enterprise tax bases and credit relationship."
+          ],
+          "checked_on": "2026-10-16",
+          "verification": "Official agency content inspected in current web results or retrieval."
+        },
+        {
+          "id": "NH7",
+          "title": "New Hampshire Quarterly Tax And Wage Report",
+          "url": "https://www.nhes.nh.gov/forms/documents/quarterly-tax-wage-report.pdf",
+          "claims": [
+            "Liable employer quarterly reports and contributions, zero reporting and gross, excess and taxable wages."
+          ],
+          "checked_on": "2026-10-16",
+          "verification": "Official agency content inspected in current web results or retrieval."
+        },
+        {
+          "id": "NHBK",
+          "title": "IRS, Small Business Recordkeeping",
+          "url": "https://www.irs.gov/businesses/small-businesses-self-employed/recordkeeping",
+          "claims": [
+            "General support for income, expense and transaction documentation, financial statements and tax preparation. Not a state specific monthly reporting mandate."
+          ],
+          "checked_on": "2026-10-16",
+          "verification": "Official IRS page read. Hypothetical examples remain illustrative, not agency examples."
+        }
+      ],
+      "review_gaps": [
+        "Employer unemployment retention and hospitality classification need separate review. Current Rev 300 text was checked via indexed official excerpts after direct retrieval failed."
+      ],
+      "quality_review": {
+        "reviewed_on": "2026-10-16",
+        "state_specificity": "New Hampshire has no general sales tax, but business profits, enterprise value and hospitality activity need distinct accounting support.",
+        "topic_coverage": [
+          "Sales and use tax or applicable alternative",
+          "Employer records",
+          "Accounts payable and vendor evidence",
+          "Income and expenses",
+          "Monthly financial reporting",
+          "Year end handoff",
+          "Retention by verified record type",
+          "Distinct hypothetical example",
+          "Actual business income or entity tax obligations",
+          "Employer unemployment contributions and reporting"
+        ],
+        "source_bounds": "Section references identify regulatory support. General accounting recommendations are practice suggestions, not additional state mandates. Added entity tax and unemployment sections identify applicable state obligations and the supporting reconciliation and handoff records.",
+        "originality": "Individually composed state discussion and hypothetical business scenario.",
+        "approval_status": "Owner approval and qualified factual review pending.",
+        "currency": "Income and entity tax and employer unemployment reporting separately checked October 16, 2026. No rate or filing deadline assumed.",
+        "review_depth": "Individual income and employer sections explain actual state taxes, conditional applicability, liability reconciliations and annual handoff evidence."
+      }
+    },
+    {
+      "state": "New Jersey",
+      "code": "NJ",
+      "slug": "new-jersey-bookkeeping",
+      "title": "New Jersey Bookkeeping",
+      "description": "New Jersey bookkeeping for sales evidence, employer wage reports, vendor credits and four year sales record preservation.",
+      "summary": "New Jersey payroll uses distinct withholding and wage reporting forms, while sales records need enough detail to reproduce transaction history.",
+      "verified_on": "2026-10-16",
+      "status": "Local Draft Qualified Review Pending",
+      "notice": "General bookkeeping information. Last reviewed October 16, 2026. Confirm treatment with a qualified professional using current instructions and business facts.",
+      "sections": [
+        {
+          "heading": "Sales, Exemptions And Purchase Use Tax",
+          "source_ids": [
+            "NJ1"
+          ],
+          "paragraphs": [
+            "New Jersey sales documentation should distinguish total receipts, taxable receipts, tax due and purchases subject to use tax. Keep product descriptions, delivery evidence and exemption certificates linked to sales. Review goods and services using current classification guidance rather than relying on a broad customer or department label.",
+            "For vendor bills, preserve the invoice and destination, identify resale stock and company use separately, and send uncertain purchases to the preparer. Keep credits linked to the original bill so a later refund does not disappear into miscellaneous income or an unexplained tax adjustment."
+          ]
+        },
+        {
+          "heading": "Payroll Filing And Wage Evidence",
+          "source_ids": [
+            "NJ2",
+            "NJ3"
+          ],
+          "paragraphs": [
+            "New Jersey employers must register for payroll tax purposes to file NJ-927, NJ-W-3 and WR-30. Those forms support different reporting functions. Preserve the submitted versions and confirmations with the wage register so a successful payment is not mistaken for completion of every wage reporting requirement.",
+            "Use employee withholding instructions and actual work location information in payroll review. Reconcile gross pay, deductions, net pay and employer contributions separately. Maintain records supporting any change affecting an employee rather than replacing the earlier form without its effective date."
+          ]
+        },
+        {
+          "heading": "Business Income And Entity Tax Records",
+          "source_ids": [
+            "NJ4",
+            "NJ5"
+          ],
+          "paragraphs": [
+            "New Jersey entity reporting can include Corporation Business Tax or partnership reporting based on classification and activity. Partnerships can have a filing fee and nonresident partner payment obligations; eligible entities may also elect Business Alternative Income Tax. Preserve federal and state entity status, partner counts, ownership changes and resident and nonresident income allocation for preparer review.",
+            "Track partnership filing fee payments, nonresident partner tax and elected BAIT payments separately. The current partnership instructions distinguish where certain entity tax credits may be applied. At year end, provide member statements, election evidence and a payment and credit rollforward so the preparer can confirm that credits allocated to owners agree with those retained or used by the entity."
+          ]
+        },
+        {
+          "heading": "Income, Vendor Bills And Equipment",
+          "source_ids": [
+            "NJBK"
+          ],
+          "paragraphs": [
+            "A retailer can receive online settlements, store cash, customer deposits and owner funding through the same bank account. Preserve the source of each receipt and reconcile processing fees independently. Compare customer refunds with their original invoices and the inventory returned.",
+            "For accounts payable, match approved purchases with goods received and supplier statements. Track equipment, improvements and financing separately from merchandise and routine costs. A debt payment needs an allocation between principal and other charges supported by the loan statement. These are general accounting controls, not a promise of a tax deduction."
+          ],
+          "source_context": "General bookkeeping reference. The example and monthly routine are practical illustrations, not additional state requirements."
+        },
+        {
+          "heading": "Unemployment Contributions And Wage Reports",
+          "source_ids": [
+            "NJ6"
+          ],
+          "paragraphs": [
+            "New Jersey covered employers report wages on WR-30 and applicable unemployment, workforce, disability and family leave contributions through NJ-927. Preserve the actual employer and worker contribution rates and the accepted reports; using common forms does not mean every component is company expense.",
+            "Reconcile each contribution component separately, including employee amounts withheld and employer charges. Review the rate notice and payment history in Employer Access and compare wage records with the payroll register. The annual handoff should identify adjustments, deficiencies and program balances so a contribution credit is not confused with an income withholding credit or an owner tax payment."
+          ]
+        },
+        {
+          "heading": "Monthly Reports And System Changes",
+          "source_ids": [
+            "NJBK"
+          ],
+          "paragraphs": [
+            "Close bank and card reconciliations, compare supplier balances with unpaid bills and investigate old customer credits. The monthly profit and loss statement should connect to a balance sheet containing supported inventory, deposits and liabilities. Explain the effect of stock counts and damaged merchandise adjustments.",
+            "When the sales system changes, preserve item mappings, transaction exports and the date each tax setting changed. Reconcile old and new system totals across the transition. Keep payroll and sales liability schedules with the monthly package so return adjustments remain visible to the owner."
+          ],
+          "source_context": "General bookkeeping reference. The example and monthly routine are practical illustrations, not additional state requirements."
+        },
+        {
+          "heading": "Hypothetical Register Migration",
+          "source_ids": [
+            "NJ1"
+          ],
+          "paragraphs": [
+            "Hypothetical example: a New Jersey gift shop replaces its registers and finds that the new system combines several product categories under one button. The bookkeeper exports old transaction detail, preserves the item mapping and reviews the new categories with the preparer. The scenario does not assume every item within a category shares one tax treatment."
+          ]
+        },
+        {
+          "heading": "Year End And Preservation",
+          "source_ids": [
+            "NJ1"
+          ],
+          "paragraphs": [
+            "Prepare the tax handoff with annual sales and use reconciliations, inventory support, vendor totals, payroll form confirmations, asset records and open notices. Include the register conversion explanation and any corrections posted after the annual statements were first produced.",
+            "The New Jersey sales publication requires relevant books, certificates and other tax evidence to remain available for at least four years. It also sets conditions for electronic or copied records and original destruction, so a scan alone should not be treated as blanket permission to discard everything. Confirm the record medium and retention clock before destruction; employer, federal, asset and disputed period requirements need separate schedules."
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "id": "NJ1",
+          "title": "New Jersey Sales Tax Publication S&U-4",
+          "url": "https://www.state.nj.us/treasury/taxation/pdf/pubs/sales/su4.pdf",
+          "claims": [
+            "Sales and use record scope, four year preservation and conditional electronic record treatment."
+          ],
+          "checked_on": "2026-10-16",
+          "verification": "Official content inspected through web retrieval or current indexed official excerpts."
+        },
+        {
+          "id": "NJ2",
+          "title": "New Jersey Employer Payroll Filing Options",
+          "url": "https://www.nj.gov/treasury/taxation/businesses/payroll/payroll-filing.shtml",
+          "claims": [
+            "Registration and separate NJ-927, NJ-W-3 and WR-30 reporting."
+          ],
+          "checked_on": "2026-10-16",
+          "verification": "Official content inspected through web retrieval or current indexed official excerpts."
+        },
+        {
+          "id": "NJ3",
+          "title": "New Jersey Employer Payroll Forms",
+          "url": "https://www.nj.gov/njbonds/treasury/taxation/prntempl.shtml",
+          "claims": [
+            "Withholding certificates and current employer form resources."
+          ],
+          "checked_on": "2026-10-16",
+          "verification": "Official content inspected through web retrieval or current indexed official excerpts."
+        },
+        {
+          "id": "NJ4",
+          "title": "New Jersey Corporation Business Tax Overview",
+          "url": "https://nj.gov/njbonds/treasury/taxation/corp_over.shtml",
+          "claims": [
+            "Corporation business tax and partnership obligations."
+          ],
+          "checked_on": "2026-10-16",
+          "verification": "Official agency content inspected in current web results or retrieval."
+        },
+        {
+          "id": "NJ5",
+          "title": "New Jersey Partnership Instructions",
+          "url": "https://www.nj.gov/treasury/taxation/pdf/current/part/1065i.pdf",
+          "claims": [
+            "Partnership filing fee, nonresident payments and BAIT credit allocation routes."
+          ],
+          "checked_on": "2026-10-16",
+          "verification": "Official agency content inspected in current web results or retrieval."
+        },
+        {
+          "id": "NJ6",
+          "title": "New Jersey Employer Contribution Registration",
+          "url": "https://nj.gov/labor/ea/employer-services/who-qualifies/",
+          "claims": [
+            "WR-30 wage reports and applicable unemployment, workforce, disability and family leave contributions through NJ-927."
+          ],
+          "checked_on": "2026-10-16",
+          "verification": "Official agency content inspected in current web results or retrieval."
+        },
+        {
+          "id": "NJBK",
+          "title": "IRS, Small Business Recordkeeping",
+          "url": "https://www.irs.gov/businesses/small-businesses-self-employed/recordkeeping",
+          "claims": [
+            "General support for income, expense and transaction documentation, financial statements and tax preparation. Not a state specific monthly reporting mandate."
+          ],
+          "checked_on": "2026-10-16",
+          "verification": "Official IRS page read. Hypothetical examples remain illustrative, not agency examples."
+        }
+      ],
+      "review_gaps": [
+        "Sales publication revision is July 2022 although currently served by the agency; specific 2026 service classifications require current qualified review. No classification or rate conclusion asserted. Employer retention not generalized from sales rule."
+      ],
+      "quality_review": {
+        "reviewed_on": "2026-10-16",
+        "state_specificity": "New Jersey payroll uses distinct withholding and wage reporting forms, while sales records need enough detail to reproduce transaction history.",
+        "topic_coverage": [
+          "Sales and use tax or applicable alternative",
+          "Employer records",
+          "Accounts payable and vendor evidence",
+          "Income and expenses",
+          "Monthly financial reporting",
+          "Year end handoff",
+          "Retention by verified record type",
+          "Distinct hypothetical example",
+          "Actual business income or entity tax obligations",
+          "Employer unemployment contributions and reporting"
+        ],
+        "source_bounds": "Section references identify regulatory support. General accounting recommendations are practice suggestions, not additional state mandates. Added entity tax and unemployment sections identify applicable state obligations and the supporting reconciliation and handoff records.",
+        "originality": "Individually composed state discussion and hypothetical business scenario.",
+        "approval_status": "Owner approval and qualified factual review pending.",
+        "currency": "Income and entity tax and employer unemployment reporting separately checked October 16, 2026. No rate or filing deadline assumed.",
+        "review_depth": "Individual income and employer sections explain actual state taxes, conditional applicability, liability reconciliations and annual handoff evidence."
+      }
+    },
+    {
+      "state": "New Mexico",
+      "code": "NM",
+      "slug": "new-mexico-bookkeeping",
+      "title": "New Mexico Bookkeeping",
+      "description": "New Mexico bookkeeping for gross receipts, NTTC evidence, compensating tax, wage withholding and defensible electronic records.",
+      "summary": "New Mexico gross receipts tax is imposed on sellers, so the ledger needs receipt classifications and deduction evidence beyond an ordinary sales tax account.",
+      "verified_on": "2026-10-16",
+      "status": "Local Draft Qualified Review Pending",
+      "notice": "General bookkeeping information. Last reviewed October 16, 2026. Confirm treatment with a qualified professional using current instructions and business facts.",
+      "sections": [
+        {
+          "heading": "Gross Receipts And Deduction Evidence",
+          "source_ids": [
+            "NM1",
+            "NM2"
+          ],
+          "paragraphs": [
+            "New Mexico gross receipts tax is imposed on businesses and may be passed to customers; when passed on, the agency requires it to be separately stated on the invoice. Preserve the activity description and transaction location for the preparer because local location codes affect reporting.",
+            "Nontaxable Transaction Certificates relate to specific gross receipts deductions. Keep the certificate type, customer and transaction support together; the agency permits alternative evidence for many deductions but identifies exceptions. Ordinary business expenses do not automatically become gross receipts deductions. Keep net income accounting separate from the tax receipt classification."
+          ]
+        },
+        {
+          "heading": "Purchase And Vendor Review",
+          "source_ids": [
+            "NM3"
+          ],
+          "paragraphs": [
+            "New Mexico electronic record rules require detail that supports tax computation and can be interpreted during an examination. Keep supplier identities, item descriptions, amounts, tax information and shipping facts available even where the accounting export uses product or vendor codes.",
+            "As a practical accounts payable control, flag purchases requiring compensating tax review and document the preparer decision. Separate goods acquired for resale from items used by the company, and retain the NTTC evidence actually supplied. A certificate used for one type of purchase should not silently carry over to a different activity."
+          ]
+        },
+        {
+          "heading": "Business Income And Entity Tax Records",
+          "source_ids": [
+            "NM6",
+            "NM7"
+          ],
+          "paragraphs": [
+            "New Mexico corporate income and franchise reporting is separate from gross receipts and compensating tax. Federal classification helps determine whether the business uses a corporate, S corporation or other pass through return. Keep tax elections, state activity, ownership and federal return support so the preparer can evaluate both income and franchise obligations rather than assuming the gross receipts filing covers everything.",
+            "Maintain a separate rollforward of income and franchise estimates, credits and notices. For a pass through entity, give the preparer member residence, allocation schedules and any applicable owner or entity election documents. The year end reconciliation should connect the final tax adjustments to the financial statements without treating the gross receipts tax base as the same measure as taxable income."
+          ]
+        },
+        {
+          "heading": "Wage Withholding And Workers Compensation",
+          "source_ids": [
+            "NM4"
+          ],
+          "paragraphs": [
+            "New Mexico requires covered employers to register and withhold state income tax, with stated exceptions requiring individual facts. Wage withholding uses a separate return from nonwage withholding. Preserve worker instructions, residence, service locations and payroll registers for review.",
+            "The agency also collects a workers compensation administration fee for covered employers and employees. Paying that fee does not provide workers compensation insurance, and unemployment reporting is through Workforce Solutions. Reconcile each liability separately rather than treating one payroll provider withdrawal as proof that every employer obligation was completed."
+          ]
+        },
+        {
+          "heading": "Unemployment Contributions And Wage Reports",
+          "source_ids": [
+            "NM8",
+            "NM9"
+          ],
+          "paragraphs": [
+            "New Mexico Workforce Solutions requires an activated employer account before accepting wage records and unemployment contributions. Its quarterly contribution report distinguishes total wages, excess wages, taxable wages and tax due. Preserve account activation, assigned rate, employee wage detail and accepted reporting evidence apart from TRD withholding and workers compensation fee records.",
+            "Reconcile the unemployment contribution to payroll by employee and quarter, retaining any adjustments to excess wages or coverage. Match the payment and any notice to the Workforce Solutions account rather than a revenue account. Include the outstanding balance and amendment history in the year end payroll handoff so the preparer can distinguish contributions from insurance premiums and the separate administration fee."
+          ]
+        },
+        {
+          "heading": "Monthly Financial Reporting",
+          "source_ids": [
+            "NMBK"
+          ],
+          "paragraphs": [
+            "Reconcile bank accounts, customer receipts and unpaid vendor bills before presenting financial statements. Maintain a bridge from accounting income to gross receipts reported, showing deductions and adjustments with document references. A low profit month can still contain substantial gross receipts.",
+            "Review customer deposits, supplier credits, loan activity and asset purchases with the owner. Keep a separate compensating tax question list and liability schedule. Explain accounting method differences to the preparer rather than changing the reporting method solely to match a cash balance."
+          ],
+          "source_context": "General bookkeeping reference. The example and monthly routine are practical illustrations, not additional state requirements."
+        },
+        {
+          "heading": "Hypothetical Certificate Mismatch",
+          "source_ids": [
+            "NM2"
+          ],
+          "paragraphs": [
+            "Hypothetical example: a New Mexico design business receives a customer certificate but cannot connect its type to the service invoiced. The bookkeeper saves the contract, invoice and certificate and flags the receipt for professional deduction review. The certificate is preserved as evidence without treating its mere existence as a completed tax analysis."
+          ]
+        },
+        {
+          "heading": "Year End And Retention Scope",
+          "source_ids": [
+            "NM3",
+            "NM5"
+          ],
+          "paragraphs": [
+            "Give the preparer reconciled statements, receipts by location and deduction, NTTC support, compensating tax decisions, wage reconciliations, assets and agency notices. Keep electronic code descriptions with transaction exports so the reviewer can reconstruct the reporting bridge.",
+            "NMAC 3.1.5.8 states that the Tax Administration Act sets no fixed retention time, while assessment limitations still apply. FYI-105 recommends maintaining the files for ten years because extended assessments can apply, and distinguishes the ordinary assessment period from longer cases. Treat ten years as agency advice, not an invented universal statutory minimum; federal employment, property and special industry records need their own schedules."
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "id": "NM1",
+          "title": "New Mexico Gross Receipts Overview",
+          "url": "https://www.tax.newmexico.gov/businesses/gross-receipts-overview/",
+          "claims": [
+            "Seller liability, separately stated passed tax, location codes and no ordinary business expense deduction."
+          ],
+          "checked_on": "2026-10-16",
+          "verification": "Official content inspected through web retrieval or current indexed official excerpts."
+        },
+        {
+          "id": "NM2",
+          "title": "New Mexico NTTC Resources",
+          "url": "https://www.tax.newmexico.gov/businesses/non-taxable-transaction-certificates-nttc/",
+          "claims": [
+            "Certificate types, qualifying deductions and alternative evidence limits."
+          ],
+          "checked_on": "2026-10-16",
+          "verification": "Official content inspected through web retrieval or current indexed official excerpts."
+        },
+        {
+          "id": "NM3",
+          "title": "New Mexico NMAC 3.1.5 Records",
+          "url": "https://www.srca.nm.gov/parts/title03/03.001.0005.html",
+          "claims": [
+            "Record sufficiency, interpretable electronic transaction detail and no fixed Tax Administration Act retention time."
+          ],
+          "checked_on": "2026-10-16",
+          "verification": "Official content inspected through web retrieval or current indexed official excerpts."
+        },
+        {
+          "id": "NM4",
+          "title": "New Mexico Withholding And Workers Compensation",
+          "url": "https://www.tax.newmexico.gov/businesses/withholding-tax-and-workers-compensation/",
+          "claims": [
+            "Separate wage and nonwage reporting, compensation fee distinct from insurance and separate unemployment administration."
+          ],
+          "checked_on": "2026-10-16",
+          "verification": "Official content inspected through web retrieval or current indexed official excerpts."
+        },
+        {
+          "id": "NM5",
+          "title": "New Mexico FYI-105",
+          "url": "https://realfile.tax.newmexico.gov/FYI-105.pdf",
+          "claims": [
+            "Compensating tax review context and ten year recommended retention distinguished from assessment periods."
+          ],
+          "checked_on": "2026-10-16",
+          "verification": "Official content inspected through web retrieval or current indexed official excerpts."
+        },
+        {
+          "id": "NM6",
+          "title": "New Mexico Corporate Income And Franchise FYI-350",
+          "url": "https://realfile.tax.newmexico.gov/FYI-350.pdf",
+          "claims": [
+            "Corporate income, franchise and entity filing framework."
+          ],
+          "checked_on": "2026-10-16",
+          "verification": "Official agency content inspected in current web results or retrieval."
+        },
+        {
+          "id": "NM7",
+          "title": "New Mexico Pass Through Entity Filing",
+          "url": "https://www.tax.newmexico.gov/governments/2020/10/22/pass-through-entity/",
+          "claims": [
+            "Federal classification determines corporate, S corporation or PTE reporting."
+          ],
+          "checked_on": "2026-10-16",
+          "verification": "Official agency content inspected in current web results or retrieval."
+        },
+        {
+          "id": "NM8",
+          "title": "New Mexico Workforce Solutions Employer UI Tax",
+          "url": "https://www.dws.state.nm.us/UI-Tax-Information",
+          "claims": [
+            "Employer account activation, wage records and contribution payment requirements."
+          ],
+          "checked_on": "2026-10-16",
+          "verification": "Official agency content inspected in current web results or retrieval."
+        },
+        {
+          "id": "NM9",
+          "title": "New Mexico Quarterly Wage And Contribution Report",
+          "url": "https://www.dws.state.nm.us/Portals/0/DM/Business/ES903_AB_Employers_Quarterly_Wage_Contribution_Report.pdf",
+          "claims": [
+            "Total, excess and taxable wages and contribution calculation."
+          ],
+          "checked_on": "2026-10-16",
+          "verification": "Official agency content inspected in current web results."
+        },
+        {
+          "id": "NMBK",
+          "title": "IRS, Small Business Recordkeeping",
+          "url": "https://www.irs.gov/businesses/small-businesses-self-employed/recordkeeping",
+          "claims": [
+            "General support for income, expense and transaction documentation, financial statements and tax preparation. Not a state specific monthly reporting mandate."
+          ],
+          "checked_on": "2026-10-16",
+          "verification": "Official IRS page read. Hypothetical examples remain illustrative, not agency examples."
+        }
+      ],
+      "review_gaps": [
+        "Specific gross receipts deductions, tribal rules, location sourcing and employee exceptions require professional review. No blanket statutory three or ten year destruction date asserted."
+      ],
+      "quality_review": {
+        "reviewed_on": "2026-10-16",
+        "state_specificity": "New Mexico gross receipts tax is imposed on sellers, so the ledger needs receipt classifications and deduction evidence beyond an ordinary sales tax account.",
+        "topic_coverage": [
+          "Sales and use tax or applicable alternative",
+          "Employer records",
+          "Accounts payable and vendor evidence",
+          "Income and expenses",
+          "Monthly financial reporting",
+          "Year end handoff",
+          "Retention by verified record type",
+          "Distinct hypothetical example",
+          "Actual business income or entity tax obligations",
+          "Employer unemployment contributions and reporting"
+        ],
+        "source_bounds": "Section references identify regulatory support. General accounting recommendations are practice suggestions, not additional state mandates. Added entity tax and unemployment sections identify applicable state obligations and the supporting reconciliation and handoff records.",
+        "originality": "Individually composed state discussion and hypothetical business scenario.",
+        "approval_status": "Owner approval and qualified factual review pending.",
+        "currency": "Income and entity tax and employer unemployment reporting separately checked October 16, 2026. No rate or filing deadline assumed.",
+        "review_depth": "Individual income and employer sections explain actual state taxes, conditional applicability, liability reconciliations and annual handoff evidence."
+      }
+    },
+    {
+      "state": "North Carolina",
+      "code": "NC",
+      "slug": "north-carolina-bookkeeping",
+      "title": "North Carolina Bookkeeping",
+      "description": "North Carolina bookkeeping for contractor documents, sales and use records, employee certificates and ten year withholding preservation.",
+      "summary": "North Carolina contractor and sales files need clear activity evidence, while current employer instructions prescribe a much longer withholding retention schedule.",
+      "verified_on": "2026-10-16",
+      "status": "Local Draft Qualified Review Pending",
+      "notice": "General bookkeeping information. Last reviewed October 16, 2026. Confirm treatment with a qualified professional using current instructions and business facts.",
+      "sections": [
+        {
+          "heading": "Sales, Contractors And Transaction Evidence",
+          "source_ids": [
+            "NC1",
+            "NC2"
+          ],
+          "paragraphs": [
+            "North Carolina requires retailers, facilitators, real property contractors and consumers to keep records establishing their sales and use tax liability. Retailer records include gross income, gross sales, taxable sales, resale purchases and facilitator transaction information. Keep exemption evidence with the sale it supports.",
+            "For construction or repair work, preserve contracts, work descriptions and any applicable capital improvement documentation for professional classification. A contractor label does not settle treatment. Accounts payable should preserve purchase invoices, job use and taxes paid elsewhere so any purchase use tax decision has transaction support."
+          ]
+        },
+        {
+          "heading": "Employee Certificates And Withholding",
+          "source_ids": [
+            "NC3"
+          ],
+          "paragraphs": [
+            "The current 2026 employer instructions require North Carolina withholding certificates such as NC-4 and identify payroll reporting duties. Keep signed employee instructions, effective dates, wage registers, amounts withheld, returns and payment confirmations. Work location and residence facts should reach payroll review before state allocations are finalized.",
+            "Reconcile periodic payments with the annual NC-3 totals and wage statements. Document corrections in both the payroll system and liability accounts. Unemployment and other employment obligations need their own account checks, and a contractor payment should not be treated as wages or exempt compensation solely from its ledger category."
+          ]
+        },
+        {
+          "heading": "Business Income And Entity Tax Records",
+          "source_ids": [
+            "NC4",
+            "NC5"
+          ],
+          "paragraphs": [
+            "North Carolina corporate income and franchise taxes are separate obligations, and an S corporation return can involve franchise tax even when income ordinarily passes to shareholders. Eligible S corporations and partnerships can elect taxed pass through treatment. Preserve federal classification, state source income, ownership, capital information and any year specific election so the preparer can determine the applicable reporting.",
+            "Reconcile corporate or entity estimates, franchise payments and owner related credits in separate schedules. Provide the preparer the tax basis adjustments, state allocation detail and member statements alongside the trial balance. A loss in the profit and loss statement should not be used as evidence that no franchise filing or payment applies, and the preparer should resolve any minimum or special rule from the actual facts."
+          ]
+        },
+        {
+          "heading": "Vendor Files And Income Classification",
+          "source_ids": [
+            "NCBK"
+          ],
+          "paragraphs": [
+            "A renovation business can receive progress billings, customer advances and owner loans during the same week. Link each receipt to the contract or financing document and preserve changes in scope. The customer ledger should distinguish amounts billed, collected and still disputed.",
+            "For vendor bills, keep purchase approval, job delivery and payment together. Separate equipment retained by the company from materials used on a project. Track supplier credits against the original purchase and ask the preparer to resolve uncertain capitalization or tax treatment using the original documentation."
+          ],
+          "source_context": "General bookkeeping reference. The example and monthly routine are practical illustrations, not additional state requirements."
+        },
+        {
+          "heading": "Unemployment Contributions And Wage Reports",
+          "source_ids": [
+            "NC6"
+          ],
+          "paragraphs": [
+            "North Carolina DES uses NCSUITS for quarterly tax and wage reports, contributions and wage adjustments. Covered employer reports identify each employee wages, and continuing businesses must submit a zero report for a quarter without wages. Preserve employer registration, rate notices, accepted wage files and contribution payment confirmations.",
+            "Compare quarterly wages with payroll and retain the calculation explaining taxable wages, including relevant wages paid in other states for specialist review. Reconcile DES liabilities independently from NCDOR withholding. At year end, give the preparer the report and adjustment history, contribution balance and status changes; the portal retaining report copies does not replace the business retention schedule."
+          ]
+        },
+        {
+          "heading": "Monthly Close And Tax Reconciliations",
+          "source_ids": [
+            "NCBK"
+          ],
+          "paragraphs": [
+            "Review project receipts and direct spending alongside customer aging and unpaid suppliers. Reconcile cash, cards and debt, then present a profit and loss statement and balance sheet under the agreed accounting basis. Explain unfinished work and customer advances rather than treating bank deposits as the sole revenue measure.",
+            "Maintain distinct sales tax, purchase use tax and withholding schedules. Each should connect opening liability, current activity, adjustments and payments to the filed return. Preserve the reason a transaction was reclassified so a future reviewer can reproduce the result."
+          ],
+          "source_context": "General bookkeeping reference. The example and monthly routine are practical illustrations, not additional state requirements."
+        },
+        {
+          "heading": "Hypothetical Renovation Scope Change",
+          "source_ids": [
+            "NC1",
+            "NC2"
+          ],
+          "paragraphs": [
+            "Hypothetical example: a North Carolina contractor begins with a repair order and later accepts a broader renovation contract. The bookkeeper retains both scopes, approvals, invoices and project documents and asks the preparer to evaluate the tax treatment of each activity. The example does not classify the entire project from its final invoice title."
+          ]
+        },
+        {
+          "heading": "Year End And Longer Payroll Preservation",
+          "source_ids": [
+            "NC3"
+          ],
+          "paragraphs": [
+            "The year end package should contain project revenue detail, sales reconciliations, contractor documents, inventory and asset schedules, debts, annual wage support and unresolved notices. Give the preparer the actual work descriptions behind ambiguous receipts and vendor charges.",
+            "The 2026 NC-30 instructions direct retention of withholding records for at least ten years after the last filing of all required reports for the calendar year or the last payment of an amount due for that year, whichever is later. Apply that specific employer instruction rather than a generic three year assumption. Sales, income, federal and property records require separate review, especially where returns or trust tax payments remain unresolved."
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "id": "NC1",
+          "title": "North Carolina GS 105-164.22",
+          "url": "https://ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_105/GS_105-164.22.html",
+          "claims": [
+            "Sales and use record scope for retailers, contractors and consumers, exemption and facilitator evidence."
+          ],
+          "checked_on": "2026-10-16",
+          "verification": "Official content inspected through web retrieval or current indexed official excerpts."
+        },
+        {
+          "id": "NC2",
+          "title": "North Carolina 2026 Sales And Use Bulletins",
+          "url": "https://www.ncdor.gov/sutb-2026pdf/open",
+          "claims": [
+            "Activity classification, purchase tax support and real property contract documentation."
+          ],
+          "checked_on": "2026-10-16",
+          "verification": "Official content inspected through web retrieval or current indexed official excerpts."
+        },
+        {
+          "id": "NC3",
+          "title": "North Carolina 2026 Employer Withholding Instructions NC-30",
+          "url": "https://www.ncdor.gov/income-tax-withholding-tables-and-instructions-employers/open",
+          "claims": [
+            "Employee certificates, annual reconciliation and section 26 ten years after final reports or payment, whichever later."
+          ],
+          "checked_on": "2026-10-16",
+          "verification": "Official content inspected through web retrieval or current indexed official excerpts."
+        },
+        {
+          "id": "NC4",
+          "title": "North Carolina Corporate Income And Franchise Bulletin",
+          "url": "https://www.ncdor.gov/documents/bulletins/2024-corporate-income-franchise-and-insurance-tax-bulletin/open",
+          "claims": [
+            "Separate corporate income and franchise tax and ordinary S corporation income pass through treatment."
+          ],
+          "checked_on": "2026-10-16",
+          "verification": "Official agency content inspected in current web results or retrieval."
+        },
+        {
+          "id": "NC5",
+          "title": "North Carolina Taxed Entity Election Notice",
+          "url": "https://www.ncdor.gov/taxes-forms/information-tax-professionals/tax-bulletins-directives-and-other-important-notices/important-notices-and-frequently-asked-questions-personal-taxes/important-notice-regarding-north-carolinas-recently-enacted-pass-through-entity-tax",
+          "claims": [
+            "Eligible partnerships and S corporations can elect entity income taxation."
+          ],
+          "checked_on": "2026-10-16",
+          "verification": "Official agency content inspected in current web results or retrieval."
+        },
+        {
+          "id": "NC6",
+          "title": "North Carolina DES Quarterly Tax And Wage Reports",
+          "url": "https://www.des.nc.gov/employers/file-adjust-or-review-quarterly-tax-wage-report",
+          "claims": [
+            "NCSUITS quarterly employee wage and contribution reports, zero quarters and adjustments."
+          ],
+          "checked_on": "2026-10-16",
+          "verification": "Official agency content inspected in current web results or retrieval."
+        },
+        {
+          "id": "NCBK",
+          "title": "IRS, Small Business Recordkeeping",
+          "url": "https://www.irs.gov/businesses/small-businesses-self-employed/recordkeeping",
+          "claims": [
+            "General support for income, expense and transaction documentation, financial statements and tax preparation. Not a state specific monthly reporting mandate."
+          ],
+          "checked_on": "2026-10-16",
+          "verification": "Official IRS page read. Hypothetical examples remain illustrative, not agency examples."
+        }
+      ],
+      "review_gaps": [
+        "Sales retention is not reduced to the ordinary assessment period. Contractor classification, local sourcing, nonresident compensation and workforce obligations require individualized review."
+      ],
+      "quality_review": {
+        "reviewed_on": "2026-10-16",
+        "state_specificity": "North Carolina contractor and sales files need clear activity evidence, while current employer instructions prescribe a much longer withholding retention schedule.",
+        "topic_coverage": [
+          "Sales and use tax or applicable alternative",
+          "Employer records",
+          "Accounts payable and vendor evidence",
+          "Income and expenses",
+          "Monthly financial reporting",
+          "Year end handoff",
+          "Retention by verified record type",
+          "Distinct hypothetical example",
+          "Actual business income or entity tax obligations",
+          "Employer unemployment contributions and reporting"
+        ],
+        "source_bounds": "Section references identify regulatory support. General accounting recommendations are practice suggestions, not additional state mandates. Added entity tax and unemployment sections identify applicable state obligations and the supporting reconciliation and handoff records.",
+        "originality": "Individually composed state discussion and hypothetical business scenario.",
+        "approval_status": "Owner approval and qualified factual review pending.",
+        "currency": "Income and entity tax and employer unemployment reporting separately checked October 16, 2026. No rate or filing deadline assumed.",
+        "review_depth": "Individual income and employer sections explain actual state taxes, conditional applicability, liability reconciliations and annual handoff evidence."
+      }
+    }
+  ]
+}

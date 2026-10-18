@@ -1,0 +1,9 @@
+{
+  "states": 50,
+  "mapped_correctly": 50,
+  "preserved_canonicals": 50,
+  "preserved_flags": 50,
+  "preserved_related_navigation": 50,
+  "internal_links_checked": 1900,
+  "issues": []
+}

@@ -1,0 +1,50 @@
+﻿[
+    {
+        "color":  "emerald",
+        "actual":  "emerald",
+        "header":  "rgb(7, 83, 61)",
+        "body":  "rgb(255, 255, 255)",
+        "pressed":  "true"
+    },
+    {
+        "color":  "teal",
+        "actual":  "teal",
+        "header":  "rgb(0, 91, 89)",
+        "body":  "rgb(255, 255, 255)",
+        "pressed":  "true"
+    },
+    {
+        "color":  "terracotta",
+        "actual":  "terracotta",
+        "header":  "rgb(139, 56, 42)",
+        "body":  "rgb(255, 255, 255)",
+        "pressed":  "true"
+    },
+    {
+        "page":  "mobile-home",
+        "width":  390,
+        "scrollWidth":  390,
+        "notes":  [
+                      {
+                          "iconOffset":  0.0078125,
+                          "titleOffset":  0,
+                          "alignment":  "center"
+                      },
+                      {
+                          "iconOffset":  0.0078125,
+                          "titleOffset":  0,
+                          "alignment":  "center"
+                      },
+                      {
+                          "iconOffset":  0.0078125,
+                          "titleOffset":  0,
+                          "alignment":  "center"
+                      },
+                      {
+                          "iconOffset":  0.0078125,
+                          "titleOffset":  0,
+                          "alignment":  "center"
+                      }
+                  ]
+    }
+]

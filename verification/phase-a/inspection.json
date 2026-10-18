@@ -1,0 +1,96 @@
+﻿{
+    "pages":  140,
+    "photos":  172,
+    "dimensions":  [
+                       {
+                           "Name":  "1448, 1086",
+                           "Count":  74
+                       },
+                       {
+                           "Name":  "1500, 844",
+                           "Count":  9
+                       },
+                       {
+                           "Name":  "1500, 1000",
+                           "Count":  9
+                       },
+                       {
+                           "Name":  "2170, 725",
+                           "Count":  1
+                       },
+                       {
+                           "Name":  "1600, 900",
+                           "Count":  9
+                       },
+                       {
+                           "Name":  "1536, 1024",
+                           "Count":  65
+                       },
+                       {
+                           "Name":  "1120, 1400",
+                           "Count":  1
+                       },
+                       {
+                           "Name":  "1280, 720",
+                           "Count":  4
+                       }
+                   ],
+    "unusedPhotos":  [
+                         "assets/images/about-html.webp",
+                         "assets/images/accounts-payable-receivable-html.webp",
+                         "assets/images/balancing-corrections-html.webp",
+                         "assets/images/bank-credit-card-balancing-html.webp",
+                         "assets/images/bookkeeping-agoura-hills-html.webp",
+                         "assets/images/bookkeeping-burbank-html.webp",
+                         "assets/images/bookkeeping-calabasas-html.webp",
+                         "assets/images/bookkeeping-chatsworth-html.webp",
+                         "assets/images/bookkeeping-culver-city-html.webp",
+                         "assets/images/bookkeeping-glendale-html.webp",
+                         "assets/images/bookkeeping-hollywood-html.webp",
+                         "assets/images/bookkeeping-santa-monica-html.webp",
+                         "assets/images/bookkeeping-west-hollywood-html.webp",
+                         "assets/images/bookkeeping-woodland-hills-html.webp",
+                         "assets/images/home-about.webp",
+                         "assets/images/home-article-card-1.webp",
+                         "assets/images/home-article-card-2.webp",
+                         "assets/images/home-article-card-3.webp",
+                         "assets/images/home-article-card-4.webp",
+                         "assets/images/home-article-card-5.webp",
+                         "assets/images/home-service-card-1.webp",
+                         "assets/images/home-service-card-2.webp",
+                         "assets/images/home-service-card-3.webp",
+                         "assets/images/home-service-card-4.webp",
+                         "assets/images/income-expense-tracking-html.webp",
+                         "assets/images/index-html.webp",
+                         "assets/images/monthly-bookkeeping-review-html.webp",
+                         "assets/images/monthly-financial-reports-html.webp",
+                         "assets/images/paper-trail-monthly-bookkeeping-html.webp",
+                         "assets/images/paper-trail-services-html.webp",
+                         "assets/images/past-due-bookkeeping-html.webp",
+                         "assets/images/service-details-accounts-payable-receivable-html.webp",
+                         "assets/images/service-details-balancing-corrections-html.webp",
+                         "assets/images/service-details-bank-credit-card-balancing-html.webp",
+                         "assets/images/service-details-income-expense-tracking-html.webp",
+                         "assets/images/service-details-monthly-bookkeeping-review-html.webp",
+                         "assets/images/service-details-monthly-financial-reports-html.webp",
+                         "assets/images/service-details-paper-trail-monthly-bookkeeping-html.webp",
+                         "assets/images/service-details-paper-trail-services-html.webp",
+                         "assets/images/service-details-past-due-bookkeeping-html.webp",
+                         "assets/images/service-details-tax-ready-bookkeeping-html.webp",
+                         "assets/images/service-details-transaction-categorization-html.webp",
+                         "assets/images/service-details-year-end-bookkeeping-html.webp",
+                         "assets/images/tax-ready-bookkeeping-html.webp",
+                         "assets/images/transaction-categorization-html.webp",
+                         "assets/images/year-end-bookkeeping-html.webp",
+                         "assets/photos/home-about.webp"
+                     ],
+    "videoPages":  [
+                       "about.html",
+                       "index.html",
+                       "paper-trail-monthly-bookkeeping.html",
+                       "paper-trail-services.html"
+                   ],
+    "headingErrors":  [
+
+                      ]
+}

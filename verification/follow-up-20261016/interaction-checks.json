@@ -1,0 +1,98 @@
+﻿[
+    {
+        "page":  "index.html",
+        "chat":  {
+                     "questions":  [
+                                       "What state are you located in?",
+                                       "What about your books needs attention?",
+                                       "Which period needs attention?",
+                                       "Where are your books kept at the moment?"
+                                   ],
+                     "questionCount":  1,
+                     "oldQuestions":  0,
+                     "answers":  [
+                                     "California",
+                                     "Overdue books",
+                                     "A few months"
+                                 ]
+                 }
+    },
+    {
+        "page":  "areas-we-serve.html",
+        "chat":  {
+                     "questions":  [
+                                       "What state are you located in?",
+                                       "What about your books needs attention?",
+                                       "Which period needs attention?",
+                                       "Where are your books kept at the moment?"
+                                   ],
+                     "questionCount":  1,
+                     "oldQuestions":  0,
+                     "answers":  [
+                                     "California",
+                                     "Overdue books",
+                                     "A few months"
+                                 ]
+                 }
+    },
+    {
+        "page":  "balancing-corrections.html",
+        "chat":  {
+                     "questions":  [
+                                       "What state are you located in?",
+                                       "What about your books needs attention?",
+                                       "Which period needs attention?",
+                                       "How many bank or card accounts need a closer look?"
+                                   ],
+                     "questionCount":  1,
+                     "oldQuestions":  0,
+                     "answers":  [
+                                     "California",
+                                     "Overdue books",
+                                     "A few months"
+                                 ]
+                 }
+    },
+    {
+        "page":  "transaction-categorization.html",
+        "chat":  {
+                     "questions":  [
+                                       "What state are you located in?",
+                                       "What about your books needs attention?",
+                                       "Which period needs attention?",
+                                       "Where are your books kept at the moment?"
+                                   ],
+                     "questionCount":  1,
+                     "oldQuestions":  0,
+                     "answers":  [
+                                     "California",
+                                     "Overdue books",
+                                     "A few months"
+                                 ]
+                 }
+    },
+    {
+        "page":  "notes.html",
+        "chat":  {
+                     "questions":  [
+                                       "What state are you located in?",
+                                       "What about your books needs attention?",
+                                       "Which period needs attention?",
+                                       "Where are your books kept at the moment?"
+                                   ],
+                     "questionCount":  1,
+                     "oldQuestions":  0,
+                     "answers":  [
+                                     "California",
+                                     "Overdue books",
+                                     "A few months"
+                                 ]
+                 }
+    },
+    {
+        "phone":  {
+                      "open":  true,
+                      "number":  "tel:+18189340444"
+                  }
+    }
+]

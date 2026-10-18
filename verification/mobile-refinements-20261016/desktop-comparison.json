@@ -1,0 +1,194 @@
+{
+  "allowed_wording_changes": [
+    {
+      "page": "index.html",
+      "before": {
+        "tag": "A",
+        "cls": "footer-location",
+        "text": "Nationwide, based out of Los Angeles.",
+        "x": 543.75,
+        "y": 3921.890625,
+        "w": 219.515625,
+        "h": 20.796875
+      },
+      "after": {
+        "tag": "A",
+        "cls": "footer-location",
+        "text": "Nationwide-Based Out Of Los Angeles",
+        "x": 543.65625,
+        "y": 3921.890625,
+        "w": 219.6875,
+        "h": 20.796875
+      }
+    },
+    {
+      "page": "about.html",
+      "before": {
+        "tag": "A",
+        "cls": "footer-location",
+        "text": "Nationwide, based out of Los Angeles.",
+        "x": 534.703125,
+        "y": 2073.1875,
+        "w": 228.359375,
+        "h": 20.796875
+      },
+      "after": {
+        "tag": "A",
+        "cls": "footer-location",
+        "text": "Nationwide-Based Out Of Los Angeles",
+        "x": 533.296875,
+        "y": 2073.1875,
+        "w": 231.171875,
+        "h": 20.796875
+      }
+    },
+    {
+      "page": "transaction-categorization.html",
+      "before": {
+        "tag": "A",
+        "cls": "footer-location",
+        "text": "Nationwide, based out of Los Angeles.",
+        "x": 534.703125,
+        "y": 3653.9375,
+        "w": 228.359375,
+        "h": 20.796875
+      },
+      "after": {
+        "tag": "A",
+        "cls": "footer-location",
+        "text": "Nationwide-Based Out Of Los Angeles",
+        "x": 533.296875,
+        "y": 3653.9375,
+        "w": 231.171875,
+        "h": 20.796875
+      }
+    },
+    {
+      "page": "areas-we-serve.html",
+      "before": {
+        "tag": "FIGCAPTION",
+        "cls": "",
+        "text": "Nationwide. Connected from Los Angeles.",
+        "x": 830.859375,
+        "y": 657.78125,
+        "w": 420,
+        "h": 19.796875
+      },
+      "after": {
+        "tag": "FIGCAPTION",
+        "cls": "",
+        "text": "Nationwide-Based Out Of Los Angeles",
+        "x": 830.859375,
+        "y": 657.78125,
+        "w": 420,
+        "h": 19.796875
+      }
+    },
+    {
+      "page": "areas-we-serve.html",
+      "before": {
+        "tag": "A",
+        "cls": "footer-location",
+        "text": "Nationwide, based out of Los Angeles.",
+        "x": 534.703125,
+        "y": 901.59375,
+        "w": 228.359375,
+        "h": 20.796875
+      },
+      "after": {
+        "tag": "A",
+        "cls": "footer-location",
+        "text": "Nationwide-Based Out Of Los Angeles",
+        "x": 533.296875,
+        "y": 901.59375,
+        "w": 231.171875,
+        "h": 20.796875
+      }
+    },
+    {
+      "page": "year-end-bookkeeping-questions.html",
+      "before": {
+        "tag": "A",
+        "cls": "footer-location",
+        "text": "Nationwide, based out of Los Angeles.",
+        "x": 534.703125,
+        "y": 3821.515625,
+        "w": 228.359375,
+        "h": 20.796875
+      },
+      "after": {
+        "tag": "A",
+        "cls": "footer-location",
+        "text": "Nationwide-Based Out Of Los Angeles",
+        "x": 533.296875,
+        "y": 3821.515625,
+        "w": 231.171875,
+        "h": 20.796875
+      }
+    },
+    {
+      "page": "blog.html",
+      "before": {
+        "tag": "A",
+        "cls": "footer-location",
+        "text": "Nationwide, based out of Los Angeles.",
+        "x": 534.703125,
+        "y": 1651.015625,
+        "w": 228.359375,
+        "h": 20.796875
+      },
+      "after": {
+        "tag": "A",
+        "cls": "footer-location",
+        "text": "Nationwide-Based Out Of Los Angeles",
+        "x": 533.296875,
+        "y": 1651.015625,
+        "w": 231.171875,
+        "h": 20.796875
+      }
+    },
+    {
+      "page": "monthly-financial-reports.html",
+      "before": {
+        "tag": "A",
+        "cls": "footer-location",
+        "text": "Nationwide, based out of Los Angeles.",
+        "x": 534.703125,
+        "y": 3610.75,
+        "w": 228.359375,
+        "h": 20.796875
+      },
+      "after": {
+        "tag": "A",
+        "cls": "footer-location",
+        "text": "Nationwide-Based Out Of Los Angeles",
+        "x": 533.296875,
+        "y": 3610.75,
+        "w": 231.171875,
+        "h": 20.796875
+      }
+    },
+    {
+      "page": "notes.html",
+      "before": {
+        "tag": "A",
+        "cls": "footer-location",
+        "text": "Nationwide, based out of Los Angeles.",
+        "x": 534.703125,
+        "y": 2167.921875,
+        "w": 228.359375,
+        "h": 20.796875
+      },
+      "after": {
+        "tag": "A",
+        "cls": "footer-location",
+        "text": "Nationwide-Based Out Of Los Angeles",
+        "x": 533.296875,
+        "y": 2167.921875,
+        "w": 231.171875,
+        "h": 20.796875
+      }
+    }
+  ],
+  "unexpected_changes": []
+}

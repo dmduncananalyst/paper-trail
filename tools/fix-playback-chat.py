@@ -1,0 +1,20 @@
+﻿from pathlib import Path
+import json, re, shutil, cv2
+from PIL import Image
+root=Path('.'); out=root/'verification/playback-chat-20261016'; out.mkdir(parents=True,exist_ok=True)
+for file in ['assets/design.js','assets/design.css','assets/locales/home-blog/current.js']:
+ shutil.copy2(file,out/(Path(file).name+'.before.txt'))
+for name in ['home','about','repair','monthly']:
+ p=root/'assets/video'/f'{name}-poster.webp'; shutil.copy2(p,out/(name+'-poster.before.webp'))
+ c=cv2.VideoCapture(str(root/'assets/video'/f'{name}.mp4')); ok,frame=c.read(); assert ok
+ Image.fromarray(cv2.cvtColor(frame,cv2.COLOR_BGR2RGB)).save(p,format='WEBP',quality=95,method=6); c.release()
+p=root/'assets/design.js'; s=p.read_text(encoding='utf-8'); old="const chat=document.querySelector('#conversation-dialog');if(chat&&supported){const note=document.createElement('p');note.className='chat-language-note';note.dataset.i18n='chatNotice';chat.querySelector('.chat-header').after(note)}"; assert old in s; s=s.replace(old,"const chat=document.querySelector('#conversation-dialog');"); p.write_text(s,encoding='utf-8')
+p=root/'assets/design.css'; s=p.read_text(encoding='utf-8'); s+='\n/* Stable reply fields and centered About heading. */\n.chat-compose input{border:1px solid #686868;background:#fff;color:#202020;min-height:44px;padding:10px 12px;border-radius:0}\n.pt-interior .about-opening .hero-copy h1{text-align:center}\n.home-about [data-i18n="aboutPaperTrail"]{display:table;margin-inline:auto;text-align:center}\n';p.write_text(s,encoding='utf-8')
+locations={'en':'Nationwide \u2013 Based Out Of Los Angeles, California','es':'En todo el pa\u00eds, con sede en Los \u00c1ngeles, California','fa':'\u0633\u0631\u0627\u0633\u0631 \u06a9\u0634\u0648\u0631\u060c \u0645\u0633\u062a\u0642\u0631 \u062f\u0631 \u0644\u0633 \u0622\u0646\u062c\u0644\u0633\u060c \u06a9\u0627\u0644\u06cc\u0641\u0631\u0646\u06cc\u0627','hy':'\u0531\u0574\u0562\u0578\u0572\u057b \u0565\u0580\u056f\u0580\u0578\u0582\u0574, \u0563\u057f\u0576\u057e\u0578\u0582\u0574 \u0565\u0576\u0584 \u053c\u0578\u057d \u0531\u0576\u057b\u0565\u056c\u0565\u057d\u0578\u0582\u0574, \u053f\u0561\u056c\u056b\u0586\u0578\u057c\u0576\u056b\u0561','zh-CN':'\u670d\u52a1\u5168\u7f8e\uff0c\u603b\u90e8\u4f4d\u4e8e\u52a0\u5229\u798f\u5c3c\u4e9a\u5dde\u6d1b\u6749\u77f6','ko':'\ubbf8\uad6d \uc804\uc5ed \uc11c\ube44\uc2a4, \uce98\ub9ac\ud3ec\ub2c8\uc544\uc8fc \ub85c\uc2a4\uc564\uc824\ub808\uc2a4 \uae30\ubc18','tl':'Sa buong bansa, nakabase sa Los Angeles, California','te':'\u0c26\u0c47\u0c36\u0c35\u0c4d\u0c2f\u0c3e\u0c2a\u0c4d\u0c24\u0c02\u0c17\u0c3e, \u0c15\u0c3e\u0c32\u0c3f\u0c2b\u0c4b\u0c30\u0c4d\u0c28\u0c3f\u0c2f\u0c3e\u0c32\u0c4b\u0c28\u0c3f \u0c32\u0c3e\u0c38\u0c4d \u0c0f\u0c02\u0c1c\u0c3f\u0c32\u0c3f\u0c38\u0c4d \u0c15\u0c47\u0c02\u0c26\u0c4d\u0c30\u0c02\u0c17\u0c3e','ru':'\u041f\u043e \u0432\u0441\u0435\u0439 \u0441\u0442\u0440\u0430\u043d\u0435, \u0431\u0430\u0437\u0438\u0440\u0443\u0435\u043c\u0441\u044f \u0432 \u041b\u043e\u0441 \u0410\u043d\u0434\u0436\u0435\u043b\u0435\u0441\u0435, \u041a\u0430\u043b\u0438\u0444\u043e\u0440\u043d\u0438\u044f','ar':'\u062e\u062f\u0645\u0629 \u0641\u064a \u062c\u0645\u064a\u0639 \u0623\u0646\u062d\u0627\u0621 \u0627\u0644\u0628\u0644\u0627\u062f\u060c \u0645\u0642\u0631\u0646\u0627 \u0641\u064a \u0644\u0648\u0633 \u0623\u0646\u062c\u0644\u0648\u0633\u060c \u0643\u0627\u0644\u064a\u0641\u0648\u0631\u0646\u064a\u0627'}
+for code,value in locations.items():
+ p=root/'assets/locales/home-blog'/f'{code}.json'; d=json.loads(p.read_text(encoding='utf-8')); d['location']=value; d.pop('chatNotice',None);p.write_text(json.dumps(d,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+count=0
+for p in [*root.glob('*.html'),*root.glob('state-records/*.html')]:
+ s=p.read_text(encoding='utf-8'); s=s.replace('Nationwide-Based Out Of Los Angeles',locations['en']);s=s.replace('localized-chat-20261016','playback-chat-20261016');p.write_text(s,encoding='utf-8'); count+=1
+print('Updated',count,'page references; generated four opening frame posters; removed chat note; updated ten location translations.')
+

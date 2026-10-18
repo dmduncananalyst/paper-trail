@@ -1,0 +1,12 @@
+﻿{
+    "before":  {
+                   "topBackground":  "rgba(0, 0, 0, 0)",
+                   "open":  true,
+                   "overviewBackground":  "rgba(0, 0, 0, 0)"
+               },
+    "after":  {
+                  "highlightBackground":  "rgb(104, 104, 104)",
+                  "textColor":  "rgb(255, 255, 255)",
+                  "onlyOneHighlighted":  1
+              }
+}

@@ -1,0 +1,682 @@
+[
+  {
+    "page": "about.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": null
+  },
+  {
+    "page": "accounts-payable-and-receivable-questions.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": "Where is the tracking getting difficult?"
+  },
+  {
+    "page": "accounts-payable-receivable.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": "Where is the tracking getting difficult?"
+  },
+  {
+    "page": "areas-we-serve.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": null
+  },
+  {
+    "page": "balancing-and-corrections-questions.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": "How many bank or card accounts need a closer look?"
+  },
+  {
+    "page": "balancing-corrections.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": "How many bank or card accounts need a closer look?"
+  },
+  {
+    "page": "bank-and-credit-card-balancing-questions.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": "How many bank or card accounts need a closer look?"
+  },
+  {
+    "page": "bank-credit-card-balancing.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": "How many bank or card accounts need a closer look?"
+  },
+  {
+    "page": "bookkeeping-agoura-hills.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": null
+  },
+  {
+    "page": "bookkeeping-burbank.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": "How many bank or card accounts need a closer look?"
+  },
+  {
+    "page": "bookkeeping-calabasas.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": null
+  },
+  {
+    "page": "bookkeeping-chatsworth.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": null
+  },
+  {
+    "page": "bookkeeping-culver-city.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": null
+  },
+  {
+    "page": "bookkeeping-glendale.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": null
+  },
+  {
+    "page": "bookkeeping-hollywood.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": null
+  },
+  {
+    "page": "bookkeeping-santa-monica.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": null
+  },
+  {
+    "page": "bookkeeping-west-hollywood.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": null
+  },
+  {
+    "page": "bookkeeping-woodland-hills.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": null
+  },
+  {
+    "page": "can-a-bank-feed-replace-reconciliations.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": "How many bank or card accounts need a closer look?"
+  },
+  {
+    "page": "can-a-bookkeeper-tell-me-what-deductions-i-can-claim.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": null
+  },
+  {
+    "page": "can-a-monthly-review-catch-fraud-or-mistakes.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": null
+  },
+  {
+    "page": "can-bookkeeping-be-done-remotely.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": null
+  },
+  {
+    "page": "can-duplicate-transactions-make-my-balance-incorrect.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": "How many bank or card accounts need a closer look?"
+  },
+  {
+    "page": "can-i-compare-this-months-expenses-to-last-month.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": null
+  },
+  {
+    "page": "can-last-years-bookkeeping-still-be-completed.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": null
+  },
+  {
+    "page": "can-mixed-business-and-personal-expenses-be-cleaned-up.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": null
+  },
+  {
+    "page": "can-monthly-bookkeeping-uncover-cash-flow-problems.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": null
+  },
+  {
+    "page": "can-rules-automatically-categorize-transactions-correctly.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": null
+  },
+  {
+    "page": "can-several-months-be-corrected-at-once.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": null
+  },
+  {
+    "page": "can-year-end-cleanup-be-completed-after-december.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": "Which stage are you at with the year\u2019s records?"
+  },
+  {
+    "page": "do-i-have-to-start-over-if-my-balances-are-wrong.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": "How many bank or card accounts need a closer look?"
+  },
+  {
+    "page": "do-i-need-every-receipt-to-catch-up-my-bookkeeping.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": null
+  },
+  {
+    "page": "do-unpaid-invoices-matter-at-year-end.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": "Which stage are you at with the year\u2019s records?"
+  },
+  {
+    "page": "do-unpaid-vendor-bills-matter-at-year-end.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": "Which stage are you at with the year\u2019s records?"
+  },
+  {
+    "page": "faq.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": null
+  },
+  {
+    "page": "how-can-i-see-whether-my-business-is-improving.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": null
+  },
+  {
+    "page": "how-can-i-tell-how-much-my-business-earned-this-month.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": null
+  },
+  {
+    "page": "how-can-missing-bank-transactions-be-found.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": "How many bank or card accounts need a closer look?"
+  },
+  {
+    "page": "how-do-i-categorize-refunds-from-vendors.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": null
+  },
+  {
+    "page": "how-do-i-find-a-transaction-that-caused-my-books-to-be-off.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": null
+  },
+  {
+    "page": "how-do-i-identify-unnecessary-recurring-charges.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": null
+  },
+  {
+    "page": "how-do-i-keep-bookkeeping-current-during-busy-seasons.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": null
+  },
+  {
+    "page": "how-do-i-know-if-my-business-needs-bookkeeping-help.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": null
+  },
+  {
+    "page": "how-do-i-know-if-the-year-is-ready-to-close.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": "Which stage are you at with the year\u2019s records?"
+  },
+  {
+    "page": "how-do-i-know-if-transactions-are-missing-from-the-month.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": null
+  },
+  {
+    "page": "how-do-i-know-which-customers-have-unpaid-invoices.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": "Where is the tracking getting difficult?"
+  },
+  {
+    "page": "how-do-i-read-a-profit-and-loss-statement.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": null
+  },
+  {
+    "page": "how-do-i-track-bills-that-are-due-next-month.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": null
+  },
+  {
+    "page": "how-do-i-track-different-payment-platforms-accurately.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": null
+  },
+  {
+    "page": "how-long-does-it-take-to-bring-overdue-books-current.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": null
+  },
+  {
+    "page": "how-much-time-should-i-set-aside-for-bookkeeping-each-month.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": null
+  },
+  {
+    "page": "how-often-should-business-books-be-updated.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": null
+  },
+  {
+    "page": "how-often-should-i-reconcile-my-business-bank-account.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": "How many bank or card accounts need a closer look?"
+  },
+  {
+    "page": "how-should-bank-fees-be-recorded.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": "How many bank or card accounts need a closer look?"
+  },
+  {
+    "page": "how-should-business-transactions-be-categorized.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": null
+  },
+  {
+    "page": "how-should-cash-payments-from-customers-be-recorded.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": null
+  },
+  {
+    "page": "how-should-credit-card-payments-be-recorded.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": null
+  },
+  {
+    "page": "how-should-customer-deposits-be-tracked.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": null
+  },
+  {
+    "page": "how-should-old-bookkeeping-mistakes-be-corrected.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": null
+  },
+  {
+    "page": "how-should-owner-payments-be-shown-before-tax-preparation.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": "Which stage are you at with the year\u2019s records?"
+  },
+  {
+    "page": "how-should-partial-customer-payments-be-applied.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": null
+  },
+  {
+    "page": "income-and-expense-tracking-questions.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": null
+  },
+  {
+    "page": "income-expense-tracking.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": null
+  },
+  {
+    "page": "index.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": null
+  },
+  {
+    "page": "is-buying-equipment-the-same-as-buying-office-supplies.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": null
+  },
+  {
+    "page": "is-monthly-bookkeeping-necessary-for-a-small-business.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": null
+  },
+  {
+    "page": "monthly-bookkeeping-review-questions.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": null
+  },
+  {
+    "page": "monthly-bookkeeping-review.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": null
+  },
+  {
+    "page": "monthly-financial-reports-questions.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": null
+  },
+  {
+    "page": "monthly-financial-reports.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": null
+  },
+  {
+    "page": "notes.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": null
+  },
+  {
+    "page": "paper-trail-monthly-bookkeeping-questions.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": null
+  },
+  {
+    "page": "paper-trail-monthly-bookkeeping.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": null
+  },
+  {
+    "page": "paper-trail-services-questions.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": null
+  },
+  {
+    "page": "paper-trail-services.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": null
+  },
+  {
+    "page": "past-due-bookkeeping-questions.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": null
+  },
+  {
+    "page": "past-due-bookkeeping.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": null
+  },
+  {
+    "page": "services.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": null
+  },
+  {
+    "page": "should-every-business-credit-card-be-reconciled.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": "How many bank or card accounts need a closer look?"
+  },
+  {
+    "page": "should-i-catch-up-bookkeeping-before-applying-for-financing.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": null
+  },
+  {
+    "page": "should-i-review-overdue-receivables-every-month.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": "Where is the tracking getting difficult?"
+  },
+  {
+    "page": "should-i-review-unpaid-bills-before-closing-the-month.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": null
+  },
+  {
+    "page": "should-loans-be-recorded-before-preparing-taxes.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": "Which stage are you at with the year\u2019s records?"
+  },
+  {
+    "page": "should-payroll-records-be-reviewed-at-year-end.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": "Which stage are you at with the year\u2019s records?"
+  },
+  {
+    "page": "should-sales-tax-collected-be-treated-as-revenue.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": "Which stage are you at with the year\u2019s records?"
+  },
+  {
+    "page": "tax-ready-bookkeeping-questions.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": "Which stage are you at with the year\u2019s records?"
+  },
+  {
+    "page": "tax-ready-bookkeeping.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": "Which stage are you at with the year\u2019s records?"
+  },
+  {
+    "page": "transaction-categorization-questions.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": null
+  },
+  {
+    "page": "transaction-categorization.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": null
+  },
+  {
+    "page": "what-business-expenses-should-i-be-tracking.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": null
+  },
+  {
+    "page": "what-do-monthly-financial-reports-actually-show-me.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": null
+  },
+  {
+    "page": "what-does-a-bookkeeper-actually-do-for-a-small-business.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": null
+  },
+  {
+    "page": "what-does-a-cleared-transaction-mean.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": null
+  },
+  {
+    "page": "what-happens-after-the-month-is-fully-reviewed.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": null
+  },
+  {
+    "page": "what-happens-during-monthly-bookkeeping.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": null
+  },
+  {
+    "page": "what-happens-if-a-customer-overpays-an-invoice.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": "Where is the tracking getting difficult?"
+  },
+  {
+    "page": "what-happens-if-a-transaction-is-dated-in-the-wrong-year.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": null
+  },
+  {
+    "page": "what-happens-if-transactions-are-uncategorized-at-tax-time.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": "Which stage are you at with the year\u2019s records?"
+  },
+  {
+    "page": "what-happens-when-an-old-bank-account-is-closed.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": "How many bank or card accounts need a closer look?"
+  },
+  {
+    "page": "what-if-a-monthly-report-includes-an-unexpected-large-expense.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": null
+  },
+  {
+    "page": "what-if-a-payment-was-posted-to-the-wrong-account.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": null
+  },
+  {
+    "page": "what-if-a-transaction-fits-two-expense-categories.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": null
+  },
+  {
+    "page": "what-if-i-change-bookkeeping-software-midyear.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": null
+  },
+  {
+    "page": "what-if-i-pay-a-vendor-bill-twice.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": null
+  },
+  {
+    "page": "what-if-my-books-show-negative-cash-at-tax-time.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": "Which stage are you at with the year\u2019s records?"
+  },
+  {
+    "page": "what-if-old-bookkeeping-software-no-longer-has-my-data.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": null
+  },
+  {
+    "page": "what-is-a-balance-sheet-supposed-to-tell-me.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": "How many bank or card accounts need a closer look?"
+  },
+  {
+    "page": "what-is-the-difference-between-accounts-payable-and-receivable.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": "Where is the tracking getting difficult?"
+  },
+  {
+    "page": "what-is-the-difference-between-bookkeeping-and-accounting.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": null
+  },
+  {
+    "page": "what-is-the-difference-between-revenue-and-cash-flow.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": null
+  },
+  {
+    "page": "what-questions-should-i-ask-during-a-bookkeeping-consultation.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": null
+  },
+  {
+    "page": "what-questions-should-i-ask-during-a-bookkeeping-review.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": null
+  },
+  {
+    "page": "what-records-should-be-kept-with-my-tax-ready-books.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": "Which stage are you at with the year\u2019s records?"
+  },
+  {
+    "page": "what-reports-should-i-save-at-the-end-of-the-year.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": null
+  },
+  {
+    "page": "what-should-be-checked-before-closing-the-books-for-the-year.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": null
+  },
+  {
+    "page": "what-should-i-check-before-approving-monthly-reports.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": null
+  },
+  {
+    "page": "what-should-i-check-before-changing-an-opening-balance.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": "How many bank or card accounts need a closer look?"
+  },
+  {
+    "page": "what-should-i-do-if-my-bookkeeping-is-several-months-behind.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": null
+  },
+  {
+    "page": "what-should-i-give-my-bookkeeper-every-month.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": null
+  },
+  {
+    "page": "what-should-i-prepare-before-hiring-a-bookkeeper.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": null
+  },
+  {
+    "page": "what-should-my-books-look-like-before-i-give-them-to-my-tax-preparer.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": "Which stage are you at with the year\u2019s records?"
+  },
+  {
+    "page": "when-should-monthly-bookkeeping-reports-be-ready.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": null
+  },
+  {
+    "page": "where-do-owner-contributions-belong-in-my-books.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": null
+  },
+  {
+    "page": "which-report-shows-what-my-business-owes.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": null
+  },
+  {
+    "page": "why-can-a-profitable-business-have-low-cash.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": null
+  },
+  {
+    "page": "why-do-i-have-so-many-uncategorized-transactions.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": null
+  },
+  {
+    "page": "why-do-my-expenses-increase-when-sales-increase.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": null
+  },
+  {
+    "page": "why-do-transfers-show-up-as-expenses-in-my-books.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": null
+  },
+  {
+    "page": "why-does-my-bank-balance-not-match-my-books.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": "How many bank or card accounts need a closer look?"
+  },
+  {
+    "page": "why-is-a-card-balance-negative-in-my-software.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": "How many bank or card accounts need a closer look?"
+  },
+  {
+    "page": "why-is-income-tracking-different-from-tracking-deposits.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": null
+  },
+  {
+    "page": "why-should-i-review-the-same-reports-every-month.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": null
+  },
+  {
+    "page": "why-should-loan-balances-be-reviewed-each-month.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": "How many bank or card accounts need a closer look?"
+  },
+  {
+    "page": "will-a-bookkeeper-work-with-my-tax-preparer.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": "Which stage are you at with the year\u2019s records?"
+  },
+  {
+    "page": "year-end-bookkeeping-questions.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": "Which stage are you at with the year\u2019s records?"
+  },
+  {
+    "page": "year-end-bookkeeping.html",
+    "opening": "What about your books needs attention?",
+    "additional_scope": "Which stage are you at with the year\u2019s records?"
+  }
+]

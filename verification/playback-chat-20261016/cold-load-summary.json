@@ -1,0 +1,218 @@
+[
+  {
+    "page": "index.html",
+    "width": 390,
+    "scheme": "http",
+    "frameGeometries": 1,
+    "cls": 0,
+    "sampleCount": 218,
+    "played": true
+  },
+  {
+    "page": "about.html",
+    "width": 390,
+    "scheme": "http",
+    "frameGeometries": 1,
+    "cls": 0,
+    "sampleCount": 216,
+    "played": true
+  },
+  {
+    "page": "paper-trail-services.html",
+    "width": 390,
+    "scheme": "http",
+    "frameGeometries": 1,
+    "cls": 0,
+    "sampleCount": 232,
+    "played": true
+  },
+  {
+    "page": "paper-trail-monthly-bookkeeping.html",
+    "width": 390,
+    "scheme": "http",
+    "frameGeometries": 1,
+    "cls": 0,
+    "sampleCount": 232,
+    "played": true
+  },
+  {
+    "page": "index.html",
+    "width": 390,
+    "scheme": "file",
+    "frameGeometries": 1,
+    "cls": 0,
+    "sampleCount": 223,
+    "played": true
+  },
+  {
+    "page": "about.html",
+    "width": 390,
+    "scheme": "file",
+    "frameGeometries": 1,
+    "cls": 0,
+    "sampleCount": 231,
+    "played": true
+  },
+  {
+    "page": "paper-trail-services.html",
+    "width": 390,
+    "scheme": "file",
+    "frameGeometries": 1,
+    "cls": 0,
+    "sampleCount": 234,
+    "played": true
+  },
+  {
+    "page": "paper-trail-monthly-bookkeeping.html",
+    "width": 390,
+    "scheme": "file",
+    "frameGeometries": 1,
+    "cls": 0,
+    "sampleCount": 234,
+    "played": true
+  },
+  {
+    "page": "index.html",
+    "width": 834,
+    "scheme": "http",
+    "frameGeometries": 1,
+    "cls": 0,
+    "sampleCount": 206,
+    "played": true
+  },
+  {
+    "page": "about.html",
+    "width": 834,
+    "scheme": "http",
+    "frameGeometries": 1,
+    "cls": 0,
+    "sampleCount": 232,
+    "played": true
+  },
+  {
+    "page": "paper-trail-services.html",
+    "width": 834,
+    "scheme": "http",
+    "frameGeometries": 1,
+    "cls": 0,
+    "sampleCount": 233,
+    "played": true
+  },
+  {
+    "page": "paper-trail-monthly-bookkeeping.html",
+    "width": 834,
+    "scheme": "http",
+    "frameGeometries": 1,
+    "cls": 0,
+    "sampleCount": 227,
+    "played": true
+  },
+  {
+    "page": "index.html",
+    "width": 834,
+    "scheme": "file",
+    "frameGeometries": 1,
+    "cls": 0,
+    "sampleCount": 216,
+    "played": true
+  },
+  {
+    "page": "about.html",
+    "width": 834,
+    "scheme": "file",
+    "frameGeometries": 1,
+    "cls": 0,
+    "sampleCount": 236,
+    "played": true
+  },
+  {
+    "page": "paper-trail-services.html",
+    "width": 834,
+    "scheme": "file",
+    "frameGeometries": 1,
+    "cls": 0,
+    "sampleCount": 230,
+    "played": true
+  },
+  {
+    "page": "paper-trail-monthly-bookkeeping.html",
+    "width": 834,
+    "scheme": "file",
+    "frameGeometries": 1,
+    "cls": 0,
+    "sampleCount": 230,
+    "played": true
+  },
+  {
+    "page": "index.html",
+    "width": 1440,
+    "scheme": "http",
+    "frameGeometries": 1,
+    "cls": 0,
+    "sampleCount": 217,
+    "played": true
+  },
+  {
+    "page": "about.html",
+    "width": 1440,
+    "scheme": "http",
+    "frameGeometries": 1,
+    "cls": 0,
+    "sampleCount": 226,
+    "played": true
+  },
+  {
+    "page": "paper-trail-services.html",
+    "width": 1440,
+    "scheme": "http",
+    "frameGeometries": 1,
+    "cls": 0,
+    "sampleCount": 226,
+    "played": true
+  },
+  {
+    "page": "paper-trail-monthly-bookkeeping.html",
+    "width": 1440,
+    "scheme": "http",
+    "frameGeometries": 1,
+    "cls": 0,
+    "sampleCount": 201,
+    "played": true
+  },
+  {
+    "page": "index.html",
+    "width": 1440,
+    "scheme": "file",
+    "frameGeometries": 1,
+    "cls": 0,
+    "sampleCount": 208,
+    "played": true
+  },
+  {
+    "page": "about.html",
+    "width": 1440,
+    "scheme": "file",
+    "frameGeometries": 1,
+    "cls": 0,
+    "sampleCount": 232,
+    "played": true
+  },
+  {
+    "page": "paper-trail-services.html",
+    "width": 1440,
+    "scheme": "file",
+    "frameGeometries": 1,
+    "cls": 0,
+    "sampleCount": 222,
+    "played": true
+  },
+  {
+    "page": "paper-trail-monthly-bookkeeping.html",
+    "width": 1440,
+    "scheme": "file",
+    "frameGeometries": 1,
+    "cls": 0,
+    "sampleCount": 196,
+    "played": true
+  }
+]

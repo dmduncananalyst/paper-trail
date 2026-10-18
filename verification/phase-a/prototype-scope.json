@@ -1,0 +1,11 @@
+﻿{
+    "approval":  "Design approval pending",
+    "translationBackend":  "Not activated",
+    "readingPreviews":  99,
+    "blogStories":  3,
+    "topics":  12,
+    "chat":  "Existing English guided conversation preserved. Preview sends blocked; multilingual free-form chat not implemented.",
+    "languages":  "English plus nine locally authored draft locales; zero provider calls",
+    "scope":  "Separate preview pages only. Original website files remain unchanged.",
+    "revision":  4
+}

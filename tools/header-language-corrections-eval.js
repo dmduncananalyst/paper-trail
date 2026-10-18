@@ -1,0 +1,7 @@
+(()=>{
+ const rect=e=>{const r=e.getBoundingClientRect();return {left:r.left,right:r.right,top:r.top,bottom:r.bottom,width:r.width,height:r.height}};
+ const header=document.querySelector('.pt-header'),select=document.querySelector('#language'),control=select?.closest('.language-control'),phone=header.querySelector('a[href^="tel:"]');
+ const badge=document.querySelector('.translation-credit>a'),notes=document.querySelector('.all-service-notes'),cards=document.querySelector('.service-notes .support-note-cards'),conversation=document.querySelector('.service-notes+.conversation-section .action');
+ const a=control&&rect(control),b=rect(phone),c=badge&&rect(badge),d=badge&&rect(badge.closest('.translation-credit'));
+ return {selectors:document.querySelectorAll('#language').length,insideHeader:!!header.querySelector('#language'),control:a,phone:b,selectorLeftOfPhone:!!a&&a.right<=b.left+2,sameRow:!!a&&Math.abs((a.top+a.bottom)/2-(b.top+b.bottom)/2)<3,overflow:document.documentElement.scrollWidth>document.documentElement.clientWidth+2,badgeCentered:!c||Math.abs((c.left+c.right)/2-(d.left+d.right)/2)<2,cardsToFirstButton:cards&&notes?rect(notes.querySelector('.action')).top-rect(cards).bottom:null,buttonGap:notes&&conversation?rect(conversation).top-rect(notes.querySelector('.action')).bottom:null,brokenImages:[...document.images].filter(i=>i.complete&&!i.naturalWidth).map(i=>i.src)};
+})()

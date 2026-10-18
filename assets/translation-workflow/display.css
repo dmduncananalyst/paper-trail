@@ -1,0 +1,7 @@
+/* Preserve existing layout; allow translated text to wrap and be read. */
+.translation-credit{display:flex;align-items:flex-start;justify-content:center;flex-wrap:wrap;gap:12px 20px;padding:24px 20px;margin:20px auto 0;max-width:760px;border-top:1px solid #ccc;font:13px/1.7 'DM Sans',Arial,sans-serif;color:#505050}
+.translation-credit>a{flex:none;align-self:center}.translation-credit img{width:150px;height:20px;object-fit:contain}.translation-credit details{width:100%;text-align:center}.translation-credit summary{cursor:pointer}.translation-credit p{font-size:13px!important;line-height:1.7!important;margin:12px 0 0!important}
+.translation-credit{flex-direction:column;align-items:center;text-align:center}
+html[data-static-locale] .pt-nav>a,html[data-static-locale] .nav-family>a,html[data-static-locale] h1,html[data-static-locale] h2,html[data-static-locale] h3,html[data-static-locale] .action,html[data-static-locale] .card-action{overflow-wrap:anywhere}
+html[data-static-locale] .pt-contact .contact-main>h1{white-space:normal;max-width:100%}
+html[data-static-locale="ar"] main p,html[data-static-locale="fa"] main p,html[data-static-locale="ar"] main h1,html[data-static-locale="fa"] main h1,html[data-static-locale="ar"] main h2,html[data-static-locale="fa"] main h2,html[data-static-locale="ar"] main h3,html[data-static-locale="fa"] main h3,html[data-static-locale="ar"] .translation-credit,html[data-static-locale="fa"] .translation-credit{direction:rtl}

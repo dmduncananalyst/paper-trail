@@ -1,0 +1,31 @@
+﻿{
+    "checks":  [
+                   {
+                       "page":  "about.html",
+                       "result":  {
+                                      "path":  "/es/about.html",
+                                      "locale":  "es",
+                                      "selectors":  1
+                                  }
+                   },
+                   {
+                       "page":  "monthly-financial-reports.html",
+                       "result":  {
+                                      "path":  "/es/monthly-financial-reports.html",
+                                      "locale":  "es",
+                                      "selectors":  1
+                                  }
+                   },
+                   {
+                       "page":  "state-records/california.html",
+                       "result":  {
+                                      "path":  "/es/state-records/california.html",
+                                      "locale":  "es",
+                                      "selectors":  1
+                                  }
+                   }
+               ],
+    "exceptions":  [
+
+                   ]
+}

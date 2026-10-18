@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /inquiries
+Sitemap: https://www.papertrailusa.com/sitemap.xml
+Sitemap: https://www.papertrailusa.com/sitemap-translations.xml

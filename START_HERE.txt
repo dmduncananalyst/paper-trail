@@ -1,0 +1,91 @@
+PAPER TRAIL WEBSITE, MEDIA AND LAYOUT UPDATE
+
+This is a separate website download. The original ZIP was not changed by this update.
+
+WHAT IS INCLUDED
+140 public HTML pages with unique page titles, complete unique meta descriptions,
+canonical URLs, social sharing metadata and relevant structured data.
+All 140 pages appear in sitemap.xml, with their assigned primary images.
+Every page is reachable from the homepage within three clicks. Contextual links join
+related bookkeeping topics. No visible breadcrumb paths appear on the pages.
+All 96 bookkeeping answer articles retain their authoritative references and begin
+with the answer in two or three sentences. References appear on articles only.
+City pages retain their distinct content and use the same photo as their listing card.
+Remote coverage is nationwide, including Zoom meetings. Los Angeles County pages
+remain as locally relevant content and do not limit the service area.
+In person meetings throughout Los Angeles County are by appointment only.
+The footer link reads Nationwide - Based in Los Angeles.
+See verification/seo-validation.json for the per-page audit.
+
+MEDIA AND PRESENTATION
+Four original videos fill their entire hero sections: Home, About, Bookkeeping
+Repair Services and Monthly Bookkeeping Services. Video backgrounds fill the
+hero with object-fit cover. Still photos preserve the complete image. The assigned media now includes three distinct generated bookkeeping blog
+photographs, with the approved Black shop owner in the cash flow article.
+The older sports and personal retirement posts have been removed.
+They are unique, except for intentional reuse on a page and its matching cards.
+Video stills are also used where appropriate. All ten city pages and three blog pages
+have photos. All 96 bookkeeping Notes articles now have photos. The 38 missing article
+photos are filled, and eight repetitive images on the Bookkeeping Repair topic
+page have been replaced. Screens and open records show meaningful content.
+The page and image mapping is in verification/article-photo-manifest.csv.
+
+Notes is one navigation link leading to 12 topic cards and 96 articles. Article
+headlines use statements instead of questions, with original URLs preserved.
+Desktop menus open on hover without arrows or plus signs, directly beneath their
+own labels. Touch menus open on tap. Bookkeeping Repair Services and Monthly
+Bookkeeping Services are overview pages with matching service photo cards.
+The home hero buttons share one color. Decorative photo frames have been removed.
+Conversation buttons open a centered dialog with the Paper Trail logo and an X to
+close. The box stays hidden until a visitor opens it. Escape closes the dialog,
+and the conversation is preserved when it is reopened. CTA labels follow the topic.
+The homepage section layout is retained; inner pages use distinct editorial layouts.
+The Nationwide page has a slowly rotating globe focused on the United States,
+with all 50 state boundaries, country borders, Los Angeles marked, a pause
+control and reduced motion support. Blog pages have no conversation CTAs. Each of the three bookkeeping blog articles now has
+at least 690 words, opening summaries and official references. The visible
+Journal label has been replaced with Blog. Blog content has no question
+headings, parentheses, sentence dashes or conversation CTAs.
+Conversation invitations show only the relevant button, without a heading or filler paragraph.
+The Privacy page and its links have been removed. The Contact menu contains
+only Contact Us and Working With Paper Trail. Contact Us is the nationwide
+map page. Services provides two overview cards for repair and monthly support.
+
+BEFORE PUBLIC DEPLOYMENT
+1. Choose the real public website domain. Current canonical and sitemap URLs use
+   the private Paper Trail preview origin.
+2. From the extracted folder, run the following with your real HTTPS domain:
+   python3 tools/configure-domain.py https://your-actual-domain.com
+   This changes URLs in every HTML file, robots.txt and sitemap.xml.
+3. Publish the HTML pages, assets, robots.txt and sitemap.xml at the public root.
+   Ensure pages return HTTP 200 without a login requirement or an X-Robots-Tag
+   noindex header. Use one canonical HTTPS domain and redirect duplicate hosts.
+4. Add and verify that domain in Google Search Console. Submit /sitemap.xml and
+   review page indexing and URL inspection results. This submission is not done
+   by downloading this ZIP.
+
+INDEXING AND LINKS
+A private preview cannot be indexed publicly. The public files permit indexing,
+but Google decides which pages to crawl and index. A sitemap is a discovery aid.
+Internal links are included. External backlinks are links from other websites,
+so they cannot be created simply by adding code to these files. Use accurate
+business listings and legitimate editorial or partner mentions when appropriate.
+Do not create fake offices or purchase links intended to manipulate rankings.
+
+CONVERSATIONS
+Open index.html to review the layout and guided conversation. Once published on
+an HTTPS website, this download sends reviewed notes directly to the supplied
+HubSpot form. Name, email, phone, company name and the combined message are
+required. All conversation answers are included in the message. Field names were
+verified against the published form. Payloads and errors were tested with mocked
+responses, without sending a synthetic inquiry to your live account.
+The hosted Site also stores an inquiry copy in its private inbox. This frontend
+download does not include that private inbox, server source or account credentials.
+Live generative model answers remain unconnected. Referenced published answers
+and guided prompts are available. Local previews never claim a note was sent.
+
+OFFICIAL SEO REFERENCES
+https://developers.google.com/search/docs/crawling-indexing/sitemaps/overview
+https://developers.google.com/search/docs/appearance/title-link
+https://developers.google.com/search/docs/appearance/snippet
+https://developers.google.com/search/docs/essentials/spam-policies

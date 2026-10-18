@@ -1,0 +1,995 @@
+{
+  "public_pages": 140,
+  "sitemap_urls": 140,
+  "sitemap_unique_photos": 124,
+  "unique_titles": 140,
+  "unique_descriptions": 140,
+  "referenced_answer_articles": 96,
+  "visible_breadcrumb_trails": 0,
+  "maximum_clicks_from_home": 3,
+  "unreachable_pages": 0,
+  "contextual_internal_links": 110,
+  "errors": [],
+  "pages": {
+    "what-if-my-books-show-negative-cash-at-tax-time.html": {
+      "title": "Investigate Negative Cash Before Tax Preparation | Paper Trail",
+      "description": "Negative cash in the books needs investigation before the records go to your tax preparer.",
+      "canonical": "https://www.papertrailusa.com/what-if-my-books-show-negative-cash-at-tax-time.html",
+      "internal_incoming_links": 1,
+      "clicks_from_home": 3
+    },
+    "why-should-i-review-the-same-reports-every-month.html": {
+      "title": "Use Consistent Reports to See Changes Over Time | Paper Trail",
+      "description": "Reviewing the same core reports each month makes changes easier to recognize.",
+      "canonical": "https://www.papertrailusa.com/why-should-i-review-the-same-reports-every-month.html",
+      "internal_incoming_links": 1,
+      "clicks_from_home": 3
+    },
+    "what-should-i-do-if-my-bookkeeping-is-several-months-behind.html": {
+      "title": "Catch Up Bookkeeping for Months of Overdue Records | Paper Trail",
+      "description": "Find the last reliable completed month, then gather bank statements, card statements and other business records for every unfinished period.",
+      "canonical": "https://www.papertrailusa.com/what-should-i-do-if-my-bookkeeping-is-several-months-behind.html",
+      "internal_incoming_links": 9,
+      "clicks_from_home": 2
+    },
+    "bookkeeping-burbank.html": {
+      "title": "Bookkeeping in Burbank, CA | Paper Trail",
+      "description": "Remote bookkeeping for Burbank businesses, with practical support for production project costs, staged customer payments and vendor bills.",
+      "canonical": "https://www.papertrailusa.com/bookkeeping-burbank.html",
+      "internal_incoming_links": 1,
+      "clicks_from_home": 2
+    },
+    "what-happens-during-monthly-bookkeeping.html": {
+      "title": "Monthly Bookkeeping Checklist for a Complete Month | Paper Trail",
+      "description": "A monthly bookkeeping checklist covers collecting records, categorizing transactions, reconciling accounts, reviewing unpaid balances and preparing financial reports.",
+      "canonical": "https://www.papertrailusa.com/what-happens-during-monthly-bookkeeping.html",
+      "internal_incoming_links": 9,
+      "clicks_from_home": 2
+    },
+    "accounts-payable-and-receivable-questions.html": {
+      "title": "Accounts Payable & Receivable Guides | Paper Trail",
+      "description": "Keep customer invoices, partial payments, vendor bills and outstanding balances in view.",
+      "canonical": "https://www.papertrailusa.com/accounts-payable-and-receivable-questions.html",
+      "internal_incoming_links": 9,
+      "clicks_from_home": 2
+    },
+    "how-do-i-track-different-payment-platforms-accurately.html": {
+      "title": "Payment Processor Reconciliation for Sales, Fees and Payouts | Paper Trail",
+      "description": "Track each payment platform from gross customer activity through refunds, fees and adjustments to the net payout received by the bank.",
+      "canonical": "https://www.papertrailusa.com/how-do-i-track-different-payment-platforms-accurately.html",
+      "internal_incoming_links": 1,
+      "clicks_from_home": 3
+    },
+    "monthly-bookkeeping-review.html": {
+      "title": "Monthly Bookkeeping Review | Paper Trail",
+      "description": "Review monthly bookkeeping for missing activity, unusual changes, unreconciled balances and open items before treating the period as complete.",
+      "canonical": "https://www.papertrailusa.com/monthly-bookkeeping-review.html",
+      "internal_incoming_links": 139,
+      "clicks_from_home": 1
+    },
+    "bookkeeping-glendale.html": {
+      "title": "Bookkeeping in Glendale, CA | Paper Trail",
+      "description": "Remote bookkeeping for Glendale businesses, with clear records for mixed retail payment methods, sales deposits, refunds and daily settlements.",
+      "canonical": "https://www.papertrailusa.com/bookkeeping-glendale.html",
+      "internal_incoming_links": 1,
+      "clicks_from_home": 2
+    },
+    "can-duplicate-transactions-make-my-balance-incorrect.html": {
+      "title": "Duplicate Transactions Can Throw Off Your Balances | Paper Trail",
+      "description": "Yes, recording the same transaction twice can distort cash, expenses, revenue or liabilities. The effect depends on which accounts the duplicated entry touches.",
+      "canonical": "https://www.papertrailusa.com/can-duplicate-transactions-make-my-balance-incorrect.html",
+      "internal_incoming_links": 9,
+      "clicks_from_home": 2
+    },
+    "can-last-years-bookkeeping-still-be-completed.html": {
+      "title": "Bring Last Year’s Books Up to Date | Paper Trail",
+      "description": "Yes, prior year bookkeeping can often be completed from bank and card statements, invoices, receipts and other business records.",
+      "canonical": "https://www.papertrailusa.com/can-last-years-bookkeeping-still-be-completed.html",
+      "internal_incoming_links": 9,
+      "clicks_from_home": 2
+    },
+    "why-do-my-expenses-increase-when-sales-increase.html": {
+      "title": "Understand Why Expenses Rise Alongside Sales | Paper Trail",
+      "description": "Expenses can increase when sales increase because serving more customers often requires more labor, materials, shipping, processing fees or other direct costs.",
+      "canonical": "https://www.papertrailusa.com/why-do-my-expenses-increase-when-sales-increase.html",
+      "internal_incoming_links": 1,
+      "clicks_from_home": 3
+    },
+    "how-often-should-i-reconcile-my-business-bank-account.html": {
+      "title": "Set a Reliable Bank Reconciliation Routine | Paper Trail",
+      "description": "Reconcile your business bank account at least monthly against its statement. The IRS specifically recommends monthly checking account reconciliation.",
+      "canonical": "https://www.papertrailusa.com/how-often-should-i-reconcile-my-business-bank-account.html",
+      "internal_incoming_links": 10,
+      "clicks_from_home": 1
+    },
+    "should-i-catch-up-bookkeeping-before-applying-for-financing.html": {
+      "title": "Get Your Books Ready Before Applying for Financing | Paper Trail",
+      "description": "Usually, yes, current and supported books make it easier to assemble financial information and explain business performance when applying for financing.",
+      "canonical": "https://www.papertrailusa.com/should-i-catch-up-bookkeeping-before-applying-for-financing.html",
+      "internal_incoming_links": 1,
+      "clicks_from_home": 3
+    },
+    "what-if-i-change-bookkeeping-software-midyear.html": {
+      "title": "Move Bookkeeping Software Without Losing the Trail | Paper Trail",
+      "description": "You can change bookkeeping software during the year, but the migration needs a defined cutoff date, verified balances and access to the original records.",
+      "canonical": "https://www.papertrailusa.com/what-if-i-change-bookkeeping-software-midyear.html",
+      "internal_incoming_links": 1,
+      "clicks_from_home": 3
+    },
+    "where-do-owner-contributions-belong-in-my-books.html": {
+      "title": "Record Owner Contributions Separately From Sales | Paper Trail",
+      "description": "An owner contribution generally represents money or property the owner puts into the business, rather than customer sales revenue.",
+      "canonical": "https://www.papertrailusa.com/where-do-owner-contributions-belong-in-my-books.html",
+      "internal_incoming_links": 5,
+      "clicks_from_home": 3
+    },
+    "catch-up-bookkeeping-overdue-books.html": {
+      "title": "Catch Up Bookkeeping for Overdue Books | Paper Trail",
+      "description": "Learn how to catch up overdue bookkeeping, gather missing records, reconcile accounts and build a monthly routine that keeps your business books current.",
+      "canonical": "https://www.papertrailusa.com/catch-up-bookkeeping-overdue-books.html",
+      "internal_incoming_links": 1,
+      "clicks_from_home": 2
+    },
+    "should-every-business-credit-card-be-reconciled.html": {
+      "title": "Reconcile Every Business Credit Card Account | Paper Trail",
+      "description": "Yes, every business credit card account with a balance or activity should be reconciled against its statement.",
+      "canonical": "https://www.papertrailusa.com/should-every-business-credit-card-be-reconciled.html",
+      "internal_incoming_links": 9,
+      "clicks_from_home": 2
+    },
+    "about.html": {
+      "title": "About Paper Trail | Bookkeeping Services",
+      "description": "Learn how Paper Trail approaches remote bookkeeping nationwide, with clear records, useful explanations and Zoom meetings that fit your business.",
+      "canonical": "https://www.papertrailusa.com/about.html",
+      "internal_incoming_links": 139,
+      "clicks_from_home": 1
+    },
+    "what-if-i-pay-a-vendor-bill-twice.html": {
+      "title": "Correct a Vendor Bill Paid Twice | Paper Trail",
+      "description": "If a vendor bill was paid twice, verify that there are two real payments rather than two copies of one entry.",
+      "canonical": "https://www.papertrailusa.com/what-if-i-pay-a-vendor-bill-twice.html",
+      "internal_incoming_links": 1,
+      "clicks_from_home": 3
+    },
+    "what-reports-should-i-save-at-the-end-of-the-year.html": {
+      "title": "Save the Reports That Explain Your Year | Paper Trail",
+      "description": "Save the final profit and loss statement, balance sheet, reconciliation reports, detailed transaction records and relevant supporting schedules at year end.",
+      "canonical": "https://www.papertrailusa.com/what-reports-should-i-save-at-the-end-of-the-year.html",
+      "internal_incoming_links": 1,
+      "clicks_from_home": 3
+    },
+    "how-should-partial-customer-payments-be-applied.html": {
+      "title": "Apply Partial Payments Without Losing Invoice Balances | Paper Trail",
+      "description": "Apply a partial customer payment to the specific invoice it relates to and leave the unpaid remainder open.",
+      "canonical": "https://www.papertrailusa.com/how-should-partial-customer-payments-be-applied.html",
+      "internal_incoming_links": 1,
+      "clicks_from_home": 3
+    },
+    "how-should-owner-payments-be-shown-before-tax-preparation.html": {
+      "title": "Record Owner Payments Before Tax Preparation | Paper Trail",
+      "description": "Owner payments should be clearly separated by their actual purpose before tax preparation.",
+      "canonical": "https://www.papertrailusa.com/how-should-owner-payments-be-shown-before-tax-preparation.html",
+      "internal_incoming_links": 1,
+      "clicks_from_home": 3
+    },
+    "what-questions-should-i-ask-during-a-bookkeeping-consultation.html": {
+      "title": "Prepare for a Productive Bookkeeping Introduction | Paper Trail",
+      "description": "Ask which records need repair, what work is included, what you must provide and how completion will be verified.",
+      "canonical": "https://www.papertrailusa.com/what-questions-should-i-ask-during-a-bookkeeping-consultation.html",
+      "internal_incoming_links": 1,
+      "clicks_from_home": 3
+    },
+    "bookkeeping-chatsworth.html": {
+      "title": "Bookkeeping in Chatsworth, CA | Paper Trail",
+      "description": "Remote bookkeeping for Chatsworth businesses, with practical records for inventory purchases, supplier bills and the movement of goods.",
+      "canonical": "https://www.papertrailusa.com/bookkeeping-chatsworth.html",
+      "internal_incoming_links": 1,
+      "clicks_from_home": 2
+    },
+    "can-year-end-cleanup-be-completed-after-december.html": {
+      "title": "Finish Year End Cleanup After December | Paper Trail",
+      "description": "Yes, for a business with a December year end, cleanup can continue after December as final statements, supplier bills and other records become available.",
+      "canonical": "https://www.papertrailusa.com/can-year-end-cleanup-be-completed-after-december.html",
+      "internal_incoming_links": 1,
+      "clicks_from_home": 3
+    },
+    "can-a-monthly-review-catch-fraud-or-mistakes.html": {
+      "title": "The Mistakes a Monthly Bookkeeping Review Can Reveal | Paper Trail",
+      "description": "A monthly bookkeeping review can reveal duplicate payments, unfamiliar vendors, missing receipts and unusual account movements.",
+      "canonical": "https://www.papertrailusa.com/can-a-monthly-review-catch-fraud-or-mistakes.html",
+      "internal_incoming_links": 1,
+      "clicks_from_home": 3
+    },
+    "paper-trail-services-questions.html": {
+      "title": "Bookkeeping Repair Guides | Paper Trail",
+      "description": "Bring unfinished records together and understand the work behind a dependable bookkeeping repair.",
+      "canonical": "https://www.papertrailusa.com/paper-trail-services-questions.html",
+      "internal_incoming_links": 9,
+      "clicks_from_home": 2
+    },
+    "bookkeeping-culver-city.html": {
+      "title": "Bookkeeping in Culver City, CA | Paper Trail",
+      "description": "Remote bookkeeping for Culver City businesses, with a closer look at retainers, client billing, scope changes and the timing of service income.",
+      "canonical": "https://www.papertrailusa.com/bookkeeping-culver-city.html",
+      "internal_incoming_links": 1,
+      "clicks_from_home": 2
+    },
+    "income-expense-tracking.html": {
+      "title": "Income & Expense Tracking | Paper Trail",
+      "description": "Track income and expenses with context for invoices, deposits, refunds and recurring costs, so your records explain more than a bank balance.",
+      "canonical": "https://www.papertrailusa.com/income-expense-tracking.html",
+      "internal_incoming_links": 139,
+      "clicks_from_home": 1
+    },
+    "tax-ready-bookkeeping.html": {
+      "title": "Tax Ready Bookkeeping | Paper Trail",
+      "description": "Organize and reconcile business records for your tax preparer, with supported transactions, useful reports and open items clearly identified.",
+      "canonical": "https://www.papertrailusa.com/tax-ready-bookkeeping.html",
+      "internal_incoming_links": 139,
+      "clicks_from_home": 1
+    },
+    "why-do-transfers-show-up-as-expenses-in-my-books.html": {
+      "title": "Keep Transfers Out of Your Expense Totals | Paper Trail",
+      "description": "Transfers can appear as expenses when imported bank activity is categorized as a purchase instead of movement between accounts.",
+      "canonical": "https://www.papertrailusa.com/why-do-transfers-show-up-as-expenses-in-my-books.html",
+      "internal_incoming_links": 1,
+      "clicks_from_home": 3
+    },
+    "bookkeeping-west-hollywood.html": {
+      "title": "Bookkeeping in West Hollywood, CA | Paper Trail",
+      "description": "Remote bookkeeping for West Hollywood service businesses, with organized records for appointments, gratuities, cancellations and customer payments.",
+      "canonical": "https://www.papertrailusa.com/bookkeeping-west-hollywood.html",
+      "internal_incoming_links": 1,
+      "clicks_from_home": 2
+    },
+    "do-unpaid-invoices-matter-at-year-end.html": {
+      "title": "Unpaid Customer Invoices at Year End | Paper Trail",
+      "description": "Yes, unpaid customer invoices matter at year end because they show money still owed to the business and help explain future cash collections.",
+      "canonical": "https://www.papertrailusa.com/do-unpaid-invoices-matter-at-year-end.html",
+      "internal_incoming_links": 9,
+      "clicks_from_home": 2
+    },
+    "what-is-the-difference-between-bookkeeping-and-accounting.html": {
+      "title": "Bookkeeping vs. Accounting and the Work Each Covers | Paper Trail",
+      "description": "Bookkeeping focuses on maintaining organized transaction records and reconciling them with supporting evidence.",
+      "canonical": "https://www.papertrailusa.com/what-is-the-difference-between-bookkeeping-and-accounting.html",
+      "internal_incoming_links": 1,
+      "clicks_from_home": 3
+    },
+    "paper-trail-services.html": {
+      "title": "Bookkeeping Repair Services | Paper Trail",
+      "description": "Bookkeeping cleanup and repair for missing months, duplicate entries and incorrect balances. Explore the work needed to organize and support your records.",
+      "canonical": "https://www.papertrailusa.com/paper-trail-services.html",
+      "internal_incoming_links": 139,
+      "clicks_from_home": 1
+    },
+    "monthly-bookkeeping-review-questions.html": {
+      "title": "Monthly Bookkeeping Review Guides | Paper Trail",
+      "description": "Review the completed month, follow unusual changes and keep the records behind your reports in order.",
+      "canonical": "https://www.papertrailusa.com/monthly-bookkeeping-review-questions.html",
+      "internal_incoming_links": 9,
+      "clicks_from_home": 2
+    },
+    "notes.html": {
+      "title": "Bookkeeping Notes & Practical Answers | Paper Trail",
+      "description": "Explore 96 practical bookkeeping answers across 12 topics, with clear examples and authoritative references for business owners.",
+      "canonical": "https://www.papertrailusa.com/notes.html",
+      "internal_incoming_links": 139,
+      "clicks_from_home": 1
+    },
+    "should-i-review-overdue-receivables-every-month.html": {
+      "title": "Keep Overdue Customer Invoices From Getting Lost | Paper Trail",
+      "description": "Yes, review overdue customer invoices at least monthly, and more frequently when collections affect immediate cash needs.",
+      "canonical": "https://www.papertrailusa.com/should-i-review-overdue-receivables-every-month.html",
+      "internal_incoming_links": 1,
+      "clicks_from_home": 3
+    },
+    "what-if-old-bookkeeping-software-no-longer-has-my-data.html": {
+      "title": "Rebuild Records When Old Software Data Is Unavailable | Paper Trail",
+      "description": "If your old bookkeeping system no longer provides the data, start by checking backups, exports and access options before rebuilding anything.",
+      "canonical": "https://www.papertrailusa.com/what-if-old-bookkeeping-software-no-longer-has-my-data.html",
+      "internal_incoming_links": 1,
+      "clicks_from_home": 3
+    },
+    "how-much-time-should-i-set-aside-for-bookkeeping-each-month.html": {
+      "title": "Make Room for Bookkeeping in Your Monthly Routine | Paper Trail",
+      "description": "There is no single monthly time requirement that fits every business.",
+      "canonical": "https://www.papertrailusa.com/how-much-time-should-i-set-aside-for-bookkeeping-each-month.html",
+      "internal_incoming_links": 4,
+      "clicks_from_home": 2
+    },
+    "how-do-i-identify-unnecessary-recurring-charges.html": {
+      "title": "Find Recurring Charges Your Business No Longer Needs | Paper Trail",
+      "description": "Review recurring charges by vendor, frequency and business purpose, then compare each charge with the services your business still uses.",
+      "canonical": "https://www.papertrailusa.com/how-do-i-identify-unnecessary-recurring-charges.html",
+      "internal_incoming_links": 1,
+      "clicks_from_home": 3
+    },
+    "how-should-old-bookkeeping-mistakes-be-corrected.html": {
+      "title": "Correct Old Bookkeeping Mistakes With a Clear Record | Paper Trail",
+      "description": "Correct old bookkeeping mistakes by tracing the original entry, documenting the proper treatment and reviewing every affected period.",
+      "canonical": "https://www.papertrailusa.com/how-should-old-bookkeeping-mistakes-be-corrected.html",
+      "internal_incoming_links": 1,
+      "clicks_from_home": 3
+    },
+    "bank-and-credit-card-balancing-questions.html": {
+      "title": "Bank & Credit Card Balancing Guides | Paper Trail",
+      "description": "Match bank and credit card statements to your books, investigate missing transactions and resolve duplicates.",
+      "canonical": "https://www.papertrailusa.com/bank-and-credit-card-balancing-questions.html",
+      "internal_incoming_links": 9,
+      "clicks_from_home": 2
+    },
+    "do-i-need-every-receipt-to-catch-up-my-bookkeeping.html": {
+      "title": "Catch Up Your Books When Receipts Are Missing | Paper Trail",
+      "description": "You can begin catching up before every receipt is located, but missing documentation still needs attention.",
+      "canonical": "https://www.papertrailusa.com/do-i-need-every-receipt-to-catch-up-my-bookkeeping.html",
+      "internal_incoming_links": 4,
+      "clicks_from_home": 2
+    },
+    "do-i-have-to-start-over-if-my-balances-are-wrong.html": {
+      "title": "Fix Incorrect Balances Without Starting Over | Paper Trail",
+      "description": "You usually do not need to start over, because incorrect balances can often be repaired within the existing bookkeeping file.",
+      "canonical": "https://www.papertrailusa.com/do-i-have-to-start-over-if-my-balances-are-wrong.html",
+      "internal_incoming_links": 1,
+      "clicks_from_home": 3
+    },
+    "what-is-the-difference-between-revenue-and-cash-flow.html": {
+      "title": "Revenue and Cash Flow Tell Different Stories | Paper Trail",
+      "description": "Revenue measures income from business activity under the accounting basis used, while cash flow measures money moving into and out of the business.",
+      "canonical": "https://www.papertrailusa.com/what-is-the-difference-between-revenue-and-cash-flow.html",
+      "internal_incoming_links": 1,
+      "clicks_from_home": 3
+    },
+    "how-do-i-know-which-customers-have-unpaid-invoices.html": {
+      "title": "See Which Customers Still Owe You Money | Paper Trail",
+      "description": "Use an accounts receivable aging report supported by a current invoice and payment record.",
+      "canonical": "https://www.papertrailusa.com/how-do-i-know-which-customers-have-unpaid-invoices.html",
+      "internal_incoming_links": 11,
+      "clicks_from_home": 2
+    },
+    "how-long-does-it-take-to-bring-overdue-books-current.html": {
+      "title": "The Work That Determines a Bookkeeping Catch Up Timeline | Paper Trail",
+      "description": "The time required depends on the number of unfinished months, transaction volume, account count and quality of the available records.",
+      "canonical": "https://www.papertrailusa.com/how-long-does-it-take-to-bring-overdue-books-current.html",
+      "internal_incoming_links": 1,
+      "clicks_from_home": 3
+    },
+    "which-report-shows-what-my-business-owes.html": {
+      "title": "Find Business Obligations on Your Balance Sheet | Paper Trail",
+      "description": "The balance sheet shows the business’s recorded liabilities at a specific date. These can include vendor bills, credit card debt, loans and other obligations.",
+      "canonical": "https://www.papertrailusa.com/which-report-shows-what-my-business-owes.html",
+      "internal_incoming_links": 1,
+      "clicks_from_home": 3
+    },
+    "what-is-the-difference-between-accounts-payable-and-receivable.html": {
+      "title": "Money You Owe and Money Owed to You | Paper Trail",
+      "description": "Accounts receivable tracks money customers owe your business, while accounts payable tracks money your business owes vendors.",
+      "canonical": "https://www.papertrailusa.com/what-is-the-difference-between-accounts-payable-and-receivable.html",
+      "internal_incoming_links": 9,
+      "clicks_from_home": 2
+    },
+    "will-a-bookkeeper-work-with-my-tax-preparer.html": {
+      "title": "Build a Better Handoff Between Bookkeeper and Tax Preparer | Paper Trail",
+      "description": "A bookkeeper can coordinate with your tax preparer when that work is included in the agreed service.",
+      "canonical": "https://www.papertrailusa.com/will-a-bookkeeper-work-with-my-tax-preparer.html",
+      "internal_incoming_links": 1,
+      "clicks_from_home": 3
+    },
+    "monthly-financial-reports-questions.html": {
+      "title": "Monthly Financial Reports Guides | Paper Trail",
+      "description": "Read profit and loss statements, understand your balance sheet and compare performance without losing sight of cash.",
+      "canonical": "https://www.papertrailusa.com/monthly-financial-reports-questions.html",
+      "internal_incoming_links": 9,
+      "clicks_from_home": 2
+    },
+    "can-several-months-be-corrected-at-once.html": {
+      "title": "Repair Several Months of Bookkeeping Together | Paper Trail",
+      "description": "Yes, several months can be corrected within one bookkeeping repair project.",
+      "canonical": "https://www.papertrailusa.com/can-several-months-be-corrected-at-once.html",
+      "internal_incoming_links": 1,
+      "clicks_from_home": 3
+    },
+    "what-should-i-check-before-approving-monthly-reports.html": {
+      "title": "Review Monthly Reports Before Approving Them | Paper Trail",
+      "description": "Before approving monthly reports, check the period, accounting basis and completeness of the underlying records. Then review material changes and unusual balances.",
+      "canonical": "https://www.papertrailusa.com/what-should-i-check-before-approving-monthly-reports.html",
+      "internal_incoming_links": 10,
+      "clicks_from_home": 1
+    },
+    "should-payroll-records-be-reviewed-at-year-end.html": {
+      "title": "Match Payroll Records Before Closing the Year | Paper Trail",
+      "description": "Yes, a year end review should compare payroll reports with the wages, employer taxes, benefits, payments and payroll liabilities recorded in the books.",
+      "canonical": "https://www.papertrailusa.com/should-payroll-records-be-reviewed-at-year-end.html",
+      "internal_incoming_links": 1,
+      "clicks_from_home": 3
+    },
+    "why-do-i-have-so-many-uncategorized-transactions.html": {
+      "title": "Get Uncategorized Transactions Under Control | Paper Trail",
+      "description": "A large uncategorized balance usually means the books lack enough information or consistent rules to identify transactions properly.",
+      "canonical": "https://www.papertrailusa.com/why-do-i-have-so-many-uncategorized-transactions.html",
+      "internal_incoming_links": 9,
+      "clicks_from_home": 2
+    },
+    "how-do-i-track-bills-that-are-due-next-month.html": {
+      "title": "Keep Upcoming Vendor Bills in View | Paper Trail",
+      "description": "Maintain an unpaid bill list with supplier names, invoice amounts, due dates, credits and payment status.",
+      "canonical": "https://www.papertrailusa.com/how-do-i-track-bills-that-are-due-next-month.html",
+      "internal_incoming_links": 1,
+      "clicks_from_home": 3
+    },
+    "why-can-a-profitable-business-have-low-cash.html": {
+      "title": "A Profitable Business Can Still Run Short of Cash | Paper Trail",
+      "description": "A profitable business can have low cash because profit and cash measure different things.",
+      "canonical": "https://www.papertrailusa.com/why-can-a-profitable-business-have-low-cash.html",
+      "internal_incoming_links": 1,
+      "clicks_from_home": 3
+    },
+    "what-should-be-checked-before-closing-the-books-for-the-year.html": {
+      "title": "Review These Records Before Closing the Year | Paper Trail",
+      "description": "Before closing the books for the year, check that activity is complete, balances have support and unresolved items are documented.",
+      "canonical": "https://www.papertrailusa.com/what-should-be-checked-before-closing-the-books-for-the-year.html",
+      "internal_incoming_links": 9,
+      "clicks_from_home": 2
+    },
+    "transaction-categorization.html": {
+      "title": "Transaction Categorization | Paper Trail",
+      "description": "Organize business transactions with consistent categories, including higher transaction volumes, recurring expenses, transfers, refunds and owner activity.",
+      "canonical": "https://www.papertrailusa.com/transaction-categorization.html",
+      "internal_incoming_links": 139,
+      "clicks_from_home": 1
+    },
+    "paper-trail-monthly-bookkeeping-questions.html": {
+      "title": "Monthly Bookkeeping Guides | Paper Trail",
+      "description": "Build a monthly rhythm for records, reconciliations, reporting and an organized handoff.",
+      "canonical": "https://www.papertrailusa.com/paper-trail-monthly-bookkeeping-questions.html",
+      "internal_incoming_links": 9,
+      "clicks_from_home": 2
+    },
+    "transaction-categorization-questions.html": {
+      "title": "Transaction Categorization Guides | Paper Trail",
+      "description": "Sort expenses, transfers, refunds and purchases into categories that reflect what actually happened.",
+      "canonical": "https://www.papertrailusa.com/transaction-categorization-questions.html",
+      "internal_incoming_links": 9,
+      "clicks_from_home": 2
+    },
+    "can-bookkeeping-be-done-remotely.html": {
+      "title": "Virtual Bookkeeping With Clear Records and Remote Support | Paper Trail",
+      "description": "Virtual bookkeeping means maintaining business records remotely through organized document sharing, appropriate software access and regular communication.",
+      "canonical": "https://www.papertrailusa.com/can-bookkeeping-be-done-remotely.html",
+      "internal_incoming_links": 4,
+      "clicks_from_home": 2
+    },
+    "can-i-compare-this-months-expenses-to-last-month.html": {
+      "title": "Compare Monthly Expenses Without Missing the Bigger Picture | Paper Trail",
+      "description": "Yes, comparing monthly expenses can show where costs are changing, provided both months use consistent categories, reporting periods and accounting methods.",
+      "canonical": "https://www.papertrailusa.com/can-i-compare-this-months-expenses-to-last-month.html",
+      "internal_incoming_links": 1,
+      "clicks_from_home": 3
+    },
+    "how-often-should-business-books-be-updated.html": {
+      "title": "Choose a Bookkeeping Update Routine That Holds Up | Paper Trail",
+      "description": "Capture business transactions daily or weekly as appropriate, then complete a monthly reconciliation and review.",
+      "canonical": "https://www.papertrailusa.com/how-often-should-business-books-be-updated.html",
+      "internal_incoming_links": 1,
+      "clicks_from_home": 3
+    },
+    "what-happens-if-transactions-are-uncategorized-at-tax-time.html": {
+      "title": "Resolve Uncategorized Transactions Before Tax Preparation | Paper Trail",
+      "description": "Uncategorized transactions need investigation before the books can provide a dependable tax preparation package.",
+      "canonical": "https://www.papertrailusa.com/what-happens-if-transactions-are-uncategorized-at-tax-time.html",
+      "internal_incoming_links": 9,
+      "clicks_from_home": 2
+    },
+    "areas-we-serve.html": {
+      "title": "Contact Us | Nationwide Bookkeeping | Paper Trail",
+      "description": "Remote bookkeeping nationwide over Zoom, with in person meetings throughout Los Angeles County by appointment only. Explore local business examples.",
+      "canonical": "https://www.papertrailusa.com/areas-we-serve.html",
+      "internal_incoming_links": 139,
+      "clicks_from_home": 1
+    },
+    "what-if-a-monthly-report-includes-an-unexpected-large-expense.html": {
+      "title": "Trace an Unexpected Expense in Your Monthly Reports | Paper Trail",
+      "description": "An unexpected large expense should be traced to the original transaction before you judge the month’s performance.",
+      "canonical": "https://www.papertrailusa.com/what-if-a-monthly-report-includes-an-unexpected-large-expense.html",
+      "internal_incoming_links": 1,
+      "clicks_from_home": 3
+    },
+    "how-do-i-know-if-transactions-are-missing-from-the-month.html": {
+      "title": "Find Transactions Missing From the Month | Paper Trail",
+      "description": "Check completeness by comparing the books with independent records for the entire month, including bank statements, card statements, sales systems and supplier records.",
+      "canonical": "https://www.papertrailusa.com/how-do-i-know-if-transactions-are-missing-from-the-month.html",
+      "internal_incoming_links": 9,
+      "clicks_from_home": 2
+    },
+    "should-loans-be-recorded-before-preparing-taxes.html": {
+      "title": "Bring Loan Records Into Your Tax Preparation Handoff | Paper Trail",
+      "description": "Yes, business loans should be recorded and reconciled before records go to your tax preparer.",
+      "canonical": "https://www.papertrailusa.com/should-loans-be-recorded-before-preparing-taxes.html",
+      "internal_incoming_links": 4,
+      "clicks_from_home": 2
+    },
+    "monthly-financial-reports.html": {
+      "title": "Monthly Financial Reports | Paper Trail",
+      "description": "Monthly financial reporting for owners and business teams, with profit and loss, balance sheet detail and clear explanations of changes in the records.",
+      "canonical": "https://www.papertrailusa.com/monthly-financial-reports.html",
+      "internal_incoming_links": 139,
+      "clicks_from_home": 1
+    },
+    "what-if-a-transaction-fits-two-expense-categories.html": {
+      "title": "Choose Between Two Possible Expense Categories | Paper Trail",
+      "description": "When a transaction appears to fit two expense categories, classify it according to what was purchased and how the business uses it.",
+      "canonical": "https://www.papertrailusa.com/what-if-a-transaction-fits-two-expense-categories.html",
+      "internal_incoming_links": 1,
+      "clicks_from_home": 3
+    },
+    "should-i-review-unpaid-bills-before-closing-the-month.html": {
+      "title": "Review Unpaid Bills Before Closing the Month | Paper Trail",
+      "description": "Yes, review unpaid supplier bills before closing the month to confirm what remains owed and whether recorded payments match the bills.",
+      "canonical": "https://www.papertrailusa.com/should-i-review-unpaid-bills-before-closing-the-month.html",
+      "internal_incoming_links": 1,
+      "clicks_from_home": 3
+    },
+    "bookkeeping-agoura-hills.html": {
+      "title": "Bookkeeping in Agoura Hills, CA | Paper Trail",
+      "description": "Remote bookkeeping for Agoura Hills businesses, with organized recurring invoices, payment matching and follow up on overdue customer balances.",
+      "canonical": "https://www.papertrailusa.com/bookkeeping-agoura-hills.html",
+      "internal_incoming_links": 1,
+      "clicks_from_home": 2
+    },
+    "profit-vs-cash-flow-business-money.html": {
+      "title": "Profit vs. Cash Flow for Businesses | Paper Trail",
+      "description": "Understand why business profit and cash in the bank can differ, and how invoices, inventory, loan payments and bookkeeping records explain the gap.",
+      "canonical": "https://www.papertrailusa.com/profit-vs-cash-flow-business-money.html",
+      "internal_incoming_links": 1,
+      "clicks_from_home": 2
+    },
+    "should-sales-tax-collected-be-treated-as-revenue.html": {
+      "title": "Keep Collected Sales Tax Separate From Revenue | Paper Trail",
+      "description": "Sales tax collected is not always revenue because the treatment depends in part on whether the tax is imposed on the customer or the seller.",
+      "canonical": "https://www.papertrailusa.com/should-sales-tax-collected-be-treated-as-revenue.html",
+      "internal_incoming_links": 1,
+      "clicks_from_home": 3
+    },
+    "blog.html": {
+      "title": "Bookkeeping Blog | Paper Trail",
+      "description": "Read practical bookkeeping articles about overdue books, profit and cash flow, and preparing business records for tax filing.",
+      "canonical": "https://www.papertrailusa.com/blog.html",
+      "internal_incoming_links": 139,
+      "clicks_from_home": 1
+    },
+    "how-can-i-see-whether-my-business-is-improving.html": {
+      "title": "Find the Signs Your Business Is Improving | Paper Trail",
+      "description": "Look for a consistent pattern across profit, cash, customer collections and business activity.",
+      "canonical": "https://www.papertrailusa.com/how-can-i-see-whether-my-business-is-improving.html",
+      "internal_incoming_links": 1,
+      "clicks_from_home": 3
+    },
+    "how-do-i-keep-bookkeeping-current-during-busy-seasons.html": {
+      "title": "Keep Your Books Current Through Busy Seasons | Paper Trail",
+      "description": "Keep bookkeeping current during busy seasons by separating frequent record capture from the deeper monthly review.",
+      "canonical": "https://www.papertrailusa.com/how-do-i-keep-bookkeeping-current-during-busy-seasons.html",
+      "internal_incoming_links": 1,
+      "clicks_from_home": 3
+    },
+    "what-happens-if-a-transaction-is-dated-in-the-wrong-year.html": {
+      "title": "Correct Transactions Recorded in the Wrong Year | Paper Trail",
+      "description": "A transaction entered in the wrong year can shift income, expenses or balances between reporting periods.",
+      "canonical": "https://www.papertrailusa.com/what-happens-if-a-transaction-is-dated-in-the-wrong-year.html",
+      "internal_incoming_links": 1,
+      "clicks_from_home": 3
+    },
+    "year-end-bookkeeping-questions.html": {
+      "title": "Year End Bookkeeping Guides | Paper Trail",
+      "description": "Organize the final review of invoices, bills, payroll and reports before closing your year.",
+      "canonical": "https://www.papertrailusa.com/year-end-bookkeeping-questions.html",
+      "internal_incoming_links": 9,
+      "clicks_from_home": 2
+    },
+    "how-should-cash-payments-from-customers-be-recorded.html": {
+      "title": "Record Cash Payments Alongside Your Other Sales | Paper Trail",
+      "description": "Record customer cash payments when received, with enough detail to connect the receipt to the sale or invoice.",
+      "canonical": "https://www.papertrailusa.com/how-should-cash-payments-from-customers-be-recorded.html",
+      "internal_incoming_links": 1,
+      "clicks_from_home": 3
+    },
+    "balancing-and-corrections-questions.html": {
+      "title": "Balancing & Corrections Guides | Paper Trail",
+      "description": "Trace balance differences, correct old entries and keep a clear record of what changed.",
+      "canonical": "https://www.papertrailusa.com/balancing-and-corrections-questions.html",
+      "internal_incoming_links": 9,
+      "clicks_from_home": 2
+    },
+    "how-should-customer-deposits-be-tracked.html": {
+      "title": "Track Customer Deposits Before the Work Is Complete | Paper Trail",
+      "description": "Track customer deposits by customer, project, amount and terms, with a clear record of the work or refund still owed.",
+      "canonical": "https://www.papertrailusa.com/how-should-customer-deposits-be-tracked.html",
+      "internal_incoming_links": 4,
+      "clicks_from_home": 2
+    },
+    "can-a-bookkeeper-tell-me-what-deductions-i-can-claim.html": {
+      "title": "Bookkeeping Records Your Tax Preparer Can Use | Paper Trail",
+      "description": "A bookkeeper can organize expenses, explain their recorded categories and flag potential deductions for tax review.",
+      "canonical": "https://www.papertrailusa.com/can-a-bookkeeper-tell-me-what-deductions-i-can-claim.html",
+      "internal_incoming_links": 1,
+      "clicks_from_home": 3
+    },
+    "what-if-a-payment-was-posted-to-the-wrong-account.html": {
+      "title": "Move a Misposted Payment to the Right Account | Paper Trail",
+      "description": "A payment posted to the wrong account should be traced to its source and corrected without creating a second payment.",
+      "canonical": "https://www.papertrailusa.com/what-if-a-payment-was-posted-to-the-wrong-account.html",
+      "internal_incoming_links": 1,
+      "clicks_from_home": 3
+    },
+    "why-does-my-bank-balance-not-match-my-books.html": {
+      "title": "Bank Reconciliation When Your Books Do Not Match | Paper Trail",
+      "description": "Your bank balance and bookkeeping balance may differ because of timing, missing entries, duplicates or errors.",
+      "canonical": "https://www.papertrailusa.com/why-does-my-bank-balance-not-match-my-books.html",
+      "internal_incoming_links": 9,
+      "clicks_from_home": 2
+    },
+    "can-mixed-business-and-personal-expenses-be-cleaned-up.html": {
+      "title": "Separate Personal Spending From Business Records | Paper Trail",
+      "description": "Yes, mixed business and personal activity can usually be reviewed and separated when enough supporting information exists.",
+      "canonical": "https://www.papertrailusa.com/can-mixed-business-and-personal-expenses-be-cleaned-up.html",
+      "internal_incoming_links": 1,
+      "clicks_from_home": 3
+    },
+    "accounts-payable-receivable.html": {
+      "title": "Accounts Payable & Receivable | Paper Trail",
+      "description": "Organize customer invoices, supplier bills and payments as volumes grow, with receivable and payable tracking, aging reports and clear open balances.",
+      "canonical": "https://www.papertrailusa.com/accounts-payable-receivable.html",
+      "internal_incoming_links": 139,
+      "clicks_from_home": 1
+    },
+    "why-is-a-card-balance-negative-in-my-software.html": {
+      "title": "Investigate a Negative Credit Card Balance | Paper Trail",
+      "description": "A negative card balance in bookkeeping software can represent a real credit, a display convention or a recording error.",
+      "canonical": "https://www.papertrailusa.com/why-is-a-card-balance-negative-in-my-software.html",
+      "internal_incoming_links": 1,
+      "clicks_from_home": 3
+    },
+    "what-should-i-give-my-bookkeeper-every-month.html": {
+      "title": "Build a Monthly Handoff Your Bookkeeper Can Use | Paper Trail",
+      "description": "Provide bank and card statements, receipts, customer invoices, supplier bills, payment processor reports and explanations for unclear business transactions each month.",
+      "canonical": "https://www.papertrailusa.com/what-should-i-give-my-bookkeeper-every-month.html",
+      "internal_incoming_links": 1,
+      "clicks_from_home": 3
+    },
+    "bookkeeping-hollywood.html": {
+      "title": "Bookkeeping in Hollywood, CA | Paper Trail",
+      "description": "Remote bookkeeping for Hollywood businesses and freelancers, with records that explain irregular income, project expenses and payment timing.",
+      "canonical": "https://www.papertrailusa.com/bookkeeping-hollywood.html",
+      "internal_incoming_links": 1,
+      "clicks_from_home": 2
+    },
+    "bookkeeping-santa-monica.html": {
+      "title": "Bookkeeping in Santa Monica, CA | Paper Trail",
+      "description": "Remote bookkeeping for Santa Monica businesses, with attention to card settlement reports, processing fees, refunds and the deposits reaching your bank.",
+      "canonical": "https://www.papertrailusa.com/bookkeeping-santa-monica.html",
+      "internal_incoming_links": 1,
+      "clicks_from_home": 2
+    },
+    "what-should-i-check-before-changing-an-opening-balance.html": {
+      "title": "Check the Evidence Before Changing an Opening Balance | Paper Trail",
+      "description": "Before changing an opening balance, identify where it came from and why it appears wrong.",
+      "canonical": "https://www.papertrailusa.com/what-should-i-check-before-changing-an-opening-balance.html",
+      "internal_incoming_links": 1,
+      "clicks_from_home": 3
+    },
+    "how-do-i-know-if-my-business-needs-bookkeeping-help.html": {
+      "title": "Signs Your Business Has Outgrown Its Bookkeeping Routine | Paper Trail",
+      "description": "Bookkeeping help becomes useful when incomplete records, unexplained balances or delayed reports start interfering with business decisions.",
+      "canonical": "https://www.papertrailusa.com/how-do-i-know-if-my-business-needs-bookkeeping-help.html",
+      "internal_incoming_links": 9,
+      "clicks_from_home": 2
+    },
+    "how-should-business-transactions-be-categorized.html": {
+      "title": "Put Business Transactions in the Right Categories | Paper Trail",
+      "description": "Categorize transactions by what they represent and how they affect the business, using a consistent chart of accounts.",
+      "canonical": "https://www.papertrailusa.com/how-should-business-transactions-be-categorized.html",
+      "internal_incoming_links": 9,
+      "clicks_from_home": 2
+    },
+    "index.html": {
+      "title": "Bookkeeping for Small, Midsize & Larger Businesses | Paper Trail",
+      "description": "Bookkeeping repair and monthly services for small, midsize and larger businesses nationwide. Organize accounts, transactions and reports with remote support.",
+      "canonical": "https://www.papertrailusa.com/index.html",
+      "internal_incoming_links": 139,
+      "clicks_from_home": 0
+    },
+    "what-happens-when-an-old-bank-account-is-closed.html": {
+      "title": "Keep the Records From a Closed Bank Account | Paper Trail",
+      "description": "Closing a bank account does not remove its history from your bookkeeping.",
+      "canonical": "https://www.papertrailusa.com/what-happens-when-an-old-bank-account-is-closed.html",
+      "internal_incoming_links": 1,
+      "clicks_from_home": 3
+    },
+    "what-questions-should-i-ask-during-a-bookkeeping-review.html": {
+      "title": "Make Your Monthly Bookkeeping Review Count | Paper Trail",
+      "description": "During a bookkeeping review, ask what changed, what remains unresolved and what the reports mean for the business.",
+      "canonical": "https://www.papertrailusa.com/what-questions-should-i-ask-during-a-bookkeeping-review.html",
+      "internal_incoming_links": 4,
+      "clicks_from_home": 2
+    },
+    "how-should-bank-fees-be-recorded.html": {
+      "title": "Record Bank Fees Without Losing Track of Costs | Paper Trail",
+      "description": "Record genuine business bank fees in a consistent expense category and match them to the bank statement.",
+      "canonical": "https://www.papertrailusa.com/how-should-bank-fees-be-recorded.html",
+      "internal_incoming_links": 1,
+      "clicks_from_home": 3
+    },
+    "bank-credit-card-balancing.html": {
+      "title": "Bank & Credit Card Balancing | Paper Trail",
+      "description": "Reconcile multiple business bank and credit card accounts, trace transfers and resolve missing or duplicate activity with supported account records.",
+      "canonical": "https://www.papertrailusa.com/bank-credit-card-balancing.html",
+      "internal_incoming_links": 139,
+      "clicks_from_home": 1
+    },
+    "how-do-i-read-a-profit-and-loss-statement.html": {
+      "title": "Read Your Profit and Loss Statement With Confidence | Paper Trail",
+      "description": "Read a profit and loss statement from revenue through costs to the final profit or loss for a defined period.",
+      "canonical": "https://www.papertrailusa.com/how-do-i-read-a-profit-and-loss-statement.html",
+      "internal_incoming_links": 13,
+      "clicks_from_home": 2
+    },
+    "what-happens-if-a-customer-overpays-an-invoice.html": {
+      "title": "Handle Customer Overpayments Without Distorting Sales | Paper Trail",
+      "description": "When a customer pays more than the invoice balance, first confirm that the extra payment is real and identify what the customer intended.",
+      "canonical": "https://www.papertrailusa.com/what-happens-if-a-customer-overpays-an-invoice.html",
+      "internal_incoming_links": 1,
+      "clicks_from_home": 3
+    },
+    "can-a-bank-feed-replace-reconciliations.html": {
+      "title": "Bank Feeds and Reconciliation Do Different Jobs | Paper Trail",
+      "description": "No, a bank feed imports transactions but does not replace reconciliation.",
+      "canonical": "https://www.papertrailusa.com/can-a-bank-feed-replace-reconciliations.html",
+      "internal_incoming_links": 16,
+      "clicks_from_home": 2
+    },
+    "year-end-bookkeeping.html": {
+      "title": "Year End Bookkeeping | Paper Trail",
+      "description": "Prepare a clear year end bookkeeping handoff with reconciled accounts, reviewed balances, saved reports and a visible list of unresolved items.",
+      "canonical": "https://www.papertrailusa.com/year-end-bookkeeping.html",
+      "internal_incoming_links": 139,
+      "clicks_from_home": 1
+    },
+    "why-should-loan-balances-be-reviewed-each-month.html": {
+      "title": "Keep Loan Balances Accurate Each Month | Paper Trail",
+      "description": "Loan balances should be reviewed monthly to verify that new borrowing, repayments, interest and fees match the lender’s records.",
+      "canonical": "https://www.papertrailusa.com/why-should-loan-balances-be-reviewed-each-month.html",
+      "internal_incoming_links": 1,
+      "clicks_from_home": 3
+    },
+    "income-and-expense-tracking-questions.html": {
+      "title": "Income & Expense Tracking Guides | Paper Trail",
+      "description": "Track the money your business earns and spends, including cash and payments from several platforms.",
+      "canonical": "https://www.papertrailusa.com/income-and-expense-tracking-questions.html",
+      "internal_incoming_links": 9,
+      "clicks_from_home": 2
+    },
+    "what-records-should-be-kept-with-my-tax-ready-books.html": {
+      "title": "Business Record Retention and Tax Ready Documents | Paper Trail",
+      "description": "Keep the documents that support the income, expenses, assets and obligations shown in your books.",
+      "canonical": "https://www.papertrailusa.com/what-records-should-be-kept-with-my-tax-ready-books.html",
+      "internal_incoming_links": 1,
+      "clicks_from_home": 3
+    },
+    "services.html": {
+      "title": "Bookkeeping Services & Monthly Support | Paper Trail",
+      "description": "Explore bookkeeping repair and monthly services for small, midsize and larger businesses, with support for account reconciliation, transactions and reports.",
+      "canonical": "https://www.papertrailusa.com/services.html",
+      "internal_incoming_links": 139,
+      "clicks_from_home": 1
+    },
+    "tax-ready-bookkeeping-questions.html": {
+      "title": "Tax Ready Bookkeeping Guides | Paper Trail",
+      "description": "Prepare an organized bookkeeping handoff with the records your tax preparer needs.",
+      "canonical": "https://www.papertrailusa.com/tax-ready-bookkeeping-questions.html",
+      "internal_incoming_links": 9,
+      "clicks_from_home": 2
+    },
+    "what-business-expenses-should-i-be-tracking.html": {
+      "title": "Business Expenses Worth Tracking Consistently | Paper Trail",
+      "description": "Track the costs of operating your business, including direct job costs, rent, software, insurance, professional services, bank fees and other business spending.",
+      "canonical": "https://www.papertrailusa.com/what-business-expenses-should-i-be-tracking.html",
+      "internal_incoming_links": 5,
+      "clicks_from_home": 1
+    },
+    "how-can-i-tell-how-much-my-business-earned-this-month.html": {
+      "title": "See What Your Business Earned This Month | Paper Trail",
+      "description": "Use a profit and loss statement for the month to understand revenue and expenses on the reporting basis you use. Then review cash separately.",
+      "canonical": "https://www.papertrailusa.com/how-can-i-tell-how-much-my-business-earned-this-month.html",
+      "internal_incoming_links": 9,
+      "clicks_from_home": 2
+    },
+    "what-do-monthly-financial-reports-actually-show-me.html": {
+      "title": "Read the Story Behind Your Monthly Financial Reports | Paper Trail",
+      "description": "Learn how profit and loss, balance sheet and cash flow reports explain business results, what you own and owe, and changes in available cash.",
+      "canonical": "https://www.papertrailusa.com/what-do-monthly-financial-reports-actually-show-me.html",
+      "internal_incoming_links": 9,
+      "clicks_from_home": 2
+    },
+    "why-is-income-tracking-different-from-tracking-deposits.html": {
+      "title": "Track Income Beyond the Deposits in Your Bank Account | Paper Trail",
+      "description": "Income tracking identifies what the business earned or received from its operations under the accounting method used.",
+      "canonical": "https://www.papertrailusa.com/why-is-income-tracking-different-from-tracking-deposits.html",
+      "internal_incoming_links": 9,
+      "clicks_from_home": 2
+    },
+    "can-rules-automatically-categorize-transactions-correctly.html": {
+      "title": "Automatic Categorization Still Needs a Human Review | Paper Trail",
+      "description": "Rules can speed up transaction categorization, but they need clear conditions and regular review. A merchant name alone may not identify what was purchased.",
+      "canonical": "https://www.papertrailusa.com/can-rules-automatically-categorize-transactions-correctly.html",
+      "internal_incoming_links": 1,
+      "clicks_from_home": 3
+    },
+    "what-does-a-bookkeeper-actually-do-for-a-small-business.html": {
+      "title": "The Work a Bookkeeper Handles for a Business | Paper Trail",
+      "description": "A bookkeeper maintains the transaction records that help a business understand its finances.",
+      "canonical": "https://www.papertrailusa.com/what-does-a-bookkeeper-actually-do-for-a-small-business.html",
+      "internal_incoming_links": 10,
+      "clicks_from_home": 1
+    },
+    "balancing-corrections.html": {
+      "title": "Balancing & Corrections | Paper Trail",
+      "description": "Resolve bookkeeping differences by tracing duplicates, transfers, opening balances and misposted payments back to the records that explain them.",
+      "canonical": "https://www.papertrailusa.com/balancing-corrections.html",
+      "internal_incoming_links": 139,
+      "clicks_from_home": 1
+    },
+    "faq.html": {
+      "title": "Working With a Bookkeeper | Paper Trail",
+      "description": "Learn what shapes bookkeeping support, including overdue records, software, scope and the handoff to your tax preparer, with practical references.",
+      "canonical": "https://www.papertrailusa.com/faq.html",
+      "internal_incoming_links": 139,
+      "clicks_from_home": 1
+    },
+    "tax-ready-bookkeeping-records.html": {
+      "title": "Tax Ready Bookkeeping and Business Records | Paper Trail",
+      "description": "Prepare your business books for tax filing with organized receipts, reconciled accounts, clear transaction categories and a useful handoff to your tax preparer.",
+      "canonical": "https://www.papertrailusa.com/tax-ready-bookkeeping-records.html",
+      "internal_incoming_links": 1,
+      "clicks_from_home": 2
+    },
+    "is-monthly-bookkeeping-necessary-for-a-small-business.html": {
+      "title": "Build a Monthly Bookkeeping Routine for a Business | Paper Trail",
+      "description": "A monthly bookkeeping close is a practical way for a business to keep balances checked and reports current.",
+      "canonical": "https://www.papertrailusa.com/is-monthly-bookkeeping-necessary-for-a-small-business.html",
+      "internal_incoming_links": 9,
+      "clicks_from_home": 2
+    },
+    "bookkeeping-woodland-hills.html": {
+      "title": "Bookkeeping in Woodland Hills, CA | Paper Trail",
+      "description": "Remote bookkeeping for Woodland Hills businesses, with project cost tracking, progress billing and records that explain the financial picture of each job.",
+      "canonical": "https://www.papertrailusa.com/bookkeeping-woodland-hills.html",
+      "internal_incoming_links": 1,
+      "clicks_from_home": 2
+    },
+    "how-do-i-categorize-refunds-from-vendors.html": {
+      "title": "Record Vendor Refunds in the Right Place | Paper Trail",
+      "description": "A supplier refund commonly reduces the related expense or asset cost, or clears a supplier credit, depending on the original purchase and reason for the refund.",
+      "canonical": "https://www.papertrailusa.com/how-do-i-categorize-refunds-from-vendors.html",
+      "internal_incoming_links": 1,
+      "clicks_from_home": 3
+    },
+    "paper-trail-monthly-bookkeeping.html": {
+      "title": "Monthly Bookkeeping Services | Paper Trail",
+      "description": "Monthly bookkeeping for owner operated companies and larger businesses, with transaction review, multiple account reconciliation and agreed financial reports.",
+      "canonical": "https://www.papertrailusa.com/paper-trail-monthly-bookkeeping.html",
+      "internal_incoming_links": 139,
+      "clicks_from_home": 1
+    },
+    "what-is-a-balance-sheet-supposed-to-tell-me.html": {
+      "title": "Read Your Balance Sheet Beyond the Bank Balance | Paper Trail",
+      "description": "A balance sheet shows what the business owns, what it owes and the owner’s recorded interest at a particular date.",
+      "canonical": "https://www.papertrailusa.com/what-is-a-balance-sheet-supposed-to-tell-me.html",
+      "internal_incoming_links": 8,
+      "clicks_from_home": 2
+    },
+    "past-due-bookkeeping-questions.html": {
+      "title": "Past Due Bookkeeping Guides | Paper Trail",
+      "description": "Recover overdue months, work around missing records and rebuild a routine you can maintain.",
+      "canonical": "https://www.papertrailusa.com/past-due-bookkeeping-questions.html",
+      "internal_incoming_links": 9,
+      "clicks_from_home": 2
+    },
+    "how-do-i-find-a-transaction-that-caused-my-books-to-be-off.html": {
+      "title": "Trace the Transaction Behind an Incorrect Balance | Paper Trail",
+      "description": "Begin with the last period that reconciled correctly and work forward until the difference first appears.",
+      "canonical": "https://www.papertrailusa.com/how-do-i-find-a-transaction-that-caused-my-books-to-be-off.html",
+      "internal_incoming_links": 4,
+      "clicks_from_home": 2
+    },
+    "do-unpaid-vendor-bills-matter-at-year-end.html": {
+      "title": "Unpaid Vendor Bills at Year End | Paper Trail",
+      "description": "Yes, unpaid supplier bills identify obligations that may still need payment after year end and help explain future cash needs.",
+      "canonical": "https://www.papertrailusa.com/do-unpaid-vendor-bills-matter-at-year-end.html",
+      "internal_incoming_links": 4,
+      "clicks_from_home": 2
+    },
+    "what-should-i-prepare-before-hiring-a-bookkeeper.html": {
+      "title": "Documents to Prepare Before Hiring a Bookkeeper | Paper Trail",
+      "description": "Prepare the name of your bookkeeping software, a list of business accounts, the last completed month and the problems you want solved.",
+      "canonical": "https://www.papertrailusa.com/what-should-i-prepare-before-hiring-a-bookkeeper.html",
+      "internal_incoming_links": 1,
+      "clicks_from_home": 3
+    },
+    "when-should-monthly-bookkeeping-reports-be-ready.html": {
+      "title": "Set a Realistic Monthly Reporting Schedule | Paper Trail",
+      "description": "Monthly reports should be ready on a schedule agreed with the bookkeeper and suited to the business’s document flow.",
+      "canonical": "https://www.papertrailusa.com/when-should-monthly-bookkeeping-reports-be-ready.html",
+      "internal_incoming_links": 1,
+      "clicks_from_home": 3
+    },
+    "what-should-my-books-look-like-before-i-give-them-to-my-tax-preparer.html": {
+      "title": "Give Your Tax Preparer an Organized Set of Books | Paper Trail",
+      "description": "Before you give the books to your tax preparer, the records should be organized, reconciled and supported by documents.",
+      "canonical": "https://www.papertrailusa.com/what-should-my-books-look-like-before-i-give-them-to-my-tax-preparer.html",
+      "internal_incoming_links": 10,
+      "clicks_from_home": 1
+    },
+    "what-does-a-cleared-transaction-mean.html": {
+      "title": "Understand Cleared Transactions Before Reconciling | Paper Trail",
+      "description": "A cleared transaction has appeared in the bank or card provider’s posted activity.",
+      "canonical": "https://www.papertrailusa.com/what-does-a-cleared-transaction-mean.html",
+      "internal_incoming_links": 4,
+      "clicks_from_home": 2
+    },
+    "past-due-bookkeeping.html": {
+      "title": "Catch Up & Past Due Bookkeeping | Paper Trail",
+      "description": "Catch up overdue bookkeeping with an organized review of missing months, account statements and transactions, then build a reliable starting point.",
+      "canonical": "https://www.papertrailusa.com/past-due-bookkeeping.html",
+      "internal_incoming_links": 139,
+      "clicks_from_home": 1
+    },
+    "what-happens-after-the-month-is-fully-reviewed.html": {
+      "title": "Keep the Month Organized After the Review | Paper Trail",
+      "description": "After a month is reviewed, the completed reports and reconciliation records should be saved, important findings explained and unresolved items clearly identified.",
+      "canonical": "https://www.papertrailusa.com/what-happens-after-the-month-is-fully-reviewed.html",
+      "internal_incoming_links": 1,
+      "clicks_from_home": 3
+    },
+    "can-monthly-bookkeeping-uncover-cash-flow-problems.html": {
+      "title": "Spot Cash Flow Pressure in Your Monthly Books | Paper Trail",
+      "description": "Yes, monthly bookkeeping can reveal slow collections, rising bills, repeated overdraft fees and cash tied up in inventory or equipment.",
+      "canonical": "https://www.papertrailusa.com/can-monthly-bookkeeping-uncover-cash-flow-problems.html",
+      "internal_incoming_links": 1,
+      "clicks_from_home": 3
+    },
+    "is-buying-equipment-the-same-as-buying-office-supplies.html": {
+      "title": "Equipment Purchases and Office Supplies Need Different Treatment | Paper Trail",
+      "description": "No, supplies are commonly consumed in ordinary operations, while equipment may provide value over several periods and be recorded as an asset.",
+      "canonical": "https://www.papertrailusa.com/is-buying-equipment-the-same-as-buying-office-supplies.html",
+      "internal_incoming_links": 4,
+      "clicks_from_home": 2
+    },
+    "how-can-missing-bank-transactions-be-found.html": {
+      "title": "Find Bank Transactions Missing From Your Books | Paper Trail",
+      "description": "Missing bank transactions can be found by comparing a complete bank statement with the bookkeeping register for the same period.",
+      "canonical": "https://www.papertrailusa.com/how-can-missing-bank-transactions-be-found.html",
+      "internal_incoming_links": 1,
+      "clicks_from_home": 3
+    },
+    "how-should-credit-card-payments-be-recorded.html": {
+      "title": "Keep Credit Card Payments From Becoming Duplicate Expenses | Paper Trail",
+      "description": "A payment from your business bank account to a business credit card normally reduces the card liability and the bank balance.",
+      "canonical": "https://www.papertrailusa.com/how-should-credit-card-payments-be-recorded.html",
+      "internal_incoming_links": 1,
+      "clicks_from_home": 3
+    },
+    "bookkeeping-calabasas.html": {
+      "title": "Bookkeeping in Calabasas, CA | Paper Trail",
+      "description": "Remote bookkeeping for Calabasas businesses, with clear separation of owner contributions, business spending, reimbursements and personal transactions.",
+      "canonical": "https://www.papertrailusa.com/bookkeeping-calabasas.html",
+      "internal_incoming_links": 1,
+      "clicks_from_home": 2
+    },
+    "how-do-i-know-if-the-year-is-ready-to-close.html": {
+      "title": "Recognize When Your Books Are Ready to Close | Paper Trail",
+      "description": "The year is ready for bookkeeping close when accounts are reconciled or otherwise supported, material discrepancies are resolved and remaining decisions are documented.",
+      "canonical": "https://www.papertrailusa.com/how-do-i-know-if-the-year-is-ready-to-close.html",
+      "internal_incoming_links": 1,
+      "clicks_from_home": 3
+    }
+  }
+}

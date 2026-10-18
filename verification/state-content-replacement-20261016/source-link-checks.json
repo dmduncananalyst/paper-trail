@@ -1,0 +1,1181 @@
+{
+  "checked_on": "2026-10-16",
+  "method": "Read-only GET, first 1024 bytes. Access check only, not claim verification. Some government sites restrict automated access.",
+  "results": [
+    {
+      "url": "http://ag.hawaii.gov/csea/locate/",
+      "status": 200,
+      "resolved_url": "https://ag.hawaii.gov/csea/locate/",
+      "content_type": "text/html; charset=UTF-8",
+      "states": [
+        "Hawaii"
+      ]
+    },
+    {
+      "url": "http://codes.ohio.gov/ohio-revised-code/section-5741.15",
+      "status": 200,
+      "resolved_url": "https://codes.ohio.gov/ohio-revised-code/section-5741.15",
+      "content_type": "text/html;charset=UTF-8",
+      "states": [
+        "Ohio"
+      ]
+    },
+    {
+      "url": "http://dor.sc.gov/mydorway/",
+      "status": 200,
+      "resolved_url": "https://dor.sc.gov/mydorway/",
+      "content_type": "text/html; charset=UTF-8",
+      "states": [
+        "South Carolina"
+      ]
+    },
+    {
+      "url": "http://marylandtaxes.gov/forms/Business_Tax_Tips/bustip2.pdf",
+      "status": 523,
+      "detail": "HTTP Error 523: <none>",
+      "states": [
+        "Maryland"
+      ]
+    },
+    {
+      "url": "http://revenue.alabama.gov/wp-content/uploads/2017/05/Memo_2016-23_Record_Retention_Requirements-1.pdf",
+      "status": 200,
+      "resolved_url": "https://www.revenue.alabama.gov/wp-content/uploads/2017/05/Memo_2016-23_Record_Retention_Requirements-1.pdf",
+      "content_type": "application/pdf",
+      "states": [
+        "Alabama"
+      ]
+    },
+    {
+      "url": "http://revenue.delaware.gov/business-tax/aircraft-sales/",
+      "status": 200,
+      "resolved_url": "https://revenue.delaware.gov/business-tax-forms/aircraft-sales/",
+      "content_type": "text/html; charset=UTF-8",
+      "states": [
+        "Delaware"
+      ]
+    },
+    {
+      "url": "http://revenue.nhdoit.acsitefactory.com/sites/g/files/ehbemt736/files/documents/2002-010-technical-information-release.pdf",
+      "status": 200,
+      "resolved_url": "http://revenue.nhdoit.acsitefactory.com/sites/g/files/ehbemt736/files/documents/2002-010-technical-information-release.pdf",
+      "content_type": "application/pdf",
+      "states": [
+        "New Hampshire"
+      ]
+    },
+    {
+      "url": "http://www.dol.ks.gov/employers/employer-services/new-hire-reporting",
+      "status": 403,
+      "detail": "HTTP Error 403: Forbidden",
+      "states": [
+        "Kansas"
+      ]
+    },
+    {
+      "url": "http://www.maine.gov/dhhs/ofi/programs-services/child-support-services/employers/new-hire-faq",
+      "status": 403,
+      "detail": "HTTP Error 403: Forbidden",
+      "states": [
+        "Maine"
+      ]
+    },
+    {
+      "url": "http://www.revenue.ne.gov/sites/revenue.nebraska.gov/files/doc/legal/regs/1-008.pdf",
+      "status": 200,
+      "resolved_url": "https://revenue.nebraska.gov/sites/default/files/doc/legal/regs/1-008.pdf",
+      "content_type": "application/pdf",
+      "states": [
+        "Nebraska"
+      ]
+    },
+    {
+      "url": "http://www.tax.ny.gov/pit/letters/recordkeeping.htm",
+      "status": 200,
+      "resolved_url": "https://www.tax.ny.gov/pit/letters/recordkeeping.htm",
+      "content_type": "text/html",
+      "states": [
+        "New York"
+      ]
+    },
+    {
+      "url": "http://www.tax.ny.gov/pubs_and_bulls/tg_bulletins/st/record-keeping_requirements_for_sales_tax_vendors.htm",
+      "status": 200,
+      "resolved_url": "https://www.tax.ny.gov/pubs_and_bulls/tg_bulletins/st/record-keeping_requirements_for_sales_tax_vendors.htm",
+      "content_type": "text/html",
+      "states": [
+        "New York"
+      ]
+    },
+    {
+      "url": "https://Dhhs.Ne.Gov/Pages/Child-Support-Employer-New-Hire.aspx",
+      "status": 200,
+      "resolved_url": "https://Dhhs.Ne.Gov/Pages/Child-Support-Employer-New-Hire.aspx",
+      "content_type": "text/html; charset=utf-8",
+      "states": [
+        "Nebraska"
+      ]
+    },
+    {
+      "url": "https://Dor.sd.gov/media/alkhwrgn/campaign.pdf",
+      "status": 200,
+      "resolved_url": "https://Dor.sd.gov/media/alkhwrgn/campaign.pdf",
+      "content_type": "application/pdf",
+      "states": [
+        "South Dakota"
+      ]
+    },
+    {
+      "url": "https://adol.alabama.gov/employers/alabama-new-hire/",
+      "status": 200,
+      "resolved_url": "https://adol.alabama.gov/employers/alabama-new-hire/",
+      "content_type": "text/html; charset=UTF-8",
+      "states": [
+        "Alabama"
+      ]
+    },
+    {
+      "url": "https://app.lla.state.la.us/llala.nsf/7D23410AB0C0773C86258114004AE9C9/$FILE/Records%20Retention.pdf",
+      "status": 200,
+      "resolved_url": "https://app.lla.state.la.us/llala.nsf/7D23410AB0C0773C86258114004AE9C9/$FILE/Records%20Retention.pdf",
+      "content_type": "application/pdf",
+      "states": [
+        "Louisiana"
+      ]
+    },
+    {
+      "url": "https://apps.legislature.ky.gov/Law/statutes/statute.aspx?id=49181",
+      "status": 200,
+      "resolved_url": "https://apps.legislature.ky.gov/Law/statutes/statute.aspx?id=49181",
+      "content_type": "application/PDF",
+      "states": [
+        "Kentucky"
+      ]
+    },
+    {
+      "url": "https://archive.legmt.gov/bills/mca/title_0150/chapter_0300/part_0250/section_0040/0150-0300-0250-0040.html",
+      "status": 200,
+      "resolved_url": "https://mca.legmt.gov/bills/mca/title_0150/chapter_0300/part_0250/section_0040/0150-0300-0250-0040.html",
+      "content_type": "text/html",
+      "states": [
+        "Montana"
+      ]
+    },
+    {
+      "url": "https://azdor.gov/tpt-update-april-2025",
+      "status": 403,
+      "detail": "HTTP Error 403: Forbidden",
+      "states": [
+        "Arizona"
+      ]
+    },
+    {
+      "url": "https://cdle.colorado.gov/employers/recruiting-hiring/new-employer-checklist",
+      "status": 403,
+      "detail": "HTTP Error 403: Forbidden",
+      "states": [
+        "Colorado"
+      ]
+    },
+    {
+      "url": "https://code.wvlegislature.gov/pdf/11-12B-14/",
+      "status": 200,
+      "resolved_url": "https://code.wvlegislature.gov/pdf/11-12B-14/",
+      "content_type": "application/pdf",
+      "states": [
+        "West Virginia"
+      ]
+    },
+    {
+      "url": "https://code.wvlegislature.gov/pdf/11-15-23/",
+      "status": 200,
+      "resolved_url": "https://code.wvlegislature.gov/pdf/11-15-23/",
+      "content_type": "application/pdf",
+      "states": [
+        "West Virginia"
+      ]
+    },
+    {
+      "url": "https://code.wvlegislature.gov/pdf/48-18-125/",
+      "status": 200,
+      "resolved_url": "https://code.wvlegislature.gov/pdf/48-18-125/",
+      "content_type": "application/pdf",
+      "states": [
+        "West Virginia"
+      ]
+    },
+    {
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5747.17",
+      "status": 200,
+      "resolved_url": "https://codes.ohio.gov/ohio-revised-code/section-5747.17",
+      "content_type": "text/html;charset=UTF-8",
+      "states": [
+        "Ohio"
+      ]
+    },
+    {
+      "url": "https://comptroller.texas.gov/taxes/publications/96-146.pdf",
+      "status": 200,
+      "resolved_url": "https://comptroller.texas.gov/taxes/publications/96-146.pdf",
+      "content_type": "application/octet-stream",
+      "states": [
+        "Texas"
+      ]
+    },
+    {
+      "url": "https://dc-newhire.com/files/ri_new_hire.pdf",
+      "status": 200,
+      "resolved_url": "https://dc-newhire.com/files/ri_new_hire.pdf",
+      "content_type": "application/pdf",
+      "states": [
+        "Rhode Island"
+      ]
+    },
+    {
+      "url": "https://digitalprairie.ok.gov/digital/api/collection/stgovpub/id/499331/download",
+      "status": "Access not verified",
+      "detail": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1000)>",
+      "states": [
+        "Oklahoma"
+      ]
+    },
+    {
+      "url": "https://dol.georgia.gov/document/unemployment-benefits/employer-newsletter-dol-5137/download",
+      "status": 200,
+      "resolved_url": "https://dol.georgia.gov/document/unemployment-benefits/employer-newsletter-dol-5137/download",
+      "content_type": "application/pdf",
+      "states": [
+        "Georgia"
+      ]
+    },
+    {
+      "url": "https://dor.alaska.gov/Portals/7/Documents/Forms/04-1050-NewHireReporting-Fill-In.pdf",
+      "status": "Access not verified",
+      "detail": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)>",
+      "states": [
+        "Alaska"
+      ]
+    },
+    {
+      "url": "https://dor.georgia.gov/document/legislative-summary/2013-legislation-summary/download",
+      "status": 200,
+      "resolved_url": "https://dor.georgia.gov/document/legislative-summary/2013-legislation-summary/download",
+      "content_type": "application/pdf",
+      "states": [
+        "Georgia"
+      ]
+    },
+    {
+      "url": "https://dor.sd.gov/businesses/audit/",
+      "status": 200,
+      "resolved_url": "https://dor.sd.gov/businesses/audit/",
+      "content_type": "text/html; charset=utf-8",
+      "states": [
+        "South Dakota"
+      ]
+    },
+    {
+      "url": "https://dor.sd.gov/individuals/taxes",
+      "status": 200,
+      "resolved_url": "https://dor.sd.gov/individuals/taxes",
+      "content_type": "text/html; charset=utf-8",
+      "states": [
+        "South Dakota"
+      ]
+    },
+    {
+      "url": "https://dor.sd.gov/media/kavh1fzg/2026-1_sales-use-tax-guide.pdf",
+      "status": 200,
+      "resolved_url": "https://dor.sd.gov/media/kavh1fzg/2026-1_sales-use-tax-guide.pdf",
+      "content_type": "application/pdf",
+      "states": [
+        "South Dakota"
+      ]
+    },
+    {
+      "url": "https://dor.wa.gov/education/industry-guides/bail-bond-agencies/record-keeping-requirements",
+      "status": "Access not verified",
+      "detail": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)>",
+      "states": [
+        "Washington"
+      ]
+    },
+    {
+      "url": "https://dor.wa.gov/education/industry-guides/convenience-stores/record-keeping-requirements",
+      "status": "Access not verified",
+      "detail": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)>",
+      "states": [
+        "Washington"
+      ]
+    },
+    {
+      "url": "https://dor.wa.gov/education/industry-guides/mortgage-brokers/business-tax-structure-washington-state",
+      "status": "Access not verified",
+      "detail": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)>",
+      "states": [
+        "Washington"
+      ]
+    },
+    {
+      "url": "https://dor.wa.gov/education/industry-guides/private-mailing-business-tax-guide/business-and-occupation-bo-tax",
+      "status": "Access not verified",
+      "detail": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)>",
+      "states": [
+        "Washington"
+      ]
+    },
+    {
+      "url": "https://dor.wa.gov/file-pay-taxes/file-or-amend-my-return/instructions-completing-combined-excise-tax-return/combined-excise-tax-return-state-business-and-occupation-tax",
+      "status": "Access not verified",
+      "detail": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)>",
+      "states": [
+        "Washington"
+      ]
+    },
+    {
+      "url": "https://dor.wa.gov/file-pay-taxes/filing-frequencies-due-dates/annual-business-filers",
+      "status": "Access not verified",
+      "detail": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)>",
+      "states": [
+        "Washington"
+      ]
+    },
+    {
+      "url": "https://dtmb.state.mi.us/ORRDocs/AdminCode/87_10083_AdminCode.pdf",
+      "status": 200,
+      "resolved_url": "https://dtmb.state.mi.us/ORRDocs/AdminCode/87_10083_AdminCode.pdf",
+      "content_type": "application/pdf",
+      "states": [
+        "Michigan"
+      ]
+    },
+    {
+      "url": "https://dwd.wi.gov/dwd/publications/ui/ucb-10677-p.pdf",
+      "status": 200,
+      "resolved_url": "https://dwd.wi.gov/dwd/publications/ui/ucb-10677-p.pdf",
+      "content_type": "application/pdf",
+      "states": [
+        "Wisconsin"
+      ]
+    },
+    {
+      "url": "https://edd.ca.gov/en/Payroll_Taxes/Helpful_Resources_New_Employer",
+      "status": 200,
+      "resolved_url": "https://edd.ca.gov/en/Payroll_Taxes/Helpful_Resources_New_Employer",
+      "content_type": "text/html; charset=utf-8",
+      "states": [
+        "California"
+      ]
+    },
+    {
+      "url": "https://edd.ca.gov/en/payroll_taxes/Am_I_Required_to_Register_as_an_Employer/",
+      "status": 200,
+      "resolved_url": "https://edd.ca.gov/en/payroll_taxes/employer-payroll-taxes/",
+      "content_type": "text/html; charset=utf-8",
+      "states": [
+        "California"
+      ]
+    },
+    {
+      "url": "https://edd.ca.gov/en/payroll_taxes/new_hire_reporting",
+      "status": 200,
+      "resolved_url": "https://edd.ca.gov/en/payroll_taxes/new_hire_reporting",
+      "content_type": "text/html; charset=utf-8",
+      "states": [
+        "California"
+      ]
+    },
+    {
+      "url": "https://esd.wa.gov/employer-requirements/reporting-new-and-rehired-employees",
+      "status": 200,
+      "resolved_url": "https://esd.wa.gov/employer-requirements/reporting-new-and-rehired-employees",
+      "content_type": "text/html; charset=UTF-8",
+      "states": [
+        "Washington"
+      ]
+    },
+    {
+      "url": "https://files.hawaii.gov/tax/legal/brochures/GE_brochure-23.pdf",
+      "status": 200,
+      "resolved_url": "https://files.hawaii.gov/tax/legal/brochures/GE_brochure-23.pdf",
+      "content_type": "application/pdf",
+      "states": [
+        "Hawaii"
+      ]
+    },
+    {
+      "url": "https://floridarevenue.com/TaxLaw/Documents/Mitchell%27s%20Grocery%20%26%20Seafood;%20DOR%2004-3-FOF_Redacted.pdf",
+      "status": 200,
+      "resolved_url": "https://floridarevenue.com/TaxLaw/Documents/Mitchell%27s%20Grocery%20%26%20Seafood;%20DOR%2004-3-FOF_Redacted.pdf",
+      "content_type": "application/pdf",
+      "states": [
+        "Florida"
+      ]
+    },
+    {
+      "url": "https://floridarevenue.com/rules/Pages/12D-51.001.aspx",
+      "status": 404,
+      "detail": "HTTP Error 404: Not Found",
+      "states": [
+        "Florida"
+      ]
+    },
+    {
+      "url": "https://gaming.nv.gov/uploadedFiles/gamingnvgov/content/divisions/tax-license/icp/icp-v4-live-entertainment-draft.pdf",
+      "status": 200,
+      "resolved_url": "https://www.gaming.nv.gov/siteassets/content/divisions/tax-license/icp/icp-v4-live-entertainment-draft.pdf",
+      "content_type": "application/pdf",
+      "states": [
+        "Nevada"
+      ]
+    },
+    {
+      "url": "https://ganh-uat.stellarware.com/files/GANewhireBrochure.pdf",
+      "status": 200,
+      "resolved_url": "https://ganh-uat.stellarware.com/files/GANewhireBrochure.pdf",
+      "content_type": "application/pdf",
+      "states": [
+        "Georgia"
+      ]
+    },
+    {
+      "url": "https://jobs.utah.gov/UI/Employer/Public/Handbook/NEW_Hire_form6.pdf",
+      "status": 200,
+      "resolved_url": "https://jobs.utah.gov/UI/Employer/Public/Handbook/NEW_Hire_form6.pdf",
+      "content_type": "application/pdf",
+      "states": [
+        "Utah"
+      ]
+    },
+    {
+      "url": "https://jobs.utah.gov/ui/employer/public/NewHire/New%20Hire%20Handbook.pdf",
+      "status": 200,
+      "resolved_url": "https://jobs.utah.gov/ui/employer/public/NewHire/New%20Hire%20Handbook.pdf",
+      "content_type": "application/pdf",
+      "states": [
+        "Utah"
+      ]
+    },
+    {
+      "url": "https://kslegislature.com/li_2022/s/statute/079_000_0000_chapter/079_036_0000_article/079_036_0009_section/079_036_0009_k.pdf",
+      "status": 200,
+      "resolved_url": "https://kslegislature.gov/li_2022/s/statute/079_000_0000_chapter/079_036_0000_article/079_036_0009_section/079_036_0009_k.pdf",
+      "content_type": "application/pdf",
+      "states": [
+        "Kansas"
+      ]
+    },
+    {
+      "url": "https://la-newhire.com/files/LA_NewHire_Form.pdf",
+      "status": 200,
+      "resolved_url": "https://la-newhire.com/files/LA_NewHire_Form.pdf",
+      "content_type": "application/pdf",
+      "states": [
+        "Louisiana"
+      ]
+    },
+    {
+      "url": "https://labor.mo.gov/dwc/employers/reporting-responsibilities",
+      "status": 200,
+      "resolved_url": "https://labor.mo.gov/dwc/employers/reporting-responsibilities",
+      "content_type": "text/html; charset=UTF-8",
+      "states": [
+        "Missouri"
+      ]
+    },
+    {
+      "url": "https://labor.vermont.gov/unemployment-insurance/new-hire-reporting",
+      "status": 200,
+      "resolved_url": "https://labor.vermont.gov/unemployment-insurance/new-hire-reporting",
+      "content_type": "text/html; charset=UTF-8",
+      "states": [
+        "Vermont"
+      ]
+    },
+    {
+      "url": "https://law.justia.com/codes/texas/2022/tax-code/title-2/subtitle-b/chapter-111/subchapter-a/section-111-0041/",
+      "status": "Access not verified",
+      "detail": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)>",
+      "states": [
+        "Texas"
+      ]
+    },
+    {
+      "url": "https://lulstb.com/download/123/local-sales-tax-regulations/23542/title-72-local-sales-tax-regulations-august-2021.pdf",
+      "status": 200,
+      "resolved_url": "https://lulstb.com/download/123/local-sales-tax-regulations/23542/title-72-local-sales-tax-regulations-august-2021.pdf",
+      "content_type": "application/pdf",
+      "states": [
+        "Louisiana"
+      ]
+    },
+    {
+      "url": "https://mn.gov/uimn/employers/help-and-support/employer-user-guide/maintain-reporting-units.jsp",
+      "status": 200,
+      "resolved_url": "https://mn.gov/uimn/employers/help-and-support/employer-user-guide/maintain-reporting-units.jsp",
+      "content_type": "text/html;charset=UTF-8",
+      "states": [
+        "Minnesota"
+      ]
+    },
+    {
+      "url": "https://oklahoma.gov/content/dam/ok/en/oesc/documents/misc/UI-Integrity-for-Employers.pdf",
+      "status": 200,
+      "resolved_url": "https://oklahoma.gov/content/dam/ok/en/oesc/documents/misc/UI-Integrity-for-Employers.pdf",
+      "content_type": "application/pdf",
+      "states": [
+        "Oklahoma"
+      ]
+    },
+    {
+      "url": "https://portal.ct.gov/-/media/drs/forms/2020/sut/op-210_0920.pdf?rev=1b6349af048e4824a1c08526ffa318e7&",
+      "status": 200,
+      "resolved_url": "https://portal.ct.gov/-/media/drs/forms/2020/sut/op-210_0920.pdf?rev=1b6349af048e4824a1c08526ffa318e7&",
+      "content_type": "application/pdf",
+      "states": [
+        "Connecticut"
+      ]
+    },
+    {
+      "url": "https://preprod.tn.gov/content/dam/tn/revenue/documents/notices/lbd/recreports.pdf",
+      "status": 403,
+      "detail": "HTTP Error 403: Forbidden",
+      "states": [
+        "Tennessee"
+      ]
+    },
+    {
+      "url": "https://preprod.tn.gov/content/dam/tn/workforce/documents/employers/HandbookforEmployers6-13-19.pdf",
+      "status": 403,
+      "detail": "HTTP Error 403: Forbidden",
+      "states": [
+        "Tennessee"
+      ]
+    },
+    {
+      "url": "https://preview-stage.ct.egov.com/releasetest/-/media/4bc2731b524a4332b9c22801bfa76a21.pdf",
+      "status": "Access not verified",
+      "detail": "The read operation timed out",
+      "states": [
+        "Connecticut"
+      ]
+    },
+    {
+      "url": "https://prod.gaming.nv.gov/uploadedFiles/gamingnvgov/content/divisions/audit/iac-checklist/2023ia-misc-reg-test.pdf",
+      "status": 200,
+      "resolved_url": "https://prod.gaming.nv.gov/siteassets/content/divisions/audit/iac-checklist/2023ia-misc-reg-test.pdf",
+      "content_type": "application/pdf",
+      "states": [
+        "Nevada"
+      ]
+    },
+    {
+      "url": "https://realfile.tax.newmexico.gov/CRS-1%20Filers%20Kit%20For%20Reporting%20Gross%20Receipts%20Withholding%20and%20Compensating%20Taxes%20July%20through%20December%202019.pdf",
+      "status": 200,
+      "resolved_url": "https://realfile.tax.newmexico.gov/CRS-1%20Filers%20Kit%20For%20Reporting%20Gross%20Receipts%20Withholding%20and%20Compensating%20Taxes%20July%20through%20December%202019.pdf",
+      "content_type": "application/octet-stream",
+      "states": [
+        "New Mexico"
+      ]
+    },
+    {
+      "url": "https://revenue.alabama.gov/wp-content/uploads/2026/01/25f40bk.pdf",
+      "status": 200,
+      "resolved_url": "https://www.revenue.alabama.gov/wp-content/uploads/2026/01/25f40bk.pdf",
+      "content_type": "application/pdf",
+      "states": [
+        "Alabama"
+      ]
+    },
+    {
+      "url": "https://revenue.delaware.gov/frequently-asked-questions/gross-receipts-tax-faqs/",
+      "status": 200,
+      "resolved_url": "https://revenue.delaware.gov/frequently-asked-questions/gross-receipts-tax-faqs/",
+      "content_type": "text/html; charset=UTF-8",
+      "states": [
+        "Delaware"
+      ]
+    },
+    {
+      "url": "https://revenue.iowa.gov/news/2024-07-30/administrative-rules-adopted-filed",
+      "status": 403,
+      "detail": "HTTP Error 403: Forbidden",
+      "states": [
+        "Iowa"
+      ]
+    },
+    {
+      "url": "https://revenue.iowa.gov/taxes/tax-guidance/sales-use-excise-tax/cigarette-tobacco-tax/changes-cigarette-tobacco-tax-forms",
+      "status": 200,
+      "resolved_url": "https://revenue.iowa.gov/taxes/tax-guidance/sales-use-excise-tax/cigarette-tobacco-tax/changes-cigarette-tobacco-tax-forms",
+      "content_type": "text/html; charset=utf-8",
+      "states": [
+        "Iowa"
+      ]
+    },
+    {
+      "url": "https://revenue.ky.gov/DOR%20Training%20Materials/Sales%20Tax%20Facts%202011%20-%20Jun.pdf",
+      "status": 200,
+      "resolved_url": "https://revenue.ky.gov/DOR%20Training%20Materials/Sales%20Tax%20Facts%202011%20-%20Jun.pdf",
+      "content_type": "application/pdf",
+      "states": [
+        "Kentucky"
+      ]
+    },
+    {
+      "url": "https://revenue.nebraska.gov/incentives/employment-investment-growth-act-records-retention",
+      "status": 200,
+      "resolved_url": "https://revenue.nebraska.gov/incentives/employment-investment-growth-act-records-retention",
+      "content_type": "text/html; charset=utf-8",
+      "states": [
+        "Nebraska"
+      ]
+    },
+    {
+      "url": "https://revenue.nebraska.gov/motor-fuels/motor-fuels-legal-information/chapter-73-nebraska-fuels-tax",
+      "status": 200,
+      "resolved_url": "https://revenue.nebraska.gov/motor-fuels/motor-fuels-legal-information/chapter-73-nebraska-fuels-tax",
+      "content_type": "text/html; charset=utf-8",
+      "states": [
+        "Nebraska"
+      ]
+    },
+    {
+      "url": "https://revenue.support.tn.gov/hc/en-us/articles/360058138372-SUT-1-Sales-and-Use-Tax-Tennessee-Code-Reference",
+      "status": 200,
+      "resolved_url": "https://revenue.support.tn.gov/hc/en-us/articles/360058138372-SUT-1-Sales-and-Use-Tax-Tennessee-Code-Reference",
+      "content_type": "text/html; charset=utf-8",
+      "states": [
+        "Tennessee"
+      ]
+    },
+    {
+      "url": "https://risos-apa-production-public.s3.amazonaws.com/DOTAX/DOTAX_385_.pdf",
+      "status": 200,
+      "resolved_url": "https://risos-apa-production-public.s3.amazonaws.com/DOTAX/DOTAX_385_.pdf",
+      "content_type": "application/pdf",
+      "states": [
+        "Rhode Island"
+      ]
+    },
+    {
+      "url": "https://statutes.capitol.texas.gov/Docs/TX/htm/TX.171.htm",
+      "status": 200,
+      "resolved_url": "https://statutes.capitol.texas.gov/Docs/TX/htm/TX.171.htm",
+      "content_type": "text/html",
+      "states": [
+        "Texas"
+      ]
+    },
+    {
+      "url": "https://tax.colorado.gov/sales-use-tax",
+      "status": 403,
+      "detail": "HTTP Error 403: Forbidden",
+      "states": [
+        "Colorado"
+      ]
+    },
+    {
+      "url": "https://tax.idaho.gov/taxes/sales-use/guides-for-certain-groups/lodging/record-keeping/",
+      "status": "Access not verified",
+      "detail": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)>",
+      "states": [
+        "Idaho"
+      ]
+    },
+    {
+      "url": "https://tax.idaho.gov/taxes/sales-use/guides-for-certain-groups/wholesalers/record-keeping/",
+      "status": "Access not verified",
+      "detail": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)>",
+      "states": [
+        "Idaho"
+      ]
+    },
+    {
+      "url": "https://tax.illinois.gov/content/dam/soi/en/web/taxarchive/research/legal/letter-rulings/sales-tax/2026/st26-0015-gil.pdf",
+      "status": 200,
+      "resolved_url": "https://tax.illinois.gov/content/dam/soi/en/web/taxarchive/research/legal/letter-rulings/sales-tax/2026/st26-0015-gil.pdf",
+      "content_type": "application/pdf",
+      "states": [
+        "Illinois"
+      ]
+    },
+    {
+      "url": "https://tax.nv.gov/about-nevada-department-of-taxation/income-tax-in-nevada/",
+      "status": 200,
+      "resolved_url": "https://tax.nv.gov/about-nevada-department-of-taxation/income-tax-in-nevada/",
+      "content_type": "text/html; charset=UTF-8",
+      "states": [
+        "Nevada"
+      ]
+    },
+    {
+      "url": "https://tax.utah.gov/forms/2021/pub-25.pdf",
+      "status": 200,
+      "resolved_url": "https://files.tax.utah.gov/tax/forms/2021/",
+      "content_type": "application/x-directory",
+      "states": [
+        "Utah"
+      ]
+    },
+    {
+      "url": "https://tax.vermont.gov/myvtax/create-an-account",
+      "status": 200,
+      "resolved_url": "https://tax.vermont.gov/myvtax/create-an-account",
+      "content_type": "text/html; charset=UTF-8",
+      "states": [
+        "Vermont"
+      ]
+    },
+    {
+      "url": "https://tax.wv.gov/business/motorfuel/internationalfueltaxagreement/pages/internationalfueltaxagreement.aspx",
+      "status": 200,
+      "resolved_url": "https://tax.wv.gov/business/motorfuel/internationalfueltaxagreement/pages/internationalfueltaxagreement.aspx",
+      "content_type": "text/html; charset=utf-8",
+      "states": [
+        "West Virginia"
+      ]
+    },
+    {
+      "url": "https://texas.public.law/statutes/tex._tax_code_section_111.0041",
+      "status": 200,
+      "resolved_url": "https://texas.public.law/statutes/tex._tax_code_section_111.0041",
+      "content_type": "text/html; charset=utf-8",
+      "states": [
+        "Texas"
+      ]
+    },
+    {
+      "url": "https://www.co.ward.nd.us/DocumentCenter/View/3982/ND-Taxpayer-Bill-of-Rights",
+      "status": 200,
+      "resolved_url": "https://www.co.ward.nd.us/DocumentCenter/View/3982/ND-Taxpayer-Bill-of-Rights",
+      "content_type": "application/pdf",
+      "states": [
+        "North Dakota"
+      ]
+    },
+    {
+      "url": "https://www.dfa.arkansas.gov/office/taxes/excise-tax-administration/sales-use-tax/tax-collection-data/",
+      "status": 200,
+      "resolved_url": "https://www.dfa.arkansas.gov/office/taxes/excise-tax-administration/sales-use-tax/tax-collection-data/",
+      "content_type": "text/html; charset=UTF-8",
+      "states": [
+        "Arkansas"
+      ]
+    },
+    {
+      "url": "https://www.dor.ms.gov/forms-resources/taxpayer-guidance/record-keeping-document-retention",
+      "status": 200,
+      "resolved_url": "https://www.dor.ms.gov/forms-resources/taxpayer-guidance/record-keeping-document-retention",
+      "content_type": "text/html; charset=UTF-8",
+      "states": [
+        "Mississippi"
+      ]
+    },
+    {
+      "url": "https://www.dor.ms.gov/node/6153",
+      "status": 200,
+      "resolved_url": "https://www.dor.ms.gov/forms-resources/taxpayer-guidance/audit-procedures",
+      "content_type": "text/html; charset=UTF-8",
+      "states": [
+        "Mississippi"
+      ]
+    },
+    {
+      "url": "https://www.dshs.wa.gov/family-food-and-housing-services/child-support/employer-resources/new-hire-reporting",
+      "status": 200,
+      "resolved_url": "https://www.dshs.wa.gov/family-food-and-housing-services/child-support/employer-resources/new-hire-reporting",
+      "content_type": "text/html; charset=UTF-8",
+      "states": [
+        "Washington"
+      ]
+    },
+    {
+      "url": "https://www.ftb.ca.gov/tax-pros/procedures/waters-edge-manual/chapter-19.pdf",
+      "status": 200,
+      "resolved_url": "https://www.ftb.ca.gov/tax-pros/procedures/waters-edge-manual/chapter-19.pdf",
+      "content_type": "application/pdf",
+      "states": [
+        "California"
+      ]
+    },
+    {
+      "url": "https://www.ksrevenue.gov/pdf/specialevents/SalesTaxEventsGuide.pdf",
+      "status": 200,
+      "resolved_url": "https://www.ksrevenue.gov/pdf/specialevents/SalesTaxEventsGuide.pdf",
+      "content_type": "application/pdf",
+      "states": [
+        "Kansas"
+      ]
+    },
+    {
+      "url": "https://www.law.cornell.edu/regulations/new-mexico/3-2-2-15-NMAC",
+      "status": 200,
+      "resolved_url": "https://www.law.cornell.edu/regulations/new-mexico/3-2-2-15-NMAC",
+      "content_type": "text/html; charset=utf-8",
+      "states": [
+        "New Mexico"
+      ]
+    },
+    {
+      "url": "https://www.law.cornell.edu/regulations/north-dakota/N-D-A-C-81-1.1-04-03",
+      "status": 200,
+      "resolved_url": "https://www.law.cornell.edu/regulations/north-dakota/N-D-A-C-81-1.1-04-03",
+      "content_type": "text/html; charset=utf-8",
+      "states": [
+        "North Dakota"
+      ]
+    },
+    {
+      "url": "https://www.law.cornell.edu/regulations/oregon/Or-Admin-Code-SS-471-031-0005",
+      "status": 200,
+      "resolved_url": "https://www.law.cornell.edu/regulations/oregon/Or-Admin-Code-SS-471-031-0005",
+      "content_type": "text/html; charset=utf-8",
+      "states": [
+        "Oregon"
+      ]
+    },
+    {
+      "url": "https://www.law.cornell.edu/regulations/pennsylvania/61-Pa-Code-SS-34-2",
+      "status": 200,
+      "resolved_url": "https://www.law.cornell.edu/regulations/pennsylvania/61-Pa-Code-SS-34-2",
+      "content_type": "text/html; charset=utf-8",
+      "states": [
+        "Pennsylvania"
+      ]
+    },
+    {
+      "url": "https://www.law.cornell.edu/regulations/south-carolina/R-117-200.1",
+      "status": 200,
+      "resolved_url": "https://www.law.cornell.edu/regulations/south-carolina/R-117-200.1",
+      "content_type": "text/html; charset=utf-8",
+      "states": [
+        "South Carolina"
+      ]
+    },
+    {
+      "url": "https://www.legis.iowa.gov/docs/code/2011/423.41.pdf",
+      "status": 200,
+      "resolved_url": "https://www.legis.iowa.gov/docs/code/2011/423.41.pdf",
+      "content_type": "application/pdf",
+      "states": [
+        "Iowa"
+      ]
+    },
+    {
+      "url": "https://www.legis.iowa.gov/docs/iac/rule/871.22.1.pdf",
+      "status": 200,
+      "resolved_url": "https://www.legis.iowa.gov/docs/iac/rule/871.22.1.pdf",
+      "content_type": "application/pdf",
+      "states": [
+        "Iowa"
+      ]
+    },
+    {
+      "url": "https://www.maine.gov/future/sites/maine.gov.revenue/files/inline-files/Rule_103_July_2021.pdf",
+      "status": 403,
+      "detail": "HTTP Error 403: Forbidden",
+      "states": [
+        "Maine"
+      ]
+    },
+    {
+      "url": "https://www.maine.gov/revenue/sites/maine.gov.revenue/files/inline-files/BusinessGuide07152022.pdf",
+      "status": 403,
+      "detail": "HTTP Error 403: Forbidden",
+      "states": [
+        "Maine"
+      ]
+    },
+    {
+      "url": "https://www.mass.gov/doc/proposed-regulation-date-filed-january-2-2026-6/download",
+      "status": 403,
+      "detail": "HTTP Error 403: Forbidden",
+      "states": [
+        "Massachusetts"
+      ]
+    },
+    {
+      "url": "https://www.mass.gov/how-to/submit-employment-and-wage-detail-report",
+      "status": 403,
+      "detail": "HTTP Error 403: Forbidden",
+      "states": [
+        "Massachusetts"
+      ]
+    },
+    {
+      "url": "https://www.mass.gov/regulations/830-CMR-62c251-record-retention",
+      "status": 403,
+      "detail": "HTTP Error 403: Forbidden",
+      "states": [
+        "Massachusetts"
+      ]
+    },
+    {
+      "url": "https://www.mdhs.ms.gov/wp-content/uploads/2018/04/Child-Support-Manual-Revised_4.18.pdf",
+      "status": 200,
+      "resolved_url": "https://www.mdhs.ms.gov/wp-content/uploads/2018/04/Child-Support-Manual-Revised_4.18.pdf",
+      "content_type": "application/pdf",
+      "states": [
+        "Mississippi"
+      ]
+    },
+    {
+      "url": "https://www.michigan.gov/leo/bureaus-agencies/uia/miui-university/miui-resources-for-employers-and-tpas",
+      "status": 200,
+      "resolved_url": "https://www.michigan.gov/leo/bureaus-agencies/uia/miui-university/miui-resources-for-employers-and-tpas",
+      "content_type": "text/html; charset=utf-8",
+      "states": [
+        "Michigan"
+      ]
+    },
+    {
+      "url": "https://www.michigan.gov/taxes/-/media/Project/Websites/taxes/Forms/CIT/TY2025/4890_ty2025.pdf",
+      "status": 200,
+      "resolved_url": "https://www.michigan.gov/taxes/-/media/Project/Websites/taxes/Forms/CIT/TY2025/4890_ty2025.pdf",
+      "content_type": "application/pdf",
+      "states": [
+        "Michigan"
+      ]
+    },
+    {
+      "url": "https://www.michigan.gov/taxes/business-taxes/withholding",
+      "status": 200,
+      "resolved_url": "https://www.michigan.gov/taxes/business-taxes/withholding",
+      "content_type": "text/html; charset=utf-8",
+      "states": [
+        "Michigan"
+      ]
+    },
+    {
+      "url": "https://www.missouriemployer.dss.mo.gov/NewHireInfo.aspx",
+      "status": 200,
+      "resolved_url": "https://www.missouriemployer.dss.mo.gov/NewHireInfo.aspx",
+      "content_type": "text/html; charset=utf-8",
+      "states": [
+        "Missouri"
+      ]
+    },
+    {
+      "url": "https://www.ncdor.gov/taxes-forms/business-income-tax-seminars/tax-resource-library",
+      "status": 403,
+      "detail": "HTTP Error 403: Forbidden",
+      "states": [
+        "North Carolina"
+      ]
+    },
+    {
+      "url": "https://www.ncdor.gov/taxes-forms/sales-and-use-tax/other-sales-and-use-tax-resources/streamlined-sales-tax-information/north-carolina-information-streamlined-sales-taxr-participants",
+      "status": 200,
+      "resolved_url": "https://www.ncdor.gov/taxes-forms/sales-and-use-tax/other-sales-and-use-tax-resources/streamlined-sales-tax-information/north-carolina-information-streamlined-sales-taxr-participants",
+      "content_type": "text/html; charset=UTF-8",
+      "states": [
+        "North Carolina"
+      ]
+    },
+    {
+      "url": "https://www.oregon.gov/dor/programs/businesses/Pages/Corporate-Activity-Tax.aspx",
+      "status": 200,
+      "resolved_url": "https://www.oregon.gov/dor/programs/businesses/Pages/Corporate-Activity-Tax.aspx",
+      "content_type": "text/html; charset=utf-8",
+      "states": [
+        "Oregon"
+      ]
+    },
+    {
+      "url": "https://www.oregon.gov/odot/mct/pages/recordkeeping.aspx",
+      "status": 200,
+      "resolved_url": "https://www.oregon.gov/odot/mct/pages/recordkeeping.aspx",
+      "content_type": "text/html; charset=utf-8",
+      "states": [
+        "Oregon"
+      ]
+    },
+    {
+      "url": "https://www.revenue.alabama.gov/ultraviewer/viewer/basic_viewer/index.html?form=2022/08/Sales_Use_Rulebook.pdf",
+      "status": 200,
+      "resolved_url": "https://www.revenue.alabama.gov/wp-content/uploads/2022/08/Sales_Use_Rulebook.pdf",
+      "content_type": "application/pdf",
+      "states": [
+        "Alabama"
+      ]
+    },
+    {
+      "url": "https://www.revenue.nh.gov/sites/g/files/ehbemt736/files/documents/2025-mr-booklet.pdf",
+      "status": 403,
+      "detail": "HTTP Error 403: Forbidden",
+      "states": [
+        "New Hampshire"
+      ]
+    },
+    {
+      "url": "https://www.revenue.nh.gov/taxes-glance/business-taxes",
+      "status": 403,
+      "detail": "HTTP Error 403: Forbidden",
+      "states": [
+        "New Hampshire"
+      ]
+    },
+    {
+      "url": "https://www.revenue.state.mn.us:443/guide/filing-returns-and-record-keeping-4",
+      "status": 403,
+      "detail": "HTTP Error 403: Forbidden",
+      "states": [
+        "Minnesota"
+      ]
+    },
+    {
+      "url": "https://www.revisor.mn.gov/rules/pdf/8130.7500/2014-01-18%2009:52:27+00:00",
+      "status": 200,
+      "resolved_url": "https://www.revisor.mn.gov/rules/pdf/8130.7500/2014-01-18%2009:52:27+00:00",
+      "content_type": "application/pdf",
+      "states": [
+        "Minnesota"
+      ]
+    },
+    {
+      "url": "https://www.revisor.mn.gov/statutes/2024/2024-11-01%2018:37:49+00:00/cite/297E.11/pdf",
+      "status": 200,
+      "resolved_url": "https://www.revisor.mn.gov/statutes/2024/2024-11-01%2018:37:49+00:00/cite/297E.11/pdf",
+      "content_type": "application/pdf",
+      "states": [
+        "Minnesota"
+      ]
+    },
+    {
+      "url": "https://www.revisor.mn.gov/statutes/2025/2025-10-19%2011:17:38+00:00/cite/142A.29/pdf",
+      "status": 200,
+      "resolved_url": "https://www.revisor.mn.gov/statutes/2025/2025-10-19%2011:17:38+00:00/cite/142A.29/pdf",
+      "content_type": "application/pdf",
+      "states": [
+        "Minnesota"
+      ]
+    },
+    {
+      "url": "https://www.revisor.mn.gov/statutes/2025/2025-10-19%2013:07:01+00:00/cite/332A.12/pdf",
+      "status": 200,
+      "resolved_url": "https://www.revisor.mn.gov/statutes/2025/2025-10-19%2013:07:01+00:00/cite/332A.12/pdf",
+      "content_type": "application/pdf",
+      "states": [
+        "Minnesota"
+      ]
+    },
+    {
+      "url": "https://www.revisor.mn.gov/statutes/cite/289A.38",
+      "status": 200,
+      "resolved_url": "https://www.revisor.mn.gov/statutes/cite/289A.38",
+      "content_type": "text/html; charset=utf-8",
+      "states": [
+        "Minnesota"
+      ]
+    },
+    {
+      "url": "https://www.sos.state.co.us/CCR/GenerateRulePdf.do?ruleVersionId=5443",
+      "status": 200,
+      "resolved_url": "https://www.sos.state.co.us/CCR/GenerateRulePdf.do?ruleVersionId=5443",
+      "content_type": "application/pdf",
+      "states": [
+        "Colorado"
+      ]
+    },
+    {
+      "url": "https://www.sos.state.co.us/CCR/GenerateRulePdf.do?ruleVersionId=8043&fileName=1%20CCR%20201-2",
+      "status": 200,
+      "resolved_url": "https://www.sos.state.co.us/CCR/GenerateRulePdf.do?ruleVersionId=8043&fileName=1%20CCR%20201-2",
+      "content_type": "application/pdf",
+      "states": [
+        "Colorado"
+      ]
+    },
+    {
+      "url": "https://www.tax.nd.gov/sites/www/files/documents/forms/misc-forms/step-by-step-instructions-on-how-sign-up-for-tap.pdf?ref=deskera.com",
+      "status": 200,
+      "resolved_url": "https://www.tax.nd.gov/sites/www/files/documents/forms/misc-forms/step-by-step-instructions-on-how-sign-up-for-tap.pdf?ref=deskera.com",
+      "content_type": "application/pdf",
+      "states": [
+        "North Dakota"
+      ]
+    },
+    {
+      "url": "https://www.tax.newmexico.gov/wp-content/uploads/2022/07/Tax-laws-take-effect.pdf",
+      "status": 200,
+      "resolved_url": "https://www.tax.newmexico.gov/wp-content/uploads/2022/07/Tax-laws-take-effect.pdf",
+      "content_type": "application/pdf",
+      "states": [
+        "New Mexico"
+      ]
+    },
+    {
+      "url": "https://www.tax.virginia.gov/laws-rules-decisions/rulings-tax-commissioner/06-20",
+      "status": 200,
+      "resolved_url": "https://www.tax.virginia.gov/laws-rules-decisions/rulings-tax-commissioner/06-20",
+      "content_type": "text/html; charset=UTF-8",
+      "states": [
+        "Virginia"
+      ]
+    },
+    {
+      "url": "https://www.tax.virginia.gov/laws-rules-decisions/rulings-tax-commissioner/22-108",
+      "status": 200,
+      "resolved_url": "https://www.tax.virginia.gov/laws-rules-decisions/rulings-tax-commissioner/22-108",
+      "content_type": "text/html; charset=UTF-8",
+      "states": [
+        "Virginia"
+      ]
+    },
+    {
+      "url": "https://www.tax.virginia.gov/laws-rules-decisions/rulings-tax-commissioner/22-132",
+      "status": 200,
+      "resolved_url": "https://www.tax.virginia.gov/laws-rules-decisions/rulings-tax-commissioner/22-132",
+      "content_type": "text/html; charset=UTF-8",
+      "states": [
+        "Virginia"
+      ]
+    },
+    {
+      "url": "https://www.twc.texas.gov/employer-resources/new-hire-reporting",
+      "status": 200,
+      "resolved_url": "https://www.twc.texas.gov/employer-resources/new-hire-reporting",
+      "content_type": "text/html; charset=utf-8",
+      "states": [
+        "Texas"
+      ]
+    },
+    {
+      "url": "https://www.twc.texas.gov/programs/unemployment-tax/responsibilities-liable-employer",
+      "status": 200,
+      "resolved_url": "https://www.twc.texas.gov/programs/unemployment-tax/responsibilities-liable-employer",
+      "content_type": "text/html; charset=utf-8",
+      "states": [
+        "Texas"
+      ]
+    },
+    {
+      "url": "https://www.wisctfemployer.com/glossary.html",
+      "status": 200,
+      "resolved_url": "https://www.wisctfemployer.com/glossary.html",
+      "content_type": "text/html; charset=UTF-8",
+      "states": [
+        "Wisconsin"
+      ]
+    },
+    {
+      "url": "https://www.wisctfemployer.com/new_hire.html",
+      "status": 200,
+      "resolved_url": "https://www.wisctfemployer.com/new_hire.html",
+      "content_type": "text/html; charset=UTF-8",
+      "states": [
+        "Wisconsin"
+      ]
+    },
+    {
+      "url": "https://www1.maine.gov/REVENUE/othertaxes/tobacco/ExciseBull3%20CigTob%20072009.pdf",
+      "status": 200,
+      "resolved_url": "https://www1.maine.gov/REVENUE/othertaxes/tobacco/ExciseBull3%20CigTob%20072009.pdf",
+      "content_type": "application/pdf",
+      "states": [
+        "Maine"
+      ]
+    }
+  ]
+}

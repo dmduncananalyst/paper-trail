@@ -1,0 +1,2224 @@
+﻿{
+    "requests":  [
+                     "http://127.0.0.1:8765/es/index.html",
+                     "http://127.0.0.1:8765/assets/site.css",
+                     "http://127.0.0.1:8765/assets/presentation.css",
+                     "http://127.0.0.1:8765/assets/design.css?v=state-content-20261016",
+                     "http://127.0.0.1:8765/assets/local-review-safety.js",
+                     "http://127.0.0.1:8765/assets/locales/home-blog/current.js?v=b52d90c702f2225d63dc168616e22dcbee901a4b8bd910b28811ae02ff08af38",
+                     "http://127.0.0.1:8765/assets/fonts/dm-sans.ttf",
+                     "http://127.0.0.1:8765/assets/images/service-details-paper-trail-services-html.webp",
+                     "http://127.0.0.1:8765/assets/fonts/libre-caslon-display.ttf",
+                     "http://127.0.0.1:8765/assets/translation-workflow/routes.js?v=b52d90c702f2225d63dc168616e22dcbee901a4b8bd910b28811ae02ff08af38",
+                     "http://127.0.0.1:8765/assets/translation-workflow/navigation.js?v=b52d90c702f2225d63dc168616e22dcbee901a4b8bd910b28811ae02ff08af38",
+                     "http://127.0.0.1:8765/assets/translation-workflow/display.css?v=b52d90c702f2225d63dc168616e22dcbee901a4b8bd910b28811ae02ff08af38",
+                     "http://127.0.0.1:8765/assets/images/paper-trail-logo.png",
+                     "http://127.0.0.1:8765/assets/video/home-poster.webp?v=opening-frame-20261016",
+                     "http://127.0.0.1:8765/assets/photos/past-due-bookkeeping-html.webp",
+                     "http://127.0.0.1:8765/assets/images/paper-trail-monthly-bookkeeping-html.webp",
+                     "http://127.0.0.1:8765/assets/photos/balancing-corrections-html.webp",
+                     "http://127.0.0.1:8765/assets/photos/tax-ready-bookkeeping-html.webp",
+                     "http://127.0.0.1:8765/assets/images/home-article-card-1.webp",
+                     "http://127.0.0.1:8765/assets/images/bank-credit-card-balancing-html.webp",
+                     "http://127.0.0.1:8765/assets/photos/transaction-categorization-html.webp",
+                     "http://127.0.0.1:8765/assets/images/home-article-card-4.webp",
+                     "http://127.0.0.1:8765/assets/google-translate-attribution.png",
+                     "http://127.0.0.1:8765/assets/site.js?v=b52d90c702f2225d63dc168616e22dcbee901a4b8bd910b28811ae02ff08af38",
+                     "http://127.0.0.1:8765/assets/design.js?v=b52d90c702f2225d63dc168616e22dcbee901a4b8bd910b28811ae02ff08af38",
+                     "http://127.0.0.1:8765/assets/video/home.mp4",
+                     "http://127.0.0.1:8765/favicon.ico",
+                     "http://127.0.0.1:8765/es/blog.html",
+                     "http://127.0.0.1:8765/assets/site.css",
+                     "http://127.0.0.1:8765/assets/presentation.css",
+                     "http://127.0.0.1:8765/assets/design.css?v=state-content-20261016",
+                     "http://127.0.0.1:8765/assets/local-review-safety.js",
+                     "http://127.0.0.1:8765/assets/locales/home-blog/current.js?v=b52d90c702f2225d63dc168616e22dcbee901a4b8bd910b28811ae02ff08af38",
+                     "http://127.0.0.1:8765/assets/fonts/dm-sans.ttf",
+                     "http://127.0.0.1:8765/assets/photos/catch-up-bookkeeping-overdue-books-html.webp",
+                     "http://127.0.0.1:8765/assets/fonts/libre-caslon-display.ttf",
+                     "http://127.0.0.1:8765/assets/translation-workflow/routes.js?v=b52d90c702f2225d63dc168616e22dcbee901a4b8bd910b28811ae02ff08af38",
+                     "http://127.0.0.1:8765/assets/translation-workflow/navigation.js?v=b52d90c702f2225d63dc168616e22dcbee901a4b8bd910b28811ae02ff08af38",
+                     "http://127.0.0.1:8765/assets/translation-workflow/display.css?v=b52d90c702f2225d63dc168616e22dcbee901a4b8bd910b28811ae02ff08af38",
+                     "http://127.0.0.1:8765/assets/images/paper-trail-logo.png",
+                     "http://127.0.0.1:8765/assets/photos/profit-vs-cash-flow-business-money-html.webp",
+                     "http://127.0.0.1:8765/assets/photos/tax-ready-bookkeeping-html.webp",
+                     "http://127.0.0.1:8765/assets/google-translate-attribution.png",
+                     "http://127.0.0.1:8765/assets/site.js?v=b52d90c702f2225d63dc168616e22dcbee901a4b8bd910b28811ae02ff08af38",
+                     "http://127.0.0.1:8765/assets/design.js?v=b52d90c702f2225d63dc168616e22dcbee901a4b8bd910b28811ae02ff08af38",
+                     "http://127.0.0.1:8765/fa/index.html",
+                     "http://127.0.0.1:8765/assets/site.css",
+                     "http://127.0.0.1:8765/assets/presentation.css",
+                     "http://127.0.0.1:8765/assets/design.css?v=state-content-20261016",
+                     "http://127.0.0.1:8765/assets/local-review-safety.js",
+                     "http://127.0.0.1:8765/assets/locales/home-blog/current.js?v=b52d90c702f2225d63dc168616e22dcbee901a4b8bd910b28811ae02ff08af38",
+                     "http://127.0.0.1:8765/assets/fonts/dm-sans.ttf",
+                     "http://127.0.0.1:8765/assets/images/service-details-paper-trail-services-html.webp",
+                     "http://127.0.0.1:8765/assets/fonts/libre-caslon-display.ttf",
+                     "http://127.0.0.1:8765/assets/translation-workflow/routes.js?v=b52d90c702f2225d63dc168616e22dcbee901a4b8bd910b28811ae02ff08af38",
+                     "http://127.0.0.1:8765/assets/translation-workflow/navigation.js?v=b52d90c702f2225d63dc168616e22dcbee901a4b8bd910b28811ae02ff08af38",
+                     "http://127.0.0.1:8765/assets/translation-workflow/display.css?v=b52d90c702f2225d63dc168616e22dcbee901a4b8bd910b28811ae02ff08af38",
+                     "http://127.0.0.1:8765/assets/images/paper-trail-logo.png",
+                     "http://127.0.0.1:8765/assets/video/home-poster.webp?v=opening-frame-20261016",
+                     "http://127.0.0.1:8765/assets/photos/past-due-bookkeeping-html.webp",
+                     "http://127.0.0.1:8765/assets/images/paper-trail-monthly-bookkeeping-html.webp",
+                     "http://127.0.0.1:8765/assets/photos/balancing-corrections-html.webp",
+                     "http://127.0.0.1:8765/assets/photos/tax-ready-bookkeeping-html.webp",
+                     "http://127.0.0.1:8765/assets/images/home-article-card-1.webp",
+                     "http://127.0.0.1:8765/assets/images/bank-credit-card-balancing-html.webp",
+                     "http://127.0.0.1:8765/assets/photos/transaction-categorization-html.webp",
+                     "http://127.0.0.1:8765/assets/images/home-article-card-4.webp",
+                     "http://127.0.0.1:8765/assets/google-translate-attribution.png",
+                     "http://127.0.0.1:8765/assets/site.js?v=b52d90c702f2225d63dc168616e22dcbee901a4b8bd910b28811ae02ff08af38",
+                     "http://127.0.0.1:8765/assets/design.js?v=b52d90c702f2225d63dc168616e22dcbee901a4b8bd910b28811ae02ff08af38",
+                     "http://127.0.0.1:8765/assets/video/home.mp4",
+                     "http://127.0.0.1:8765/fa/blog.html",
+                     "http://127.0.0.1:8765/assets/site.css",
+                     "http://127.0.0.1:8765/assets/presentation.css",
+                     "http://127.0.0.1:8765/assets/design.css?v=state-content-20261016",
+                     "http://127.0.0.1:8765/assets/local-review-safety.js",
+                     "http://127.0.0.1:8765/assets/locales/home-blog/current.js?v=b52d90c702f2225d63dc168616e22dcbee901a4b8bd910b28811ae02ff08af38",
+                     "http://127.0.0.1:8765/assets/fonts/dm-sans.ttf",
+                     "http://127.0.0.1:8765/assets/photos/catch-up-bookkeeping-overdue-books-html.webp",
+                     "http://127.0.0.1:8765/assets/fonts/libre-caslon-display.ttf",
+                     "http://127.0.0.1:8765/assets/translation-workflow/routes.js?v=b52d90c702f2225d63dc168616e22dcbee901a4b8bd910b28811ae02ff08af38",
+                     "http://127.0.0.1:8765/assets/translation-workflow/navigation.js?v=b52d90c702f2225d63dc168616e22dcbee901a4b8bd910b28811ae02ff08af38",
+                     "http://127.0.0.1:8765/assets/translation-workflow/display.css?v=b52d90c702f2225d63dc168616e22dcbee901a4b8bd910b28811ae02ff08af38",
+                     "http://127.0.0.1:8765/assets/images/paper-trail-logo.png",
+                     "http://127.0.0.1:8765/assets/photos/profit-vs-cash-flow-business-money-html.webp",
+                     "http://127.0.0.1:8765/assets/photos/tax-ready-bookkeeping-html.webp",
+                     "http://127.0.0.1:8765/assets/google-translate-attribution.png",
+                     "http://127.0.0.1:8765/assets/site.js?v=b52d90c702f2225d63dc168616e22dcbee901a4b8bd910b28811ae02ff08af38",
+                     "http://127.0.0.1:8765/assets/design.js?v=b52d90c702f2225d63dc168616e22dcbee901a4b8bd910b28811ae02ff08af38",
+                     "http://127.0.0.1:8765/hy/index.html",
+                     "http://127.0.0.1:8765/assets/site.css",
+                     "http://127.0.0.1:8765/assets/presentation.css",
+                     "http://127.0.0.1:8765/assets/design.css?v=state-content-20261016",
+                     "http://127.0.0.1:8765/assets/local-review-safety.js",
+                     "http://127.0.0.1:8765/assets/locales/home-blog/current.js?v=b52d90c702f2225d63dc168616e22dcbee901a4b8bd910b28811ae02ff08af38",
+                     "http://127.0.0.1:8765/assets/fonts/dm-sans.ttf",
+                     "http://127.0.0.1:8765/assets/images/service-details-paper-trail-services-html.webp",
+                     "http://127.0.0.1:8765/assets/fonts/libre-caslon-display.ttf",
+                     "http://127.0.0.1:8765/assets/translation-workflow/routes.js?v=b52d90c702f2225d63dc168616e22dcbee901a4b8bd910b28811ae02ff08af38",
+                     "http://127.0.0.1:8765/assets/translation-workflow/navigation.js?v=b52d90c702f2225d63dc168616e22dcbee901a4b8bd910b28811ae02ff08af38",
+                     "http://127.0.0.1:8765/assets/translation-workflow/display.css?v=b52d90c702f2225d63dc168616e22dcbee901a4b8bd910b28811ae02ff08af38",
+                     "http://127.0.0.1:8765/assets/images/paper-trail-logo.png",
+                     "http://127.0.0.1:8765/assets/video/home-poster.webp?v=opening-frame-20261016",
+                     "http://127.0.0.1:8765/assets/photos/past-due-bookkeeping-html.webp",
+                     "http://127.0.0.1:8765/assets/images/paper-trail-monthly-bookkeeping-html.webp",
+                     "http://127.0.0.1:8765/assets/photos/balancing-corrections-html.webp",
+                     "http://127.0.0.1:8765/assets/photos/tax-ready-bookkeeping-html.webp",
+                     "http://127.0.0.1:8765/assets/images/home-article-card-1.webp",
+                     "http://127.0.0.1:8765/assets/images/bank-credit-card-balancing-html.webp",
+                     "http://127.0.0.1:8765/assets/photos/transaction-categorization-html.webp",
+                     "http://127.0.0.1:8765/assets/images/home-article-card-4.webp",
+                     "http://127.0.0.1:8765/assets/google-translate-attribution.png",
+                     "http://127.0.0.1:8765/assets/site.js?v=b52d90c702f2225d63dc168616e22dcbee901a4b8bd910b28811ae02ff08af38",
+                     "http://127.0.0.1:8765/assets/design.js?v=b52d90c702f2225d63dc168616e22dcbee901a4b8bd910b28811ae02ff08af38",
+                     "http://127.0.0.1:8765/assets/video/home.mp4",
+                     "http://127.0.0.1:8765/hy/blog.html",
+                     "http://127.0.0.1:8765/assets/site.css",
+                     "http://127.0.0.1:8765/assets/presentation.css",
+                     "http://127.0.0.1:8765/assets/design.css?v=state-content-20261016",
+                     "http://127.0.0.1:8765/assets/local-review-safety.js",
+                     "http://127.0.0.1:8765/assets/locales/home-blog/current.js?v=b52d90c702f2225d63dc168616e22dcbee901a4b8bd910b28811ae02ff08af38",
+                     "http://127.0.0.1:8765/assets/fonts/dm-sans.ttf",
+                     "http://127.0.0.1:8765/assets/photos/catch-up-bookkeeping-overdue-books-html.webp",
+                     "http://127.0.0.1:8765/assets/fonts/libre-caslon-display.ttf",
+                     "http://127.0.0.1:8765/assets/translation-workflow/routes.js?v=b52d90c702f2225d63dc168616e22dcbee901a4b8bd910b28811ae02ff08af38",
+                     "http://127.0.0.1:8765/assets/translation-workflow/navigation.js?v=b52d90c702f2225d63dc168616e22dcbee901a4b8bd910b28811ae02ff08af38",
+                     "http://127.0.0.1:8765/assets/translation-workflow/display.css?v=b52d90c702f2225d63dc168616e22dcbee901a4b8bd910b28811ae02ff08af38",
+                     "http://127.0.0.1:8765/assets/images/paper-trail-logo.png",
+                     "http://127.0.0.1:8765/assets/photos/profit-vs-cash-flow-business-money-html.webp",
+                     "http://127.0.0.1:8765/assets/photos/tax-ready-bookkeeping-html.webp",
+                     "http://127.0.0.1:8765/assets/google-translate-attribution.png",
+                     "http://127.0.0.1:8765/assets/site.js?v=b52d90c702f2225d63dc168616e22dcbee901a4b8bd910b28811ae02ff08af38",
+                     "http://127.0.0.1:8765/assets/design.js?v=b52d90c702f2225d63dc168616e22dcbee901a4b8bd910b28811ae02ff08af38",
+                     "http://127.0.0.1:8765/zh-CN/index.html",
+                     "http://127.0.0.1:8765/assets/site.css",
+                     "http://127.0.0.1:8765/assets/presentation.css",
+                     "http://127.0.0.1:8765/assets/design.css?v=state-content-20261016",
+                     "http://127.0.0.1:8765/assets/local-review-safety.js",
+                     "http://127.0.0.1:8765/assets/locales/home-blog/current.js?v=b52d90c702f2225d63dc168616e22dcbee901a4b8bd910b28811ae02ff08af38",
+                     "http://127.0.0.1:8765/assets/fonts/dm-sans.ttf",
+                     "http://127.0.0.1:8765/assets/images/service-details-paper-trail-services-html.webp",
+                     "http://127.0.0.1:8765/assets/fonts/libre-caslon-display.ttf",
+                     "http://127.0.0.1:8765/assets/translation-workflow/routes.js?v=b52d90c702f2225d63dc168616e22dcbee901a4b8bd910b28811ae02ff08af38",
+                     "http://127.0.0.1:8765/assets/translation-workflow/navigation.js?v=b52d90c702f2225d63dc168616e22dcbee901a4b8bd910b28811ae02ff08af38",
+                     "http://127.0.0.1:8765/assets/translation-workflow/display.css?v=b52d90c702f2225d63dc168616e22dcbee901a4b8bd910b28811ae02ff08af38",
+                     "http://127.0.0.1:8765/assets/images/paper-trail-logo.png",
+                     "http://127.0.0.1:8765/assets/video/home-poster.webp?v=opening-frame-20261016",
+                     "http://127.0.0.1:8765/assets/photos/past-due-bookkeeping-html.webp",
+                     "http://127.0.0.1:8765/assets/images/paper-trail-monthly-bookkeeping-html.webp",
+                     "http://127.0.0.1:8765/assets/photos/balancing-corrections-html.webp",
+                     "http://127.0.0.1:8765/assets/photos/tax-ready-bookkeeping-html.webp",
+                     "http://127.0.0.1:8765/assets/images/home-article-card-1.webp",
+                     "http://127.0.0.1:8765/assets/images/bank-credit-card-balancing-html.webp",
+                     "http://127.0.0.1:8765/assets/photos/transaction-categorization-html.webp",
+                     "http://127.0.0.1:8765/assets/images/home-article-card-4.webp",
+                     "http://127.0.0.1:8765/assets/google-translate-attribution.png",
+                     "http://127.0.0.1:8765/assets/site.js?v=b52d90c702f2225d63dc168616e22dcbee901a4b8bd910b28811ae02ff08af38",
+                     "http://127.0.0.1:8765/assets/design.js?v=b52d90c702f2225d63dc168616e22dcbee901a4b8bd910b28811ae02ff08af38",
+                     "http://127.0.0.1:8765/assets/video/home.mp4",
+                     "http://127.0.0.1:8765/zh-CN/blog.html",
+                     "http://127.0.0.1:8765/assets/site.css",
+                     "http://127.0.0.1:8765/assets/presentation.css",
+                     "http://127.0.0.1:8765/assets/design.css?v=state-content-20261016",
+                     "http://127.0.0.1:8765/assets/local-review-safety.js",
+                     "http://127.0.0.1:8765/assets/locales/home-blog/current.js?v=b52d90c702f2225d63dc168616e22dcbee901a4b8bd910b28811ae02ff08af38",
+                     "http://127.0.0.1:8765/assets/fonts/dm-sans.ttf",
+                     "http://127.0.0.1:8765/assets/photos/catch-up-bookkeeping-overdue-books-html.webp",
+                     "http://127.0.0.1:8765/assets/fonts/libre-caslon-display.ttf",
+                     "http://127.0.0.1:8765/assets/translation-workflow/routes.js?v=b52d90c702f2225d63dc168616e22dcbee901a4b8bd910b28811ae02ff08af38",
+                     "http://127.0.0.1:8765/assets/translation-workflow/navigation.js?v=b52d90c702f2225d63dc168616e22dcbee901a4b8bd910b28811ae02ff08af38",
+                     "http://127.0.0.1:8765/assets/translation-workflow/display.css?v=b52d90c702f2225d63dc168616e22dcbee901a4b8bd910b28811ae02ff08af38",
+                     "http://127.0.0.1:8765/assets/images/paper-trail-logo.png",
+                     "http://127.0.0.1:8765/assets/photos/profit-vs-cash-flow-business-money-html.webp",
+                     "http://127.0.0.1:8765/assets/photos/tax-ready-bookkeeping-html.webp",
+                     "http://127.0.0.1:8765/assets/google-translate-attribution.png",
+                     "http://127.0.0.1:8765/assets/site.js?v=b52d90c702f2225d63dc168616e22dcbee901a4b8bd910b28811ae02ff08af38",
+                     "http://127.0.0.1:8765/assets/design.js?v=b52d90c702f2225d63dc168616e22dcbee901a4b8bd910b28811ae02ff08af38",
+                     "http://127.0.0.1:8765/ko/index.html",
+                     "http://127.0.0.1:8765/assets/site.css",
+                     "http://127.0.0.1:8765/assets/presentation.css",
+                     "http://127.0.0.1:8765/assets/design.css?v=state-content-20261016",
+                     "http://127.0.0.1:8765/assets/local-review-safety.js",
+                     "http://127.0.0.1:8765/assets/locales/home-blog/current.js?v=b52d90c702f2225d63dc168616e22dcbee901a4b8bd910b28811ae02ff08af38",
+                     "http://127.0.0.1:8765/assets/fonts/dm-sans.ttf",
+                     "http://127.0.0.1:8765/assets/images/service-details-paper-trail-services-html.webp",
+                     "http://127.0.0.1:8765/assets/fonts/libre-caslon-display.ttf",
+                     "http://127.0.0.1:8765/assets/translation-workflow/routes.js?v=b52d90c702f2225d63dc168616e22dcbee901a4b8bd910b28811ae02ff08af38",
+                     "http://127.0.0.1:8765/assets/translation-workflow/navigation.js?v=b52d90c702f2225d63dc168616e22dcbee901a4b8bd910b28811ae02ff08af38",
+                     "http://127.0.0.1:8765/assets/translation-workflow/display.css?v=b52d90c702f2225d63dc168616e22dcbee901a4b8bd910b28811ae02ff08af38",
+                     "http://127.0.0.1:8765/assets/images/paper-trail-logo.png",
+                     "http://127.0.0.1:8765/assets/video/home-poster.webp?v=opening-frame-20261016",
+                     "http://127.0.0.1:8765/assets/photos/past-due-bookkeeping-html.webp",
+                     "http://127.0.0.1:8765/assets/images/paper-trail-monthly-bookkeeping-html.webp",
+                     "http://127.0.0.1:8765/assets/photos/balancing-corrections-html.webp",
+                     "http://127.0.0.1:8765/assets/photos/tax-ready-bookkeeping-html.webp",
+                     "http://127.0.0.1:8765/assets/images/home-article-card-1.webp",
+                     "http://127.0.0.1:8765/assets/images/bank-credit-card-balancing-html.webp",
+                     "http://127.0.0.1:8765/assets/photos/transaction-categorization-html.webp",
+                     "http://127.0.0.1:8765/assets/images/home-article-card-4.webp",
+                     "http://127.0.0.1:8765/assets/google-translate-attribution.png",
+                     "http://127.0.0.1:8765/assets/site.js?v=b52d90c702f2225d63dc168616e22dcbee901a4b8bd910b28811ae02ff08af38",
+                     "http://127.0.0.1:8765/assets/design.js?v=b52d90c702f2225d63dc168616e22dcbee901a4b8bd910b28811ae02ff08af38",
+                     "http://127.0.0.1:8765/assets/video/home.mp4",
+                     "http://127.0.0.1:8765/ko/blog.html",
+                     "http://127.0.0.1:8765/assets/site.css",
+                     "http://127.0.0.1:8765/assets/presentation.css",
+                     "http://127.0.0.1:8765/assets/design.css?v=state-content-20261016",
+                     "http://127.0.0.1:8765/assets/local-review-safety.js",
+                     "http://127.0.0.1:8765/assets/locales/home-blog/current.js?v=b52d90c702f2225d63dc168616e22dcbee901a4b8bd910b28811ae02ff08af38",
+                     "http://127.0.0.1:8765/assets/fonts/dm-sans.ttf",
+                     "http://127.0.0.1:8765/assets/photos/catch-up-bookkeeping-overdue-books-html.webp",
+                     "http://127.0.0.1:8765/assets/fonts/libre-caslon-display.ttf",
+                     "http://127.0.0.1:8765/assets/translation-workflow/routes.js?v=b52d90c702f2225d63dc168616e22dcbee901a4b8bd910b28811ae02ff08af38",
+                     "http://127.0.0.1:8765/assets/translation-workflow/navigation.js?v=b52d90c702f2225d63dc168616e22dcbee901a4b8bd910b28811ae02ff08af38",
+                     "http://127.0.0.1:8765/assets/translation-workflow/display.css?v=b52d90c702f2225d63dc168616e22dcbee901a4b8bd910b28811ae02ff08af38",
+                     "http://127.0.0.1:8765/assets/images/paper-trail-logo.png",
+                     "http://127.0.0.1:8765/assets/photos/profit-vs-cash-flow-business-money-html.webp",
+                     "http://127.0.0.1:8765/assets/photos/tax-ready-bookkeeping-html.webp",
+                     "http://127.0.0.1:8765/assets/google-translate-attribution.png",
+                     "http://127.0.0.1:8765/assets/site.js?v=b52d90c702f2225d63dc168616e22dcbee901a4b8bd910b28811ae02ff08af38",
+                     "http://127.0.0.1:8765/assets/design.js?v=b52d90c702f2225d63dc168616e22dcbee901a4b8bd910b28811ae02ff08af38",
+                     "http://127.0.0.1:8765/tl/index.html",
+                     "http://127.0.0.1:8765/assets/site.css",
+                     "http://127.0.0.1:8765/assets/presentation.css",
+                     "http://127.0.0.1:8765/assets/design.css?v=state-content-20261016",
+                     "http://127.0.0.1:8765/assets/local-review-safety.js",
+                     "http://127.0.0.1:8765/assets/locales/home-blog/current.js?v=b52d90c702f2225d63dc168616e22dcbee901a4b8bd910b28811ae02ff08af38",
+                     "http://127.0.0.1:8765/assets/fonts/dm-sans.ttf",
+                     "http://127.0.0.1:8765/assets/images/service-details-paper-trail-services-html.webp",
+                     "http://127.0.0.1:8765/assets/fonts/libre-caslon-display.ttf",
+                     "http://127.0.0.1:8765/assets/translation-workflow/routes.js?v=b52d90c702f2225d63dc168616e22dcbee901a4b8bd910b28811ae02ff08af38",
+                     "http://127.0.0.1:8765/assets/translation-workflow/navigation.js?v=b52d90c702f2225d63dc168616e22dcbee901a4b8bd910b28811ae02ff08af38",
+                     "http://127.0.0.1:8765/assets/translation-workflow/display.css?v=b52d90c702f2225d63dc168616e22dcbee901a4b8bd910b28811ae02ff08af38",
+                     "http://127.0.0.1:8765/assets/images/paper-trail-logo.png",
+                     "http://127.0.0.1:8765/assets/video/home-poster.webp?v=opening-frame-20261016",
+                     "http://127.0.0.1:8765/assets/photos/past-due-bookkeeping-html.webp",
+                     "http://127.0.0.1:8765/assets/images/paper-trail-monthly-bookkeeping-html.webp",
+                     "http://127.0.0.1:8765/assets/photos/balancing-corrections-html.webp",
+                     "http://127.0.0.1:8765/assets/photos/tax-ready-bookkeeping-html.webp",
+                     "http://127.0.0.1:8765/assets/images/home-article-card-1.webp",
+                     "http://127.0.0.1:8765/assets/images/bank-credit-card-balancing-html.webp",
+                     "http://127.0.0.1:8765/assets/photos/transaction-categorization-html.webp",
+                     "http://127.0.0.1:8765/assets/images/home-article-card-4.webp",
+                     "http://127.0.0.1:8765/assets/google-translate-attribution.png",
+                     "http://127.0.0.1:8765/assets/site.js?v=b52d90c702f2225d63dc168616e22dcbee901a4b8bd910b28811ae02ff08af38",
+                     "http://127.0.0.1:8765/assets/design.js?v=b52d90c702f2225d63dc168616e22dcbee901a4b8bd910b28811ae02ff08af38",
+                     "http://127.0.0.1:8765/assets/video/home.mp4",
+                     "http://127.0.0.1:8765/tl/blog.html",
+                     "http://127.0.0.1:8765/assets/site.css",
+                     "http://127.0.0.1:8765/assets/presentation.css",
+                     "http://127.0.0.1:8765/assets/design.css?v=state-content-20261016",
+                     "http://127.0.0.1:8765/assets/local-review-safety.js",
+                     "http://127.0.0.1:8765/assets/locales/home-blog/current.js?v=b52d90c702f2225d63dc168616e22dcbee901a4b8bd910b28811ae02ff08af38",
+                     "http://127.0.0.1:8765/assets/fonts/dm-sans.ttf",
+                     "http://127.0.0.1:8765/assets/photos/catch-up-bookkeeping-overdue-books-html.webp",
+                     "http://127.0.0.1:8765/assets/fonts/libre-caslon-display.ttf",
+                     "http://127.0.0.1:8765/assets/translation-workflow/routes.js?v=b52d90c702f2225d63dc168616e22dcbee901a4b8bd910b28811ae02ff08af38",
+                     "http://127.0.0.1:8765/assets/translation-workflow/navigation.js?v=b52d90c702f2225d63dc168616e22dcbee901a4b8bd910b28811ae02ff08af38",
+                     "http://127.0.0.1:8765/assets/translation-workflow/display.css?v=b52d90c702f2225d63dc168616e22dcbee901a4b8bd910b28811ae02ff08af38",
+                     "http://127.0.0.1:8765/assets/images/paper-trail-logo.png",
+                     "http://127.0.0.1:8765/assets/photos/profit-vs-cash-flow-business-money-html.webp",
+                     "http://127.0.0.1:8765/assets/photos/tax-ready-bookkeeping-html.webp",
+                     "http://127.0.0.1:8765/assets/google-translate-attribution.png",
+                     "http://127.0.0.1:8765/assets/site.js?v=b52d90c702f2225d63dc168616e22dcbee901a4b8bd910b28811ae02ff08af38",
+                     "http://127.0.0.1:8765/assets/design.js?v=b52d90c702f2225d63dc168616e22dcbee901a4b8bd910b28811ae02ff08af38",
+                     "http://127.0.0.1:8765/te/index.html",
+                     "http://127.0.0.1:8765/assets/site.css",
+                     "http://127.0.0.1:8765/assets/presentation.css",
+                     "http://127.0.0.1:8765/assets/design.css?v=state-content-20261016",
+                     "http://127.0.0.1:8765/assets/local-review-safety.js",
+                     "http://127.0.0.1:8765/assets/locales/home-blog/current.js?v=b52d90c702f2225d63dc168616e22dcbee901a4b8bd910b28811ae02ff08af38",
+                     "http://127.0.0.1:8765/assets/fonts/dm-sans.ttf",
+                     "http://127.0.0.1:8765/assets/images/service-details-paper-trail-services-html.webp",
+                     "http://127.0.0.1:8765/assets/fonts/libre-caslon-display.ttf",
+                     "http://127.0.0.1:8765/assets/translation-workflow/routes.js?v=b52d90c702f2225d63dc168616e22dcbee901a4b8bd910b28811ae02ff08af38",
+                     "http://127.0.0.1:8765/assets/translation-workflow/navigation.js?v=b52d90c702f2225d63dc168616e22dcbee901a4b8bd910b28811ae02ff08af38",
+                     "http://127.0.0.1:8765/assets/translation-workflow/display.css?v=b52d90c702f2225d63dc168616e22dcbee901a4b8bd910b28811ae02ff08af38",
+                     "http://127.0.0.1:8765/assets/images/paper-trail-logo.png",
+                     "http://127.0.0.1:8765/assets/video/home-poster.webp?v=opening-frame-20261016",
+                     "http://127.0.0.1:8765/assets/photos/past-due-bookkeeping-html.webp",
+                     "http://127.0.0.1:8765/assets/images/paper-trail-monthly-bookkeeping-html.webp",
+                     "http://127.0.0.1:8765/assets/photos/balancing-corrections-html.webp",
+                     "http://127.0.0.1:8765/assets/photos/tax-ready-bookkeeping-html.webp",
+                     "http://127.0.0.1:8765/assets/images/home-article-card-1.webp",
+                     "http://127.0.0.1:8765/assets/images/bank-credit-card-balancing-html.webp",
+                     "http://127.0.0.1:8765/assets/photos/transaction-categorization-html.webp",
+                     "http://127.0.0.1:8765/assets/images/home-article-card-4.webp",
+                     "http://127.0.0.1:8765/assets/google-translate-attribution.png",
+                     "http://127.0.0.1:8765/assets/site.js?v=b52d90c702f2225d63dc168616e22dcbee901a4b8bd910b28811ae02ff08af38",
+                     "http://127.0.0.1:8765/assets/design.js?v=b52d90c702f2225d63dc168616e22dcbee901a4b8bd910b28811ae02ff08af38",
+                     "http://127.0.0.1:8765/assets/video/home.mp4",
+                     "http://127.0.0.1:8765/te/blog.html",
+                     "http://127.0.0.1:8765/assets/site.css",
+                     "http://127.0.0.1:8765/assets/presentation.css",
+                     "http://127.0.0.1:8765/assets/design.css?v=state-content-20261016",
+                     "http://127.0.0.1:8765/assets/local-review-safety.js",
+                     "http://127.0.0.1:8765/assets/locales/home-blog/current.js?v=b52d90c702f2225d63dc168616e22dcbee901a4b8bd910b28811ae02ff08af38",
+                     "http://127.0.0.1:8765/assets/fonts/dm-sans.ttf",
+                     "http://127.0.0.1:8765/assets/photos/catch-up-bookkeeping-overdue-books-html.webp",
+                     "http://127.0.0.1:8765/assets/fonts/libre-caslon-display.ttf",
+                     "http://127.0.0.1:8765/assets/translation-workflow/routes.js?v=b52d90c702f2225d63dc168616e22dcbee901a4b8bd910b28811ae02ff08af38",
+                     "http://127.0.0.1:8765/assets/translation-workflow/navigation.js?v=b52d90c702f2225d63dc168616e22dcbee901a4b8bd910b28811ae02ff08af38",
+                     "http://127.0.0.1:8765/assets/translation-workflow/display.css?v=b52d90c702f2225d63dc168616e22dcbee901a4b8bd910b28811ae02ff08af38",
+                     "http://127.0.0.1:8765/assets/images/paper-trail-logo.png",
+                     "http://127.0.0.1:8765/assets/photos/profit-vs-cash-flow-business-money-html.webp",
+                     "http://127.0.0.1:8765/assets/photos/tax-ready-bookkeeping-html.webp",
+                     "http://127.0.0.1:8765/assets/google-translate-attribution.png",
+                     "http://127.0.0.1:8765/assets/site.js?v=b52d90c702f2225d63dc168616e22dcbee901a4b8bd910b28811ae02ff08af38",
+                     "http://127.0.0.1:8765/assets/design.js?v=b52d90c702f2225d63dc168616e22dcbee901a4b8bd910b28811ae02ff08af38",
+                     "http://127.0.0.1:8765/ru/index.html",
+                     "http://127.0.0.1:8765/assets/site.css",
+                     "http://127.0.0.1:8765/assets/presentation.css",
+                     "http://127.0.0.1:8765/assets/design.css?v=state-content-20261016",
+                     "http://127.0.0.1:8765/assets/local-review-safety.js",
+                     "http://127.0.0.1:8765/assets/locales/home-blog/current.js?v=b52d90c702f2225d63dc168616e22dcbee901a4b8bd910b28811ae02ff08af38",
+                     "http://127.0.0.1:8765/assets/fonts/dm-sans.ttf",
+                     "http://127.0.0.1:8765/assets/images/service-details-paper-trail-services-html.webp",
+                     "http://127.0.0.1:8765/assets/fonts/libre-caslon-display.ttf",
+                     "http://127.0.0.1:8765/assets/translation-workflow/routes.js?v=b52d90c702f2225d63dc168616e22dcbee901a4b8bd910b28811ae02ff08af38",
+                     "http://127.0.0.1:8765/assets/translation-workflow/navigation.js?v=b52d90c702f2225d63dc168616e22dcbee901a4b8bd910b28811ae02ff08af38",
+                     "http://127.0.0.1:8765/assets/translation-workflow/display.css?v=b52d90c702f2225d63dc168616e22dcbee901a4b8bd910b28811ae02ff08af38",
+                     "http://127.0.0.1:8765/assets/images/paper-trail-logo.png",
+                     "http://127.0.0.1:8765/assets/video/home-poster.webp?v=opening-frame-20261016",
+                     "http://127.0.0.1:8765/assets/photos/past-due-bookkeeping-html.webp",
+                     "http://127.0.0.1:8765/assets/images/paper-trail-monthly-bookkeeping-html.webp",
+                     "http://127.0.0.1:8765/assets/photos/balancing-corrections-html.webp",
+                     "http://127.0.0.1:8765/assets/photos/tax-ready-bookkeeping-html.webp",
+                     "http://127.0.0.1:8765/assets/images/home-article-card-1.webp",
+                     "http://127.0.0.1:8765/assets/images/bank-credit-card-balancing-html.webp",
+                     "http://127.0.0.1:8765/assets/photos/transaction-categorization-html.webp",
+                     "http://127.0.0.1:8765/assets/images/home-article-card-4.webp",
+                     "http://127.0.0.1:8765/assets/google-translate-attribution.png",
+                     "http://127.0.0.1:8765/assets/site.js?v=b52d90c702f2225d63dc168616e22dcbee901a4b8bd910b28811ae02ff08af38",
+                     "http://127.0.0.1:8765/assets/design.js?v=b52d90c702f2225d63dc168616e22dcbee901a4b8bd910b28811ae02ff08af38",
+                     "http://127.0.0.1:8765/assets/video/home.mp4",
+                     "http://127.0.0.1:8765/ru/blog.html",
+                     "http://127.0.0.1:8765/assets/site.css",
+                     "http://127.0.0.1:8765/assets/presentation.css",
+                     "http://127.0.0.1:8765/assets/design.css?v=state-content-20261016",
+                     "http://127.0.0.1:8765/assets/local-review-safety.js",
+                     "http://127.0.0.1:8765/assets/locales/home-blog/current.js?v=b52d90c702f2225d63dc168616e22dcbee901a4b8bd910b28811ae02ff08af38",
+                     "http://127.0.0.1:8765/assets/fonts/dm-sans.ttf",
+                     "http://127.0.0.1:8765/assets/photos/catch-up-bookkeeping-overdue-books-html.webp",
+                     "http://127.0.0.1:8765/assets/fonts/libre-caslon-display.ttf",
+                     "http://127.0.0.1:8765/assets/translation-workflow/routes.js?v=b52d90c702f2225d63dc168616e22dcbee901a4b8bd910b28811ae02ff08af38",
+                     "http://127.0.0.1:8765/assets/translation-workflow/navigation.js?v=b52d90c702f2225d63dc168616e22dcbee901a4b8bd910b28811ae02ff08af38",
+                     "http://127.0.0.1:8765/assets/translation-workflow/display.css?v=b52d90c702f2225d63dc168616e22dcbee901a4b8bd910b28811ae02ff08af38",
+                     "http://127.0.0.1:8765/assets/images/paper-trail-logo.png",
+                     "http://127.0.0.1:8765/assets/photos/profit-vs-cash-flow-business-money-html.webp",
+                     "http://127.0.0.1:8765/assets/photos/tax-ready-bookkeeping-html.webp",
+                     "http://127.0.0.1:8765/assets/google-translate-attribution.png",
+                     "http://127.0.0.1:8765/assets/site.js?v=b52d90c702f2225d63dc168616e22dcbee901a4b8bd910b28811ae02ff08af38",
+                     "http://127.0.0.1:8765/assets/design.js?v=b52d90c702f2225d63dc168616e22dcbee901a4b8bd910b28811ae02ff08af38",
+                     "http://127.0.0.1:8765/ar/index.html",
+                     "http://127.0.0.1:8765/assets/site.css",
+                     "http://127.0.0.1:8765/assets/presentation.css",
+                     "http://127.0.0.1:8765/assets/design.css?v=state-content-20261016",
+                     "http://127.0.0.1:8765/assets/local-review-safety.js",
+                     "http://127.0.0.1:8765/assets/locales/home-blog/current.js?v=b52d90c702f2225d63dc168616e22dcbee901a4b8bd910b28811ae02ff08af38",
+                     "http://127.0.0.1:8765/assets/fonts/dm-sans.ttf",
+                     "http://127.0.0.1:8765/assets/images/service-details-paper-trail-services-html.webp",
+                     "http://127.0.0.1:8765/assets/fonts/libre-caslon-display.ttf",
+                     "http://127.0.0.1:8765/assets/translation-workflow/routes.js?v=b52d90c702f2225d63dc168616e22dcbee901a4b8bd910b28811ae02ff08af38",
+                     "http://127.0.0.1:8765/assets/translation-workflow/navigation.js?v=b52d90c702f2225d63dc168616e22dcbee901a4b8bd910b28811ae02ff08af38",
+                     "http://127.0.0.1:8765/assets/translation-workflow/display.css?v=b52d90c702f2225d63dc168616e22dcbee901a4b8bd910b28811ae02ff08af38",
+                     "http://127.0.0.1:8765/assets/images/paper-trail-logo.png",
+                     "http://127.0.0.1:8765/assets/video/home-poster.webp?v=opening-frame-20261016",
+                     "http://127.0.0.1:8765/assets/photos/past-due-bookkeeping-html.webp",
+                     "http://127.0.0.1:8765/assets/images/paper-trail-monthly-bookkeeping-html.webp",
+                     "http://127.0.0.1:8765/assets/photos/balancing-corrections-html.webp",
+                     "http://127.0.0.1:8765/assets/photos/tax-ready-bookkeeping-html.webp",
+                     "http://127.0.0.1:8765/assets/images/home-article-card-1.webp",
+                     "http://127.0.0.1:8765/assets/images/bank-credit-card-balancing-html.webp",
+                     "http://127.0.0.1:8765/assets/photos/transaction-categorization-html.webp",
+                     "http://127.0.0.1:8765/assets/images/home-article-card-4.webp",
+                     "http://127.0.0.1:8765/assets/google-translate-attribution.png",
+                     "http://127.0.0.1:8765/assets/site.js?v=b52d90c702f2225d63dc168616e22dcbee901a4b8bd910b28811ae02ff08af38",
+                     "http://127.0.0.1:8765/assets/design.js?v=b52d90c702f2225d63dc168616e22dcbee901a4b8bd910b28811ae02ff08af38",
+                     "http://127.0.0.1:8765/assets/video/home.mp4",
+                     "http://127.0.0.1:8765/ar/blog.html",
+                     "http://127.0.0.1:8765/assets/site.css",
+                     "http://127.0.0.1:8765/assets/presentation.css",
+                     "http://127.0.0.1:8765/assets/design.css?v=state-content-20261016",
+                     "http://127.0.0.1:8765/assets/local-review-safety.js",
+                     "http://127.0.0.1:8765/assets/locales/home-blog/current.js?v=b52d90c702f2225d63dc168616e22dcbee901a4b8bd910b28811ae02ff08af38",
+                     "http://127.0.0.1:8765/assets/fonts/dm-sans.ttf",
+                     "http://127.0.0.1:8765/assets/photos/catch-up-bookkeeping-overdue-books-html.webp",
+                     "http://127.0.0.1:8765/assets/fonts/libre-caslon-display.ttf",
+                     "http://127.0.0.1:8765/assets/translation-workflow/routes.js?v=b52d90c702f2225d63dc168616e22dcbee901a4b8bd910b28811ae02ff08af38",
+                     "http://127.0.0.1:8765/assets/translation-workflow/navigation.js?v=b52d90c702f2225d63dc168616e22dcbee901a4b8bd910b28811ae02ff08af38",
+                     "http://127.0.0.1:8765/assets/translation-workflow/display.css?v=b52d90c702f2225d63dc168616e22dcbee901a4b8bd910b28811ae02ff08af38",
+                     "http://127.0.0.1:8765/assets/images/paper-trail-logo.png",
+                     "http://127.0.0.1:8765/assets/photos/profit-vs-cash-flow-business-money-html.webp",
+                     "http://127.0.0.1:8765/assets/photos/tax-ready-bookkeeping-html.webp",
+                     "http://127.0.0.1:8765/assets/google-translate-attribution.png",
+                     "http://127.0.0.1:8765/assets/site.js?v=b52d90c702f2225d63dc168616e22dcbee901a4b8bd910b28811ae02ff08af38",
+                     "http://127.0.0.1:8765/assets/design.js?v=b52d90c702f2225d63dc168616e22dcbee901a4b8bd910b28811ae02ff08af38"
+                 ],
+    "exceptions":  [
+
+                   ],
+    "checks":  [
+                   {
+                       "page":  "index.html",
+                       "result":  {
+                                      "questions":  [
+                                                        "¿En qué estado te encuentras?",
+                                                        "¿Qué aspectos de tus libros necesitan atención?",
+                                                        "¿Qué período necesita atención?",
+                                                        "¿Dónde guardas tus libros actualmente?",
+                                                        "¿A qué se dedica su empresa?",
+                                                        "¿Cuál es el nombre de su empresa?",
+                                                        "¿Cuándo le gustaría que comenzara este trabajo?",
+                                                        "¿Qué tipo de reunión le vendría mejor?",
+                                                        "¿Qué día preferirías que nos viéramos?",
+                                                        "¿Qué horario suele ser el mejor para usted?",
+                                                        "¿En qué zona horaria te encuentras?",
+                                                        "¿Qué nombre debemos usar al responder?",
+                                                        "¿Qué correo electrónico debería utilizar Paper Trail para hacer el seguimiento?",
+                                                        "¿A qué número de teléfono podemos contactarle?"
+                                                    ],
+                                      "options":  [
+                                                      [
+
+                                                      ],
+                                                      [
+                                                          "Ponte al día con los libros atrasados",
+                                                          "Corrija los saldos que parezcan incorrectos.",
+                                                          "Mantén mis libros actualizados."
+                                                      ],
+                                                      [
+                                                          "Este mes",
+                                                          "Unos meses",
+                                                          "Un año o más",
+                                                          "No estoy seguro"
+                                                      ],
+                                                      [
+                                                          "QuickBooks",
+                                                          "Xero",
+                                                          "hojas de cálculo",
+                                                          "Otro sistema",
+                                                          "Estoy empezando de cero"
+                                                      ],
+                                                      [
+
+                                                      ],
+                                                      [
+
+                                                      ],
+                                                      [
+                                                          "Lo antes posible",
+                                                          "En el plazo de un mes",
+                                                          "Estoy planificando con anticipación."
+                                                      ],
+                                                      [
+                                                          "Zoom",
+                                                          "En persona en el condado de Los Ángeles, con cita previa.",
+                                                          "Envíame un correo electrónico primero"
+                                                      ],
+                                                      [
+                                                          "Lunes",
+                                                          "Martes",
+                                                          "Miércoles",
+                                                          "Jueves",
+                                                          "Viernes",
+                                                          "Organízalo por correo electrónico"
+                                                      ],
+                                                      [
+                                                          "Mañana",
+                                                          "Tarde",
+                                                          "Organízalo por correo electrónico"
+                                                      ],
+                                                      [
+                                                          "Pacífico",
+                                                          "Montaña",
+                                                          "Central",
+                                                          "Oriental"
+                                                      ],
+                                                      [
+
+                                                      ],
+                                                      [
+
+                                                      ],
+                                                      [
+
+                                                      ]
+                                                  ],
+                                      "errors":  [
+                                                     "Por favor, introduzca una dirección de correo electrónico profesional.",
+                                                     "Por favor, introduzca un número de teléfono de diez dígitos, incluyendo el código de área."
+                                                 ],
+                                      "review":  "Esto es lo que recibirá Paper Trail:\n\nEstado: California\n¿Qué necesita atención?: Ponte al día con los libros atrasados\nAlcance o período: Este mes\nSistema actual: QuickBooks\nTipo de asunto: Example shop\nNombre de empresa: Example Company\nInicio del cronometraje: Lo antes posible\nPreferencia de reunión: Zoom\nDisponibilidad: Lunes\nHora de la reunión: Mañana\nHuso horario: Pacífico\nNombre: Example Owner\nCorreo electrónico: owner@example.com\nNúmero de teléfono: 8185550123\n\n¿Debo enviar esto para que Paper Trail pueda hacer un seguimiento?",
+                                      "activeQuestions":  1,
+                                      "questionsMatch":  true,
+                                      "errorsMatch":  true,
+                                      "reviewTranslated":  true,
+                                      "direction":  "ltr",
+                                      "overflow":  false
+                                  },
+                       "error":  null,
+                       "language":  "es"
+                   },
+                   {
+                       "page":  "blog.html",
+                       "result":  {
+                                      "questions":  [
+                                                        "¿En qué estado te encuentras?",
+                                                        "¿Qué aspectos de tus libros necesitan atención?",
+                                                        "¿Qué período necesita atención?",
+                                                        "¿Dónde guardas tus libros actualmente?",
+                                                        "¿A qué se dedica su empresa?",
+                                                        "¿Cuál es el nombre de su empresa?",
+                                                        "¿Cuándo le gustaría que comenzara este trabajo?",
+                                                        "¿Qué tipo de reunión le vendría mejor?",
+                                                        "¿Qué día preferirías que nos viéramos?",
+                                                        "¿Qué horario suele ser el mejor para usted?",
+                                                        "¿En qué zona horaria te encuentras?",
+                                                        "¿Qué nombre debemos usar al responder?",
+                                                        "¿Qué correo electrónico debería utilizar Paper Trail para hacer el seguimiento?",
+                                                        "¿A qué número de teléfono podemos contactarle?"
+                                                    ],
+                                      "options":  [
+                                                      [
+
+                                                      ],
+                                                      [
+                                                          "Ponte al día con los libros atrasados",
+                                                          "Corrija los saldos que parezcan incorrectos.",
+                                                          "Mantén mis libros actualizados."
+                                                      ],
+                                                      [
+                                                          "Este mes",
+                                                          "Unos meses",
+                                                          "Un año o más",
+                                                          "No estoy seguro"
+                                                      ],
+                                                      [
+                                                          "QuickBooks",
+                                                          "Xero",
+                                                          "hojas de cálculo",
+                                                          "Otro sistema",
+                                                          "Estoy empezando de cero"
+                                                      ],
+                                                      [
+
+                                                      ],
+                                                      [
+
+                                                      ],
+                                                      [
+                                                          "Lo antes posible",
+                                                          "En el plazo de un mes",
+                                                          "Estoy planificando con anticipación."
+                                                      ],
+                                                      [
+                                                          "Zoom",
+                                                          "En persona en el condado de Los Ángeles, con cita previa.",
+                                                          "Envíame un correo electrónico primero"
+                                                      ],
+                                                      [
+                                                          "Lunes",
+                                                          "Martes",
+                                                          "Miércoles",
+                                                          "Jueves",
+                                                          "Viernes",
+                                                          "Organízalo por correo electrónico"
+                                                      ],
+                                                      [
+                                                          "Mañana",
+                                                          "Tarde",
+                                                          "Organízalo por correo electrónico"
+                                                      ],
+                                                      [
+                                                          "Pacífico",
+                                                          "Montaña",
+                                                          "Central",
+                                                          "Oriental"
+                                                      ],
+                                                      [
+
+                                                      ],
+                                                      [
+
+                                                      ],
+                                                      [
+
+                                                      ]
+                                                  ],
+                                      "errors":  [
+                                                     "Por favor, introduzca una dirección de correo electrónico profesional.",
+                                                     "Por favor, introduzca un número de teléfono de diez dígitos, incluyendo el código de área."
+                                                 ],
+                                      "review":  "Esto es lo que recibirá Paper Trail:\n\nEstado: California\n¿Qué necesita atención?: Ponte al día con los libros atrasados\nAlcance o período: Este mes\nSistema actual: QuickBooks\nTipo de asunto: Example shop\nNombre de empresa: Example Company\nInicio del cronometraje: Lo antes posible\nPreferencia de reunión: Zoom\nDisponibilidad: Lunes\nHora de la reunión: Mañana\nHuso horario: Pacífico\nNombre: Example Owner\nCorreo electrónico: owner@example.com\nNúmero de teléfono: 8185550123\n\n¿Debo enviar esto para que Paper Trail pueda hacer un seguimiento?",
+                                      "activeQuestions":  1,
+                                      "questionsMatch":  true,
+                                      "errorsMatch":  true,
+                                      "reviewTranslated":  true,
+                                      "direction":  "ltr",
+                                      "overflow":  false
+                                  },
+                       "error":  null,
+                       "language":  "es"
+                   },
+                   {
+                       "page":  "index.html",
+                       "result":  {
+                                      "questions":  [
+                                                        "شما در کدام ایالت واقع شده‌اید؟",
+                                                        "چه چیزی در مورد کتاب‌هایتان نیاز به توجه دارد؟",
+                                                        "کدام دوره نیاز به توجه دارد؟",
+                                                        "در حال حاضر کتاب‌های شما کجا نگهداری می‌شوند؟",
+                                                        "کسب و کار شما چه کاری انجام می‌دهد؟",
+                                                        "اسم شرکت شما چیست؟",
+                                                        "دوست دارید این کار از چه زمانی شروع شود؟",
+                                                        "چه نوع جلسه‌ای برای شما بهترین نتیجه را خواهد داشت؟",
+                                                        "چه روزی را برای ملاقات ترجیح می‌دهید؟",
+                                                        "معمولاً چه ساعتی برای شما بهترین زمان است؟",
+                                                        "در چه منطقه زمانی هستید؟",
+                                                        "موقع جواب دادن از چه اسمی استفاده کنیم؟",
+                                                        "پیپر تریل برای پیگیری باید از چه ایمیلی استفاده کند؟",
+                                                        "با چه شماره تلفنی می‌توانیم با شما تماس بگیریم؟"
+                                                    ],
+                                      "options":  [
+                                                      [
+
+                                                      ],
+                                                      [
+                                                          "کتاب‌های معوقه را دریافت کنید",
+                                                          "مانده‌هایی را که اشتباه به نظر می‌رسند، اصلاح کنید",
+                                                          "کتاب‌هایم را به‌روز نگه دارم"
+                                                      ],
+                                                      [
+                                                          "این ماه",
+                                                          "چند ماه",
+                                                          "یک سال یا بیشتر",
+                                                          "مطمئن نیستم."
+                                                      ],
+                                                      [
+                                                          "QuickBooks",
+                                                          "Xero",
+                                                          "صفحات گسترده",
+                                                          "سیستم دیگر",
+                                                          "دارم از نو شروع می‌کنم"
+                                                      ],
+                                                      [
+
+                                                      ],
+                                                      [
+
+                                                      ],
+                                                      [
+                                                          "در اسرع وقت",
+                                                          "ظرف یک ماه",
+                                                          "دارم از قبل برنامه ریزی میکنم"
+                                                      ],
+                                                      [
+                                                          "Zoom",
+                                                          "حضوری در شهرستان لس‌آنجلس، با تعیین وقت قبلی",
+                                                          "اول به من ایمیل بزن"
+                                                      ],
+                                                      [
+                                                          "دوشنبه",
+                                                          "سه‌شنبه",
+                                                          "چهارشنبه",
+                                                          "پنجشنبه",
+                                                          "جمعه",
+                                                          "از طریق ایمیل هماهنگ کنید"
+                                                      ],
+                                                      [
+                                                          "صبح",
+                                                          "بعد از ظهر",
+                                                          "از طریق ایمیل هماهنگ کنید"
+                                                      ],
+                                                      [
+                                                          "اقیانوس آرام",
+                                                          "کوه",
+                                                          "مرکزی",
+                                                          "شرقی"
+                                                      ],
+                                                      [
+
+                                                      ],
+                                                      [
+
+                                                      ],
+                                                      [
+
+                                                      ]
+                                                  ],
+                                      "errors":  [
+                                                     "لطفا یک آدرس ایمیل تجاری وارد کنید.",
+                                                     "لطفا یک شماره تلفن ده رقمی به همراه کد منطقه وارد کنید."
+                                                 ],
+                                      "review":  "آنچه Paper Trail دریافت خواهد کرد به شرح زیر است:\n\nایالت: California\nآنچه نیاز به توجه دارد: کتاب‌های معوقه را دریافت کنید\nدامنه یا دوره: این ماه\nسیستم فعلی: QuickBooks\nنوع کسب و کار: Example shop\nنام شرکت: Example Company\nشروع زمان بندی: در اسرع وقت\nترجیح جلسه: Zoom\nدر دسترس بودن: دوشنبه\nزمان جلسه: صبح\nمنطقه زمانی: اقیانوس آرام\nنام: Example Owner\nایمیل: owner@example.com\nشماره تلفن: 8185550123\n\nآیا باید این را بفرستم تا Paper Trail بتواند پیگیری کند؟",
+                                      "activeQuestions":  1,
+                                      "questionsMatch":  true,
+                                      "errorsMatch":  true,
+                                      "reviewTranslated":  true,
+                                      "direction":  "rtl",
+                                      "overflow":  false
+                                  },
+                       "error":  null,
+                       "language":  "fa"
+                   },
+                   {
+                       "page":  "blog.html",
+                       "result":  {
+                                      "questions":  [
+                                                        "شما در کدام ایالت واقع شده‌اید؟",
+                                                        "چه چیزی در مورد کتاب‌هایتان نیاز به توجه دارد؟",
+                                                        "کدام دوره نیاز به توجه دارد؟",
+                                                        "در حال حاضر کتاب‌های شما کجا نگهداری می‌شوند؟",
+                                                        "کسب و کار شما چه کاری انجام می‌دهد؟",
+                                                        "اسم شرکت شما چیست؟",
+                                                        "دوست دارید این کار از چه زمانی شروع شود؟",
+                                                        "چه نوع جلسه‌ای برای شما بهترین نتیجه را خواهد داشت؟",
+                                                        "چه روزی را برای ملاقات ترجیح می‌دهید؟",
+                                                        "معمولاً چه ساعتی برای شما بهترین زمان است؟",
+                                                        "در چه منطقه زمانی هستید؟",
+                                                        "موقع جواب دادن از چه اسمی استفاده کنیم؟",
+                                                        "پیپر تریل برای پیگیری باید از چه ایمیلی استفاده کند؟",
+                                                        "با چه شماره تلفنی می‌توانیم با شما تماس بگیریم؟"
+                                                    ],
+                                      "options":  [
+                                                      [
+
+                                                      ],
+                                                      [
+                                                          "کتاب‌های معوقه را دریافت کنید",
+                                                          "مانده‌هایی را که اشتباه به نظر می‌رسند، اصلاح کنید",
+                                                          "کتاب‌هایم را به‌روز نگه دارم"
+                                                      ],
+                                                      [
+                                                          "این ماه",
+                                                          "چند ماه",
+                                                          "یک سال یا بیشتر",
+                                                          "مطمئن نیستم."
+                                                      ],
+                                                      [
+                                                          "QuickBooks",
+                                                          "Xero",
+                                                          "صفحات گسترده",
+                                                          "سیستم دیگر",
+                                                          "دارم از نو شروع می‌کنم"
+                                                      ],
+                                                      [
+
+                                                      ],
+                                                      [
+
+                                                      ],
+                                                      [
+                                                          "در اسرع وقت",
+                                                          "ظرف یک ماه",
+                                                          "دارم از قبل برنامه ریزی میکنم"
+                                                      ],
+                                                      [
+                                                          "Zoom",
+                                                          "حضوری در شهرستان لس‌آنجلس، با تعیین وقت قبلی",
+                                                          "اول به من ایمیل بزن"
+                                                      ],
+                                                      [
+                                                          "دوشنبه",
+                                                          "سه‌شنبه",
+                                                          "چهارشنبه",
+                                                          "پنجشنبه",
+                                                          "جمعه",
+                                                          "از طریق ایمیل هماهنگ کنید"
+                                                      ],
+                                                      [
+                                                          "صبح",
+                                                          "بعد از ظهر",
+                                                          "از طریق ایمیل هماهنگ کنید"
+                                                      ],
+                                                      [
+                                                          "اقیانوس آرام",
+                                                          "کوه",
+                                                          "مرکزی",
+                                                          "شرقی"
+                                                      ],
+                                                      [
+
+                                                      ],
+                                                      [
+
+                                                      ],
+                                                      [
+
+                                                      ]
+                                                  ],
+                                      "errors":  [
+                                                     "لطفا یک آدرس ایمیل تجاری وارد کنید.",
+                                                     "لطفا یک شماره تلفن ده رقمی به همراه کد منطقه وارد کنید."
+                                                 ],
+                                      "review":  "آنچه Paper Trail دریافت خواهد کرد به شرح زیر است:\n\nایالت: California\nآنچه نیاز به توجه دارد: کتاب‌های معوقه را دریافت کنید\nدامنه یا دوره: این ماه\nسیستم فعلی: QuickBooks\nنوع کسب و کار: Example shop\nنام شرکت: Example Company\nشروع زمان بندی: در اسرع وقت\nترجیح جلسه: Zoom\nدر دسترس بودن: دوشنبه\nزمان جلسه: صبح\nمنطقه زمانی: اقیانوس آرام\nنام: Example Owner\nایمیل: owner@example.com\nشماره تلفن: 8185550123\n\nآیا باید این را بفرستم تا Paper Trail بتواند پیگیری کند؟",
+                                      "activeQuestions":  1,
+                                      "questionsMatch":  true,
+                                      "errorsMatch":  true,
+                                      "reviewTranslated":  true,
+                                      "direction":  "rtl",
+                                      "overflow":  false
+                                  },
+                       "error":  null,
+                       "language":  "fa"
+                   },
+                   {
+                       "page":  "index.html",
+                       "result":  {
+                                      "questions":  [
+                                                        "Ո՞ր նահանգում եք գտնվում։",
+                                                        "Ձեր գրքերից ո՞րն է ուշադրության կարիք ունենում։",
+                                                        "Ո՞ր ժամանակահատվածին է պետք ուշադրություն դարձնել։",
+                                                        "Որտե՞ղ են պահվում ձեր գրքերը այս պահին։",
+                                                        "Ի՞նչ է անում ձեր բիզնեսը։",
+                                                        "Ո՞րն է ձեր ընկերության անվանումը։",
+                                                        "Ե՞րբ կցանկանայիք սկսել այս աշխատանքը։",
+                                                        "Ինչպիսի՞ հանդիպումը կլինի ձեզ համար ամենահարմարը։",
+                                                        "Ո՞ր օրը կցանկանայիք հանդիպել։",
+                                                        "Ո՞ր ժամն է սովորաբար ձեզ համար ամենահարմարը։",
+                                                        "Ո՞ր ժամային գոտում եք գտնվում։",
+                                                        "Ի՞նչ անուն պետք է օգտագործենք պատասխանելիս։",
+                                                        "Ի՞նչ էլ․ հասցե պետք է օգտագործի Paper Trail-ը հետագա գործողությունների համար։",
+                                                        "Ի՞նչ հեռախոսահամարով կարող ենք կապ հաստատել ձեզ հետ։"
+                                                    ],
+                                      "options":  [
+                                                      [
+
+                                                      ],
+                                                      [
+                                                          "Վերցրեք ուշացած գրքերը",
+                                                          "Ուղղեք սխալ թվացող մնացորդները",
+                                                          "Իմ գրքերը թարմացված պահեք"
+                                                      ],
+                                                      [
+                                                          "Այս ամիս",
+                                                          "Մի քանի ամիս",
+                                                          "Մեկ տարի կամ ավելի",
+                                                          "Ես վստահ չեմ"
+                                                      ],
+                                                      [
+                                                          "QuickBooks",
+                                                          "Xero",
+                                                          "Աղյուսակներ",
+                                                          "Մեկ այլ համակարգ",
+                                                          "Ես սկսում եմ նորովի"
+                                                      ],
+                                                      [
+
+                                                      ],
+                                                      [
+
+                                                      ],
+                                                      [
+                                                          "Որքան հնարավոր է շուտ",
+                                                          "Մեկ ամսվա ընթացքում",
+                                                          "Ես նախապես պլանավորում եմ"
+                                                      ],
+                                                      [
+                                                          "Zoom",
+                                                          "Անձամբ Լոս Անջելեսի շրջանում, նախնական պայմանավորվածությամբ",
+                                                          "Նախ ինձ էլ.փոստ ուղարկեք։"
+                                                      ],
+                                                      [
+                                                          "Երկուշաբթի",
+                                                          "Երեքշաբթի",
+                                                          "չորեքշաբթի",
+                                                          "Հինգշաբթի",
+                                                          "Ուրբաթ",
+                                                          "Դասավորել էլ. փոստով"
+                                                      ],
+                                                      [
+                                                          "Առավոտ",
+                                                          "Կեսօր",
+                                                          "Դասավորել էլ. փոստով"
+                                                      ],
+                                                      [
+                                                          "Խաղաղօվկիանոսյան",
+                                                          "Լեռ",
+                                                          "Կենտրոնական",
+                                                          "Արևելյան"
+                                                      ],
+                                                      [
+
+                                                      ],
+                                                      [
+
+                                                      ],
+                                                      [
+
+                                                      ]
+                                                  ],
+                                      "errors":  [
+                                                     "Խնդրում ենք մուտքագրել գործարար էլ․ հասցե։",
+                                                     "Խնդրում ենք մուտքագրել տասանիշ հեռախոսահամար՝ ներառյալ քաղաքի կոդը։"
+                                                 ],
+                                      "review":  "Ահա թե ինչ կստանա Paper Trail-ը.\n\nՊետություն: California\nԻնչը ուշադրության կարիք ունի: Վերցրեք ուշացած գրքերը\nԳործողություն կամ ժամանակահատված: Այս ամիս\nԳործող համակարգը: QuickBooks\nԲիզնեսի տեսակը: Example shop\nԸնկերության անվանումը: Example Company\nՍկսել ժամանակաչափը: Որքան հնարավոր է շուտ\nՀանդիպման նախընտրություն: Zoom\nՀասանելիություն: Երկուշաբթի\nՀանդիպման ժամը: Առավոտ\nԺամային գոտի: Խաղաղօվկիանոսյան\nԱնուն: Example Owner\nԷլ․ փոստ: owner@example.com\nՀեռախոսահամար: 8185550123\n\nՍա ուղարկե՞մ, որպեսզի Paper Trail-ը կարողանա հետևել։",
+                                      "activeQuestions":  1,
+                                      "questionsMatch":  true,
+                                      "errorsMatch":  true,
+                                      "reviewTranslated":  true,
+                                      "direction":  "ltr",
+                                      "overflow":  false
+                                  },
+                       "error":  null,
+                       "language":  "hy"
+                   },
+                   {
+                       "page":  "blog.html",
+                       "result":  {
+                                      "questions":  [
+                                                        "Ո՞ր նահանգում եք գտնվում։",
+                                                        "Ձեր գրքերից ո՞րն է ուշադրության կարիք ունենում։",
+                                                        "Ո՞ր ժամանակահատվածին է պետք ուշադրություն դարձնել։",
+                                                        "Որտե՞ղ են պահվում ձեր գրքերը այս պահին։",
+                                                        "Ի՞նչ է անում ձեր բիզնեսը։",
+                                                        "Ո՞րն է ձեր ընկերության անվանումը։",
+                                                        "Ե՞րբ կցանկանայիք սկսել այս աշխատանքը։",
+                                                        "Ինչպիսի՞ հանդիպումը կլինի ձեզ համար ամենահարմարը։",
+                                                        "Ո՞ր օրը կցանկանայիք հանդիպել։",
+                                                        "Ո՞ր ժամն է սովորաբար ձեզ համար ամենահարմարը։",
+                                                        "Ո՞ր ժամային գոտում եք գտնվում։",
+                                                        "Ի՞նչ անուն պետք է օգտագործենք պատասխանելիս։",
+                                                        "Ի՞նչ էլ․ հասցե պետք է օգտագործի Paper Trail-ը հետագա գործողությունների համար։",
+                                                        "Ի՞նչ հեռախոսահամարով կարող ենք կապ հաստատել ձեզ հետ։"
+                                                    ],
+                                      "options":  [
+                                                      [
+
+                                                      ],
+                                                      [
+                                                          "Վերցրեք ուշացած գրքերը",
+                                                          "Ուղղեք սխալ թվացող մնացորդները",
+                                                          "Իմ գրքերը թարմացված պահեք"
+                                                      ],
+                                                      [
+                                                          "Այս ամիս",
+                                                          "Մի քանի ամիս",
+                                                          "Մեկ տարի կամ ավելի",
+                                                          "Ես վստահ չեմ"
+                                                      ],
+                                                      [
+                                                          "QuickBooks",
+                                                          "Xero",
+                                                          "Աղյուսակներ",
+                                                          "Մեկ այլ համակարգ",
+                                                          "Ես սկսում եմ նորովի"
+                                                      ],
+                                                      [
+
+                                                      ],
+                                                      [
+
+                                                      ],
+                                                      [
+                                                          "Որքան հնարավոր է շուտ",
+                                                          "Մեկ ամսվա ընթացքում",
+                                                          "Ես նախապես պլանավորում եմ"
+                                                      ],
+                                                      [
+                                                          "Zoom",
+                                                          "Անձամբ Լոս Անջելեսի շրջանում, նախնական պայմանավորվածությամբ",
+                                                          "Նախ ինձ էլ.փոստ ուղարկեք։"
+                                                      ],
+                                                      [
+                                                          "Երկուշաբթի",
+                                                          "Երեքշաբթի",
+                                                          "չորեքշաբթի",
+                                                          "Հինգշաբթի",
+                                                          "Ուրբաթ",
+                                                          "Դասավորել էլ. փոստով"
+                                                      ],
+                                                      [
+                                                          "Առավոտ",
+                                                          "Կեսօր",
+                                                          "Դասավորել էլ. փոստով"
+                                                      ],
+                                                      [
+                                                          "Խաղաղօվկիանոսյան",
+                                                          "Լեռ",
+                                                          "Կենտրոնական",
+                                                          "Արևելյան"
+                                                      ],
+                                                      [
+
+                                                      ],
+                                                      [
+
+                                                      ],
+                                                      [
+
+                                                      ]
+                                                  ],
+                                      "errors":  [
+                                                     "Խնդրում ենք մուտքագրել գործարար էլ․ հասցե։",
+                                                     "Խնդրում ենք մուտքագրել տասանիշ հեռախոսահամար՝ ներառյալ քաղաքի կոդը։"
+                                                 ],
+                                      "review":  "Ահա թե ինչ կստանա Paper Trail-ը.\n\nՊետություն: California\nԻնչը ուշադրության կարիք ունի: Վերցրեք ուշացած գրքերը\nԳործողություն կամ ժամանակահատված: Այս ամիս\nԳործող համակարգը: QuickBooks\nԲիզնեսի տեսակը: Example shop\nԸնկերության անվանումը: Example Company\nՍկսել ժամանակաչափը: Որքան հնարավոր է շուտ\nՀանդիպման նախընտրություն: Zoom\nՀասանելիություն: Երկուշաբթի\nՀանդիպման ժամը: Առավոտ\nԺամային գոտի: Խաղաղօվկիանոսյան\nԱնուն: Example Owner\nԷլ․ փոստ: owner@example.com\nՀեռախոսահամար: 8185550123\n\nՍա ուղարկե՞մ, որպեսզի Paper Trail-ը կարողանա հետևել։",
+                                      "activeQuestions":  1,
+                                      "questionsMatch":  true,
+                                      "errorsMatch":  true,
+                                      "reviewTranslated":  true,
+                                      "direction":  "ltr",
+                                      "overflow":  false
+                                  },
+                       "error":  null,
+                       "language":  "hy"
+                   },
+                   {
+                       "page":  "index.html",
+                       "result":  {
+                                      "questions":  [
+                                                        "您所在的州是？",
+                                                        "你的书有哪些需要改进的地方？",
+                                                        "哪个时期需要重点关注？",
+                                                        "你们的书籍目前存放在哪里？",
+                                                        "您的公司是做什么的？",
+                                                        "贵公司名称是什么？",
+                                                        "您希望这项工作何时开始？",
+                                                        "您认为哪种类型的会议最合适？",
+                                                        "您希望哪天见面？",
+                                                        "您通常什么时间最方便？",
+                                                        "您所在的时区是？",
+                                                        "回复时我们应该用哪个名字？",
+                                                        "Paper Trail应该使用哪种电子邮件进行跟进？",
+                                                        "您可以通过哪个电话号码联系到您？"
+                                                    ],
+                                      "options":  [
+                                                      [
+
+                                                      ],
+                                                      [
+                                                          "补读逾期未读的书籍",
+                                                          "修正看起来错误的余额",
+                                                          "保持我的书籍更新"
+                                                      ],
+                                                      [
+                                                          "本月",
+                                                          "几个月",
+                                                          "一年或更久",
+                                                          "我不知道"
+                                                      ],
+                                                      [
+                                                          "QuickBooks",
+                                                          "Xero",
+                                                          "电子表格",
+                                                          "另一个系统",
+                                                          "我要重新开始。"
+                                                      ],
+                                                      [
+
+                                                      ],
+                                                      [
+
+                                                      ],
+                                                      [
+                                                          "尽快地",
+                                                          "一个月内",
+                                                          "我正在提前计划。"
+                                                      ],
+                                                      [
+                                                          "Zoom",
+                                                          "亲自前往洛杉矶县，需提前预约",
+                                                          "请先给我发邮件。"
+                                                      ],
+                                                      [
+                                                          "周一",
+                                                          "周二",
+                                                          "周三",
+                                                          "周四",
+                                                          "星期五",
+                                                          "通过电子邮件安排"
+                                                      ],
+                                                      [
+                                                          "早晨",
+                                                          "下午",
+                                                          "通过电子邮件安排"
+                                                      ],
+                                                      [
+                                                          "太平洋",
+                                                          "山",
+                                                          "中央",
+                                                          "东"
+                                                      ],
+                                                      [
+
+                                                      ],
+                                                      [
+
+                                                      ],
+                                                      [
+
+                                                      ]
+                                                  ],
+                                      "errors":  [
+                                                     "请输入公司邮箱地址。",
+                                                     "请输入包含区号的十位电话号码。"
+                                                 ],
+                                      "review":  "以下是Paper Trail将收到的内容：\n\n状态: California\n需要关注什么: 补读逾期未读的书籍\n范围或时期: 本月\n当前系统: QuickBooks\n企业类型: Example shop\n公司名称: Example Company\n开始计时: 尽快地\n会议偏好: Zoom\n可用性: 周一\n会议时间: 早晨\n时区: 太平洋\n姓名: Example Owner\n电子邮件: owner@example.com\n电话号码: 8185550123\n\n我是否应该把这个发给Paper Trail部门，让他们跟进？",
+                                      "activeQuestions":  1,
+                                      "questionsMatch":  true,
+                                      "errorsMatch":  true,
+                                      "reviewTranslated":  true,
+                                      "direction":  "ltr",
+                                      "overflow":  false
+                                  },
+                       "error":  null,
+                       "language":  "zh-CN"
+                   },
+                   {
+                       "page":  "blog.html",
+                       "result":  {
+                                      "questions":  [
+                                                        "您所在的州是？",
+                                                        "你的书有哪些需要改进的地方？",
+                                                        "哪个时期需要重点关注？",
+                                                        "你们的书籍目前存放在哪里？",
+                                                        "您的公司是做什么的？",
+                                                        "贵公司名称是什么？",
+                                                        "您希望这项工作何时开始？",
+                                                        "您认为哪种类型的会议最合适？",
+                                                        "您希望哪天见面？",
+                                                        "您通常什么时间最方便？",
+                                                        "您所在的时区是？",
+                                                        "回复时我们应该用哪个名字？",
+                                                        "Paper Trail应该使用哪种电子邮件进行跟进？",
+                                                        "您可以通过哪个电话号码联系到您？"
+                                                    ],
+                                      "options":  [
+                                                      [
+
+                                                      ],
+                                                      [
+                                                          "补读逾期未读的书籍",
+                                                          "修正看起来错误的余额",
+                                                          "保持我的书籍更新"
+                                                      ],
+                                                      [
+                                                          "本月",
+                                                          "几个月",
+                                                          "一年或更久",
+                                                          "我不知道"
+                                                      ],
+                                                      [
+                                                          "QuickBooks",
+                                                          "Xero",
+                                                          "电子表格",
+                                                          "另一个系统",
+                                                          "我要重新开始。"
+                                                      ],
+                                                      [
+
+                                                      ],
+                                                      [
+
+                                                      ],
+                                                      [
+                                                          "尽快地",
+                                                          "一个月内",
+                                                          "我正在提前计划。"
+                                                      ],
+                                                      [
+                                                          "Zoom",
+                                                          "亲自前往洛杉矶县，需提前预约",
+                                                          "请先给我发邮件。"
+                                                      ],
+                                                      [
+                                                          "周一",
+                                                          "周二",
+                                                          "周三",
+                                                          "周四",
+                                                          "星期五",
+                                                          "通过电子邮件安排"
+                                                      ],
+                                                      [
+                                                          "早晨",
+                                                          "下午",
+                                                          "通过电子邮件安排"
+                                                      ],
+                                                      [
+                                                          "太平洋",
+                                                          "山",
+                                                          "中央",
+                                                          "东"
+                                                      ],
+                                                      [
+
+                                                      ],
+                                                      [
+
+                                                      ],
+                                                      [
+
+                                                      ]
+                                                  ],
+                                      "errors":  [
+                                                     "请输入公司邮箱地址。",
+                                                     "请输入包含区号的十位电话号码。"
+                                                 ],
+                                      "review":  "以下是Paper Trail将收到的内容：\n\n状态: California\n需要关注什么: 补读逾期未读的书籍\n范围或时期: 本月\n当前系统: QuickBooks\n企业类型: Example shop\n公司名称: Example Company\n开始计时: 尽快地\n会议偏好: Zoom\n可用性: 周一\n会议时间: 早晨\n时区: 太平洋\n姓名: Example Owner\n电子邮件: owner@example.com\n电话号码: 8185550123\n\n我是否应该把这个发给Paper Trail部门，让他们跟进？",
+                                      "activeQuestions":  1,
+                                      "questionsMatch":  true,
+                                      "errorsMatch":  true,
+                                      "reviewTranslated":  true,
+                                      "direction":  "ltr",
+                                      "overflow":  false
+                                  },
+                       "error":  null,
+                       "language":  "zh-CN"
+                   },
+                   {
+                       "page":  "index.html",
+                       "result":  {
+                                      "questions":  [
+                                                        "당신은 어느 주에 거주하고 있습니까?",
+                                                        "책에서 어떤 부분을 손봐야 할까요?",
+                                                        "어느 시기에 더 주의를 기울여야 할까요?",
+                                                        "현재 책들은 어디에 보관되어 있나요?",
+                                                        "귀사는 어떤 사업을 하나요?",
+                                                        "귀사의 회사명은 무엇입니까?",
+                                                        "이 작업은 언제 시작하면 좋을까요?",
+                                                        "어떤 형태의 회의가 가장 적합할까요?",
+                                                        "어떤 날짜에 만나는 게 좋으세요?",
+                                                        "보통 어떤 시간이 가장 편하세요?",
+                                                        "지금 어느 시간대에 계신가요?",
+                                                        "답변할 때 어떤 이름을 사용해야 할까요?",
+                                                        "Paper Trail은 후속 조치를 위해 어떤 이메일을 사용해야 할까요?",
+                                                        "어떤 전화번호로 연락드릴 수 있을까요?"
+                                                    ],
+                                      "options":  [
+                                                      [
+
+                                                      ],
+                                                      [
+                                                          "밀린 책들을 읽어보세요",
+                                                          "잔액이 맞지 않는 부분을 수정하세요.",
+                                                          "내 책들을 최신 상태로 유지하세요"
+                                                      ],
+                                                      [
+                                                          "이번 달",
+                                                          "몇 달",
+                                                          "1년 이상",
+                                                          "잘 모르겠습니다."
+                                                      ],
+                                                      [
+                                                          "QuickBooks",
+                                                          "Xero",
+                                                          "스프레드시트",
+                                                          "또 다른 시스템",
+                                                          "저는 새롭게 시작합니다."
+                                                      ],
+                                                      [
+
+                                                      ],
+                                                      [
+
+                                                      ],
+                                                      [
+                                                          "가능한 한 빨리",
+                                                          "한 달 안에",
+                                                          "저는 미리 계획하고 있어요."
+                                                      ],
+                                                      [
+                                                          "Zoom",
+                                                          "로스앤젤레스 카운티에서 대면 상담 (예약 필수)",
+                                                          "먼저 이메일을 보내주세요"
+                                                      ],
+                                                      [
+                                                          "월요일",
+                                                          "화요일",
+                                                          "수요일",
+                                                          "목요일",
+                                                          "금요일",
+                                                          "이메일로 예약하세요"
+                                                      ],
+                                                      [
+                                                          "아침",
+                                                          "오후",
+                                                          "이메일로 예약하세요"
+                                                      ],
+                                                      [
+                                                          "태평양",
+                                                          "산",
+                                                          "본부",
+                                                          "동부"
+                                                      ],
+                                                      [
+
+                                                      ],
+                                                      [
+
+                                                      ],
+                                                      [
+
+                                                      ]
+                                                  ],
+                                      "errors":  [
+                                                     "회사 이메일 주소를 입력해 주세요.",
+                                                     "지역번호를 포함하여 10자리 전화번호를 입력해 주세요."
+                                                 ],
+                                      "review":  "Paper Trail이 받게 될 내용은 다음과 같습니다.\n\n상태: California\n주의가 필요한 부분은 무엇인가요?: 밀린 책들을 읽어보세요\n범위 또는 기간: 이번 달\n현재 시스템: QuickBooks\n사업 유형: Example shop\n회사명: Example Company\n시작 타이밍: 가능한 한 빨리\n회의 선호도: Zoom\n유효성: 월요일\n회의 시간: 아침\n시간대: 태평양\n이름: Example Owner\n이메일: owner@example.com\n전화 번호: 8185550123\n\nPaper Trail에서 후속 조치를 취할 수 있도록 이 내용을 보내드릴까요?",
+                                      "activeQuestions":  1,
+                                      "questionsMatch":  true,
+                                      "errorsMatch":  true,
+                                      "reviewTranslated":  true,
+                                      "direction":  "ltr",
+                                      "overflow":  false
+                                  },
+                       "error":  null,
+                       "language":  "ko"
+                   },
+                   {
+                       "page":  "blog.html",
+                       "result":  {
+                                      "questions":  [
+                                                        "당신은 어느 주에 거주하고 있습니까?",
+                                                        "책에서 어떤 부분을 손봐야 할까요?",
+                                                        "어느 시기에 더 주의를 기울여야 할까요?",
+                                                        "현재 책들은 어디에 보관되어 있나요?",
+                                                        "귀사는 어떤 사업을 하나요?",
+                                                        "귀사의 회사명은 무엇입니까?",
+                                                        "이 작업은 언제 시작하면 좋을까요?",
+                                                        "어떤 형태의 회의가 가장 적합할까요?",
+                                                        "어떤 날짜에 만나는 게 좋으세요?",
+                                                        "보통 어떤 시간이 가장 편하세요?",
+                                                        "지금 어느 시간대에 계신가요?",
+                                                        "답변할 때 어떤 이름을 사용해야 할까요?",
+                                                        "Paper Trail은 후속 조치를 위해 어떤 이메일을 사용해야 할까요?",
+                                                        "어떤 전화번호로 연락드릴 수 있을까요?"
+                                                    ],
+                                      "options":  [
+                                                      [
+
+                                                      ],
+                                                      [
+                                                          "밀린 책들을 읽어보세요",
+                                                          "잔액이 맞지 않는 부분을 수정하세요.",
+                                                          "내 책들을 최신 상태로 유지하세요"
+                                                      ],
+                                                      [
+                                                          "이번 달",
+                                                          "몇 달",
+                                                          "1년 이상",
+                                                          "잘 모르겠습니다."
+                                                      ],
+                                                      [
+                                                          "QuickBooks",
+                                                          "Xero",
+                                                          "스프레드시트",
+                                                          "또 다른 시스템",
+                                                          "저는 새롭게 시작합니다."
+                                                      ],
+                                                      [
+
+                                                      ],
+                                                      [
+
+                                                      ],
+                                                      [
+                                                          "가능한 한 빨리",
+                                                          "한 달 안에",
+                                                          "저는 미리 계획하고 있어요."
+                                                      ],
+                                                      [
+                                                          "Zoom",
+                                                          "로스앤젤레스 카운티에서 대면 상담 (예약 필수)",
+                                                          "먼저 이메일을 보내주세요"
+                                                      ],
+                                                      [
+                                                          "월요일",
+                                                          "화요일",
+                                                          "수요일",
+                                                          "목요일",
+                                                          "금요일",
+                                                          "이메일로 예약하세요"
+                                                      ],
+                                                      [
+                                                          "아침",
+                                                          "오후",
+                                                          "이메일로 예약하세요"
+                                                      ],
+                                                      [
+                                                          "태평양",
+                                                          "산",
+                                                          "본부",
+                                                          "동부"
+                                                      ],
+                                                      [
+
+                                                      ],
+                                                      [
+
+                                                      ],
+                                                      [
+
+                                                      ]
+                                                  ],
+                                      "errors":  [
+                                                     "회사 이메일 주소를 입력해 주세요.",
+                                                     "지역번호를 포함하여 10자리 전화번호를 입력해 주세요."
+                                                 ],
+                                      "review":  "Paper Trail이 받게 될 내용은 다음과 같습니다.\n\n상태: California\n주의가 필요한 부분은 무엇인가요?: 밀린 책들을 읽어보세요\n범위 또는 기간: 이번 달\n현재 시스템: QuickBooks\n사업 유형: Example shop\n회사명: Example Company\n시작 타이밍: 가능한 한 빨리\n회의 선호도: Zoom\n유효성: 월요일\n회의 시간: 아침\n시간대: 태평양\n이름: Example Owner\n이메일: owner@example.com\n전화 번호: 8185550123\n\nPaper Trail에서 후속 조치를 취할 수 있도록 이 내용을 보내드릴까요?",
+                                      "activeQuestions":  1,
+                                      "questionsMatch":  true,
+                                      "errorsMatch":  true,
+                                      "reviewTranslated":  true,
+                                      "direction":  "ltr",
+                                      "overflow":  false
+                                  },
+                       "error":  null,
+                       "language":  "ko"
+                   },
+                   {
+                       "page":  "index.html",
+                       "result":  {
+                                      "questions":  [
+                                                        "Saang estado ka matatagpuan?",
+                                                        "Kumusta naman ang mga libro mo na nangangailangan ng atensyon?",
+                                                        "Aling panahon ang nangangailangan ng pansin?",
+                                                        "Saan nakaimbak ang mga libro mo ngayon?",
+                                                        "Ano ang ginagawa ng iyong negosyo?",
+                                                        "Ano ang pangalan ng iyong kumpanya?",
+                                                        "Kailan mo gustong simulan ang gawaing ito?",
+                                                        "Anong uri ng pagpupulong ang pinakamainam para sa iyo?",
+                                                        "Anong araw ang mas gusto mong magkita?",
+                                                        "Anong oras ang karaniwang pinakamainam para sa iyo?",
+                                                        "Nasa anong time zone ka?",
+                                                        "Anong pangalan ang dapat nating gamitin kapag tayo ay sumasagot?",
+                                                        "Anong email ang dapat gamitin ng Paper Trail para sa follow-up?",
+                                                        "Anong numero ng telepono ang maaari naming kontakin?"
+                                                    ],
+                                      "options":  [
+                                                      [
+
+                                                      ],
+                                                      [
+                                                          "Mag-aral ng mga librong hindi na dapat bayaran",
+                                                          "Ayusin ang mga balanseng mukhang mali",
+                                                          "Panatilihing napapanahon ang aking mga libro"
+                                                      ],
+                                                      [
+                                                          "Ngayong buwan",
+                                                          "Ilang buwan",
+                                                          "Isang taon o higit pa",
+                                                          "Hindi ako sigurado"
+                                                      ],
+                                                      [
+                                                          "QuickBooks",
+                                                          "Xero",
+                                                          "Mga Spreadsheet",
+                                                          "Isa pang sistema",
+                                                          "Nagsisimula ako ng panibago"
+                                                      ],
+                                                      [
+
+                                                      ],
+                                                      [
+
+                                                      ],
+                                                      [
+                                                          "Sa lalong madaling panahon",
+                                                          "Sa loob ng isang buwan",
+                                                          "Nagpaplano ako nang maaga"
+                                                      ],
+                                                      [
+                                                          "Zoom",
+                                                          "Nang personal sa Los Angeles County, sa pamamagitan ng appointment",
+                                                          "Mag-email muna sa akin"
+                                                      ],
+                                                      [
+                                                          "Lunes",
+                                                          "Martes",
+                                                          "Miyerkules",
+                                                          "Huwebes",
+                                                          "Biyernes",
+                                                          "Ayusin sa pamamagitan ng email"
+                                                      ],
+                                                      [
+                                                          "Umaga",
+                                                          "Hapon",
+                                                          "Ayusin sa pamamagitan ng email"
+                                                      ],
+                                                      [
+                                                          "Pasipiko",
+                                                          "Bundok",
+                                                          "Sentral",
+                                                          "Silangan"
+                                                      ],
+                                                      [
+
+                                                      ],
+                                                      [
+
+                                                      ],
+                                                      [
+
+                                                      ]
+                                                  ],
+                                      "errors":  [
+                                                     "Mangyaring maglagay ng email address para sa negosyo.",
+                                                     "Mangyaring maglagay ng sampung-digit na numero ng telepono, kasama ang area code."
+                                                 ],
+                                      "review":  "Narito ang matatanggap ng Paper Trail:\n\nEstado: California\nAno ang nangangailangan ng atensyon: Mag-aral ng mga librong hindi na dapat bayaran\nSaklaw o panahon: Ngayong buwan\nKasalukuyang sistema: QuickBooks\nUri ng negosyo: Example shop\nPangalan ng kumpanya: Example Company\nOras ng pagsisimula: Sa lalong madaling panahon\nKagustuhan sa pagpupulong: Zoom\nKakayahang magamit: Lunes\nOras ng pagpupulong: Umaga\nSona ng oras: Pasipiko\nPangalan: Example Owner\nI-email: owner@example.com\nNumero ng telepono: 8185550123\n\nIpapadala ko ba ito para masundan ito ng Paper Trail?",
+                                      "activeQuestions":  1,
+                                      "questionsMatch":  true,
+                                      "errorsMatch":  true,
+                                      "reviewTranslated":  true,
+                                      "direction":  "ltr",
+                                      "overflow":  false
+                                  },
+                       "error":  null,
+                       "language":  "tl"
+                   },
+                   {
+                       "page":  "blog.html",
+                       "result":  {
+                                      "questions":  [
+                                                        "Saang estado ka matatagpuan?",
+                                                        "Kumusta naman ang mga libro mo na nangangailangan ng atensyon?",
+                                                        "Aling panahon ang nangangailangan ng pansin?",
+                                                        "Saan nakaimbak ang mga libro mo ngayon?",
+                                                        "Ano ang ginagawa ng iyong negosyo?",
+                                                        "Ano ang pangalan ng iyong kumpanya?",
+                                                        "Kailan mo gustong simulan ang gawaing ito?",
+                                                        "Anong uri ng pagpupulong ang pinakamainam para sa iyo?",
+                                                        "Anong araw ang mas gusto mong magkita?",
+                                                        "Anong oras ang karaniwang pinakamainam para sa iyo?",
+                                                        "Nasa anong time zone ka?",
+                                                        "Anong pangalan ang dapat nating gamitin kapag tayo ay sumasagot?",
+                                                        "Anong email ang dapat gamitin ng Paper Trail para sa follow-up?",
+                                                        "Anong numero ng telepono ang maaari naming kontakin?"
+                                                    ],
+                                      "options":  [
+                                                      [
+
+                                                      ],
+                                                      [
+                                                          "Mag-aral ng mga librong hindi na dapat bayaran",
+                                                          "Ayusin ang mga balanseng mukhang mali",
+                                                          "Panatilihing napapanahon ang aking mga libro"
+                                                      ],
+                                                      [
+                                                          "Ngayong buwan",
+                                                          "Ilang buwan",
+                                                          "Isang taon o higit pa",
+                                                          "Hindi ako sigurado"
+                                                      ],
+                                                      [
+                                                          "QuickBooks",
+                                                          "Xero",
+                                                          "Mga Spreadsheet",
+                                                          "Isa pang sistema",
+                                                          "Nagsisimula ako ng panibago"
+                                                      ],
+                                                      [
+
+                                                      ],
+                                                      [
+
+                                                      ],
+                                                      [
+                                                          "Sa lalong madaling panahon",
+                                                          "Sa loob ng isang buwan",
+                                                          "Nagpaplano ako nang maaga"
+                                                      ],
+                                                      [
+                                                          "Zoom",
+                                                          "Nang personal sa Los Angeles County, sa pamamagitan ng appointment",
+                                                          "Mag-email muna sa akin"
+                                                      ],
+                                                      [
+                                                          "Lunes",
+                                                          "Martes",
+                                                          "Miyerkules",
+                                                          "Huwebes",
+                                                          "Biyernes",
+                                                          "Ayusin sa pamamagitan ng email"
+                                                      ],
+                                                      [
+                                                          "Umaga",
+                                                          "Hapon",
+                                                          "Ayusin sa pamamagitan ng email"
+                                                      ],
+                                                      [
+                                                          "Pasipiko",
+                                                          "Bundok",
+                                                          "Sentral",
+                                                          "Silangan"
+                                                      ],
+                                                      [
+
+                                                      ],
+                                                      [
+
+                                                      ],
+                                                      [
+
+                                                      ]
+                                                  ],
+                                      "errors":  [
+                                                     "Mangyaring maglagay ng email address para sa negosyo.",
+                                                     "Mangyaring maglagay ng sampung-digit na numero ng telepono, kasama ang area code."
+                                                 ],
+                                      "review":  "Narito ang matatanggap ng Paper Trail:\n\nEstado: California\nAno ang nangangailangan ng atensyon: Mag-aral ng mga librong hindi na dapat bayaran\nSaklaw o panahon: Ngayong buwan\nKasalukuyang sistema: QuickBooks\nUri ng negosyo: Example shop\nPangalan ng kumpanya: Example Company\nOras ng pagsisimula: Sa lalong madaling panahon\nKagustuhan sa pagpupulong: Zoom\nKakayahang magamit: Lunes\nOras ng pagpupulong: Umaga\nSona ng oras: Pasipiko\nPangalan: Example Owner\nI-email: owner@example.com\nNumero ng telepono: 8185550123\n\nIpapadala ko ba ito para masundan ito ng Paper Trail?",
+                                      "activeQuestions":  1,
+                                      "questionsMatch":  true,
+                                      "errorsMatch":  true,
+                                      "reviewTranslated":  true,
+                                      "direction":  "ltr",
+                                      "overflow":  false
+                                  },
+                       "error":  null,
+                       "language":  "tl"
+                   },
+                   {
+                       "page":  "index.html",
+                       "result":  {
+                                      "questions":  [
+                                                        "మీరు ఏ రాష్ట్రంలో ఉన్నారు?",
+                                                        "మీ పుస్తకాలలో ఏ అంశానికి శ్రద్ధ అవసరం?",
+                                                        "ఏ కాలానికి శ్రద్ధ అవసరం?",
+                                                        "మీ పుస్తకాలు ప్రస్తుతం ఎక్కడ ఉన్నాయి?",
+                                                        "మీ వ్యాపారం ఏమి చేస్తుంది?",
+                                                        "మీ కంపెనీ పేరు ఏమిటి?",
+                                                        "ఈ పని ఎప్పుడు ప్రారంభించాలని మీరు కోరుకుంటున్నారు?",
+                                                        "మీకు ఏ రకమైన సమావేశం ఉత్తమంగా సరిపోతుంది?",
+                                                        "మీరు ఏ రోజు కలవడానికి ఇష్టపడతారు?",
+                                                        "మీకు సాధారణంగా ఏ సమయం ఉత్తమంగా సరిపోతుంది?",
+                                                        "మీరు ఏ సమయ మండలంలో ఉన్నారు?",
+                                                        "మనం ప్రత్యుత్తరం ఇచ్చేటప్పుడు ఏ పేరును ఉపయోగించాలి?",
+                                                        "ఫాలో అప్ చేయడానికి పేపర్ ట్రైల్ ఏ ఇమెయిల్‌ను ఉపయోగించాలి?",
+                                                        "మేము మిమ్మల్ని ఏ ఫోన్ నంబర్‌లో సంప్రదించగలము?"
+                                                    ],
+                                      "options":  [
+                                                      [
+
+                                                      ],
+                                                      [
+                                                          "గడువు దాటిన పుస్తకాలను పూర్తి చేయండి",
+                                                          "తప్పుగా కనిపించే బ్యాలెన్స్‌లను సరిచేయండి",
+                                                          "నా పుస్తకాలను ఎప్పటికప్పుడు అప్‌డేట్‌గా ఉంచండి"
+                                                      ],
+                                                      [
+                                                          "ఈ నెల",
+                                                          "కొన్ని నెలలు",
+                                                          "ఒక సంవత్సరం లేదా అంతకంటే ఎక్కువ",
+                                                          "నాకు ఖచ్చితంగా తెలియదు"
+                                                      ],
+                                                      [
+                                                          "QuickBooks",
+                                                          "Xero",
+                                                          "స్ప్రెడ్‌షీట్‌లు",
+                                                          "మరొక వ్యవస్థ",
+                                                          "నేను కొత్తగా ప్రారంభిస్తున్నాను"
+                                                      ],
+                                                      [
+
+                                                      ],
+                                                      [
+
+                                                      ],
+                                                      [
+                                                          "వీలైనంత త్వరగా",
+                                                          "ఒక నెలలోపు",
+                                                          "నేను ముందుగానే ప్రణాళిక వేసుకుంటున్నాను"
+                                                      ],
+                                                      [
+                                                          "Zoom",
+                                                          "లాస్ ఏంజిల్స్ కౌంటీలో వ్యక్తిగతంగా, అపాయింట్‌మెంట్ ద్వారా",
+                                                          "ముందుగా నాకు ఇమెయిల్ చేయండి"
+                                                      ],
+                                                      [
+                                                          "సోమవారం",
+                                                          "మంగళవారం",
+                                                          "బుధవారం",
+                                                          "గురువారం",
+                                                          "శుక్రవారం",
+                                                          "ఇమెయిల్ ద్వారా ఏర్పాటు చేయండి"
+                                                      ],
+                                                      [
+                                                          "ఉదయం",
+                                                          "మధ్యాహ్నం",
+                                                          "ఇమెయిల్ ద్వారా ఏర్పాటు చేయండి"
+                                                      ],
+                                                      [
+                                                          "పసిఫిక్",
+                                                          "పర్వతం",
+                                                          "సెంట్రల్",
+                                                          "తూర్పు"
+                                                      ],
+                                                      [
+
+                                                      ],
+                                                      [
+
+                                                      ],
+                                                      [
+
+                                                      ]
+                                                  ],
+                                      "errors":  [
+                                                     "దయచేసి వ్యాపార ఇమెయిల్ చిరునామాను నమోదు చేయండి.",
+                                                     "దయచేసి ఏరియా కోడ్‌తో సహా పది అంకెల ఫోన్ నంబర్‌ను నమోదు చేయండి."
+                                                 ],
+                                      "review":  "పేపర్ ట్రైల్ స్వీకరించేది ఇక్కడ ఉంది:\n\nరాష్ట్రం: California\nశ్రద్ధ వహించాల్సిన విషయాలు: గడువు దాటిన పుస్తకాలను పూర్తి చేయండి\nపరిధి లేదా కాలం: ఈ నెల\nప్రస్తుత వ్యవస్థ: QuickBooks\nవ్యాపార రకం: Example shop\nకంపెనీ పేరు: Example Company\nప్రారంభ సమయం: వీలైనంత త్వరగా\nసమావేశ ప్రాధాన్యత: Zoom\nలభ్యత: సోమవారం\nసమావేశ సమయం: ఉదయం\nసమయ మండలం: పసిఫిక్\nపేరు: Example Owner\nఇమెయిల్: owner@example.com\nఫోన్ నంబర్: 8185550123\n\nపేపర్ ట్రైల్ తదుపరి చర్య తీసుకోవడానికి వీలుగా నేను దీన్ని పంపాలా?",
+                                      "activeQuestions":  1,
+                                      "questionsMatch":  true,
+                                      "errorsMatch":  true,
+                                      "reviewTranslated":  true,
+                                      "direction":  "ltr",
+                                      "overflow":  false
+                                  },
+                       "error":  null,
+                       "language":  "te"
+                   },
+                   {
+                       "page":  "blog.html",
+                       "result":  {
+                                      "questions":  [
+                                                        "మీరు ఏ రాష్ట్రంలో ఉన్నారు?",
+                                                        "మీ పుస్తకాలలో ఏ అంశానికి శ్రద్ధ అవసరం?",
+                                                        "ఏ కాలానికి శ్రద్ధ అవసరం?",
+                                                        "మీ పుస్తకాలు ప్రస్తుతం ఎక్కడ ఉన్నాయి?",
+                                                        "మీ వ్యాపారం ఏమి చేస్తుంది?",
+                                                        "మీ కంపెనీ పేరు ఏమిటి?",
+                                                        "ఈ పని ఎప్పుడు ప్రారంభించాలని మీరు కోరుకుంటున్నారు?",
+                                                        "మీకు ఏ రకమైన సమావేశం ఉత్తమంగా సరిపోతుంది?",
+                                                        "మీరు ఏ రోజు కలవడానికి ఇష్టపడతారు?",
+                                                        "మీకు సాధారణంగా ఏ సమయం ఉత్తమంగా సరిపోతుంది?",
+                                                        "మీరు ఏ సమయ మండలంలో ఉన్నారు?",
+                                                        "మనం ప్రత్యుత్తరం ఇచ్చేటప్పుడు ఏ పేరును ఉపయోగించాలి?",
+                                                        "ఫాలో అప్ చేయడానికి పేపర్ ట్రైల్ ఏ ఇమెయిల్‌ను ఉపయోగించాలి?",
+                                                        "మేము మిమ్మల్ని ఏ ఫోన్ నంబర్‌లో సంప్రదించగలము?"
+                                                    ],
+                                      "options":  [
+                                                      [
+
+                                                      ],
+                                                      [
+                                                          "గడువు దాటిన పుస్తకాలను పూర్తి చేయండి",
+                                                          "తప్పుగా కనిపించే బ్యాలెన్స్‌లను సరిచేయండి",
+                                                          "నా పుస్తకాలను ఎప్పటికప్పుడు అప్‌డేట్‌గా ఉంచండి"
+                                                      ],
+                                                      [
+                                                          "ఈ నెల",
+                                                          "కొన్ని నెలలు",
+                                                          "ఒక సంవత్సరం లేదా అంతకంటే ఎక్కువ",
+                                                          "నాకు ఖచ్చితంగా తెలియదు"
+                                                      ],
+                                                      [
+                                                          "QuickBooks",
+                                                          "Xero",
+                                                          "స్ప్రెడ్‌షీట్‌లు",
+                                                          "మరొక వ్యవస్థ",
+                                                          "నేను కొత్తగా ప్రారంభిస్తున్నాను"
+                                                      ],
+                                                      [
+
+                                                      ],
+                                                      [
+
+                                                      ],
+                                                      [
+                                                          "వీలైనంత త్వరగా",
+                                                          "ఒక నెలలోపు",
+                                                          "నేను ముందుగానే ప్రణాళిక వేసుకుంటున్నాను"
+                                                      ],
+                                                      [
+                                                          "Zoom",
+                                                          "లాస్ ఏంజిల్స్ కౌంటీలో వ్యక్తిగతంగా, అపాయింట్‌మెంట్ ద్వారా",
+                                                          "ముందుగా నాకు ఇమెయిల్ చేయండి"
+                                                      ],
+                                                      [
+                                                          "సోమవారం",
+                                                          "మంగళవారం",
+                                                          "బుధవారం",
+                                                          "గురువారం",
+                                                          "శుక్రవారం",
+                                                          "ఇమెయిల్ ద్వారా ఏర్పాటు చేయండి"
+                                                      ],
+                                                      [
+                                                          "ఉదయం",
+                                                          "మధ్యాహ్నం",
+                                                          "ఇమెయిల్ ద్వారా ఏర్పాటు చేయండి"
+                                                      ],
+                                                      [
+                                                          "పసిఫిక్",
+                                                          "పర్వతం",
+                                                          "సెంట్రల్",
+                                                          "తూర్పు"
+                                                      ],
+                                                      [
+
+                                                      ],
+                                                      [
+
+                                                      ],
+                                                      [
+
+                                                      ]
+                                                  ],
+                                      "errors":  [
+                                                     "దయచేసి వ్యాపార ఇమెయిల్ చిరునామాను నమోదు చేయండి.",
+                                                     "దయచేసి ఏరియా కోడ్‌తో సహా పది అంకెల ఫోన్ నంబర్‌ను నమోదు చేయండి."
+                                                 ],
+                                      "review":  "పేపర్ ట్రైల్ స్వీకరించేది ఇక్కడ ఉంది:\n\nరాష్ట్రం: California\nశ్రద్ధ వహించాల్సిన విషయాలు: గడువు దాటిన పుస్తకాలను పూర్తి చేయండి\nపరిధి లేదా కాలం: ఈ నెల\nప్రస్తుత వ్యవస్థ: QuickBooks\nవ్యాపార రకం: Example shop\nకంపెనీ పేరు: Example Company\nప్రారంభ సమయం: వీలైనంత త్వరగా\nసమావేశ ప్రాధాన్యత: Zoom\nలభ్యత: సోమవారం\nసమావేశ సమయం: ఉదయం\nసమయ మండలం: పసిఫిక్\nపేరు: Example Owner\nఇమెయిల్: owner@example.com\nఫోన్ నంబర్: 8185550123\n\nపేపర్ ట్రైల్ తదుపరి చర్య తీసుకోవడానికి వీలుగా నేను దీన్ని పంపాలా?",
+                                      "activeQuestions":  1,
+                                      "questionsMatch":  true,
+                                      "errorsMatch":  true,
+                                      "reviewTranslated":  true,
+                                      "direction":  "ltr",
+                                      "overflow":  false
+                                  },
+                       "error":  null,
+                       "language":  "te"
+                   },
+                   {
+                       "page":  "index.html",
+                       "result":  {
+                                      "questions":  [
+                                                        "В каком штате вы находитесь?",
+                                                        "Что именно в ваших книгах требует внимания?",
+                                                        "Какой период требует внимания?",
+                                                        "Где сейчас хранятся ваши книги?",
+                                                        "Чем занимается ваша компания?",
+                                                        "Как называется ваша компания?",
+                                                        "Когда бы вы хотели, чтобы эта работа началась?",
+                                                        "Какой тип встречи вам больше всего подходит?",
+                                                        "В какой день вы бы предпочли встретиться?",
+                                                        "Какое время вам обычно подходит лучше всего?",
+                                                        "В каком часовом поясе вы находитесь?",
+                                                        "Какое имя нам следует использовать при ответе?",
+                                                        "Какой адрес электронной почты следует использовать в Paper Trail для последующей связи?",
+                                                        "По какому номеру телефона с вами можно связаться?"
+                                                    ],
+                                      "options":  [
+                                                      [
+
+                                                      ],
+                                                      [
+                                                          "Наверстайте упущенное и верните просроченные книги.",
+                                                          "Исправьте неверные данные баланса.",
+                                                          "Поддерживайте актуальность моих книг."
+                                                      ],
+                                                      [
+                                                          "В этом месяце",
+                                                          "Несколько месяцев",
+                                                          "год или более",
+                                                          "я не уверен"
+                                                      ],
+                                                      [
+                                                          "QuickBooks",
+                                                          "Xero",
+                                                          "Электронные таблицы",
+                                                          "Другая система",
+                                                          "Я начинаю всё заново"
+                                                      ],
+                                                      [
+
+                                                      ],
+                                                      [
+
+                                                      ],
+                                                      [
+                                                          "Как можно скорее",
+                                                          "В течение месяца",
+                                                          "Я планирую заранее."
+                                                      ],
+                                                      [
+                                                          "Zoom",
+                                                          "Личное посещение в округе Лос-Анджелес по предварительной записи.",
+                                                          "Сначала напишите мне на электронную почту."
+                                                      ],
+                                                      [
+                                                          "Понедельник",
+                                                          "Вторник",
+                                                          "Среда",
+                                                          "Четверг",
+                                                          "Пятница",
+                                                          "Договориться по электронной почте"
+                                                      ],
+                                                      [
+                                                          "Утро",
+                                                          "Полдень",
+                                                          "Договориться по электронной почте"
+                                                      ],
+                                                      [
+                                                          "Тихий океан",
+                                                          "Гора",
+                                                          "Центральный",
+                                                          "Восточный"
+                                                      ],
+                                                      [
+
+                                                      ],
+                                                      [
+
+                                                      ],
+                                                      [
+
+                                                      ]
+                                                  ],
+                                      "errors":  [
+                                                     "Пожалуйста, введите рабочий адрес электронной почты.",
+                                                     "Пожалуйста, введите десятизначный номер телефона, включая код города."
+                                                 ],
+                                      "review":  "Вот что получит Paper Trail:\n\nСостояние: California\nЧто требует внимания: Наверстайте упущенное и верните просроченные книги.\nОбъем или период: В этом месяце\nТекущая система: QuickBooks\nВид бизнеса: Example shop\nНазвание компании: Example Company\nВремя начала: Как можно скорее\nПредпочтения при встрече: Zoom\nДоступность: Понедельник\nВремя встречи: Утро\nЧасовой пояс: Тихий океан\nИмя: Example Owner\nЭлектронная почта: owner@example.com\nНомер телефона: 8185550123\n\nМне отправить это сообщение, чтобы Paper Trail мог связаться с вами?",
+                                      "activeQuestions":  1,
+                                      "questionsMatch":  true,
+                                      "errorsMatch":  true,
+                                      "reviewTranslated":  true,
+                                      "direction":  "ltr",
+                                      "overflow":  false
+                                  },
+                       "error":  null,
+                       "language":  "ru"
+                   },
+                   {
+                       "page":  "blog.html",
+                       "result":  {
+                                      "questions":  [
+                                                        "В каком штате вы находитесь?",
+                                                        "Что именно в ваших книгах требует внимания?",
+                                                        "Какой период требует внимания?",
+                                                        "Где сейчас хранятся ваши книги?",
+                                                        "Чем занимается ваша компания?",
+                                                        "Как называется ваша компания?",
+                                                        "Когда бы вы хотели, чтобы эта работа началась?",
+                                                        "Какой тип встречи вам больше всего подходит?",
+                                                        "В какой день вы бы предпочли встретиться?",
+                                                        "Какое время вам обычно подходит лучше всего?",
+                                                        "В каком часовом поясе вы находитесь?",
+                                                        "Какое имя нам следует использовать при ответе?",
+                                                        "Какой адрес электронной почты следует использовать в Paper Trail для последующей связи?",
+                                                        "По какому номеру телефона с вами можно связаться?"
+                                                    ],
+                                      "options":  [
+                                                      [
+
+                                                      ],
+                                                      [
+                                                          "Наверстайте упущенное и верните просроченные книги.",
+                                                          "Исправьте неверные данные баланса.",
+                                                          "Поддерживайте актуальность моих книг."
+                                                      ],
+                                                      [
+                                                          "В этом месяце",
+                                                          "Несколько месяцев",
+                                                          "год или более",
+                                                          "я не уверен"
+                                                      ],
+                                                      [
+                                                          "QuickBooks",
+                                                          "Xero",
+                                                          "Электронные таблицы",
+                                                          "Другая система",
+                                                          "Я начинаю всё заново"
+                                                      ],
+                                                      [
+
+                                                      ],
+                                                      [
+
+                                                      ],
+                                                      [
+                                                          "Как можно скорее",
+                                                          "В течение месяца",
+                                                          "Я планирую заранее."
+                                                      ],
+                                                      [
+                                                          "Zoom",
+                                                          "Личное посещение в округе Лос-Анджелес по предварительной записи.",
+                                                          "Сначала напишите мне на электронную почту."
+                                                      ],
+                                                      [
+                                                          "Понедельник",
+                                                          "Вторник",
+                                                          "Среда",
+                                                          "Четверг",
+                                                          "Пятница",
+                                                          "Договориться по электронной почте"
+                                                      ],
+                                                      [
+                                                          "Утро",
+                                                          "Полдень",
+                                                          "Договориться по электронной почте"
+                                                      ],
+                                                      [
+                                                          "Тихий океан",
+                                                          "Гора",
+                                                          "Центральный",
+                                                          "Восточный"
+                                                      ],
+                                                      [
+
+                                                      ],
+                                                      [
+
+                                                      ],
+                                                      [
+
+                                                      ]
+                                                  ],
+                                      "errors":  [
+                                                     "Пожалуйста, введите рабочий адрес электронной почты.",
+                                                     "Пожалуйста, введите десятизначный номер телефона, включая код города."
+                                                 ],
+                                      "review":  "Вот что получит Paper Trail:\n\nСостояние: California\nЧто требует внимания: Наверстайте упущенное и верните просроченные книги.\nОбъем или период: В этом месяце\nТекущая система: QuickBooks\nВид бизнеса: Example shop\nНазвание компании: Example Company\nВремя начала: Как можно скорее\nПредпочтения при встрече: Zoom\nДоступность: Понедельник\nВремя встречи: Утро\nЧасовой пояс: Тихий океан\nИмя: Example Owner\nЭлектронная почта: owner@example.com\nНомер телефона: 8185550123\n\nМне отправить это сообщение, чтобы Paper Trail мог связаться с вами?",
+                                      "activeQuestions":  1,
+                                      "questionsMatch":  true,
+                                      "errorsMatch":  true,
+                                      "reviewTranslated":  true,
+                                      "direction":  "ltr",
+                                      "overflow":  false
+                                  },
+                       "error":  null,
+                       "language":  "ru"
+                   },
+                   {
+                       "page":  "index.html",
+                       "result":  {
+                                      "questions":  [
+                                                        "في أي ولاية أنت موجود؟",
+                                                        "ما الذي يحتاج إلى اهتمام في كتبك؟",
+                                                        "أي فترة زمنية تحتاج إلى اهتمام؟",
+                                                        "أين تُحفظ كتبك حاليًا؟",
+                                                        "ما هو مجال عمل شركتكم؟",
+                                                        "ما اسم شركتكم؟",
+                                                        "متى ترغب في أن يبدأ هذا العمل؟",
+                                                        "ما نوع الاجتماع الذي يناسبك أكثر؟",
+                                                        "ما هو اليوم الذي تفضل أن نلتقي فيه؟",
+                                                        "ما هو الوقت الأنسب لك عادةً؟",
+                                                        "في أي منطقة زمنية أنت؟",
+                                                        "ما الاسم الذي يجب أن نستخدمه عند الرد؟",
+                                                        "ما هو البريد الإلكتروني الذي يجب أن تستخدمه شركة \"بيبر تريل\" للمتابعة؟",
+                                                        "ما هو رقم الهاتف الذي يمكننا التواصل معك من خلاله؟"
+                                                    ],
+                                      "options":  [
+                                                      [
+
+                                                      ],
+                                                      [
+                                                          "استكمل قراءة الكتب المتأخرة",
+                                                          "أصلح الأرصدة التي تبدو غير صحيحة",
+                                                          "أحرص على تحديث كتبي باستمرار"
+                                                      ],
+                                                      [
+                                                          "هذا الشهر",
+                                                          "بضعة أشهر",
+                                                          "سنة أو أكثر",
+                                                          "لست متأكدا"
+                                                      ],
+                                                      [
+                                                          "QuickBooks",
+                                                          "Xero",
+                                                          "جداول البيانات",
+                                                          "أنظمة أخرى",
+                                                          "سأبدأ من جديد"
+                                                      ],
+                                                      [
+
+                                                      ],
+                                                      [
+
+                                                      ],
+                                                      [
+                                                          "في أسرع وقت ممكن",
+                                                          "في غضون شهر",
+                                                          "أنا أخطط للمستقبل"
+                                                      ],
+                                                      [
+                                                          "Zoom",
+                                                          "شخصياً في مقاطعة لوس أنجلوس، عن طريق تحديد موعد مسبق",
+                                                          "راسلني عبر البريد الإلكتروني أولاً"
+                                                      ],
+                                                      [
+                                                          "الاثنين",
+                                                          "يوم الثلاثاء",
+                                                          "الأربعاء",
+                                                          "يوم الخميس",
+                                                          "جمعة",
+                                                          "الترتيب عبر البريد الإلكتروني"
+                                                      ],
+                                                      [
+                                                          "صباح",
+                                                          "بعد الظهر",
+                                                          "الترتيب عبر البريد الإلكتروني"
+                                                      ],
+                                                      [
+                                                          "المحيط الهادئ",
+                                                          "جبل",
+                                                          "وسط المدينة",
+                                                          "شرقي"
+                                                      ],
+                                                      [
+
+                                                      ],
+                                                      [
+
+                                                      ],
+                                                      [
+
+                                                      ]
+                                                  ],
+                                      "errors":  [
+                                                     "يرجى إدخال عنوان بريد إلكتروني خاص بالعمل.",
+                                                     "يرجى إدخال رقم هاتف مكون من عشرة أرقام، بما في ذلك رمز المنطقة."
+                                                 ],
+                                      "review":  "إليكم ما سيحصل عليه برنامج Paper Trail:\n\nولاية: California\nما يحتاج إلى اهتمام: استكمل قراءة الكتب المتأخرة\nالنطاق أو الفترة: هذا الشهر\nالنظام الحالي: QuickBooks\nنوع العمل: Example shop\nاسم الشركة: Example Company\nابدأ التوقيت: في أسرع وقت ممكن\nتفضيل الاجتماع: Zoom\nالتوافر: الاثنين\nموعد الاجتماع: صباح\nالمنطقة الزمنية: المحيط الهادئ\nاسم: Example Owner\nبريد إلكتروني: owner@example.com\nرقم التليفون: 8185550123\n\nهل أرسل هذا حتى يتمكن فريق Paper Trail من المتابعة؟",
+                                      "activeQuestions":  1,
+                                      "questionsMatch":  true,
+                                      "errorsMatch":  true,
+                                      "reviewTranslated":  true,
+                                      "direction":  "rtl",
+                                      "overflow":  false
+                                  },
+                       "error":  null,
+                       "language":  "ar"
+                   },
+                   {
+                       "page":  "blog.html",
+                       "result":  {
+                                      "questions":  [
+                                                        "في أي ولاية أنت موجود؟",
+                                                        "ما الذي يحتاج إلى اهتمام في كتبك؟",
+                                                        "أي فترة زمنية تحتاج إلى اهتمام؟",
+                                                        "أين تُحفظ كتبك حاليًا؟",
+                                                        "ما هو مجال عمل شركتكم؟",
+                                                        "ما اسم شركتكم؟",
+                                                        "متى ترغب في أن يبدأ هذا العمل؟",
+                                                        "ما نوع الاجتماع الذي يناسبك أكثر؟",
+                                                        "ما هو اليوم الذي تفضل أن نلتقي فيه؟",
+                                                        "ما هو الوقت الأنسب لك عادةً؟",
+                                                        "في أي منطقة زمنية أنت؟",
+                                                        "ما الاسم الذي يجب أن نستخدمه عند الرد؟",
+                                                        "ما هو البريد الإلكتروني الذي يجب أن تستخدمه شركة \"بيبر تريل\" للمتابعة؟",
+                                                        "ما هو رقم الهاتف الذي يمكننا التواصل معك من خلاله؟"
+                                                    ],
+                                      "options":  [
+                                                      [
+
+                                                      ],
+                                                      [
+                                                          "استكمل قراءة الكتب المتأخرة",
+                                                          "أصلح الأرصدة التي تبدو غير صحيحة",
+                                                          "أحرص على تحديث كتبي باستمرار"
+                                                      ],
+                                                      [
+                                                          "هذا الشهر",
+                                                          "بضعة أشهر",
+                                                          "سنة أو أكثر",
+                                                          "لست متأكدا"
+                                                      ],
+                                                      [
+                                                          "QuickBooks",
+                                                          "Xero",
+                                                          "جداول البيانات",
+                                                          "أنظمة أخرى",
+                                                          "سأبدأ من جديد"
+                                                      ],
+                                                      [
+
+                                                      ],
+                                                      [
+
+                                                      ],
+                                                      [
+                                                          "في أسرع وقت ممكن",
+                                                          "في غضون شهر",
+                                                          "أنا أخطط للمستقبل"
+                                                      ],
+                                                      [
+                                                          "Zoom",
+                                                          "شخصياً في مقاطعة لوس أنجلوس، عن طريق تحديد موعد مسبق",
+                                                          "راسلني عبر البريد الإلكتروني أولاً"
+                                                      ],
+                                                      [
+                                                          "الاثنين",
+                                                          "يوم الثلاثاء",
+                                                          "الأربعاء",
+                                                          "يوم الخميس",
+                                                          "جمعة",
+                                                          "الترتيب عبر البريد الإلكتروني"
+                                                      ],
+                                                      [
+                                                          "صباح",
+                                                          "بعد الظهر",
+                                                          "الترتيب عبر البريد الإلكتروني"
+                                                      ],
+                                                      [
+                                                          "المحيط الهادئ",
+                                                          "جبل",
+                                                          "وسط المدينة",
+                                                          "شرقي"
+                                                      ],
+                                                      [
+
+                                                      ],
+                                                      [
+
+                                                      ],
+                                                      [
+
+                                                      ]
+                                                  ],
+                                      "errors":  [
+                                                     "يرجى إدخال عنوان بريد إلكتروني خاص بالعمل.",
+                                                     "يرجى إدخال رقم هاتف مكون من عشرة أرقام، بما في ذلك رمز المنطقة."
+                                                 ],
+                                      "review":  "إليكم ما سيحصل عليه برنامج Paper Trail:\n\nولاية: California\nما يحتاج إلى اهتمام: استكمل قراءة الكتب المتأخرة\nالنطاق أو الفترة: هذا الشهر\nالنظام الحالي: QuickBooks\nنوع العمل: Example shop\nاسم الشركة: Example Company\nابدأ التوقيت: في أسرع وقت ممكن\nتفضيل الاجتماع: Zoom\nالتوافر: الاثنين\nموعد الاجتماع: صباح\nالمنطقة الزمنية: المحيط الهادئ\nاسم: Example Owner\nبريد إلكتروني: owner@example.com\nرقم التليفون: 8185550123\n\nهل أرسل هذا حتى يتمكن فريق Paper Trail من المتابعة؟",
+                                      "activeQuestions":  1,
+                                      "questionsMatch":  true,
+                                      "errorsMatch":  true,
+                                      "reviewTranslated":  true,
+                                      "direction":  "rtl",
+                                      "overflow":  false
+                                  },
+                       "error":  null,
+                       "language":  "ar"
+                   }
+               ]
+}

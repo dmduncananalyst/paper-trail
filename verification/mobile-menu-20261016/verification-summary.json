@@ -1,0 +1,9 @@
+{
+  "page_and_width_checks": 30,
+  "language_checks": 60,
+  "real_touch_navigation_checks": 3,
+  "runtime_exceptions": 0,
+  "issues": [],
+  "google_translation_requests": 0,
+  "changes_scope": "Mobile layout and touch behavior only. Existing desktop labels, menus and layout preserved."
+}

@@ -1,0 +1,200 @@
+{
+  "client_review_date": "2026-10-16",
+  "dns_only_ready": false,
+  "pdf_pages_read": 12,
+  "pdf_sha256": "f9c1077a41e0dd1fb68522cf1fb7a3c33ae37fe4e1c4d0058ad88a9a52cc4c08",
+  "pdf_published": false,
+  "readiness": [
+    {
+      "number": 1,
+      "item": "Production domain",
+      "status": "Verified intended destination",
+      "evidence": "https://www.papertrailusa.com. No production domain activation performed."
+    },
+    {
+      "number": 2,
+      "item": "Root domain",
+      "status": "Verified intended destination",
+      "evidence": "https://papertrailusa.com. No DNS changes performed."
+    },
+    {
+      "number": 3,
+      "item": "Completion",
+      "status": "Incomplete acceptance",
+      "evidence": "Local implementation and packages are complete. Updated hosted preview, real form submission, CRM receipt, exact new DNS records and redirect setup remain blocked."
+    },
+    {
+      "number": 4,
+      "item": "Desktop and mobile",
+      "status": "Passed local checks",
+      "evidence": "60 complete chat delivery simulations and 60 expanded menu checks across 390, 834 and 1440 pixel widths in English plus all nine languages. Zero observed exceptions, page overflow or menu scrollbars. Chat answer and step restoration checks pass."
+    },
+    {
+      "number": 5,
+      "item": "Approved pages",
+      "status": "Prepared locally",
+      "evidence": "192 English pages plus 1,728 translated copies. The 50 English state drafts and 450 copies retain noindex and remain excluded from sitemaps pending factual approval. See the separate state review; do not describe those drafts as publication approved."
+    },
+    {
+      "number": 6,
+      "item": "Languages",
+      "status": "Saved Google results",
+      "evidence": "Spanish, Persian, Armenian, Simplified Chinese, Korean, Tagalog, Telugu, Russian and Arabic. Machine translation is not a native speaker quality review; that review remains pending."
+    },
+    {
+      "number": 7,
+      "item": "Saved translation count",
+      "status": "Verified",
+      "evidence": "33,615 current source and language pairs for 3,735 distinct source strings, plus 1,728 saved HTML copies. Historical successful request characters: 5,219,613. All four capture labels were found in saved Google results; the approved extra 160 characters were not dispatched. The custom capture screen was removed because the PDF requires the original supplied form."
+    },
+    {
+      "number": 8,
+      "item": "Translation storage",
+      "status": "Verified local files",
+      "evidence": "Current revision 1c2864ace09fd859c73e4bc355cd213264adf308ceaa4f4e5652d26ff04c8c0a. Public immutable fields, runtime dictionaries, static page copies, and private local response receipts are listed below."
+    },
+    {
+      "number": 9,
+      "item": "Repeat visitor charges",
+      "status": "Verified tested behavior",
+      "evidence": "All browser tests recorded zero Google Translation API requests. Visitors use static files and saved dictionaries. New English content needs an explicit authoring inventory and build, with separate approval before any paid missing text is sent."
+    },
+    {
+      "number": 10,
+      "item": "Translation costs",
+      "status": "Estimate, not invoice",
+      "evidence": "Historical Paper Trail ledger: 1,243 requests and 5,224,084 reserved characters, including the failed 4,471 character request. Conservative estimate $104.48168 before allowances or trial credit. Successful saved characters 5,219,613. No new Paper Trail translation request in this readiness work. Actual Google invoice and remaining $300 trial balance are not verified."
+    },
+    {
+      "number": 11,
+      "item": "Spending protection",
+      "status": "Verified application guard; limited scope",
+      "evidence": "Existing shared ongoing workflow warns at $15 and pauses at $20 for coordinated callers. Current conservative ongoing estimate $10.05400. This is not a Google account wide hard cap. Existing Cloud project budget has $12 and $15 alert thresholds with default IAM recipients enabled and credits included. DommyDom initial accounting remains separate. No new subscription or automated email translator configured."
+    },
+    {
+      "number": 12,
+      "item": "Daily quota",
+      "status": "Unchanged",
+      "evidence": "Read only quota inspection found the daily default unlimited value. No quota reduction or settings mutation was made."
+    },
+    {
+      "number": 13,
+      "item": "Hosting and DNS providers",
+      "status": "Verified existing metadata",
+      "evidence": "Existing private ChatGPT Sites project appgprj_6ac9d3f3f6c48191adac8c60d6bbe057, existing version 13. Authoritative DNS is GoDaddy, ns69.domaincontrol.com and ns70.domaincontrol.com."
+    },
+    {
+      "number": 14,
+      "item": "Repository and branch",
+      "status": "Verified locally",
+      "evidence": "https://github.com/dmduncananalyst/paper-trail.git, branch main. No Git commit exists yet locally. No commit, stage or push performed."
+    },
+    {
+      "number": 15,
+      "item": "Build and deployment",
+      "status": "Local build passed; deployment blocked",
+      "evidence": "Prepared static staging archive contains all 1,920 HTML pages and 2,247 public files. Every staging HTML page has noindex,nofollow and staging robots disallows crawling. Production source directives are preserved in the recovery archive. No updated hosting deployment occurred."
+    },
+    {
+      "number": 16,
+      "item": "Preview URL",
+      "status": "Existing preview only, updated build unverified",
+      "evidence": "https://paper-trail-bookkeeping.desiraemduncan.chatgpt.site. Existing private owner access and old version 13 were inspected as metadata. This URL has not received the current prepared build, and no hosted form acceptance is claimed. Local tested preview is http://127.0.0.1:8765/ and depends on this computer."
+    },
+    {
+      "number": 17,
+      "item": "GoDaddy DNS records",
+      "status": "New target records unavailable",
+      "evidence": "Read only current DNS snapshot is linked below. Root A has four GitHub Pages addresses and two parking addresses; www CNAME currently points to dmduncanalyst.github.io. Those are existing values, not new recommended values. Hosting issued required records cannot be provided until pending domain preparation is allowed. Preserve MX, TXT and nameservers."
+    },
+    {
+      "number": 18,
+      "item": "SSL and HTTPS",
+      "status": "Pending domain preparation",
+      "evidence": "Custom domain is not attached and no production certificate readiness is verified. After the owner connects approved DNS, verify certificate issuance and HTTPS on both root and www."
+    },
+    {
+      "number": 19,
+      "item": "Root redirect",
+      "status": "Not configured or verified",
+      "evidence": "Intended canonical origin is www. Hosting redirect configuration was not accessible because source checkout was blocked. Configure and verify HTTP and root redirects to https://www.papertrailusa.com without redirect chains before claiming readiness."
+    },
+    {
+      "number": 20,
+      "item": "Backup and recovery",
+      "status": "Created and verified",
+      "evidence": "Local recovery archive and staging archive are linked below. CRC checks and all 2,247 public SHA256 hashes were verified. The instruction PDF, account credentials, private shared ledger and .git are excluded. Extract recovery into a separate directory, verify public-sha256.json, and serve public/. Never publish authoring/ or the recovery archive."
+    },
+    {
+      "number": 21,
+      "item": "Missing approvals and access",
+      "status": "Blocking",
+      "evidence": "Automatic review rejected the Sites source helper credential handoff and custom domain registration. The first review cited a write capable credential sent to a terminal outside the managed proxy. The second treated the domain operation as a prohibited persistent hosting change. No rejected operation was bypassed. HubSpot app/account access is not connected; portal receipt cannot be inspected."
+    },
+    {
+      "number": 22,
+      "item": "Remaining before launch",
+      "status": "Multiple requirements remain",
+      "evidence": "Authorize the constrained private Sites preview operation and pending domain setup, connect the correct HubSpot account, deploy the prepared preview, fill and submit a labeled real inquiry, verify its CRM receipt, obtain actual provider DNS values, configure root redirect, finish state factual and language quality review where publication requires approval. Owner handles GitHub and live publication. After DNS, separately repeat HTTPS, redirect, indexing, sitemap and live form acceptance checks."
+    },
+    {
+      "number": 23,
+      "item": "Supplied HubSpot form acceptance",
+      "status": "HubSpot receipt not verified",
+      "evidence": "Original portal 247103073, form a625ce56-9bc6-41c4-b5c0-745d600cdc21, verified public form region na2. Actual public form definition was inspected read only. Required first name, email, phone, company and message plus optional last name are mapped to the original form properties. No visible consent checkbox existed in the inspected supplied form. The preserved selected language chat passed simulated delivery tests with exact original Unicode message preservation. A custom capture screen was removed. Actual supplied form multilingual configuration and fill/submit acceptance are NOT complete and require account access. Real hosted submission timestamp: none. Real submission confirmation: none. Saved CRM evidence: none. Test email authorized: salesstartweb7@gmail.com. Mandatory live-domain recheck remains separate."
+    }
+  ],
+  "file_locations": {
+    "Project folder": "C:\\Users\\its old\\OneDrive\\Documents\\GitHub\\paper-trail",
+    "English sources": "*.html and state-records/*.html",
+    "Language HTML": "es/, fa/, hy/, zh-CN/, ko/, tl/, te/, ru/, ar/",
+    "Translation runner": "tools/paper-trail-translations.py",
+    "Current permanent translation revision": "assets/translation-workflow/current.json",
+    "Permanent Google field results": "assets/translation-workflow/releases/1c2864ace09fd859c73e4bc355cd213264adf308ceaa4f4e5652d26ff04c8c0a/fields.json",
+    "Runtime translated chat and form copy": "assets/locales/home-blog/current.js and chat.json",
+    "Language configuration and source copy": "assets/locales/home-blog/en.json, nine locale JSON files and manifest.json",
+    "Private Google response evidence": ".translation-cache/provider-responses/",
+    "Existing chat UI": "assets/site.js",
+    "HubSpot destination and payload": "assets/hubspot.js",
+    "Layout and menu configuration": "assets/design.css and assets/design.js",
+    "Language route preservation": "assets/translation-workflow/navigation.js and routes.js",
+    "Production sitemap and robots": "sitemap.xml, sitemap-translations.xml, robots.txt",
+    "Private shared budget reference": "~/translation-budget/shared-usage.sqlite, not included in public files",
+    "Existing private Google connection": "Existing gcloud login through sibling sun-and-sage/scripts/translation_pipeline/connection.py; no credential values are recorded here",
+    "Hosting configuration": "Existing Sites project metadata only. No new .openai/hosting.json or build settings are claimed because the source helper did not open",
+    "Read only Cloud and DNS evidence": "verification/dns-readiness-20261016/cloud-configuration-checks.json and dns-current.json",
+    "Backup creation and recovery": "tools/package-readiness.py, .release/paper-trail-recovery.zip, .release/paper-trail-staging.zip",
+    "Current workflow documentation": "tools/TRANSLATION-WORKFLOW.txt and Paper-Trail-Saved-Google-Translations.txt"
+  },
+  "packages": {
+    "public_files": 2247,
+    "public_html_pages": 1920,
+    "pdf_included": false,
+    "credentials_included": false,
+    "published": false,
+    "archive_checks": {
+      "staging": {
+        "path": ".release/paper-trail-staging.zip",
+        "bytes": 91516637,
+        "sha256": "cab55ca74e793d7f0c30c0fda44dc7918f1cdb7021be4cee9f22aa035190d3c8",
+        "crc_verified": true,
+        "entries": 2247
+      },
+      "recovery": {
+        "path": ".release/paper-trail-recovery.zip",
+        "bytes": 99327479,
+        "sha256": "21b0c52f42361d7a10717883f96b554d7776405cc710d542f334c856abc7068e",
+        "crc_verified": true,
+        "entries": 3606
+      }
+    },
+    "recovery_hashes_verified": true
+  },
+  "no_google_calls_this_work": true,
+  "real_hubspot_submissions": 0,
+  "hubspot_receipt": "not verified",
+  "offline_translation_tests": {
+    "tests": 9,
+    "result": "passed"
+  }
+}

@@ -1,0 +1,44 @@
+Paper Trail saved Google translation workflow, current October 16, 2026
+
+This replaces the former Home and Blog only workflow described in earlier copies.
+192 English source pages have nine saved language copies each. Google is not
+called by visitors. Languages: Spanish, Persian, Armenian, Simplified Chinese,
+Korean, Tagalog, Telugu, Russian and Arabic. Native speaker review is pending.
+
+Run tools/paper-trail-translations.py --mode inventory to count missing fields.
+Run --mode prepare to rebuild exclusively from saved results, with no Google
+translation requests. Missing strings block generation until translated.
+New and edited Blog content is discovered during this explicit build, not by a
+watcher. The runner does not commit, push or deploy anything.
+
+Paid dispatch requires the owner's separate scope approval, then --mode refresh
+--approve-google-calls. Never use that flag just to prepare or verify a site.
+The shared existing ledger is ~/translation-budget/shared-usage.sqlite.
+Ongoing coordinated calls warn at $15 and pause at $20. This application pause
+is not an account wide Google billing cap. Google credits and actual invoices
+must be checked separately. DommyDom's initial allocation remains independent.
+StartWeb7 is not connected to this website's dispatch workflow.
+
+Permanent public results: assets/translation-workflow/current.json and the
+corresponding releases/<revision>/fields.json. Runtime UI and chat results:
+assets/locales/home-blog/current.js, chat.json, locale JSON and manifest.json.
+Private local provider receipts: .translation-cache/provider-responses.
+The loader can restore existing fields directly from the current public release
+if local compacted cache and provider receipts are absent. It also reads matching
+saved Google results from DommyDom without modifying that project.
+
+Backup and recovery: use the local recovery archive described in
+verification/dns-readiness-20261016/readiness.html. Unzip into a separate recovery
+directory, verify SHA256 against its manifest, and serve the static public folder.
+No Google credential is required to display the translated website. Authoring
+requires the existing sibling sun-and-sage/scripts/translation_pipeline modules
+and the private shared ledger for budget status. Do not include private credentials
+or this instruction PDF in a public deployment.
+
+The original HubSpot portal and form identifiers and current chat path are retained.
+Chat answers remain in this browser tab's sessionStorage across reloads and
+language navigation. No visitor text is sent for translation. The actual supplied
+HubSpot widget was inspected read only. No custom replacement capture form is
+provided. Its selected language configuration, hosted preview fill and submission,
+and saved CRM receipt require connected HubSpot account access before acceptance.
+A successful browser response alone does not prove receipt in HubSpot.

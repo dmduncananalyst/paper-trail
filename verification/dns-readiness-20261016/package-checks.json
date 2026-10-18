@@ -1,0 +1,24 @@
+{
+  "public_files": 2247,
+  "public_html_pages": 1920,
+  "pdf_included": false,
+  "credentials_included": false,
+  "published": false,
+  "archive_checks": {
+    "staging": {
+      "path": ".release/paper-trail-staging.zip",
+      "bytes": 91516637,
+      "sha256": "cab55ca74e793d7f0c30c0fda44dc7918f1cdb7021be4cee9f22aa035190d3c8",
+      "crc_verified": true,
+      "entries": 2247
+    },
+    "recovery": {
+      "path": ".release/paper-trail-recovery.zip",
+      "bytes": 99327479,
+      "sha256": "21b0c52f42361d7a10717883f96b554d7776405cc710d542f334c856abc7068e",
+      "crc_verified": true,
+      "entries": 3606
+    }
+  },
+  "recovery_hashes_verified": true
+}

@@ -1,0 +1,197 @@
+﻿[
+    {
+        "records":  [
+                        {
+                            "Name":  "papertrailusa.com",
+                            "Type":  2,
+                            "TTL":  3600,
+                            "NameHost":  "ns70.domaincontrol.com",
+                            "IPAddress":  null,
+                            "NameExchange":  null,
+                            "Preference":  null,
+                            "Strings":  null
+                        },
+                        {
+                            "Name":  "papertrailusa.com",
+                            "Type":  2,
+                            "TTL":  3600,
+                            "NameHost":  "ns69.domaincontrol.com",
+                            "IPAddress":  null,
+                            "NameExchange":  null,
+                            "Preference":  null,
+                            "Strings":  null
+                        },
+                        {
+                            "Name":  "ns69.domaincontrol.com",
+                            "Type":  1,
+                            "TTL":  81078,
+                            "NameHost":  null,
+                            "IPAddress":  "97.74.104.45",
+                            "NameExchange":  null,
+                            "Preference":  null,
+                            "Strings":  null
+                        },
+                        {
+                            "Name":  "ns70.domaincontrol.com",
+                            "Type":  1,
+                            "TTL":  81076,
+                            "NameHost":  null,
+                            "IPAddress":  "173.201.72.45",
+                            "NameExchange":  null,
+                            "Preference":  null,
+                            "Strings":  null
+                        }
+                    ],
+        "name":  "papertrailusa.com",
+        "type":  "NS"
+    },
+    {
+        "records":  [
+                        {
+                            "Name":  "papertrailusa.com",
+                            "Type":  1,
+                            "TTL":  600,
+                            "NameHost":  null,
+                            "IPAddress":  "185.199.111.153",
+                            "NameExchange":  null,
+                            "Preference":  null,
+                            "Strings":  null
+                        },
+                        {
+                            "Name":  "papertrailusa.com",
+                            "Type":  1,
+                            "TTL":  600,
+                            "NameHost":  null,
+                            "IPAddress":  "185.199.109.153",
+                            "NameExchange":  null,
+                            "Preference":  null,
+                            "Strings":  null
+                        },
+                        {
+                            "Name":  "papertrailusa.com",
+                            "Type":  1,
+                            "TTL":  600,
+                            "NameHost":  null,
+                            "IPAddress":  "3.33.130.190",
+                            "NameExchange":  null,
+                            "Preference":  null,
+                            "Strings":  null
+                        },
+                        {
+                            "Name":  "papertrailusa.com",
+                            "Type":  1,
+                            "TTL":  600,
+                            "NameHost":  null,
+                            "IPAddress":  "15.197.148.33",
+                            "NameExchange":  null,
+                            "Preference":  null,
+                            "Strings":  null
+                        },
+                        {
+                            "Name":  "papertrailusa.com",
+                            "Type":  1,
+                            "TTL":  600,
+                            "NameHost":  null,
+                            "IPAddress":  "185.199.108.153",
+                            "NameExchange":  null,
+                            "Preference":  null,
+                            "Strings":  null
+                        },
+                        {
+                            "Name":  "papertrailusa.com",
+                            "Type":  1,
+                            "TTL":  600,
+                            "NameHost":  null,
+                            "IPAddress":  "185.199.110.153",
+                            "NameExchange":  null,
+                            "Preference":  null,
+                            "Strings":  null
+                        }
+                    ],
+        "name":  "papertrailusa.com",
+        "type":  "A"
+    },
+    {
+        "records":  [
+                        {
+                            "Name":  "papertrailusa.com",
+                            "Type":  6,
+                            "TTL":  30,
+                            "NameHost":  null,
+                            "IPAddress":  null,
+                            "NameExchange":  null,
+                            "Preference":  null,
+                            "Strings":  null
+                        }
+                    ],
+        "name":  "papertrailusa.com",
+        "type":  "AAAA"
+    },
+    {
+        "records":  [
+                        {
+                            "Name":  "www.papertrailusa.com",
+                            "Type":  5,
+                            "TTL":  3600,
+                            "NameHost":  "dmduncanalyst.github.io",
+                            "IPAddress":  null,
+                            "NameExchange":  null,
+                            "Preference":  null,
+                            "Strings":  null
+                        }
+                    ],
+        "name":  "www.papertrailusa.com",
+        "type":  "CNAME"
+    },
+    {
+        "records":  [
+                        {
+                            "Name":  "papertrailusa.com",
+                            "Type":  15,
+                            "TTL":  3600,
+                            "NameHost":  null,
+                            "IPAddress":  null,
+                            "NameExchange":  "papertrailusa-com.mail.protection.outlook.com",
+                            "Preference":  0,
+                            "Strings":  null
+                        }
+                    ],
+        "name":  "papertrailusa.com",
+        "type":  "MX"
+    },
+    {
+        "records":  [
+                        {
+                            "Name":  "papertrailusa.com",
+                            "Type":  16,
+                            "TTL":  3600,
+                            "NameHost":  null,
+                            "IPAddress":  null,
+                            "NameExchange":  null,
+                            "Preference":  null,
+                            "Strings":  [
+                                            "v=spf1 include:secureserver.net -all"
+                                        ]
+                        },
+                        {
+                            "Name":  "papertrailusa.com",
+                            "Type":  16,
+                            "TTL":  3600,
+                            "NameHost":  null,
+                            "IPAddress":  null,
+                            "NameExchange":  null,
+                            "Preference":  null,
+                            "Strings":  [
+                                            "NETORGFT21199820.onmicrosoft.com"
+                                        ]
+                        }
+                    ],
+        "name":  "papertrailusa.com",
+        "type":  "TXT"
+    },
+    {
+        "error":  "Cannot bind parameter \u0027Type\u0027. Cannot convert value \"CAA\" to type \"Microsoft.DnsClient.Commands.RecordType\". Error: \"Unable to match the identifier name CAA to a valid enumerator name. Specify one of the following enumerator names and try again:\r\nUNKNOWN, A_AAAA, A, NS, MD, MF, CNAME, SOA, MB, MG, MR, NULL, WKS, PTR, HINFO, MINFO, MX, TXT, RP, AFSDB, X25, ISDN, RT, AAAA, SRV, DNAME, OPT, DS, RRSIG, NSEC, DNSKEY, DHCID, NSEC3, NSEC3PARAM, ANY, ALL, WINS\"",
+        "name":  "papertrailusa.com",
+        "type":  "CAA"
+    }
+]

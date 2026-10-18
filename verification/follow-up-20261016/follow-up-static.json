@@ -1,0 +1,13 @@
+{
+  "website_pages": 192,
+  "chat_configurations": 136,
+  "issues": [],
+  "blog_dates_owner_confirmed": "Published 10/16/2026",
+  "source_audit": "Every state section now has nonempty references. General examples cite IRS recordkeeping with an explicit general practice qualification. State requirements retain their original government citations.",
+  "new_source": {
+    "url": "https://www.irs.gov/businesses/small-businesses-self-employed/recordkeeping",
+    "retrieved": "2026-10-16",
+    "result": "Official page retrieved successfully through web tool"
+  },
+  "source_access_limitations": "Previous full source check still has 29 HTTP 403 and 22 certificate or access limitations. No sources were silently treated as verified claims."
+}

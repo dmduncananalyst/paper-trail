@@ -1,0 +1,23 @@
+﻿{
+    "exceptions":  [
+
+                   ],
+    "requests":  [
+                     "http://127.0.0.1:8765/blog.html",
+                     "http://127.0.0.1:8765/assets/site.css",
+                     "http://127.0.0.1:8765/assets/presentation.css",
+                     "http://127.0.0.1:8765/assets/design.css?v=localized-chat-20261016",
+                     "http://127.0.0.1:8765/assets/local-review-safety.js",
+                     "http://127.0.0.1:8765/assets/locales/home-blog/current.js?v=localized-chat-20261016",
+                     "http://127.0.0.1:8765/assets/fonts/dm-sans.ttf",
+                     "http://127.0.0.1:8765/assets/photos/catch-up-bookkeeping-overdue-books-html.webp",
+                     "http://127.0.0.1:8765/assets/fonts/libre-caslon-display.ttf",
+                     "http://127.0.0.1:8765/assets/images/paper-trail-logo.png",
+                     "http://127.0.0.1:8765/assets/photos/profit-vs-cash-flow-business-money-html.webp",
+                     "http://127.0.0.1:8765/assets/photos/tax-ready-bookkeeping-html.webp",
+                     "http://127.0.0.1:8765/assets/site.js?v=localized-chat-20261016",
+                     "http://127.0.0.1:8765/assets/design.js?v=localized-chat-20261016",
+                     "http://127.0.0.1:8765/favicon.ico",
+                     "http://127.0.0.1:8765/assets/hubspot.js?v=localized-chat-20261016"
+                 ]
+}

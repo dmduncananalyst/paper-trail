@@ -1,0 +1,18 @@
+﻿[
+    {
+        "page":  "about.html",
+        "markup":  "\u003cvideo autoplay muted loop playsinline preload=\"metadata\" poster=\"assets/video/about-poster.webp\" aria-label=\"About Paper Trail video\"\u003e\u003csource src=\"assets/video/about.mp4\" type=\"video/mp4\"/\u003e\u003c/video\u003e"
+    },
+    {
+        "page":  "index.html",
+        "markup":  "\u003cvideo autoplay muted loop playsinline preload=\"metadata\" poster=\"assets/video/home-poster.webp\" aria-label=\"More Than Bookkeeping video\"\u003e\u003csource src=\"assets/video/home.mp4\" type=\"video/mp4\"/\u003e\u003c/video\u003e"
+    },
+    {
+        "page":  "paper-trail-monthly-bookkeeping.html",
+        "markup":  "\u003cvideo autoplay muted loop playsinline preload=\"metadata\" poster=\"assets/video/monthly-poster.webp\" aria-label=\"Monthly Bookkeeping Services video\"\u003e\u003csource src=\"assets/video/monthly.mp4\" type=\"video/mp4\"/\u003e\u003c/video\u003e"
+    },
+    {
+        "page":  "paper-trail-services.html",
+        "markup":  "\u003cvideo autoplay muted loop playsinline preload=\"metadata\" poster=\"assets/video/repair-poster.webp\" aria-label=\"Bookkeeping Repair Services video\"\u003e\u003csource src=\"assets/video/repair.mp4\" type=\"video/mp4\"/\u003e\u003c/video\u003e"
+    }
+]

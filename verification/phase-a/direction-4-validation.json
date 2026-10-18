@@ -1,0 +1,267 @@
+﻿{
+    "home":  {
+                 "locales":  [
+                                 {
+                                     "code":  "en",
+                                     "lang":  "en",
+                                     "dir":  "ltr",
+                                     "gaps":  [
+
+                                              ],
+                                     "notice":  false,
+                                     "width":  1440,
+                                     "scrollWidth":  1425,
+                                     "heading":  "Bookkeeping"
+                                 },
+                                 {
+                                     "code":  "es",
+                                     "lang":  "es",
+                                     "dir":  "ltr",
+                                     "gaps":  [
+
+                                              ],
+                                     "notice":  true,
+                                     "width":  1440,
+                                     "scrollWidth":  1425,
+                                     "heading":  "Contabilidad"
+                                 },
+                                 {
+                                     "code":  "fa",
+                                     "lang":  "fa",
+                                     "dir":  "rtl",
+                                     "gaps":  [
+
+                                              ],
+                                     "notice":  true,
+                                     "width":  1440,
+                                     "scrollWidth":  1425,
+                                     "heading":  "دفترداری"
+                                 },
+                                 {
+                                     "code":  "hy",
+                                     "lang":  "hy",
+                                     "dir":  "ltr",
+                                     "gaps":  [
+
+                                              ],
+                                     "notice":  true,
+                                     "width":  1440,
+                                     "scrollWidth":  1425,
+                                     "heading":  "Հաշվապահություն"
+                                 },
+                                 {
+                                     "code":  "zh-CN",
+                                     "lang":  "zh-CN",
+                                     "dir":  "ltr",
+                                     "gaps":  [
+
+                                              ],
+                                     "notice":  true,
+                                     "width":  1440,
+                                     "scrollWidth":  1425,
+                                     "heading":  "记账"
+                                 },
+                                 {
+                                     "code":  "ko",
+                                     "lang":  "ko",
+                                     "dir":  "ltr",
+                                     "gaps":  [
+
+                                              ],
+                                     "notice":  true,
+                                     "width":  1440,
+                                     "scrollWidth":  1425,
+                                     "heading":  "장부 관리"
+                                 },
+                                 {
+                                     "code":  "tl",
+                                     "lang":  "tl",
+                                     "dir":  "ltr",
+                                     "gaps":  [
+
+                                              ],
+                                     "notice":  true,
+                                     "width":  1440,
+                                     "scrollWidth":  1425,
+                                     "heading":  "Bookkeeping"
+                                 },
+                                 {
+                                     "code":  "te",
+                                     "lang":  "te",
+                                     "dir":  "ltr",
+                                     "gaps":  [
+
+                                              ],
+                                     "notice":  true,
+                                     "width":  1440,
+                                     "scrollWidth":  1425,
+                                     "heading":  "బుక్‌కీపింగ్"
+                                 },
+                                 {
+                                     "code":  "ru",
+                                     "lang":  "ru",
+                                     "dir":  "ltr",
+                                     "gaps":  [
+
+                                              ],
+                                     "notice":  true,
+                                     "width":  1440,
+                                     "scrollWidth":  1425,
+                                     "heading":  "Бухгалтерский учёт"
+                                 },
+                                 {
+                                     "code":  "ar",
+                                     "lang":  "ar",
+                                     "dir":  "rtl",
+                                     "gaps":  [
+
+                                              ],
+                                     "notice":  true,
+                                     "width":  1440,
+                                     "scrollWidth":  1425,
+                                     "heading":  "مسك الدفاتر"
+                                 }
+                             ],
+                 "languageChoices":  10,
+                 "keyboardOpens":  true,
+                 "escapeCloses":  true,
+                 "emailOpens":  true,
+                 "chatOpens":  true,
+                 "playing":  true,
+                 "paused":  true,
+                 "resumes":  true,
+                 "source":  "http://127.0.0.1:8765/assets/video/home.mp4",
+                 "uniqueIcons":  true,
+                 "nav":  [
+                             "Home",
+                             "About",
+                             "Bookkeeping Repair",
+                             "Monthly Bookkeeping",
+                             "Notes",
+                             "Blog",
+                             "Contact Us"
+                         ],
+                 "footerLogo":  false,
+                 "providerCalls":  0
+             },
+    "notes":  {
+                  "states":  [
+                                 {
+                                     "code":  "en",
+                                     "dir":  "ltr",
+                                     "scrollWidth":  390,
+                                     "width":  390,
+                                     "gaps":  [
+
+                                              ],
+                                     "h1":  "Notes"
+                                 },
+                                 {
+                                     "code":  "es",
+                                     "dir":  "ltr",
+                                     "scrollWidth":  390,
+                                     "width":  390,
+                                     "gaps":  [
+
+                                              ],
+                                     "h1":  "Notas"
+                                 },
+                                 {
+                                     "code":  "fa",
+                                     "dir":  "rtl",
+                                     "scrollWidth":  390,
+                                     "width":  390,
+                                     "gaps":  [
+
+                                              ],
+                                     "h1":  "یادداشت‌ها"
+                                 },
+                                 {
+                                     "code":  "hy",
+                                     "dir":  "ltr",
+                                     "scrollWidth":  391,
+                                     "width":  391,
+                                     "gaps":  [
+
+                                              ],
+                                     "h1":  "Նշումներ"
+                                 },
+                                 {
+                                     "code":  "zh-CN",
+                                     "dir":  "ltr",
+                                     "scrollWidth":  390,
+                                     "width":  390,
+                                     "gaps":  [
+
+                                              ],
+                                     "h1":  "笔记"
+                                 },
+                                 {
+                                     "code":  "ko",
+                                     "dir":  "ltr",
+                                     "scrollWidth":  390,
+                                     "width":  390,
+                                     "gaps":  [
+
+                                              ],
+                                     "h1":  "노트"
+                                 },
+                                 {
+                                     "code":  "tl",
+                                     "dir":  "ltr",
+                                     "scrollWidth":  390,
+                                     "width":  390,
+                                     "gaps":  [
+
+                                              ],
+                                     "h1":  "Mga Tala"
+                                 },
+                                 {
+                                     "code":  "te",
+                                     "dir":  "ltr",
+                                     "scrollWidth":  390,
+                                     "width":  390,
+                                     "gaps":  [
+
+                                              ],
+                                     "h1":  "గమనికలు"
+                                 },
+                                 {
+                                     "code":  "ru",
+                                     "dir":  "ltr",
+                                     "scrollWidth":  390,
+                                     "width":  390,
+                                     "gaps":  [
+
+                                              ],
+                                     "h1":  "Заметки"
+                                 },
+                                 {
+                                     "code":  "ar",
+                                     "dir":  "rtl",
+                                     "scrollWidth":  390,
+                                     "width":  390,
+                                     "gaps":  [
+
+                                              ],
+                                     "h1":  "ملاحظات"
+                                 }
+                             ],
+                  "topics":  12,
+                  "noBreadcrumbs":  true,
+                  "noIntro":  true,
+                  "saved":  "ar"
+              },
+    "retention":  {
+                      "lang":  "ar",
+                      "selected":  "ar",
+                      "width":  390,
+                      "scrollWidth":  390
+                  },
+    "blog":  {
+                 "stories":  3,
+                 "hiddenStories":  0,
+                 "tabs":  0,
+                 "englishOnly":  true
+             }
+}

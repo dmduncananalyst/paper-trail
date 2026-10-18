@@ -1,0 +1,239 @@
+﻿[
+    {
+        "width":  1440,
+        "scrollWidth":  1425,
+        "allFooterLinksUnderlined":  true,
+        "clickableCount":  17,
+        "cityCount":  10,
+        "citiesUnderlined":  true,
+        "cityTargets":  [
+                            {
+                                "text":  "Burbank",
+                                "href":  "bookkeeping-burbank.html"
+                            },
+                            {
+                                "text":  "Culver City",
+                                "href":  "bookkeeping-culver-city.html"
+                            },
+                            {
+                                "text":  "Hollywood",
+                                "href":  "bookkeeping-hollywood.html"
+                            },
+                            {
+                                "text":  "Chatsworth",
+                                "href":  "bookkeeping-chatsworth.html"
+                            },
+                            {
+                                "text":  "Glendale",
+                                "href":  "bookkeeping-glendale.html"
+                            },
+                            {
+                                "text":  "Santa Monica",
+                                "href":  "bookkeeping-santa-monica.html"
+                            },
+                            {
+                                "text":  "West Hollywood",
+                                "href":  "bookkeeping-west-hollywood.html"
+                            },
+                            {
+                                "text":  "Calabasas",
+                                "href":  "bookkeeping-calabasas.html"
+                            },
+                            {
+                                "text":  "Agoura Hills",
+                                "href":  "bookkeeping-agoura-hills.html"
+                            },
+                            {
+                                "text":  "Woodland Hills",
+                                "href":  "bookkeeping-woodland-hills.html"
+                            }
+                        ],
+        "footerTextAlign":  "start",
+        "contentCenters":  [
+                               {
+                                   "label":  "Nationwide – Based in Los Angeles.",
+                                   "center":  648.9453125,
+                                   "difference":  63.5546875
+                               },
+                               {
+                                   "label":  "818-934-0444",
+                                   "center":  1040.21875,
+                                   "difference":  327.71875
+                               },
+                               {
+                                   "label":  "bookkeeping@papertrailusa.com",
+                                   "center":  1210.703125,
+                                   "difference":  498.203125
+                               },
+                               {
+                                   "label":  "© 2026 Paper Trail. All rights reserved.",
+                                   "center":  210.3984375,
+                                   "difference":  502.1015625
+                               },
+                               {
+                                   "label":  "Web Design and SEO by StartWeb7",
+                                   "center":  1221.34375,
+                                   "difference":  508.84375
+                               }
+                           ],
+        "footerNavigation":  "normal"
+    },
+    {
+        "width":  390,
+        "scrollWidth":  390,
+        "allFooterLinksUnderlined":  true,
+        "clickableCount":  17,
+        "cityCount":  10,
+        "citiesUnderlined":  true,
+        "cityTargets":  [
+                            {
+                                "text":  "Burbank",
+                                "href":  "bookkeeping-burbank.html"
+                            },
+                            {
+                                "text":  "Culver City",
+                                "href":  "bookkeeping-culver-city.html"
+                            },
+                            {
+                                "text":  "Hollywood",
+                                "href":  "bookkeeping-hollywood.html"
+                            },
+                            {
+                                "text":  "Chatsworth",
+                                "href":  "bookkeeping-chatsworth.html"
+                            },
+                            {
+                                "text":  "Glendale",
+                                "href":  "bookkeeping-glendale.html"
+                            },
+                            {
+                                "text":  "Santa Monica",
+                                "href":  "bookkeeping-santa-monica.html"
+                            },
+                            {
+                                "text":  "West Hollywood",
+                                "href":  "bookkeeping-west-hollywood.html"
+                            },
+                            {
+                                "text":  "Calabasas",
+                                "href":  "bookkeeping-calabasas.html"
+                            },
+                            {
+                                "text":  "Agoura Hills",
+                                "href":  "bookkeeping-agoura-hills.html"
+                            },
+                            {
+                                "text":  "Woodland Hills",
+                                "href":  "bookkeeping-woodland-hills.html"
+                            }
+                        ],
+        "footerTextAlign":  "center",
+        "contentCenters":  [
+                               {
+                                   "label":  "Nationwide – Based in Los Angeles.",
+                                   "center":  194.9921875,
+                                   "difference":  0.0078125
+                               },
+                               {
+                                   "label":  "818-934-0444",
+                                   "center":  195,
+                                   "difference":  0
+                               },
+                               {
+                                   "label":  "bookkeeping@papertrailusa.com",
+                                   "center":  195,
+                                   "difference":  0
+                               },
+                               {
+                                   "label":  "© 2026 Paper Trail. All rights reserved.",
+                                   "center":  195,
+                                   "difference":  0
+                               },
+                               {
+                                   "label":  "Web Design and SEO by StartWeb7",
+                                   "center":  194.9921875,
+                                   "difference":  0.0078125
+                               }
+                           ],
+        "footerNavigation":  "center"
+    },
+    {
+        "width":  320,
+        "scrollWidth":  320,
+        "allFooterLinksUnderlined":  true,
+        "clickableCount":  17,
+        "cityCount":  10,
+        "citiesUnderlined":  true,
+        "cityTargets":  [
+                            {
+                                "text":  "Burbank",
+                                "href":  "bookkeeping-burbank.html"
+                            },
+                            {
+                                "text":  "Culver City",
+                                "href":  "bookkeeping-culver-city.html"
+                            },
+                            {
+                                "text":  "Hollywood",
+                                "href":  "bookkeeping-hollywood.html"
+                            },
+                            {
+                                "text":  "Chatsworth",
+                                "href":  "bookkeeping-chatsworth.html"
+                            },
+                            {
+                                "text":  "Glendale",
+                                "href":  "bookkeeping-glendale.html"
+                            },
+                            {
+                                "text":  "Santa Monica",
+                                "href":  "bookkeeping-santa-monica.html"
+                            },
+                            {
+                                "text":  "West Hollywood",
+                                "href":  "bookkeeping-west-hollywood.html"
+                            },
+                            {
+                                "text":  "Calabasas",
+                                "href":  "bookkeeping-calabasas.html"
+                            },
+                            {
+                                "text":  "Agoura Hills",
+                                "href":  "bookkeeping-agoura-hills.html"
+                            },
+                            {
+                                "text":  "Woodland Hills",
+                                "href":  "bookkeeping-woodland-hills.html"
+                            }
+                        ],
+        "footerTextAlign":  "center",
+        "contentCenters":  [
+                               {
+                                   "label":  "Nationwide – Based in Los Angeles.",
+                                   "center":  159.9921875,
+                                   "difference":  0.0078125
+                               },
+                               {
+                                   "label":  "818-934-0444",
+                                   "center":  160,
+                                   "difference":  0
+                               },
+                               {
+                                   "label":  "bookkeeping@papertrailusa.com",
+                                   "center":  160,
+                                   "difference":  0
+                               },
+                               {
+                                   "label":  "© 2026 Paper Trail. All rights reserved.",
+                                   "center":  160,
+                                   "difference":  0
+                               },
+                               {
+                                   "label":  "Web Design and SEO by StartWeb7",
+                                   "center":  159.9921875,
+                                   "difference":  0.0078125
+                               }
+                           ],
+        "footerNavigation":  "center"
+    }
+]

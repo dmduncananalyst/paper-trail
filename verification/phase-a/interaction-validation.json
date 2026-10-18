@@ -1,0 +1,78 @@
+﻿{
+    "menu":  {
+                 "clickOpens":  true,
+                 "escapeCloses":  true,
+                 "focusRestored":  true,
+                 "cards":  [
+                               {
+                                   "width":  342,
+                                   "height":  228
+                               },
+                               {
+                                   "width":  342,
+                                   "height":  228
+                               },
+                               {
+                                   "width":  342,
+                                   "height":  228
+                               },
+                               {
+                                   "width":  342,
+                                   "height":  228
+                               },
+                               {
+                                   "width":  342,
+                                   "height":  228
+                               },
+                               {
+                                   "width":  342,
+                                   "height":  228
+                               }
+                           ],
+                 "uniqueIcons":  6
+             },
+    "videos":  [
+                   {
+                       "src":  "../../assets/video/home.mp4",
+                       "duration":  5.875,
+                       "width":  1280,
+                       "height":  720,
+                       "playing":  true,
+                       "paused":  true,
+                       "error":  null
+                   },
+                   {
+                       "src":  "../../assets/video/about.mp4",
+                       "duration":  14,
+                       "width":  1280,
+                       "height":  720,
+                       "playing":  true,
+                       "paused":  true,
+                       "error":  null
+                   },
+                   {
+                       "src":  "../../assets/video/repair.mp4",
+                       "duration":  11.041667,
+                       "width":  1280,
+                       "height":  720,
+                       "playing":  true,
+                       "paused":  true,
+                       "error":  null
+                   },
+                   {
+                       "src":  "../../assets/video/monthly.mp4",
+                       "duration":  12.083333,
+                       "width":  1280,
+                       "height":  720,
+                       "playing":  true,
+                       "paused":  true,
+                       "error":  null
+                   }
+               ],
+    "existingChat":  {
+                         "opens":  true,
+                         "choices":  3,
+                         "closes":  true,
+                         "noSubmissionAttempted":  true
+                     }
+}
