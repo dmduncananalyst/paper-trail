@@ -532,6 +532,14 @@ html{overflow-y:scroll;scrollbar-gutter:stable}
 /* Universal saved language control and paired service actions. */
 .pt-preview .header-tools .language-control{margin:0 auto 0 0;flex:none;gap:8px}
 .pt-preview .header-tools .language-control select{width:120px;min-height:40px;font-size:14px}
+@media(max-width:650px){
+ .pt-preview .header-tools .language-control select{
+  -webkit-appearance:none;appearance:none;
+  padding-right:28px;
+  background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='8' viewBox='0 0 12 8'%3E%3Cpath d='m1 1 5 5 5-5' fill='none' stroke='%23fff' stroke-width='2'/%3E%3C/svg%3E");
+  background-repeat:no-repeat;background-position:right 10px center;background-size:12px 8px;
+ }
+}
 .pt-preview .header-tools .language-symbol{width:22px;height:22px;color:#fff}
 .pt-preview .header-tools{gap:18px}
 .pt-preview .service-notes{padding-bottom:0}
