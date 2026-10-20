@@ -1,0 +1,16 @@
+﻿{
+    "navigation":  true,
+    "menu":  true,
+    "failedDelivery":  {
+                           "status":  "We could not confirm delivery. Your note is still here. Please try again in a moment.",
+                           "choices":  [
+                                           "Try sending again",
+                                           "Change a detail"
+                                       ],
+                           "retained":  true
+                       },
+    "exceptions":  [
+
+                   ],
+    "anchor":  true
+}

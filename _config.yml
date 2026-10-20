@@ -1,0 +1,8 @@
+# Defense in depth if Pages is configured to build directly from the branch.
+exclude:
+  - tools
+  - verification
+  - "*.md"
+  - "*.csv"
+  - Paper-Trail-Saved-Google-Translations.txt
+  - START_HERE.txt

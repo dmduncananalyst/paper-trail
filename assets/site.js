@@ -63,16 +63,14 @@ window.PAPER_TRAIL_DIRECT_HUBSPOT=true;
   const key=steps[step].key;originalAnswers[key]=steps[step].choices?.includes(String(text))?t(String(text)):String(text);details[key]=value;log.querySelectorAll('.chat-question').forEach(e=>e.remove());bubble(displayAnswer(key,value),true);input.value='';if(el.dataset.editing){delete el.dataset.editing;step=steps.length}else{step++;if((key==='meeting'&&value==='Email me first')||(key==='availability'&&value==='Arrange by email')){details.availability='Arrange by email';while(['availability','meetingTime','timeZone'].includes(steps[step]?.key))step++}}show();
  }
  function publishedNote(value){
-  if(chatLanguage()!=='en'){bubble('Please include your bookkeeping question in your message so Paper Trail can follow up.');choices(['Continue my note'],()=>show());status.textContent=t('');return}
   const stop=new Set('what how can does should would could my the a an is are to of for and in it i me do with this that about business bookkeeping'.split(' '));
-  const tokens=t=>new Set((t.toLowerCase().match(/[a-z]+/g)||[]).filter(w=>!stop.has(w)));
-  const words=tokens(value);const ranked=(config.notes||[]).map(n=>({n,score:[...tokens(n.title)].filter(w=>words.has(w)).length})).sort((a,b)=>b.score-a.score);
-  if(ranked.length&&ranked[0].score>=2){const n=ranked[0].n;bubble(n.answer);const p=document.createElement('p');p.className='bubble';const a=document.createElement('a');a.href=n.url;a.textContent='Read the full note';p.append(a);for(const source of n.sources||[]){const ref=document.createElement('a');ref.href=source.url;ref.target='_blank';ref.rel='noopener';ref.textContent=source.title;ref.style.display='block';ref.style.fontSize='11px';p.append(ref)}log.append(p);log.scrollTop=log.scrollHeight;requestAnimationFrame(()=>{log.scrollTop=log.scrollHeight});status.textContent=t('');choices(['Continue my note'],()=>show());}
+  const tokens=text=>new Set((text.toLowerCase().match(/[\p{L}\p{N}]+/gu)||[]).filter(w=>!stop.has(w)));
+  const words=tokens(value);const ranked=(config.notes||[]).map(n=>({n,score:value===n.title||value===t(n.title)?Infinity:[...tokens(t(n.title))].filter(w=>words.has(w)).length})).sort((a,b)=>b.score-a.score);
+  if(ranked.length&&ranked[0].score>=2){const n=ranked[0].n;bubble(n.answer);const p=document.createElement('p');p.className='bubble';const a=document.createElement('a');a.href=n.url;a.textContent=t('Read the full note');p.append(a);for(const source of n.sources||[]){const ref=document.createElement('a');ref.href=source.url;ref.target='_blank';ref.rel='noopener';ref.textContent=t(source.title);ref.style.display='block';ref.style.fontSize='11px';p.append(ref)}log.append(p);log.scrollTop=log.scrollHeight;requestAnimationFrame(()=>{log.scrollTop=log.scrollHeight});status.textContent=t('');choices(['Continue my note'],()=>show());}
   else{bubble('These published notes may help. Choose one, or continue telling us about your business.');choices([...(config.notes||[]).slice(0,3).map(n=>n.title),'Continue my note'],v=>v==='Continue my note'?show():publishedNote(v));status.textContent=t('');}
  }
  async function ask(value){busy=true;input.value='';log.querySelectorAll('.chat-question').forEach(e=>e.remove());bubble(value,true);status.textContent=t('One moment…');send.disabled=true;options.replaceChildren();
-  try{if(chatLanguage()!=='en'){publishedNote(value);return}if(location.protocol==='file:')throw new Error('Answers are available on the connected website. You can continue preparing your note.');const r=await fetch('/api/chat',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({page:config.page,message:value})});const d=await r.json();if(!r.ok)throw new Error(d.error);bubble(d.reply);status.textContent=t('');}
-  catch(e){publishedNote(value)}
+  try{publishedNote(value);saveConversation();}
   finally{busy=false;send.disabled=false;if(!options.children.length)choices(['Continue my note'],()=>show());}
  }
  async function submitNote(){if(busy)return;busy=true;choices([]);status.textContent=t('Sending your note…');
