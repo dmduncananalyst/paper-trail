@@ -1,0 +1,26 @@
+{
+  "articles": [
+    {
+      "article": "the-real-cost-of-monthly-bookkeeping-for-small-businesses.html",
+      "sections": 7,
+      "complete_text": true,
+      "references": 2,
+      "local_links_and_assets_http_200": 56,
+      "photo_unchanged": true,
+      "seo_verified": true
+    },
+    {
+      "article": "the-point-when-managing-your-own-books-stops-making-sense.html",
+      "sections": 7,
+      "complete_text": true,
+      "references": 2,
+      "local_links_and_assets_http_200": 56,
+      "photo_unchanged": true,
+      "seo_verified": true
+    }
+  ],
+  "existing_cards_preserved": 3,
+  "unrelated_tracked_files_unchanged": true,
+  "translation_status": "Blocked: existing workflow imports absent sun-and-sage/scripts/translation_pipeline. Both inventory and prepare raise ModuleNotFoundError. No replacement or paid calls made.",
+  "publication": "Local only. No commits, pushes, deployment, or live form submissions."
+}

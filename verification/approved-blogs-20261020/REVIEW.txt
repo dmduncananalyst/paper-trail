@@ -1,0 +1,22 @@
+LOCAL REVIEW, October 20, 2026
+
+Added both complete articles from Paper_Trail_Two_Blogs_UPDATED_PHOTO_NAMES.pdf.
+
+1. The Real Cost of Monthly Bookkeeping for Small Businesses
+   the-real-cost-of-monthly-bookkeeping-for-small-businesses.html
+   Photo: Golden Hour Home Office Bookkeeping.png
+
+2. The Point When Managing Your Own Books Stops Making Sense
+   the-point-when-managing-your-own-books-stops-making-sense.html
+   Photo: Warm Home Office Accounting Workspace.png
+
+Both appear first in blog.html, accessible from the existing Blog navigation.
+Both are included in sitemap.xml with image entries.
+Approved PNGs retain their exact filenames and bytes in assets/photos.
+Each article retains all seven sections and both clickable IRS references.
+
+Validation: 12 browser page/viewport checks at widths 320, 390, 834, 1440; complete visible article text comparisons; image hash and aspect ratio checks; metadata, canonical, BlogPosting schema, sitemap, and 112 internal link/asset HTTP checks; existing archive cards preserved; existing email and chat dialogs opened without submission; git diff --check passed. Screenshots and JSON results are in this directory.
+
+BLOCKER: Saved translations could not be prepared. Both existing inventory and prepare commands fail because sun-and-sage/scripts/translation_pipeline is absent (ModuleNotFoundError). Existing language pages and translation routing remain unchanged. No new translation system or languages were introduced. Translation work is incomplete.
+
+All changes remain local. No commits, pushes, publishing, deployment, or live form submissions.
