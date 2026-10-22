@@ -1,0 +1,81 @@
+Paper Trail, October 21, 2026 approved blogs, local implementation
+
+UPDATE: All eight archive blogs are now complete in all nine supported languages
+under the owner's subsequent standing paid-translation approval. See
+translations/REPORT.txt for the current complete status, testing and call totals.
+The historical English-only and translation-pending statements below describe
+the earlier implementation stage and are superseded by that report.
+
+All nine PDF pages and all three supplied photos were reviewed before site edits.
+The PDF's placement instructions were treated as source context; the user's
+local-only request controlled implementation. No commits, pushes, deployment,
+live website writes, submissions, translation calls, or other paid calls occurred.
+
+Articles (paths relative to the repository root), all published October 21, 2026:
+
+The Receipts That Disappear Before the Year Ends
+the-receipts-that-disappear-before-the-year-ends.html
+Photo: assets/photos/End-of-Year Receipt Chaos.png
+Four supplied references retained.
+
+When Personal and Business Spending Become One
+when-personal-and-business-spending-become-one.html
+Photo: assets/photos/Sorting Receipts in a Cozy Home Office.png
+Three supplied references retained.
+
+The Contractor Records That Make January Difficult
+the-contractor-records-that-make-january-difficult.html
+Photo: assets/photos/Contractor Reviewing Receipts at Work Van.png
+Four supplied references retained.
+
+No missing or unapproved photos. All three copied photos are byte-identical to
+the supplied files. Filenames, dimensions, and original quality are preserved.
+Each assigned photo appears on its own archive card and full article. Existing
+approved photo CSS preserves the whole image without stretching or cropping.
+
+Complete article text, headings, and references were extracted from PDF text
+streams. Page-spanning paragraphs and apostrophe font fragments were rejoined.
+No article prose was rewritten. Approved existing hyphens such as 1099-NEC remain.
+No FAQ, quick answer, or extra editorial sections were added.
+
+SEO: supplied article titles and SEO descriptions, canonical URLs, Open Graph
+metadata, English BlogPosting structured data with publication date, citations,
+articleBody, and original image URL, descriptive alt text, one H1 and supplied
+H2 headings. Relevant existing service links appear below each article.
+blog.html includes three separate new cards and updated ItemList schema.
+sitemap.xml includes exactly one new URL and image entry per article.
+Unrelated pages, scripts, navigation, integrations, and translation files remain
+unchanged. Existing article template and shared styles were reused.
+
+Validation:
+20 successful browser page/viewport checks: blog archive plus three new articles
+at 320, 390, 834, 909, and 1440 pixels. Complete rendered article text compared to
+the approved extraction; source counts and photo assignments checked; images
+decoded at their natural proportions; no horizontal overflow. Archive links and
+screenshots recorded in browser-checks.json and adjacent PNG files. Desktop,
+tablet, and mobile screenshots visually reviewed. Existing email and chat dialogs
+opened successfully; no message was submitted. Local asset and internal link
+targets, metadata, JSON-LD, original photo hashes, XML parsing, unique sitemap
+entries, and git diff whitespace checks passed. Static results: static-checks.json.
+Tests used local file URLs with external browser requests blocked, because the
+available PowerShell HTTP listener could not start. Hosted integration delivery
+was deliberately not exercised.
+
+All seven distinct source destinations opened successfully using read-only web
+checks. No factual edits were made based on those pages.
+
+Source defects preserved for editorial review:
+The PDF appends "Internal" to several IRS reference URL labels and "Milestone"
+to the Porte Brown URL label. Labels remain verbatim, while clickable href values
+omit the appended non-URL words so the intended sources open correctly.
+The PDF contains no separate SEO title field; each supplied article title is used.
+
+Translation status:
+The existing site has nine saved translated languages. Its documented workflow
+requires saved Google results and explicit approval for paid refresh calls.
+New article translations are pending because no approved saved translations were
+supplied. English articles are complete. No invented translations or translation
+system changes were introduced. Translation routes and sitemap-translations.xml
+are unchanged. StartWeb7 is only the existing footer credit in this repository.
+
+Local review entry point: ../../blog.html

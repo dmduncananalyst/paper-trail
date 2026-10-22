@@ -1,0 +1,7 @@
+{
+  "standing_paid_blog_translation_approval": true,
+  "approval_basis": "Owner explicitly authorized all blogs in all nine languages, and requested this for every future blog.",
+  "languages": ["es", "fa", "hy", "zh-CN", "ko", "tl", "te", "ru", "ar"],
+  "local_only": true,
+  "commit_push_publish_deploy_authorized": false
+}

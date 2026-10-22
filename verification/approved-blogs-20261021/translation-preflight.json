@@ -1,0 +1,32 @@
+{
+  "authorized": true,
+  "scope": [
+    "the-receipts-that-disappear-before-the-year-ends.html",
+    "when-personal-and-business-spending-become-one.html",
+    "the-contractor-records-that-make-january-difficult.html"
+  ],
+  "languages": [
+    "es",
+    "fa",
+    "hy",
+    "zh-CN",
+    "ko",
+    "tl",
+    "te",
+    "ru",
+    "ar"
+  ],
+  "missing_translation_fields": 459,
+  "estimated_source_characters": 197676,
+  "translation_api_calls": 0,
+  "status": "blocked",
+  "blockers": [
+    "Original scripts/translation_pipeline dependency missing from sibling checkout",
+    "Original private translation-budget/shared-usage.sqlite ledger missing",
+    "Existing alternate cloud budget adapter returns Firestore 404: default database does not exist"
+  ],
+  "google_authentication": "Verified existing connection, API enabled, billing enabled, target language support checked before budget adapter failed",
+  "configuration_changed": false,
+  "published": false,
+  "estimated_cost_at_existing_configured_rate_usd": 3.95352
+}

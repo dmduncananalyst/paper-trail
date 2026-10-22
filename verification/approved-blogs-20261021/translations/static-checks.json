@@ -1,0 +1,413 @@
+{
+  "pages": 81,
+  "blogs": 8,
+  "languages": 9,
+  "missing_fields": 0,
+  "checks": [
+    {
+      "language": "es",
+      "page": "blog.html",
+      "status": "passed"
+    },
+    {
+      "language": "es",
+      "page": "the-receipts-that-disappear-before-the-year-ends.html",
+      "status": "passed"
+    },
+    {
+      "language": "es",
+      "page": "when-personal-and-business-spending-become-one.html",
+      "status": "passed"
+    },
+    {
+      "language": "es",
+      "page": "the-contractor-records-that-make-january-difficult.html",
+      "status": "passed"
+    },
+    {
+      "language": "es",
+      "page": "the-real-cost-of-monthly-bookkeeping-for-small-businesses.html",
+      "status": "passed"
+    },
+    {
+      "language": "es",
+      "page": "the-point-when-managing-your-own-books-stops-making-sense.html",
+      "status": "passed"
+    },
+    {
+      "language": "es",
+      "page": "catch-up-bookkeeping-overdue-books.html",
+      "status": "passed"
+    },
+    {
+      "language": "es",
+      "page": "profit-vs-cash-flow-business-money.html",
+      "status": "passed"
+    },
+    {
+      "language": "es",
+      "page": "tax-ready-bookkeeping-records.html",
+      "status": "passed"
+    },
+    {
+      "language": "fa",
+      "page": "blog.html",
+      "status": "passed"
+    },
+    {
+      "language": "fa",
+      "page": "the-receipts-that-disappear-before-the-year-ends.html",
+      "status": "passed"
+    },
+    {
+      "language": "fa",
+      "page": "when-personal-and-business-spending-become-one.html",
+      "status": "passed"
+    },
+    {
+      "language": "fa",
+      "page": "the-contractor-records-that-make-january-difficult.html",
+      "status": "passed"
+    },
+    {
+      "language": "fa",
+      "page": "the-real-cost-of-monthly-bookkeeping-for-small-businesses.html",
+      "status": "passed"
+    },
+    {
+      "language": "fa",
+      "page": "the-point-when-managing-your-own-books-stops-making-sense.html",
+      "status": "passed"
+    },
+    {
+      "language": "fa",
+      "page": "catch-up-bookkeeping-overdue-books.html",
+      "status": "passed"
+    },
+    {
+      "language": "fa",
+      "page": "profit-vs-cash-flow-business-money.html",
+      "status": "passed"
+    },
+    {
+      "language": "fa",
+      "page": "tax-ready-bookkeeping-records.html",
+      "status": "passed"
+    },
+    {
+      "language": "hy",
+      "page": "blog.html",
+      "status": "passed"
+    },
+    {
+      "language": "hy",
+      "page": "the-receipts-that-disappear-before-the-year-ends.html",
+      "status": "passed"
+    },
+    {
+      "language": "hy",
+      "page": "when-personal-and-business-spending-become-one.html",
+      "status": "passed"
+    },
+    {
+      "language": "hy",
+      "page": "the-contractor-records-that-make-january-difficult.html",
+      "status": "passed"
+    },
+    {
+      "language": "hy",
+      "page": "the-real-cost-of-monthly-bookkeeping-for-small-businesses.html",
+      "status": "passed"
+    },
+    {
+      "language": "hy",
+      "page": "the-point-when-managing-your-own-books-stops-making-sense.html",
+      "status": "passed"
+    },
+    {
+      "language": "hy",
+      "page": "catch-up-bookkeeping-overdue-books.html",
+      "status": "passed"
+    },
+    {
+      "language": "hy",
+      "page": "profit-vs-cash-flow-business-money.html",
+      "status": "passed"
+    },
+    {
+      "language": "hy",
+      "page": "tax-ready-bookkeeping-records.html",
+      "status": "passed"
+    },
+    {
+      "language": "zh-CN",
+      "page": "blog.html",
+      "status": "passed"
+    },
+    {
+      "language": "zh-CN",
+      "page": "the-receipts-that-disappear-before-the-year-ends.html",
+      "status": "passed"
+    },
+    {
+      "language": "zh-CN",
+      "page": "when-personal-and-business-spending-become-one.html",
+      "status": "passed"
+    },
+    {
+      "language": "zh-CN",
+      "page": "the-contractor-records-that-make-january-difficult.html",
+      "status": "passed"
+    },
+    {
+      "language": "zh-CN",
+      "page": "the-real-cost-of-monthly-bookkeeping-for-small-businesses.html",
+      "status": "passed"
+    },
+    {
+      "language": "zh-CN",
+      "page": "the-point-when-managing-your-own-books-stops-making-sense.html",
+      "status": "passed"
+    },
+    {
+      "language": "zh-CN",
+      "page": "catch-up-bookkeeping-overdue-books.html",
+      "status": "passed"
+    },
+    {
+      "language": "zh-CN",
+      "page": "profit-vs-cash-flow-business-money.html",
+      "status": "passed"
+    },
+    {
+      "language": "zh-CN",
+      "page": "tax-ready-bookkeeping-records.html",
+      "status": "passed"
+    },
+    {
+      "language": "ko",
+      "page": "blog.html",
+      "status": "passed"
+    },
+    {
+      "language": "ko",
+      "page": "the-receipts-that-disappear-before-the-year-ends.html",
+      "status": "passed"
+    },
+    {
+      "language": "ko",
+      "page": "when-personal-and-business-spending-become-one.html",
+      "status": "passed"
+    },
+    {
+      "language": "ko",
+      "page": "the-contractor-records-that-make-january-difficult.html",
+      "status": "passed"
+    },
+    {
+      "language": "ko",
+      "page": "the-real-cost-of-monthly-bookkeeping-for-small-businesses.html",
+      "status": "passed"
+    },
+    {
+      "language": "ko",
+      "page": "the-point-when-managing-your-own-books-stops-making-sense.html",
+      "status": "passed"
+    },
+    {
+      "language": "ko",
+      "page": "catch-up-bookkeeping-overdue-books.html",
+      "status": "passed"
+    },
+    {
+      "language": "ko",
+      "page": "profit-vs-cash-flow-business-money.html",
+      "status": "passed"
+    },
+    {
+      "language": "ko",
+      "page": "tax-ready-bookkeeping-records.html",
+      "status": "passed"
+    },
+    {
+      "language": "tl",
+      "page": "blog.html",
+      "status": "passed"
+    },
+    {
+      "language": "tl",
+      "page": "the-receipts-that-disappear-before-the-year-ends.html",
+      "status": "passed"
+    },
+    {
+      "language": "tl",
+      "page": "when-personal-and-business-spending-become-one.html",
+      "status": "passed"
+    },
+    {
+      "language": "tl",
+      "page": "the-contractor-records-that-make-january-difficult.html",
+      "status": "passed"
+    },
+    {
+      "language": "tl",
+      "page": "the-real-cost-of-monthly-bookkeeping-for-small-businesses.html",
+      "status": "passed"
+    },
+    {
+      "language": "tl",
+      "page": "the-point-when-managing-your-own-books-stops-making-sense.html",
+      "status": "passed"
+    },
+    {
+      "language": "tl",
+      "page": "catch-up-bookkeeping-overdue-books.html",
+      "status": "passed"
+    },
+    {
+      "language": "tl",
+      "page": "profit-vs-cash-flow-business-money.html",
+      "status": "passed"
+    },
+    {
+      "language": "tl",
+      "page": "tax-ready-bookkeeping-records.html",
+      "status": "passed"
+    },
+    {
+      "language": "te",
+      "page": "blog.html",
+      "status": "passed"
+    },
+    {
+      "language": "te",
+      "page": "the-receipts-that-disappear-before-the-year-ends.html",
+      "status": "passed"
+    },
+    {
+      "language": "te",
+      "page": "when-personal-and-business-spending-become-one.html",
+      "status": "passed"
+    },
+    {
+      "language": "te",
+      "page": "the-contractor-records-that-make-january-difficult.html",
+      "status": "passed"
+    },
+    {
+      "language": "te",
+      "page": "the-real-cost-of-monthly-bookkeeping-for-small-businesses.html",
+      "status": "passed"
+    },
+    {
+      "language": "te",
+      "page": "the-point-when-managing-your-own-books-stops-making-sense.html",
+      "status": "passed"
+    },
+    {
+      "language": "te",
+      "page": "catch-up-bookkeeping-overdue-books.html",
+      "status": "passed"
+    },
+    {
+      "language": "te",
+      "page": "profit-vs-cash-flow-business-money.html",
+      "status": "passed"
+    },
+    {
+      "language": "te",
+      "page": "tax-ready-bookkeeping-records.html",
+      "status": "passed"
+    },
+    {
+      "language": "ru",
+      "page": "blog.html",
+      "status": "passed"
+    },
+    {
+      "language": "ru",
+      "page": "the-receipts-that-disappear-before-the-year-ends.html",
+      "status": "passed"
+    },
+    {
+      "language": "ru",
+      "page": "when-personal-and-business-spending-become-one.html",
+      "status": "passed"
+    },
+    {
+      "language": "ru",
+      "page": "the-contractor-records-that-make-january-difficult.html",
+      "status": "passed"
+    },
+    {
+      "language": "ru",
+      "page": "the-real-cost-of-monthly-bookkeeping-for-small-businesses.html",
+      "status": "passed"
+    },
+    {
+      "language": "ru",
+      "page": "the-point-when-managing-your-own-books-stops-making-sense.html",
+      "status": "passed"
+    },
+    {
+      "language": "ru",
+      "page": "catch-up-bookkeeping-overdue-books.html",
+      "status": "passed"
+    },
+    {
+      "language": "ru",
+      "page": "profit-vs-cash-flow-business-money.html",
+      "status": "passed"
+    },
+    {
+      "language": "ru",
+      "page": "tax-ready-bookkeeping-records.html",
+      "status": "passed"
+    },
+    {
+      "language": "ar",
+      "page": "blog.html",
+      "status": "passed"
+    },
+    {
+      "language": "ar",
+      "page": "the-receipts-that-disappear-before-the-year-ends.html",
+      "status": "passed"
+    },
+    {
+      "language": "ar",
+      "page": "when-personal-and-business-spending-become-one.html",
+      "status": "passed"
+    },
+    {
+      "language": "ar",
+      "page": "the-contractor-records-that-make-january-difficult.html",
+      "status": "passed"
+    },
+    {
+      "language": "ar",
+      "page": "the-real-cost-of-monthly-bookkeeping-for-small-businesses.html",
+      "status": "passed"
+    },
+    {
+      "language": "ar",
+      "page": "the-point-when-managing-your-own-books-stops-making-sense.html",
+      "status": "passed"
+    },
+    {
+      "language": "ar",
+      "page": "catch-up-bookkeeping-overdue-books.html",
+      "status": "passed"
+    },
+    {
+      "language": "ar",
+      "page": "profit-vs-cash-flow-business-money.html",
+      "status": "passed"
+    },
+    {
+      "language": "ar",
+      "page": "tax-ready-bookkeeping-records.html",
+      "status": "passed"
+    }
+  ]
+}

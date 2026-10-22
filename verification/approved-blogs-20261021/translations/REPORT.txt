@@ -1,0 +1,91 @@
+Paper Trail, complete blog translations, October 21, 2026
+
+COMPLETE: All eight blogs in blog.html now have full saved versions in all nine
+supported languages, plus all nine translated blog archives. There are 72
+translated article pages and nine translated archive pages. English remains intact.
+
+LANGUAGES AND LOCAL ARCHIVE LOCATIONS
+Spanish: es/blog.html
+Persian: fa/blog.html
+Armenian: hy/blog.html
+Simplified Chinese: zh-CN/blog.html
+Korean: ko/blog.html
+Tagalog: tl/blog.html
+Telugu: te/blog.html
+Russian: ru/blog.html
+Arabic: ar/blog.html
+
+Each article below exists under every language directory using the same filename:
+the-receipts-that-disappear-before-the-year-ends.html
+when-personal-and-business-spending-become-one.html
+the-contractor-records-that-make-january-difficult.html
+the-real-cost-of-monthly-bookkeeping-for-small-businesses.html
+the-point-when-managing-your-own-books-stops-making-sense.html
+catch-up-bookkeeping-overdue-books.html
+profit-vs-cash-flow-business-money.html
+tax-ready-bookkeeping-records.html
+
+The three October 21 photo assignments remain exact:
+The Receipts That Disappear Before the Year Ends:
+  End-of-Year Receipt Chaos.png
+When Personal and Business Spending Become One:
+  Sorting Receipts in a Cozy Home Office.png
+The Contractor Records That Make January Difficult:
+  Contractor Reviewing Receipts at Work Van.png
+Original files are reused by English and translated versions of the same article.
+No replacement photos, collages, quality changes, or missing photos.
+
+TRANSLATION AND SEO
+Full visible text, headings, title/description metadata and photo alt text are
+translated using the existing Google project and saved static translation format.
+Dates, complete source references, source URLs, photos and external destinations
+are preserved. Canonical URLs, language alternates, translated Article metadata,
+articleBody, archive ItemList links, language routes and translation sitemap are
+updated. Arabic and Persian retain the site's existing RTL content presentation.
+Older inaccurate "full text available in English" notices were removed from
+translated cards now that all articles are available in the selected language.
+
+PERMANENT BLOG WORKFLOW
+The owner's standing approval for paid blog translation into all nine languages
+is recorded in AGENTS.md and tools/blog-translation-policy.json. It covers every
+new or edited blog and its archive cards. No further blog translation approval is
+needed. The local workflow is tools/update-blog-translations.ps1, with -Inventory
+for a no-provider-call inventory. Existing saved results are reused. Paid batches
+are durably recorded before dispatch and uncertain paid calls are not retried.
+
+The obsolete runner's missing dependency and absent private spending database
+were replaced for blog updates by a local adapter to the existing Google API.
+No Google project, billing configuration, quota, Firestore database, or other cloud
+infrastructure was created or changed. The incremental local job ledger does not
+claim to be an account-wide spend counter; historical charges were not reset.
+
+PROVIDER RESULTS
+72 successful Google Translation requests, 290,169 source characters dispatched.
+Gross estimate at the existing configured $20 per million rate: $5.80338, before
+applicable Google credits or billing adjustments. This is not an invoice claim.
+All results are saved permanently. The repeat inventory and local rebuild found
+zero missing fields and sent zero additional paid requests.
+
+VALIDATION
+All 81 language pages passed static checks for translation completeness, local
+assets and links, canonical URLs, hreflang, source citations, structured data,
+language routes, sitemap entries, heading counts and original photo assignments.
+324 real Chromium page/viewport checks passed: all 81 pages at 320, 390, 834 and
+1440 pixels. Complete rendered paragraphs and headings match saved translations;
+photos load, approved photos retain their proportions, archive links stay in the
+selected language, and there is no horizontal overflow. Nine actual language
+selector and archive-to-article click journeys passed. Zero JavaScript errors.
+After removing obsolete language notices, another 36 archive/viewport checks and
+nine language click journeys passed. Four offline parser/schema/cache tests pass.
+Screenshots were visually reviewed for translated archive and article layouts.
+All browser checks blocked external requests and submitted no forms.
+
+Reports: static-checks.json, browser-checks.json, archive-browser-checks.json,
+results.json, inventory.json, authorized-scope.json and adjacent PNG screenshots.
+Saved Google translations have not had native-speaker editorial review.
+
+LOCAL ONLY
+Nothing was committed, pushed, published or deployed. The live website was not
+modified. Only the specifically authorized Google Translation requests were paid
+provider operations. The earlier translation-preflight.json blocked status and
+the earlier English implementation report are superseded by this completed work.

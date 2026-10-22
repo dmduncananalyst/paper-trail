@@ -1,4 +1,35 @@
-Paper Trail saved Google translation workflow, current October 16, 2026
+Paper Trail saved Google translation workflow, updated October 21, 2026
+
+BLOG UPDATES, CURRENT WORKFLOW
+
+The owner has given standing paid Google Translation approval for every new or
+edited Paper Trail blog in all nine existing languages. Do not ask again for
+blog translation approval. Keep all files local; release is separately authorized.
+
+Run tools/update-blog-translations.ps1 after English blog and archive changes.
+It discovers every article in blog.html and translates missing or changed fields
+using tools/sync-blog-translations.py --refresh. It saves complete static language
+pages, archive cards, SEO metadata, image alt text, source references, Article
+schema, language routes, hreflang, and sitemap-translations.xml. It keeps the
+existing Google project, saved release field format, UI bundles, and page design.
+Use -Inventory for a read-only provider inventory without paid calls.
+
+The former runner below depends on scripts/translation_pipeline and the private
+shared-usage.sqlite database, neither present in this checkout. The blog repair
+does not invent a historical account balance or create a Firestore database.
+Instead it records authorized incremental blog batches durably in the ignored
+.translation-cache/blog-requests.sqlite3 before sending them, limits each job to
+its exact inventoried character scope, and saves provider responses immediately.
+It reuses cached fields and never automatically retries an uncertain paid call.
+The job ledger is not an account-wide monthly spending cap. Existing historical
+Google charges and other sites are not modified or reset.
+
+Verify with tools/verify-blog-translations.py --browser. The browser checks use
+the local Chrome debugging endpoint, block external requests, and submit no forms.
+Permanent saved results remain assets/translation-workflow/current.json and its
+releases/<revision>/fields.json. Native speaker editorial review remains pending.
+
+HISTORICAL WHOLE-SITE WORKFLOW, OCTOBER 16
 
 This replaces the former Home and Blog only workflow described in earlier copies.
 192 English source pages have nine saved language copies each. Google is not
@@ -11,7 +42,7 @@ translation requests. Missing strings block generation until translated.
 New and edited Blog content is discovered during this explicit build, not by a
 watcher. The runner does not commit, push or deploy anything.
 
-Paid dispatch requires the owner's separate scope approval, then --mode refresh
+Non-blog paid dispatch requires the owner's separate scope approval, then --mode refresh
 --approve-google-calls. Never use that flag just to prepare or verify a site.
 The shared existing ledger is ~/translation-budget/shared-usage.sqlite.
 Ongoing coordinated calls warn at $15 and pause at $20. This application pause

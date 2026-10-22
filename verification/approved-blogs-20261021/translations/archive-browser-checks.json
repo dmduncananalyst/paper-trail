@@ -1,0 +1,224 @@
+{
+  "page_viewport_checks": 36,
+  "language_switch_checks": 9,
+  "javascript_errors": [],
+  "external_requests_blocked": true,
+  "checks": [
+    {
+      "language": "es",
+      "page": "blog.html",
+      "width": 320,
+      "status": "passed"
+    },
+    {
+      "language": "fa",
+      "page": "blog.html",
+      "width": 320,
+      "status": "passed"
+    },
+    {
+      "language": "hy",
+      "page": "blog.html",
+      "width": 320,
+      "status": "passed"
+    },
+    {
+      "language": "zh-CN",
+      "page": "blog.html",
+      "width": 320,
+      "status": "passed"
+    },
+    {
+      "language": "ko",
+      "page": "blog.html",
+      "width": 320,
+      "status": "passed"
+    },
+    {
+      "language": "tl",
+      "page": "blog.html",
+      "width": 320,
+      "status": "passed"
+    },
+    {
+      "language": "te",
+      "page": "blog.html",
+      "width": 320,
+      "status": "passed"
+    },
+    {
+      "language": "ru",
+      "page": "blog.html",
+      "width": 320,
+      "status": "passed"
+    },
+    {
+      "language": "ar",
+      "page": "blog.html",
+      "width": 320,
+      "status": "passed"
+    },
+    {
+      "language": "es",
+      "page": "blog.html",
+      "width": 390,
+      "status": "passed"
+    },
+    {
+      "language": "fa",
+      "page": "blog.html",
+      "width": 390,
+      "status": "passed"
+    },
+    {
+      "language": "hy",
+      "page": "blog.html",
+      "width": 390,
+      "status": "passed"
+    },
+    {
+      "language": "zh-CN",
+      "page": "blog.html",
+      "width": 390,
+      "status": "passed"
+    },
+    {
+      "language": "ko",
+      "page": "blog.html",
+      "width": 390,
+      "status": "passed"
+    },
+    {
+      "language": "tl",
+      "page": "blog.html",
+      "width": 390,
+      "status": "passed"
+    },
+    {
+      "language": "te",
+      "page": "blog.html",
+      "width": 390,
+      "status": "passed"
+    },
+    {
+      "language": "ru",
+      "page": "blog.html",
+      "width": 390,
+      "status": "passed"
+    },
+    {
+      "language": "ar",
+      "page": "blog.html",
+      "width": 390,
+      "status": "passed"
+    },
+    {
+      "language": "es",
+      "page": "blog.html",
+      "width": 834,
+      "status": "passed"
+    },
+    {
+      "language": "fa",
+      "page": "blog.html",
+      "width": 834,
+      "status": "passed"
+    },
+    {
+      "language": "hy",
+      "page": "blog.html",
+      "width": 834,
+      "status": "passed"
+    },
+    {
+      "language": "zh-CN",
+      "page": "blog.html",
+      "width": 834,
+      "status": "passed"
+    },
+    {
+      "language": "ko",
+      "page": "blog.html",
+      "width": 834,
+      "status": "passed"
+    },
+    {
+      "language": "tl",
+      "page": "blog.html",
+      "width": 834,
+      "status": "passed"
+    },
+    {
+      "language": "te",
+      "page": "blog.html",
+      "width": 834,
+      "status": "passed"
+    },
+    {
+      "language": "ru",
+      "page": "blog.html",
+      "width": 834,
+      "status": "passed"
+    },
+    {
+      "language": "ar",
+      "page": "blog.html",
+      "width": 834,
+      "status": "passed"
+    },
+    {
+      "language": "es",
+      "page": "blog.html",
+      "width": 1440,
+      "status": "passed"
+    },
+    {
+      "language": "fa",
+      "page": "blog.html",
+      "width": 1440,
+      "status": "passed"
+    },
+    {
+      "language": "hy",
+      "page": "blog.html",
+      "width": 1440,
+      "status": "passed"
+    },
+    {
+      "language": "zh-CN",
+      "page": "blog.html",
+      "width": 1440,
+      "status": "passed"
+    },
+    {
+      "language": "ko",
+      "page": "blog.html",
+      "width": 1440,
+      "status": "passed"
+    },
+    {
+      "language": "tl",
+      "page": "blog.html",
+      "width": 1440,
+      "status": "passed"
+    },
+    {
+      "language": "te",
+      "page": "blog.html",
+      "width": 1440,
+      "status": "passed"
+    },
+    {
+      "language": "ru",
+      "page": "blog.html",
+      "width": 1440,
+      "status": "passed"
+    },
+    {
+      "language": "ar",
+      "page": "blog.html",
+      "width": 1440,
+      "status": "passed"
+    }
+  ]
+}

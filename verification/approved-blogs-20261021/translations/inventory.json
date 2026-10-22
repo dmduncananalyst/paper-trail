@@ -1,0 +1,30 @@
+{
+  "blogs": 8,
+  "pages": [
+    "blog.html",
+    "the-receipts-that-disappear-before-the-year-ends.html",
+    "when-personal-and-business-spending-become-one.html",
+    "the-contractor-records-that-make-january-difficult.html",
+    "the-real-cost-of-monthly-bookkeeping-for-small-businesses.html",
+    "the-point-when-managing-your-own-books-stops-making-sense.html",
+    "catch-up-bookkeeping-overdue-books.html",
+    "profit-vs-cash-flow-business-money.html",
+    "tax-ready-bookkeeping-records.html"
+  ],
+  "languages": [
+    "es",
+    "fa",
+    "hy",
+    "zh-CN",
+    "ko",
+    "tl",
+    "te",
+    "ru",
+    "ar"
+  ],
+  "missing_fields": 0,
+  "source_characters_to_translate": 0,
+  "estimated_gross_cost_usd": 0.0,
+  "paid_calls": 0,
+  "local_only": true
+}
