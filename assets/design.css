@@ -588,3 +588,18 @@ html{overflow-y:scroll;scrollbar-gutter:stable}
 /* Keep the intake focused on replies without the bookkeeping-help control. */
 .chat-footer{display:none!important}
 
+
+/* Tagalog labels stay intact on one desktop navigation row. */
+@media(min-width:651px){
+ html[lang="tl"] .pt-preview .pt-nav{flex-wrap:nowrap;gap:0 8px}
+ html[lang="tl"] .pt-preview .pt-nav>a,
+ html[lang="tl"] .pt-preview .pt-nav>.nav-family>a{white-space:nowrap;overflow-wrap:normal;word-break:normal}
+ html[lang="tl"] .pt-preview .pt-nav>*{flex:0 0 auto}
+}
+@media(min-width:981px) and (max-width:1350px){
+ html[lang="tl"] .pt-preview .pt-header .header-brand{grid-row:1}
+ html[lang="tl"] .pt-preview .pt-header .pt-nav{grid-column:1/-1;grid-row:2;font-size:14px;margin-top:12px}
+}
+@media(min-width:651px) and (max-width:980px){
+ html[lang="tl"] .pt-preview .pt-nav{font-size:clamp(10px,1.5vw,15px);gap:0 5px}
+}
