@@ -703,3 +703,47 @@
 /verification/visual-corrections/screenshots/year-end-bookkeeping-1440.png
 /verification/visual-corrections/screenshots/year-end-bookkeeping-390.png
 /verification/visual-corrections/screenshots/year-end-bookkeeping-834.png
+
+# Browser databases, authentication snapshots, and disposable tool output.
+**/Network/Cookies*
+**/Login Data*
+**/Web Data*
+**/Local State
+**/DevToolsActivePort
+**/Local Storage/
+**/Session Storage/
+**/Sync Data/
+**/BrowserMetrics/
+**/ShaderCache/
+**/GrShaderCache/
+**/GraphiteDawnCache/
+**/storage-state*.json
+**/storageState*.json
+**/auth-state*.json
+**/cookies.json
+**/credentials.json
+**/service-account*.json
+**/tokens.json
+**/id_rsa
+**/id_ed25519
+**/private-key.pem
+**/private_key.pem
+**/.pytest_cache/
+**/.mypy_cache/
+**/.ruff_cache/
+/.test-downloads/
+/node_modules/.cache/
+/verification/**/videos/
+/verification/**/traces/
+/verification/**/*.log
+/verification/**/downloads/
+**/Cookies
+**/Cookies-journal
+**/cookies.db
+**/cookies.sqlite*
+**/ticketmaster-helper-profile/
+**/browser-profile*/
+**/puppeteer_dev_chrome_profile*/
+!**/service-account*.example.json
+!**/service-account*.template.json
+!**/service-account*.sample.json

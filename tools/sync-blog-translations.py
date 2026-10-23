@@ -216,7 +216,7 @@ def build(pages, pointer, fields, report):
                 markup = markup[:a] + html.escape(fields[key(source,lang)]['text'],quote=attribute) + markup[b:]
             markup = re.sub(r'<base\b[^>]*>', '', markup)
             markup = markup.replace('<head>','<head><base href="../">',1)
-            markup = re.sub(r'<html\b[^>]*>', f'<html lang="{lang}-x-mtfrom-en" dir="ltr" data-static-locale="{lang}">',markup,count=1)
+            markup = re.sub(r'<html\b[^>]*>', f'<html lang="{lang}" dir="ltr" data-static-locale="{lang}">',markup,count=1)
             markup = re.sub(r'<(?:p|small)\b[^>]*class="article-language"[^>]*>.*?</(?:p|small)>','',markup,flags=re.S)
             markup = re.sub(r'(<link rel="canonical" href=")[^"]+("\s*/?>)',lambda m:m[1]+ORIGIN+lang+'/'+name+m[2],markup)
             markup = re.sub(r'(<meta property="og:url" content=")[^"]+(")',lambda m:m[1]+ORIGIN+lang+'/'+name+m[2],markup)

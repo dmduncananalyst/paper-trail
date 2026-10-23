@@ -36,7 +36,7 @@ foreach($page in $pages){
  if($relative -match 'state-records/' -and $html -match 'href="http://'){$errors.Add('Insecure state source: '+$relative)}
 }
 foreach($private in @('tools','verification','START_HERE.txt','Paper-Trail-Master-Website-Instructions.md','paper-trail-launch-audit-2026-10-18.md')){if(Test-Path (Join-Path $publicRoot $private)){$errors.Add('Private build content: '+$private)}}
-if($pages.Count -ne 1920){$errors.Add('Unexpected page count: '+$pages.Count)}
+if($pages.Count -ne 1970){$errors.Add('Unexpected page count: '+$pages.Count)}
 $result=@{pages=$pages.Count;chats=$chats;sitemapUrls=$urls.Count;internalReferences=$references;errors=@($errors.ToArray())}
 New-Item -ItemType Directory -Force (Join-Path $root 'verification/launch-audit-20261020') | Out-Null
 $result | ConvertTo-Json -Depth 5 | Set-Content (Join-Path $root 'verification/launch-audit-20261020/static.json') -Encoding UTF8
