@@ -41,7 +41,7 @@ foreach($a in $assignments){
  $article=@($all.GetRange(3,$refsAt-3))
  # The disclaimer and opening paragraph are split across PDF text blocks.
  $article[0].text+=' '+$article[1].text;$article=@($article[0])+@($article|Select-Object -Skip 2)
- $refs=@($all.GetRange($refsAt+1,$all.Count-$refsAt-1)|ForEach-Object {@{label=$_.text;url=($_.text -replace '(Internal|Milestone)$','')}})
+ $refs=@($all.GetRange($refsAt+1,$all.Count-$refsAt-1)|ForEach-Object {@{label=($_.text -replace '(Internal|Milestone)$','');url=($_.text -replace '(Internal|Milestone)$','')}})
  $source=Join-Path 'C:\Users\Owner\OneDrive\Desktop' $a.photo
  Copy-Item -LiteralPath $source -Destination (Join-Path $root ('assets/photos/'+$a.photo))
  $bytes=[IO.File]::ReadAllBytes($source)
