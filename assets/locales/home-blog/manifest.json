@@ -397,8 +397,8 @@
       "source_sha256": "ac1217ea1b308456ea12eeaa87fce31c26cc92ced6ca46af00453829632009ef"
     }
   },
-  "google_calls": 1315,
-  "google_characters_sent": 5514253,
+  "google_calls": 1369,
+  "google_characters_sent": 5732314,
   "guided_chat": {
     "file": "chat.json",
     "languages": [
@@ -433,7 +433,7 @@
   "reference_only": [
     "assets/locales/ui.js"
   ],
-  "revision": "758245af241016f5ac7fa8ee1176d3a2027a31e96f4e591e8ac3206113711818",
+  "revision": "07a4ed0591f16373af92424a5e08523c0359ef38e0bc54935298dffa166de9ea",
   "source_pages": [
     "about.html",
     "accounts-payable-and-receivable-questions.html",
@@ -467,6 +467,7 @@
     "can-several-months-be-corrected-at-once.html",
     "can-year-end-cleanup-be-completed-after-december.html",
     "catch-up-bookkeeping-overdue-books.html",
+    "customer-deposits-spent-like-earnings-work-still-owed.html",
     "do-i-have-to-start-over-if-my-balances-are-wrong.html",
     "do-i-need-every-receipt-to-catch-up-my-bookkeeping.html",
     "do-unpaid-invoices-matter-at-year-end.html",
@@ -503,6 +504,7 @@
     "index.html",
     "is-buying-equipment-the-same-as-buying-office-supplies.html",
     "is-monthly-bookkeeping-necessary-for-a-small-business.html",
+    "lender-asked-for-clean-financials-books-could-not-answer.html",
     "los-angeles-county.html",
     "monthly-bookkeeping-review-questions.html",
     "monthly-bookkeeping-review.html",
@@ -584,6 +586,7 @@
     "the-receipts-that-disappear-before-the-year-ends.html",
     "transaction-categorization-questions.html",
     "transaction-categorization.html",
+    "vendor-paid-twice-nobody-noticed-for-months.html",
     "what-business-expenses-should-i-be-tracking.html",
     "what-do-monthly-financial-reports-actually-show-me.html",
     "what-does-a-bookkeeper-actually-do-for-a-small-business.html",
@@ -634,7 +637,7 @@
     "year-end-bookkeeping.html"
   ],
   "status": "Saved Google translations. No visitor API calls. Native speaker review pending.",
-  "successful_characters_saved": 5509782,
+  "successful_characters_saved": 5727843,
   "workflow": "whole-site",
-  "blog_sync_successful_characters": 290169
+  "blog_sync_successful_characters": 508230
 }
