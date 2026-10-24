@@ -286,7 +286,8 @@
 
 /* Shared CTA states: explicit foregrounds prevent inherited black-on-black labels. */
 .pt-preview .action,.pt-preview .btn,.pt-preview button.action,.pt-preview .send-message{background:#202020!important;border-color:#202020!important;color:#ffffff!important;text-decoration:none}
-.pt-preview .action.quiet,.pt-preview .btn.outline,.pt-preview .btn.light{background:#ffffff!important;color:#202020!important;border-color:#202020!important}
+/* Prominent section navigation shares the primary style; card and supporting actions stay outlined. */
+.pt-preview .action.quiet:not(:where(.all-service-notes>.action,.reading-actions>.action,.pt-home .section-label>.action,.pt-home .about-content>div>.action)),.pt-preview .blog-story .action,.pt-preview .btn.outline,.pt-preview .btn.light{background:#ffffff!important;color:#202020!important;border-color:#202020!important}
 .pt-preview .action:hover,.pt-preview .action:focus-visible,.pt-preview .btn:hover,.pt-preview .btn:focus-visible,.pt-preview .send-message:hover,.pt-preview .send-message:focus-visible{background:#686868!important;border-color:#686868!important;color:#ffffff!important}
 .pt-preview .card-action,.pt-preview .tile-action{color:#202020!important}
 .pt-preview .card-action:hover,.pt-preview .card-action:focus-visible{background:#686868!important;color:#ffffff!important}
