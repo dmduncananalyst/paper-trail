@@ -1,6 +1,6 @@
 {
   "provider": "google",
-  "revision": "07a4ed0591f16373af92424a5e08523c0359ef38e0bc54935298dffa166de9ea",
+  "revision": "0bbb08bbe6aee4d52896f268caff4b49985b034b9d88ea8efc48719c774ceb59",
   "routes": {
     "ar": [
       "about.html",
@@ -1830,7 +1830,7 @@
     "balancing-corrections.html": "2e620d8feefb0982cbaca4010940766b1afe3a620cacedd9b0fc845952fb4b14",
     "bank-and-credit-card-balancing-questions.html": "fbb8ddf8226691eda038241847d415643612291544bf721df8bd199a99629bc7",
     "bank-credit-card-balancing.html": "ca87a230de3644146f7989c9478727a6afdbbeb21c996f466ea1db3d24a04dfe",
-    "blog.html": "200c49522e068d6c12227e008870a1b2cb58977aa79046413218836a700cf4d3",
+    "blog.html": "c12cd0205e85aca83f09612d5a8f3588ace9c1fcb22b4318d91a7cc536477a21",
     "bookkeeping-agoura-hills.html": "041ee435de74c3233db37ea11c23d8201cec4e6b12b20af8d8c48f564c7c5400",
     "bookkeeping-burbank.html": "76da7e706dabae8a8f404f73747aaff574c195bfc011f853ec74b02ff718fe89",
     "bookkeeping-calabasas.html": "3cc60e0feba240ac177e77dded641c507c6ec1e4a836a3549db6e9b6a08bbaee",
@@ -2017,7 +2017,7 @@
     "the-receipts-that-disappear-before-the-year-ends.html": "e86d31fa6a8f90b18ee9e5e83abb56407d8cff9d51fd999cb12a805ed42b1e1f",
     "when-personal-and-business-spending-become-one.html": "2453494671b8f28a49c6a0167294105c190055c1408620ea8932c8e8f597b241",
     "the-contractor-records-that-make-january-difficult.html": "7745dfb45b670deae98d4cd375cf70d4b2805b6abb7bd8163582692730026a63",
-    "the-real-cost-of-monthly-bookkeeping-for-small-businesses.html": "193b494f0457b0266ad148a8df5060ee50381151901a4bab0d61bc4e63377aee",
+    "the-real-cost-of-monthly-bookkeeping-for-small-businesses.html": "a5706fe56fa039913fff0edb51626d3fcbe1db6572bb08074f9a8e7af555c064",
     "the-point-when-managing-your-own-books-stops-making-sense.html": "95282377978fb107ebc578406c3ec9f1cd43100d1cce7e3a88db42d7ab9ee7e5",
     "vendor-paid-twice-nobody-noticed-for-months.html": "e9d867f39934e2edd964a7696e23ff3150d0ff5439e02233d5fc6f7cfb361cd6",
     "lender-asked-for-clean-financials-books-could-not-answer.html": "9e3b93f5ad9b56c764b65c6c14a7af86fe91b8798dfd2e1503e1ef80ff8399c5",
