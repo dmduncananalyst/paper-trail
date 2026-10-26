@@ -16,5 +16,3 @@ html:is([data-static-locale="ar"],[data-static-locale="fa"]) .questionnaire-sect
 html:is([data-static-locale="ar"],[data-static-locale="fa"]) .plan-price{direction:ltr;unicode-bidi:isolate;text-align:right}
 html:is([data-static-locale="ar"],[data-static-locale="fa"]) .plan-price span{direction:rtl;unicode-bidi:plaintext}
 html:is([data-static-locale="ar"],[data-static-locale="fa"]) :is(.plan-limits p,#quote-submission-feedback,#quote-submission-help){unicode-bidi:plaintext}
-/* The older Tagalog nowrap override predates the approved expanded menu. */
-@media(min-width:981px){html[data-static-locale="tl"] .pt-header.has-billing-nav .pt-nav{flex-wrap:wrap}}

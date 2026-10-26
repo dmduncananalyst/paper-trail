@@ -610,3 +610,24 @@ html{overflow-y:scroll;scrollbar-gutter:stable}
 .pt-header.has-billing-nav .pt-nav{flex-wrap:wrap;justify-content:flex-start;column-gap:18px;row-gap:0}
 
 html{scrollbar-gutter:stable}.service-inquiry-actions{display:flex;align-items:center;justify-content:center;flex-wrap:wrap;gap:16px}.service-inquiry-actions .action{text-transform:none}.opening-copy>.service-inquiry-actions{justify-content:center;margin-top:24px}.home-conversation .service-inquiry-actions{width:100%}@media(max-width:650px){.service-inquiry-actions{gap:14px}.service-inquiry-actions .action{max-width:100%}}
+
+/* Share the full desktop header width across every saved language. The longest
+   approved labels fit at 14px from 1152px; compact widths retain normal wrapping.
+   Existing tablet/mobile rules and their interaction breakpoint stay unchanged. */
+@media(min-width:981px){
+ html .pt-preview .pt-header.has-billing-nav .header-brand{grid-row:1}
+ html .pt-preview .pt-header.has-billing-nav .pt-nav{grid-column:1/-1;grid-row:2;margin-top:0;min-width:0;flex-wrap:wrap;column-gap:clamp(6px,.55vw,8px);row-gap:0;font-size:clamp(14px,1.11vw,16px)}
+ html .pt-preview .pt-header.has-billing-nav .pt-nav>*{flex:0 0 auto}
+ html .pt-preview .pt-header.has-billing-nav .pt-nav>a,
+ html .pt-preview .pt-header.has-billing-nav .pt-nav>.nav-family>a{white-space:nowrap;overflow-wrap:normal;word-break:normal}
+ html:is([data-static-locale="ar"],[data-static-locale="fa"]) .pt-header .pt-nav a,
+ html:is([data-static-locale="ar"],[data-static-locale="fa"]) .pt-header>.nav-panel{direction:rtl;text-align:right}
+}
+@media(min-width:1152px){
+ html .pt-preview .pt-header.has-billing-nav .pt-nav{flex-wrap:nowrap;justify-content:space-between}
+}
+/* Preserve the existing tablet layout, allowing the long Tagalog row to wrap
+   only when its available width is exhausted. Mobile remains untouched. */
+@media(min-width:651px) and (max-width:980px){
+ html[lang="tl"] .pt-preview .pt-header.has-billing-nav .pt-nav{flex-wrap:wrap}
+}
