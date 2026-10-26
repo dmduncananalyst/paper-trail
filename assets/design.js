@@ -36,3 +36,14 @@ document.querySelectorAll('a[href^="tel:"]').forEach(a=>{if(a.closest('.phone-di
 phoneDialog.querySelector('.phone-close').addEventListener('click',()=>phoneDialog.close());phoneDialog.addEventListener('close',()=>phoneOpener?.focus({preventScroll:true}));phoneDialog.addEventListener('click',e=>{if(e.target===phoneDialog){const r=phoneDialog.getBoundingClientRect();if(e.clientX<r.left||e.clientX>r.right||e.clientY<r.top||e.clientY>r.bottom)phoneDialog.close()}});
 phoneDialog.querySelector('.copy-phone').addEventListener('click',async()=>{const status=phoneDialog.querySelector('.phone-status');try{await navigator.clipboard.writeText('818-934-0444');status.textContent=savedText('Phone number copied.')}catch{const range=document.createRange();range.selectNodeContents(phoneDialog.querySelector('.phone-number'));const selection=getSelection();selection.removeAllRanges();selection.addRange(range);status.textContent=savedText('Number selected. Use your copy command.')}});
 })();
+
+// Shared business hours: preserve every existing footer link and legal notice.
+(() => {
+ const footer=document.querySelector('.pt-footer');
+ if(!footer||footer.querySelector('.business-hours'))return;
+ const section=document.createElement('section');section.className='business-hours';
+ const title=document.createElement('h2');title.textContent='BUSINESS HOURS';
+ const text=document.createElement('p');
+ ['Monday through Friday: 8:00 AM to 5:00 PM PT','Saturday: 10:00 AM to 2:00 PM PT','Sunday: Closed'].forEach((line,i)=>{if(i)text.append(document.createElement('br'));text.append(document.createTextNode(line))});
+ section.append(title,text);footer.querySelector('.footer-bottom').before(section);
+})();

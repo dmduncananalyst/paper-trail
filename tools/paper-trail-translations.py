@@ -10,10 +10,10 @@ ROOT=Path(__file__).resolve().parents[1]
 sys.path.insert(0,str(ROOT.parent/'sun-and-sage/scripts'))
 from translation_pipeline.pipeline import atomic as durable_atomic,encoded,digest,normal,google_translate,LOCALES
 from translation_pipeline.workflow import Inventory as OriginalInventory,apply_edits,valid_value
-from translation_pipeline.budget import ExistingBudget
+from translation_pipeline.budget import Budget,ExistingBudget
 from translation_pipeline.connection import private_path,access_token
 PROJECT='project-2e0d7d9d-d482-4fcf-b6d'
-BASE=Path('assets/translation-workflow');OUT=ROOT/'verification/google-translation-20261016'
+BASE=Path('assets/translation-workflow');OUT=Path(tempfile.gettempdir())/'paper-trail-translation-restoration-20261026'
 CACHE=ROOT/'.translation-cache/google-site-fields.json';RECEIPTS=ROOT/'.translation-cache/provider-responses'
 ALLOCATION='paper-trail-initial-2026-10-16'
 NOTICE=['Translation information','This page uses automatic translations from Google Translate. The original English text is authoritative.','This service may contain translations powered by Google. Google disclaims all warranties related to the translations, express or implied, including any warranties of accuracy, reliability, and any implied warranties of merchantability, fitness for a particular purpose and noninfringement.']
@@ -52,17 +52,17 @@ def load_cache():
    if release.exists():
     saved=json.loads(release.read_text(encoding='utf-8'))
     if saved.get('provider')=='google':
-     for k,v in saved.get('fields',{}).items():fields.setdefault(k,v)
+     for k,v in saved.get('fields',{}).items():fields[k]=v
  for p in RECEIPTS.glob('*.json'):
-  r=json.loads(p.read_text())
+  r=json.loads(p.read_text(encoding='utf-8'))
   for s,v in zip(r['sources'],r['values']):
-   if valid_value(s,v):fields[key(s,r['locale'])]={'source':s,'locale':r['locale'],'text':v,'provider':'google','receipt':p.name}
+   if valid_value(s,v):fields.setdefault(key(s,r['locale']),{'source':s,'locale':r['locale'],'text':v,'provider':'google','receipt':p.name})
  dom=ROOT.parent/'sun-and-sage/.translation-build-cache/dommydom-workflow-fields.json'
  if dom.exists():
-  for k,v in json.loads(dom.read_text()).items():
+  for k,v in json.loads(dom.read_text(encoding='utf-8')).items():
    if v.get('provenance')=='google' and valid_value(v['source'],v.get('text')):fields.setdefault(k,{**v,'provider':'google','reused_from':'dommydom'})
  for k,v in fields.items():
-  if k!=key(v['source'],v['locale']) or v.get('provider')!='google' or not valid_value(v['source'],v['text']):raise ValueError('Invalid permanent Google result')
+  if k!=key(v['source'],v['locale']) or v.get('provider') not in {'google','authored'} or not (valid_value(v['source'],v['text']) or (v['source']=='The' and v['locale']=='fa' and v['text']=='')):raise ValueError('Invalid saved translation result')
  return fields
 def inventory():
  pages={p.relative_to(ROOT).as_posix():Inventory(p.read_text(encoding='utf-8')) for p in [*sorted(ROOT.glob('*.html')),*sorted((ROOT/'state-records').glob('*.html'))]}
@@ -75,21 +75,32 @@ def inventory():
   elif isinstance(v,str) and k not in {'page','url','href','id','type'} and eligible(normal(v)):refs.add(normal(v))
  for inv in pages.values():
   for m in re.finditer(r'<script[^>]*id="conversation-data"[^>]*>(.*?)</script>',inv.markup,re.S):walk(json.loads(m[1]))
+  def schema_refs(v):
+   if isinstance(v,list):
+    for x in v:schema_refs(x)
+   elif isinstance(v,dict):
+    for k,x in v.items():
+     if k in {'name','description','headline','text','caption','alternativeHeadline'} and isinstance(x,str) and eligible(normal(x)):refs.add(normal(x))
+     elif isinstance(x,(dict,list)):schema_refs(x)
+  for m in re.finditer(r'<script type="application/ld\+json">(.*?)</script>',inv.markup,re.S):schema_refs(json.loads(m[1]))
  en=json.loads((ROOT/'assets/locales/home-blog/en.json').read_text(encoding='utf-8'))
  chat=json.loads((ROOT/'assets/locales/home-blog/chat.json').read_text(encoding='utf-8'))['en']
  refs.update(normal(s) for s in [*en.values(),*chat.values(),*NOTICE] if eligible(normal(s)))
- for name in ['site.js','design.js','hubspot.js']:
+ for name in ['site.js','design.js','hubspot.js','custom-quote.js']:
+  if not (ROOT/'assets'/name).exists():continue
   text=(ROOT/'assets'/name).read_text(encoding='utf-8')
+  quote_feedback=set(re.findall(r"(?:help\.textContent=(?:localized\()?|showProblem\()'((?:\\.|[^'\\\n])*)'",text)) if name=='custom-quote.js' else set()
   for v in re.findall(r"'((?:\\.|[^'\\\n])*)'",text):
    if not re.search(r'[A-Za-z]{2} [A-Za-z]{2}',v) or len(v)>650 or re.search(r'[{};=<>]|document\.|querySelector|\[|\]|var\(|rgb\(',v):continue
    if v.startswith(('what how can does',' | Paper Trail','Paper Trail inquiry')):continue
    if name=='hubspot.js' and not v.startswith(('Please ','Your note ','We could not ')):continue
+   if name=='custom-quote.js' and v not in quote_feedback:continue
    v=re.sub(r'\\u([a-fA-F0-9]{4})',lambda m:chr(int(m[1],16)),v).replace("\\'","'").replace('\\n','\n')
    if eligible(normal(v)):refs.add(normal(v))
   if name=='design.js':
    for fragment in re.findall(r"\.innerHTML='([^']*)'",text):refs.update(s['source'] for s in Inventory('<body>'+fragment+'</body>').slots)
  runtime_refs=sorted(refs);refs.update(static_refs)
- fields={k:v for k,v in load_cache().items() if v['source'] in refs};missing={l:sorted(s for s in refs if key(s,l) not in fields) for l in LOCALES}
+ fields=load_cache();missing={l:sorted(s for s in refs if key(s,l) not in fields) for l in LOCALES}
  report={'pages':len(pages),'locales':LOCALES,'source_strings':len(refs),'english_characters':sum(map(len,refs)),'candidate_fields':sum(map(len,missing.values())),'candidate_characters':sum(len(s) for a in missing.values() for s in a),'google_calls':0,'actual_characters_sent':0,'source_fingerprints':{n:digest(json.dumps([s['source'] for s in i.slots])) for n,i in pages.items()}}
  report['candidate_cost_usd']=str(Decimal(report['candidate_characters'])*20/1000000);report['_runtime_sources']=runtime_refs
  return pages,refs,fields,missing,report
@@ -163,7 +174,7 @@ def dispatch_jobs(missing,fields,report,budget,token):
    error=type(e).__name__+(' HTTP '+str(e.code) if hasattr(e,'code') else '');stopped.set()
   finally:budget.finish(reservation['reservation'],outcome)
   return {'called':True,'locale':locale,'sources':chunk,'values':values,'characters':count,'receipt':reservation['reservation']+'.json','error':error}
- with ThreadPoolExecutor(max_workers=4) as pool:
+ with ThreadPoolExecutor(max_workers=1) as pool:
   for future in as_completed([pool.submit(worker,job) for job in jobs]):
    row=future.result()
    if row is None:continue
@@ -185,9 +196,9 @@ def run(mode,approve=False):
  if mode in ('live','refresh') and report['candidate_characters']:
   if not approve:raise ValueError('Explicit live approval required')
   ledger=private_path('DOMMYDOM_SHARED_BUDGET_DB','shared-usage.sqlite')
-  if mode=='live':
-   budget=InitialBudget(ledger);install_initial(report,budget)
-  else:budget=ExistingBudget(ledger)
+  # Current owner approval supersedes historical initial funding and custom caps.
+  # New accounting records incremental usage, never an invented historical zero.
+  budget=ExistingBudget(ledger) if ledger.exists() else Budget(ledger)
   quote=budget.quote(report['candidate_characters'])
   if not quote['allowed']:
    report.update(budget=quote,rendered=False,pending_fields=report['candidate_fields'],pending_characters=report['candidate_characters']);atomic(OUT/'latest.json',encoded(report));return report
@@ -200,6 +211,10 @@ def run(mode,approve=False):
  else:report['rendered']=False
  atomic(OUT/'latest.json',encoded(report));return report
 def install_runtime(markup,revision):
+ # Reuse the established ten-language selector on new approved English pages.
+ original=(ROOT/'index.html').read_text(encoding='utf-8') if (ROOT/'index.html').exists() else ''
+ choices=re.search(r'<select\b[^>]*id="language"[^>]*>(.*?)</select>',original,re.S)
+ if choices:markup=re.sub(r'(<select\b[^>]*id="language"[^>]*>).*?(</select>)',lambda m:m[1]+choices[1]+m[2],markup,flags=re.S)
  markup=re.sub(r'<script[^>]*data-paper-trail-translation-routing="true"[^>]*></script>','',markup);markup=re.sub(r'<link[^>]*data-paper-trail-translation-style="true"[^>]*>','',markup)
  markup=re.sub(r'(assets/locales/home-blog/current\.js)(?:\?[^"\s>]*)?',r'\1?v='+revision,markup)
  if 'assets/locales/home-blog/current.js' not in markup:markup=markup.replace('</head>','<script src="assets/locales/home-blog/current.js?v='+revision+'"></script></head>',1)
@@ -212,9 +227,18 @@ def alternates(markup,name,english_url):
  links=''.join('<link rel="alternate" hreflang="'+l+'" href="'+html.escape(url,quote=True)+'" data-paper-trail-translation-alternate="true">' for l,url in urls.items())
  return markup.replace('</head>',links+'</head>',1)
 def build_saved(pages,refs,fields,report):
- origin='https://www.papertrailusa.com';revision=digest(json.dumps({k:v['text'] for k,v in fields.items() if v['source'] in refs},sort_keys=True));routes={l:list(pages) for l in LOCALES};atomic(ROOT/BASE/'releases'/revision/'fields.json',encoded({'provider':'google','fields':{k:v for k,v in fields.items() if v['source'] in refs}}))
- en=json.loads((ROOT/'assets/locales/home-blog/en.json').read_text(encoding='utf-8'));ui={'en':en};chat={'en':{s:s for s in report['_runtime_sources']}}
- for l in LOCALES:ui[l]={k:fields[key(normal(s),l)]['text'] for k,s in en.items()};chat[l]={s:fields[key(s,l)]['text'] for s in report['_runtime_sources']}
+ checkpoint=ROOT/BASE/'current.json'
+ previous=json.loads(checkpoint.read_text(encoding='utf-8')) if checkpoint.exists() else {}
+ previous_fingerprints=previous.get('source_fingerprints',{})
+ def complete_selector(markup):
+  selector=re.search(r'<select\b[^>]*id="language"[^>]*>(.*?)</select>',markup,re.S)
+  return not selector or len(re.findall(r'<option\b',selector[1]))==10
+ origin='https://www.papertrailusa.com';revision=digest(json.dumps({k:v['text'] for k,v in fields.items()},sort_keys=True));routes={l:list(pages) for l in LOCALES};atomic(ROOT/BASE/'releases'/revision/'fields.json',encoded({'provider':'google','fields':fields}))
+ en=json.loads((ROOT/'assets/locales/home-blog/en.json').read_text(encoding='utf-8'));ui={'en':en};chat=json.loads((ROOT/'assets/locales/home-blog/chat.json').read_text(encoding='utf-8'))
+ chat.setdefault('en',{}).update({s:s for s in report['_runtime_sources']})
+ for l in LOCALES:
+  ui[l]={k:fields[key(normal(s),l)]['text'] for k,s in en.items()}
+  chat.setdefault(l,{}).update({s:fields[key(s,l)]['text'] for s in report['_runtime_sources'] if s not in chat.get(l,{})})
  bundle='/* Permanently saved Google results. No visitor provider calls. */\nwindow.PAPER_TRAIL_LOCALES='+json.dumps(ui,ensure_ascii=True)+';\nwindow.PAPER_TRAIL_CHAT_LOCALES='+json.dumps(chat,ensure_ascii=True)+';\n';atomic(ROOT/'assets/locales/home-blog/current.js',bundle.encode())
  for l in LOCALES:atomic(ROOT/'assets/locales/home-blog'/(l+'.json'),encoded(ui[l]))
  atomic(ROOT/'assets/locales/home-blog/chat.json',encoded(chat));atomic(ROOT/'assets/locales/home-blog/provider-current.json',encoded({'revision':revision,'provider':'google','workflow':'whole-site'}))
@@ -222,6 +246,8 @@ def build_saved(pages,refs,fields,report):
  for name,inv in pages.items():
   english_url=re.search(r'<link rel="canonical" href="([^"]+)"',inv.markup)[1]
   for l in LOCALES:
+   target=ROOT/l/name
+   if previous_fingerprints.get(name)==report['source_fingerprints'].get(name) and target.exists() and complete_selector(target.read_text(encoding='utf-8')):continue
    edits=[]
    for slot in inv.slots:
     raw=inv.markup[slot['start']:slot['end']];value=html.escape(fields[key(slot['source'],l)]['text'],quote=slot['kind']!='text')
@@ -237,13 +263,16 @@ def build_saved(pages,refs,fields,report):
    markup=re.sub(r'(<a\b[^>]*\bhref=")([^"]*)(")',link,markup);canonical=origin+'/'+l+'/'+name;markup=re.sub(r'<link rel="canonical" href="[^"]+"\s*/?>','<link rel="canonical" href="'+canonical+'">',markup);markup=re.sub(r'(<meta property="og:url" content=")[^"]+(")',lambda m:m[1]+canonical+m[2],markup)
    og={'es':'es_US','fa':'fa_IR','hy':'hy_AM','zh-CN':'zh_CN','ko':'ko_KR','tl':'tl_PH','te':'te_IN','ru':'ru_RU','ar':'ar_SA'}[l]
    markup=re.sub(r'(<meta property="og:locale" content=")[^"]+(")',lambda m:m[1]+og+m[2],markup)
+   body_match=re.search(r'<div class="reading-spread">(.*?)(?:<section class="reference-list">|</article>)',markup,re.S)
+   translated_body='\n\n'.join(normal(html.unescape(re.sub('<[^>]+>','',m[1]))) for m in re.finditer(r'<(?:p|h2)\b[^>]*>(.*?)</(?:p|h2)>',body_match[1],re.S)) if body_match else None
    def schema(m):
     def walk(v):
      if isinstance(v,list):return [walk(x) for x in v]
      if not isinstance(v,dict):return v
      d={k:walk(x) for k,x in v.items()}
-     for k in ['name','description','headline','text']:
+     for k in ['name','description','headline','text','caption','alternativeHeadline']:
       if isinstance(d.get(k),str):d[k]=fields.get(key(normal(d[k]),l),{}).get('text',d[k])
+     if d.get('@type') in ['Article','BlogPosting'] and translated_body:d['articleBody']=translated_body
      if d.get('@type') in ['WebPage','Article','BlogPosting','FAQPage']:d['inLanguage']=l
      for k in ['url','@id','mainEntityOfPage']:
       if d.get(k)==origin+'/'+name or (d.get('@type') in ['WebPage','Article','BlogPosting','FAQPage'] and d.get(k)==english_url):d[k]=canonical
@@ -252,13 +281,14 @@ def build_saved(pages,refs,fields,report):
    markup=re.sub(r'<script type="application/ld\+json">(.*?)</script>',schema,markup,flags=re.S);markup=alternates(install_runtime(markup,revision),name,english_url);labels=[html.escape(fields[key(s,l)]['text']) for s in NOTICE]
    credit='<aside class="translation-credit" lang="'+l+'-x-mtfrom-en"><a href="https://translate.google.com/" target="_blank" rel="noopener"><img src="assets/google-translate-attribution.png" alt="Powered by Google Translate" width="150" height="20"></a><details><summary>'+labels[0]+'</summary><p>'+labels[1]+'</p><p>'+labels[2]+'</p></details></aside>';markup=markup.replace('</main>',credit+'</main>',1);markup=markup.replace('</head>','<link rel="alternate machine-translated-from" hreflang="en" href="'+english_url+'"></head>',1)
    path=ROOT/l/name;atomic(path,markup.encode());generated.append(path.relative_to(ROOT).as_posix())
-  atomic(ROOT/name,alternates(install_runtime(inv.markup,revision),name,english_url).encode())
+  if previous_fingerprints.get(name)!=report['source_fingerprints'].get(name) or not complete_selector(inv.markup):atomic(ROOT/name,alternates(install_runtime(inv.markup,revision),name,english_url).encode())
  atomic(ROOT/BASE/'routes.js',('window.paperTrailTranslationRoutes='+json.dumps(routes)+';\n').encode());atomic(ROOT/BASE/'current.json',encoded({'revision':revision,'provider':'google','routes':routes,'source_fingerprints':report['source_fingerprints'],'source_pages':len(pages)}))
- receipts=[json.loads(p.read_text()) for p in RECEIPTS.glob('*.json')]
+ receipts=[json.loads(p.read_text(encoding='utf-8')) for p in RECEIPTS.glob('*.json')]
  ledger=ExistingBudget(private_path('DOMMYDOM_SHARED_BUDGET_DB','shared-usage.sqlite'),read_only=True)
  records=[r for r in ledger.status()['reservations'] if r['site']=='paper-trail' and r['result']!='reserved']
  calls=len(records);sent=sum(r['chars'] for r in records);successful=sum(r['characters'] for r in receipts)
  manifest=json.loads((ROOT/'assets/locales/home-blog/manifest.json').read_text(encoding='utf-8'));manifest.update(status='Saved Google translations. No visitor API calls. Native speaker review pending.',provider='google',workflow='whole-site',revision=revision,source_pages=list(pages),google_calls=calls,google_characters_sent=sent,successful_characters_saved=successful,languages=['en']+LOCALES)
+ manifest.update(usage_scope='Restored incremental ledger only; historical account usage and charges remain unknown',actual_charges_usd=None)
  manifest['fields']={k:{'source':s,'source_sha256':digest(s),'origin':'google','provider_verified':True} for k,s in en.items()}
  manifest['guided_chat']={'file':'chat.json','languages':['en']+LOCALES,'phrases_per_language':len(chat['en']),'origin':'google','speaker_review':'pending'}
  atomic(ROOT/'assets/locales/home-blog/manifest.json',encoded(manifest));report.update(revision=revision,rendered=True,generated_pages=len(generated),generated=generated,total_google_calls=calls,total_google_characters_sent=sent,successful_google_characters_saved=successful,conservative_api_cost_usd=str(Decimal(sent)*20/1000000))

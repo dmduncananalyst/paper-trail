@@ -2,7 +2,7 @@
 # Filename-only local guard. No browser launches, file-content reads, or network calls.
 root=$(git rev-parse --show-toplevel) || exit 1
 if command -v powershell.exe >/dev/null 2>&1; then
-  exec powershell.exe -NoLogo -NoProfile -NonInteractive -ExecutionPolicy Bypass -File "$root/.githooks/check-staged-files.ps1" "$@"
+  exec powershell.exe -NoLogo -NoProfile -NonInteractive -ExecutionPolicy RemoteSigned -File "$root/.githooks/check-staged-files.ps1" "$@"
 elif command -v pwsh >/dev/null 2>&1; then
   exec pwsh -NoLogo -NoProfile -NonInteractive -File "$root/.githooks/check-staged-files.ps1" "$@"
 fi

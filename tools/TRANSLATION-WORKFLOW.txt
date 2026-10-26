@@ -1,4 +1,39 @@
-Paper Trail saved Google translation workflow, updated October 21, 2026
+Paper Trail saved Google translation workflow, updated October 26, 2026
+
+CURRENT RESTORED SHARED WORKFLOW
+
+The shared scripts/translation_pipeline package has been restored in the
+authorized sibling sun-and-sage repository. It supplies compatible pipeline,
+workflow, budget and connection modules. Website files in that repository are
+not regenerated. Existing Google application-default credentials are loaded
+only during explicit development dispatch, never by website visitors.
+
+Run tools/paper-trail-translations.py --mode inventory for a read-only inventory.
+Run --mode prepare to use saved results only. Run --mode refresh
+--approve-google-calls only for owner-authorized missing or changed content.
+Never retry uncertain paid calls automatically. The private request journal
+blocks both duplicate batches and differently grouped previously reserved
+source segments until reconciled. Successful responses are durably reusable.
+
+The owner's October 26 authorization removes previous custom monetary warning
+and spending-pause thresholds. The restored accounting module imposes no new
+monetary cap and changes no Google billing settings, permissions or daily quota.
+Historical funding code below is retained for compatibility/review but is not
+used by current live/refresh dispatch. The missing historical account ledger is
+not reconstructed or treated as an opening zero. New private incremental records
+default to ~/translation-budget/shared-usage.sqlite and restored-requests.sqlite3.
+Existing path overrides remain supported and must stay outside Git repositories.
+Estimates are not actual provider-reported charges.
+
+Reports and disposable verification belong in system TEMP, not public folders.
+Saved public translation dictionaries and static pages retain existing formats.
+Existing authored translations and chatbot dictionary values are retained.
+Native cross-origin HubSpot labels require supported HubSpot language settings;
+local dictionaries cannot translate those hosted controls. Do not fill or submit
+HubSpot forms during this assignment. Live testing is Pending Owner Testing.
+
+The October 21 notes and October 16 limits below describe historical conditions,
+not the current dispatch authorization or spending policy.
 
 BLOG UPDATES, CURRENT WORKFLOW
 

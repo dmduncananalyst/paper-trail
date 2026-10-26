@@ -5,3 +5,16 @@
 html[data-static-locale] .pt-nav>a,html[data-static-locale] .nav-family>a,html[data-static-locale] h1,html[data-static-locale] h2,html[data-static-locale] h3,html[data-static-locale] .action,html[data-static-locale] .card-action{overflow-wrap:anywhere}
 html[data-static-locale] .pt-contact .contact-main>h1{white-space:normal;max-width:100%}
 html[data-static-locale="ar"] main p,html[data-static-locale="fa"] main p,html[data-static-locale="ar"] main h1,html[data-static-locale="fa"] main h1,html[data-static-locale="ar"] main h2,html[data-static-locale="fa"] main h2,html[data-static-locale="ar"] main h3,html[data-static-locale="fa"] main h3,html[data-static-locale="ar"] .translation-credit,html[data-static-locale="fa"] .translation-credit{direction:rtl}
+/* Localized service/quote content follows its reading direction. Keep the
+   established header/menu order and isolate public currency amounts. */
+html:is([data-static-locale="ar"],[data-static-locale="fa"]) .approved-main,
+html:is([data-static-locale="ar"],[data-static-locale="fa"]) .packages-main,
+html:is([data-static-locale="ar"],[data-static-locale="fa"]) .pt-billing-service main,
+html:is([data-static-locale="ar"],[data-static-locale="fa"]) .pt-footer .business-hours{direction:rtl;text-align:start}
+html:is([data-static-locale="ar"],[data-static-locale="fa"]) .questionnaire-sections :is(label,legend,textarea,select){direction:rtl;text-align:start}
+html:is([data-static-locale="ar"],[data-static-locale="fa"]) .questionnaire-sections input:not([type="checkbox"]):not([type="radio"]){direction:rtl;text-align:start;unicode-bidi:plaintext}
+html:is([data-static-locale="ar"],[data-static-locale="fa"]) .plan-price{direction:ltr;unicode-bidi:isolate;text-align:right}
+html:is([data-static-locale="ar"],[data-static-locale="fa"]) .plan-price span{direction:rtl;unicode-bidi:plaintext}
+html:is([data-static-locale="ar"],[data-static-locale="fa"]) :is(.plan-limits p,#quote-submission-feedback,#quote-submission-help){unicode-bidi:plaintext}
+/* The older Tagalog nowrap override predates the approved expanded menu. */
+@media(min-width:981px){html[data-static-locale="tl"] .pt-header.has-billing-nav .pt-nav{flex-wrap:wrap}}
