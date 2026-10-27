@@ -38,13 +38,13 @@
     const locale=document.documentElement.dataset.staticLocale||document.documentElement.lang||'en';
     const formatter=new Intl.DateTimeFormat(locale,{month:'long',timeZone:'UTC',calendar:'gregory'});
     for(let m=1;m<=12;m++)month.add(new Option(formatter.format(new Date(Date.UTC(2000,m-1,1))),String(m).padStart(2,'0')));
-    // Put recent repair years first on mobile, retaining all four-digit years.
-    // Native selects also support typing a year to jump directly to it.
-    const currentYear=new Date().getFullYear();
-    for(let offset=0;offset<9999;offset++){
-      const y=(currentYear-offset+9998)%9999+1;
-      year.add(new Option(String(y).padStart(4,'0'),String(y).padStart(4,'0')));
+    // Keep the native picker small: approved repair years are 1900 through next year.
+    const maximumYear=new Date().getFullYear()+1;
+    const years=document.createDocumentFragment();
+    for(let y=maximumYear;y>=1900;y--){
+      years.append(new Option(String(y).padStart(4,'0'),String(y).padStart(4,'0')));
     }
+    year.append(years);
     const initial=input.value;
     input.type='hidden';
     if(initial){year.value=initial.slice(0,4);month.value=initial.slice(5,7)}
@@ -55,18 +55,31 @@
   });
   function updatePeriods(){
     periods.forEach(({input,month,year})=>{input.value=month.value&&year.value?year.value+'-'+month.value:''});
-    periods.forEach(({input,month,year},index)=>{
+    periods.forEach((period,index)=>{
+      const {input,month,year}=period;
       const other=periods[index===0?1:0]?.input.value;
       const min=input.min||(index===1?other:''),max=input.max||(index===0?other:'');
       const allowed=value=>(!min||value>=min)&&(!max||value<=max);
-      [...month.options].forEach(option=>{
-        option.disabled=!!option.value&&!!year.value&&!allowed(year.value+'-'+option.value);
-      });
-      [...year.options].forEach(option=>{
-        if(!option.value)return;
-        const first=option.value+'-'+(month.value||'01'),last=option.value+'-'+(month.value||'12');
-        option.disabled=!!((min&&last<min)||(max&&first>max));
-      });
+      // Native pickers may stay open while emitting change (notably wheel UIs).
+      // Do not rewrite the active picker's options when its bounds are unchanged.
+      const monthBounds=[min,max,year.value].join('|');
+      if(period.monthBounds!==monthBounds){
+        for(const option of month.options){
+          const disabled=!!option.value&&!!year.value&&!allowed(year.value+'-'+option.value);
+          if(option.disabled!==disabled)option.disabled=disabled;
+        }
+        period.monthBounds=monthBounds;
+      }
+      const yearBounds=[min,max,month.value].join('|');
+      if(period.yearBounds!==yearBounds){
+        for(const option of year.options){
+          if(!option.value)continue;
+          const first=option.value+'-'+(month.value||'01'),last=option.value+'-'+(month.value||'12');
+          const disabled=!!((min&&last<min)||(max&&first>max));
+          if(option.disabled!==disabled)option.disabled=disabled;
+        }
+        period.yearBounds=yearBounds;
+      }
     });
   }
   periods.forEach(({month,year})=>[month,year].forEach(select=>select.addEventListener('change',updatePeriods)));
