@@ -10,6 +10,67 @@
   }catch{location.replace('request-a-custom-quote.html');return}
   const config=window.PAPER_TRAIL_QUOTE_CONFIG;
   const localized=value=>window.PAPER_TRAIL_CHAT_LOCALES?.[document.documentElement.dataset.staticLocale||'en']?.[value]||value;
+  // Native segmented month inputs are difficult to type into on some browsers.
+  // Keep their canonical YYYY-MM values for the existing Quote Details mapping;
+  // expose ordinary keyboard-accessible selects with the existing translated labels.
+  const periods=[...form.querySelectorAll('.period-fields input[type="month"]')].map(input=>{
+    const label=input.parentElement;
+    const group=document.createElement('div');
+    group.className='period-date';
+    group.setAttribute('role','group');
+    const title=document.createElement('span');
+    title.id=input.name+'-label';
+    title.textContent=label.textContent.trim();
+    group.setAttribute('aria-labelledby',title.id);
+    const controls=document.createElement('div');
+    controls.className='period-date-controls';
+    const month=document.createElement('select'),year=document.createElement('select');
+    month.id=input.id||input.name+'-month';
+    year.id=input.name+'-year';
+    input.removeAttribute('id');
+    [month,year].forEach((select,index)=>{
+      select.dataset.periodPart=index===0?'month':'year';
+      select.setAttribute('aria-label',title.textContent+(index===0?' (MM)':' (YYYY)'));
+      select.required=input.required;
+      select.disabled=input.disabled;
+      select.add(new Option('—',''));
+    });
+    const locale=document.documentElement.dataset.staticLocale||document.documentElement.lang||'en';
+    const formatter=new Intl.DateTimeFormat(locale,{month:'long',timeZone:'UTC',calendar:'gregory'});
+    for(let m=1;m<=12;m++)month.add(new Option(formatter.format(new Date(Date.UTC(2000,m-1,1))),String(m).padStart(2,'0')));
+    // Put recent repair years first on mobile, retaining all four-digit years.
+    // Native selects also support typing a year to jump directly to it.
+    const currentYear=new Date().getFullYear();
+    for(let offset=0;offset<9999;offset++){
+      const y=(currentYear-offset+9998)%9999+1;
+      year.add(new Option(String(y).padStart(4,'0'),String(y).padStart(4,'0')));
+    }
+    const initial=input.value;
+    input.type='hidden';
+    if(initial){year.value=initial.slice(0,4);month.value=initial.slice(5,7)}
+    controls.append(month,year);
+    group.append(title,controls,input);
+    label.replaceWith(group);
+    return {input,month,year};
+  });
+  function updatePeriods(){
+    periods.forEach(({input,month,year})=>{input.value=month.value&&year.value?year.value+'-'+month.value:''});
+    periods.forEach(({input,month,year},index)=>{
+      const other=periods[index===0?1:0]?.input.value;
+      const min=input.min||(index===1?other:''),max=input.max||(index===0?other:'');
+      const allowed=value=>(!min||value>=min)&&(!max||value<=max);
+      [...month.options].forEach(option=>{
+        option.disabled=!!option.value&&!!year.value&&!allowed(year.value+'-'+option.value);
+      });
+      [...year.options].forEach(option=>{
+        if(!option.value)return;
+        const first=option.value+'-'+(month.value||'01'),last=option.value+'-'+(month.value||'12');
+        option.disabled=!!((min&&last<min)||(max&&first>max));
+      });
+    });
+  }
+  periods.forEach(({month,year})=>[month,year].forEach(select=>select.addEventListener('change',updatePeriods)));
+  updatePeriods();
   let nativeForm;
   const feedback=document.createElement('p');
   feedback.id='quote-submission-feedback';
@@ -30,7 +91,7 @@
     form.querySelectorAll('.quote-field[data-question]').forEach(field=>{
       const answers=[],details=[];
       field.querySelectorAll('input,select,textarea').forEach(input=>{
-        if(input.disabled||input.type==='file')return;
+        if(input.disabled||input.type==='file'||input.hasAttribute('data-period-part'))return;
         if(['checkbox','radio'].includes(input.type)&&!input.checked)return;
         const value=input.value.trim();
         if(!value)return;
