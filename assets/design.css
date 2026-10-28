@@ -177,7 +177,7 @@
 .pt-interior .opening-copy h1,.pt-interior .city-title h1,.pt-interior .article-mast h1{font:400 48px/1.12 Georgia,serif;letter-spacing:-.04em;color:#202020;margin:0 0 24px}
 .pt-interior .summary{font-size:18px;line-height:1.85;color:#202020;margin-bottom:24px}
 .pt-interior .eyebrow{color:#606060;font-size:12px;letter-spacing:.08em}
-.pt-interior .photo-frame{aspect-ratio:auto;background:none;border:0;box-shadow:none;border-radius:0;overflow:visible}
+.pt-interior .photo-frame{aspect-ratio:var(--image-intrinsic-ratio,auto);background:none;border:0;box-shadow:none;border-radius:0;overflow:visible}
 .pt-interior .photo-frame img{width:100%;height:auto!important;max-height:none;object-fit:contain;transform:none}
 .pt-interior .hero{display:grid;grid-template-columns:minmax(0,1.6fr) minmax(0,1fr);gap:35px;min-height:0;height:auto;padding:36px 0 38px;background:none;color:#202020;align-items:center;overflow:visible}
 .pt-interior .hero:before,.pt-interior .hero:after{display:none}
@@ -345,7 +345,7 @@ html:lang(en) .action,html:lang(en) .btn,html:lang(en) .card-action,html:lang(en
 @media(max-width:980px){.pt-interior .hero.video-hero{grid-template-columns:1fr;gap:28px}.pt-interior .hero.video-hero>.wrap{max-width:780px;margin:auto}.page-language{margin-inline:24px}}
 @media(max-width:650px){.pt-interior .hero.video-hero{padding:24px 0 30px;gap:24px}.pt-interior .hero.video-hero>.wrap{text-align:center}.work-board{gap:20px}.pt-interior .work-card>h2,.pt-interior .work-card>h3{min-height:0}.page-language{margin-inline:20px;flex-wrap:wrap;gap:8px;justify-content:flex-end}.page-language .translation-notice{flex-basis:100%;text-align:center}.page-language .language-control{margin-inline-start:auto}.blog-story .blog-preview{font-size:16px}}
 /* Retain the approved full-height photograph and centered title/action composition. */
-.pt-interior .support-note-cards .photo-frame.card-photo{display:block;aspect-ratio:auto;height:100%;align-self:stretch;overflow:hidden;background:transparent}
+.pt-interior .support-note-cards .photo-frame.card-photo{display:block;aspect-ratio:var(--image-intrinsic-ratio,auto);height:100%;align-self:stretch;overflow:hidden;background:transparent}
 .pt-interior .support-note-cards .photo-frame.card-photo img{width:100%!important;height:100%!important;object-fit:cover!important;object-position:center 35%;align-self:stretch}
 .pt-interior .support-note-cards .photo-card-copy{justify-content:center;align-items:center;text-align:center;gap:22px}
 .pt-interior .support-note-cards .card-action{margin-top:0;flex:none}

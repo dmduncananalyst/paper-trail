@@ -1,5 +1,5 @@
 /* Preserve the complete approved photographs at their natural aspect ratio. */
-.approved-blog .reading-masthead img,.blog-story.approved-blog-card>img{width:100%;height:auto;max-width:100%;aspect-ratio:auto;object-fit:contain;align-self:center}
+.approved-blog .reading-masthead img,.blog-story.approved-blog-card>img{width:100%;height:auto;max-width:100%;aspect-ratio:var(--image-intrinsic-ratio,auto);object-fit:contain;align-self:center}
 /* Give the photo the same generous share of the masthead on tablet-sized views. */
 @media(min-width:651px) and (max-width:980px){
  .approved-blog .reading-masthead{grid-template-columns:minmax(0,1.2fr) minmax(0,1fr)}
