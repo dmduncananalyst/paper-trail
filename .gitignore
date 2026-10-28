@@ -747,3 +747,7 @@
 !**/service-account*.example.json
 !**/service-account*.template.json
 !**/service-account*.sample.json
+
+# Final local review deliverables; keep out of publication.
+/tools/local-review-20261027.txt
+/tools/local-review-20261027.csv

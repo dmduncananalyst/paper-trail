@@ -8,17 +8,16 @@ $reportPath=[IO.Path]::GetFullPath($Report)
 if($reportPath.StartsWith($root+[IO.Path]::DirectorySeparatorChar,[StringComparison]::OrdinalIgnoreCase)){throw 'Verification reports must remain outside the repository and public build.'}
 $errors=New-Object 'Collections.Generic.List[string]'
 $languages=@('es','fa','hy','zh-CN','ko','tl','te','ru','ar')
-# The approved launch contains 210 English pages and the same routes in nine languages.
-# Compare exact route sets, so a duplicate/archive page cannot satisfy the count.
+# Approved English and saved localized routes are independent inventories.
+# New English content must not imply permission to generate translated pages.
+$inventory=Get-Content -LiteralPath (Join-Path $PSScriptRoot 'production-pages.json') -Raw -Encoding UTF8 | ConvertFrom-Json
 $sourcePages=@(Get-ChildItem -LiteralPath $root -Filter '*.html' -File)
 $sourcePages+=@(Get-ChildItem -LiteralPath (Join-Path $root 'state-records') -Filter '*.html' -File)
-if($sourcePages.Count -ne 210){$errors.Add('Unexpected approved English source inventory: '+$sourcePages.Count)}
+$actualEnglish=@($sourcePages|ForEach-Object {$_.FullName.Substring($root.Length+1).Replace('\','/')})
+if(@(Compare-Object @($inventory.english) $actualEnglish).Count){$errors.Add('Approved English source inventory mismatch')}
 $expectedPages=New-Object 'Collections.Generic.HashSet[string]' ([StringComparer]::Ordinal)
-foreach($sourcePage in $sourcePages){
- $name=$sourcePage.FullName.Substring($root.Length+1).Replace('\','/')
- [void]$expectedPages.Add($name)
- foreach($language in $languages){[void]$expectedPages.Add($language+'/'+$name)}
-}
+foreach($name in $inventory.english){[void]$expectedPages.Add($name)}
+foreach($language in $languages){foreach($name in $inventory.locales.$language){[void]$expectedPages.Add($language+'/'+$name)}}
 $withoutChat=@('packages.html','request-a-custom-quote.html','enterprise-monthly-bookkeeping-quote.html','enterprise-accounts-billing-quote.html','bookkeeping-repair-quote.html')
 $pages=@(Get-ChildItem $publicRoot -Filter '*.html' -Recurse)
 $files=New-Object 'Collections.Generic.HashSet[string]' ([StringComparer]::OrdinalIgnoreCase)
@@ -33,6 +32,10 @@ $urls=New-Object 'Collections.Generic.HashSet[string]'
 foreach($map in @('sitemap.xml','sitemap-translations.xml')){
  [xml]$xml=[IO.File]::ReadAllText((Join-Path $publicRoot $map))
  foreach($node in $xml.urlset.url){if(!$urls.Add([string]$node.loc)){$errors.Add('Duplicate sitemap URL: '+$node.loc)}}
+}
+foreach($locale in @('')+$languages){
+ $contact='https://www.papertrailusa.com/'+$(if($locale){$locale+'/'}else{''})+'areas-we-serve.html'
+ if(!$urls.Contains($contact)){$errors.Add('Missing Contact Us sitemap URL: '+$contact)}
 }
 $references=0;$chats=0
 foreach($page in $pages){
@@ -54,6 +57,12 @@ foreach($page in $pages){
  if(!$noindex -and !$urls.Contains($url) -and !($relative -eq 'index.html' -and $urls.Contains('https://www.papertrailusa.com/'))){$errors.Add('Missing sitemap page: '+$relative)}
  $canonical=[regex]::Match($html,'<link\b[^>]*rel="canonical"[^>]*href="([^"]+)"').Groups[1].Value
  if($canonical -cne $url -and !($relative -eq 'index.html' -and $canonical -ceq 'https://www.papertrailusa.com/')){$errors.Add('Canonical mismatch: '+$relative)}
+ # Citation sections are restricted to individual educational/blog articles.
+ $individualArticle=$html -match '"@type"\s*:\s*"(Article|BlogPosting|NewsArticle|TechArticle)"' -or $html -match '<article\b[^>]*class="[^"]*(reading-feature|article-body|aeo-article)'
+ if(!$individualArticle -and $html -match '<(section|aside|div)\b[^>]*class="[^"]*\b(references|sources|source-reference-links)\b'){$errors.Add('Inappropriate source/resource section: '+$relative)}
+ if($sourceName -eq 'paper-trail-monthly-bookkeeping.html' -and $html -match '<a\b[^>]*href="[^"]*#monthly-bookkeeping-service-inclusions'){$errors.Add('Unwanted service inclusions jump link: '+$relative)}
+ $clarityCount=[regex]::Matches($html,'https://(?:www\.)?clarity\.ms/tag/').Count
+ if($clarityCount -ne 1 -or !$html.Contains('"z32dbrhlki"')){$errors.Add('Clarity initialization mismatch: '+$relative)}
  $configs=[regex]::Matches($html,'<script type="application/json" id="conversation-data">([\s\S]*?)</script>')
  $expectedConfigs=if($sourceName -match '^state-records/' -or $withoutChat -ccontains $sourceName){0}else{1}
  if($configs.Count -ne $expectedConfigs){$errors.Add('Chat config count: '+$relative)}elseif($configs.Count){
@@ -74,7 +83,7 @@ foreach($page in $pages){
 }
 foreach($private in @('tools','verification','START_HERE.txt','Paper-Trail-Master-Website-Instructions.md','paper-trail-launch-audit-2026-10-18.md')){if(Test-Path (Join-Path $publicRoot $private)){$errors.Add('Private build content: '+$private)}}
 foreach($expected in $expectedPages){if(!$files.Contains((Join-Path $publicRoot $expected))){$errors.Add('Missing approved page: '+$expected)}}
-if($pages.Count -ne 2100 -or $pages.Count -ne $expectedPages.Count){$errors.Add('Unexpected page count: '+$pages.Count)}
+if($pages.Count -ne $expectedPages.Count){$errors.Add('Unexpected page count: '+$pages.Count)}
 $result=@{pages=$pages.Count;expectedPages=$expectedPages.Count;languages=@('en')+$languages;chats=$chats;sitemapUrls=$urls.Count;internalReferences=$references;errors=@($errors.ToArray())}
 $result | ConvertTo-Json -Depth 5 | Set-Content -LiteralPath $reportPath -Encoding UTF8
 $result | ConvertTo-Json -Depth 5

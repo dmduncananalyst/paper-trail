@@ -16,7 +16,10 @@
   try{localStorage.setItem('paper-trail-language',language)}catch{}
   document.addEventListener('change',event=>{
     const select=event.target;if(select.id!=='language')return;
-    const next=select.value;if(next!=='en'&&!routes[next]?.includes(path))return;
+    const next=select.value;if(next!=='en'&&!routes[next]?.includes(path)){
+      event.stopImmediatePropagation();try{localStorage.setItem('paper-trail-language',next)}catch{}
+      location.assign(destination(next,'index.html'));return;
+    }
     event.stopImmediatePropagation();try{localStorage.setItem('paper-trail-language',next)}catch{}
     const url=destination(next,path);url.hash=current.hash;url.search=current.search;url.searchParams.delete('lang');location.assign(url);
   },true);

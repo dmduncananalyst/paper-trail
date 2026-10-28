@@ -397,8 +397,8 @@
       "provider_verified": true
     }
   },
-  "google_calls": 90,
-  "google_characters_sent": 372033,
+  "google_calls": 153,
+  "google_characters_sent": 627912,
   "guided_chat": {
     "file": "chat.json",
     "languages": [
@@ -413,7 +413,7 @@
       "ru",
       "ar"
     ],
-    "phrases_per_language": 1346,
+    "phrases_per_language": 1362,
     "origin": "google",
     "speaker_review": "pending"
   },
@@ -433,7 +433,7 @@
   "reference_only": [
     "assets/locales/ui.js"
   ],
-  "revision": "758e45d1f6b8c14544fe92ccd219a0da1c369b676269ad982851fb68470d89b1",
+  "revision": "a0d1dd2be84c410467b8c9a89d233e8b0e578200af746fbb8925fcec9d45d2c8",
   "source_pages": [
     "about.html",
     "accounts-billing.html",
@@ -456,6 +456,7 @@
     "bookkeeping-santa-monica.html",
     "bookkeeping-west-hollywood.html",
     "bookkeeping-woodland-hills.html",
+    "california-payroll-record-retention.html",
     "can-a-bank-feed-replace-reconciliations.html",
     "can-a-bookkeeper-tell-me-what-deductions-i-can-claim.html",
     "can-a-monthly-review-catch-fraud-or-mistakes.html",
@@ -469,6 +470,7 @@
     "can-several-months-be-corrected-at-once.html",
     "can-year-end-cleanup-be-completed-after-december.html",
     "catch-up-bookkeeping-overdue-books.html",
+    "construction-bookkeeping.html",
     "customer-deposits-spent-like-earnings-work-still-owed.html",
     "customer-invoicing.html",
     "do-i-have-to-start-over-if-my-balances-are-wrong.html",
@@ -517,6 +519,8 @@
     "monthly-financial-reports.html",
     "nationwide-bookkeeping.html",
     "notes.html",
+    "organizing-receipts-tax-records.html",
+    "outsourced-bookkeeping.html",
     "packages.html",
     "paper-trail-monthly-bookkeeping-questions.html",
     "paper-trail-monthly-bookkeeping.html",
@@ -527,7 +531,9 @@
     "payment-coordination.html",
     "payment-follow-ups.html",
     "profit-vs-cash-flow-business-money.html",
+    "quickbooks-xero-professional-bookkeeping.html",
     "request-a-custom-quote.html",
+    "roles-bookkeepers-accountants-cpas.html",
     "services.html",
     "should-every-business-credit-card-be-reconciled.html",
     "should-i-catch-up-bookkeeping-before-applying-for-financing.html",
@@ -536,6 +542,7 @@
     "should-loans-be-recorded-before-preparing-taxes.html",
     "should-payroll-records-be-reviewed-at-year-end.html",
     "should-sales-tax-collected-be-treated-as-revenue.html",
+    "startup-bookkeeping.html",
     "tax-ready-bookkeeping-questions.html",
     "tax-ready-bookkeeping-records.html",
     "tax-ready-bookkeeping.html",
@@ -647,7 +654,7 @@
     "state-records/wyoming.html"
   ],
   "status": "Saved Google translations. No visitor API calls. Native speaker review pending.",
-  "successful_characters_saved": 880263,
+  "successful_characters_saved": 1136142,
   "workflow": "whole-site",
   "blog_sync_successful_characters": 508230,
   "usage_scope": "Restored incremental ledger only; historical account usage and charges remain unknown",

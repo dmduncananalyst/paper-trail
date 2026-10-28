@@ -22,12 +22,29 @@ $analyticsTag = @'
   gtag('config', 'G-2SZSN9XXJZ');
 </script>
 '@
+$clarityTag = @'
+<script type="text/javascript">
+    (function(c,l,a,r,i,t,y){
+        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+    })(window, document, "clarity", "script", "z32dbrhlki");
+</script>
+'@
 $utf8 = New-Object Text.UTF8Encoding $false
 Get-ChildItem $destination -Filter '*.html' -File -Recurse | ForEach-Object {
     $html = [IO.File]::ReadAllText($_.FullName)
     if (!$html.Contains($analyticsTag)) {
         if (!$html.Contains('</head>')) {throw ('Missing head section: '+$_.FullName)}
         $html = $html.Replace('</head>', "`n"+$analyticsTag+"`n</head>")
+        [IO.File]::WriteAllText($_.FullName,$html,$utf8)
+    }
+
+    $clarityCount=[regex]::Matches($html,'https://(?:www\.)?clarity\.ms/tag/').Count
+    if($clarityCount -gt 1 -or ($clarityCount -eq 1 -and !$html.Contains('"z32dbrhlki"'))){throw ('Unexpected Clarity initialization: '+$_.FullName)}
+    if($clarityCount -eq 0){
+        if(!$html.Contains('</head>')){throw ('Missing head section: '+$_.FullName)}
+        $html=$html.Replace('</head>',"`n"+$clarityTag+"`n</head>")
         [IO.File]::WriteAllText($_.FullName,$html,$utf8)
     }
 }

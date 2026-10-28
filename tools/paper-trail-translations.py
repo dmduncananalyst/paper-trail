@@ -227,6 +227,7 @@ def alternates(markup,name,english_url):
  links=''.join('<link rel="alternate" hreflang="'+l+'" href="'+html.escape(url,quote=True)+'" data-paper-trail-translation-alternate="true">' for l,url in urls.items())
  return markup.replace('</head>',links+'</head>',1)
 def build_saved(pages,refs,fields,report):
+ from source_section_policy import clean as clean_citation_sections
  checkpoint=ROOT/BASE/'current.json'
  previous=json.loads(checkpoint.read_text(encoding='utf-8')) if checkpoint.exists() else {}
  previous_fingerprints=previous.get('source_fingerprints',{})
@@ -280,8 +281,13 @@ def build_saved(pages,refs,fields,report):
     return '<script type="application/ld+json">'+json.dumps(walk(json.loads(m[1])),ensure_ascii=True)+'</script>'
    markup=re.sub(r'<script type="application/ld\+json">(.*?)</script>',schema,markup,flags=re.S);markup=alternates(install_runtime(markup,revision),name,english_url);labels=[html.escape(fields[key(s,l)]['text']) for s in NOTICE]
    credit='<aside class="translation-credit" lang="'+l+'-x-mtfrom-en"><a href="https://translate.google.com/" target="_blank" rel="noopener"><img src="assets/google-translate-attribution.png" alt="Powered by Google Translate" width="150" height="20"></a><details><summary>'+labels[0]+'</summary><p>'+labels[1]+'</p><p>'+labels[2]+'</p></details></aside>';markup=markup.replace('</main>',credit+'</main>',1);markup=markup.replace('</head>','<link rel="alternate machine-translated-from" hreflang="en" href="'+english_url+'"></head>',1)
+   markup=clean_citation_sections(markup,l+'/'+name)
    path=ROOT/l/name;atomic(path,markup.encode());generated.append(path.relative_to(ROOT).as_posix())
   if previous_fingerprints.get(name)!=report['source_fingerprints'].get(name) or not complete_selector(inv.markup):atomic(ROOT/name,alternates(install_runtime(inv.markup,revision),name,english_url).encode())
+ production_path=ROOT/'tools/production-pages.json'
+ production=json.loads(production_path.read_text(encoding='utf-8'))
+ for locale in LOCALES:production['locales'][locale]=sorted(set(production['locales'].get(locale,[]))|set(pages))
+ atomic(production_path,encoded(production))
  atomic(ROOT/BASE/'routes.js',('window.paperTrailTranslationRoutes='+json.dumps(routes)+';\n').encode());atomic(ROOT/BASE/'current.json',encoded({'revision':revision,'provider':'google','routes':routes,'source_fingerprints':report['source_fingerprints'],'source_pages':len(pages)}))
  receipts=[json.loads(p.read_text(encoding='utf-8')) for p in RECEIPTS.glob('*.json')]
  ledger=ExistingBudget(private_path('DOMMYDOM_SHARED_BUDGET_DB','shared-usage.sqlite'),read_only=True)

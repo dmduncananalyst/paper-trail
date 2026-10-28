@@ -12,3 +12,9 @@
 .consultation-choices{display:flex;flex-wrap:wrap;justify-content:center;gap:16px;margin-top:20px}
 .consultation-choices>.action{white-space:normal;text-transform:none}
 @media(max-width:650px){.consultation-choices{flex-direction:column;align-items:stretch}.consultation-choices>.action{width:100%}}
+
+/* Existing actions: chat first, three consultation/quote choices on the final desktop row. */
+.conversation-invitation .service-inquiry-actions.four-contact-options{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));align-items:stretch;gap:18px 16px;max-width:1000px;margin-inline:auto}
+.conversation-invitation .four-contact-options>.existing-chat-option{grid-column:1/-1}
+.conversation-invitation .four-contact-options>a.action{display:flex;align-items:center;justify-content:center;width:100%;min-width:0;margin:0}
+@media(max-width:650px){.conversation-invitation .service-inquiry-actions.four-contact-options{grid-template-columns:1fr;max-width:380px}.conversation-invitation .four-contact-options>a.action{max-width:none}}
