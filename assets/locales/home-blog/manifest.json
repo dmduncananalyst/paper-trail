@@ -397,8 +397,8 @@
       "provider_verified": true
     }
   },
-  "google_calls": 153,
-  "google_characters_sent": 627912,
+  "google_calls": 189,
+  "google_characters_sent": 752130,
   "guided_chat": {
     "file": "chat.json",
     "languages": [
@@ -413,7 +413,7 @@
       "ru",
       "ar"
     ],
-    "phrases_per_language": 1362,
+    "phrases_per_language": 1367,
     "origin": "google",
     "speaker_review": "pending"
   },
@@ -433,7 +433,7 @@
   "reference_only": [
     "assets/locales/ui.js"
   ],
-  "revision": "a0d1dd2be84c410467b8c9a89d233e8b0e578200af746fbb8925fcec9d45d2c8",
+  "revision": "a16260d0decdb820df8686c0092431bf4bc91a0c9a2551370462916cebb11e9c",
   "source_pages": [
     "about.html",
     "accounts-billing.html",
@@ -479,7 +479,9 @@
     "do-unpaid-vendor-bills-matter-at-year-end.html",
     "enterprise-accounts-billing-quote.html",
     "enterprise-monthly-bookkeeping-quote.html",
+    "enterprise-weekly-bookkeeping-quote.html",
     "faq.html",
+    "five-reasons-every-business-needs-bookkeeping.html",
     "how-can-i-see-whether-my-business-is-improving.html",
     "how-can-i-tell-how-much-my-business-earned-this-month.html",
     "how-can-missing-bank-transactions-be-found.html",
@@ -554,6 +556,7 @@
     "transaction-categorization.html",
     "vendor-bill-management.html",
     "vendor-paid-twice-nobody-noticed-for-months.html",
+    "weekly-bookkeeping.html",
     "what-business-expenses-should-i-be-tracking.html",
     "what-do-monthly-financial-reports-actually-show-me.html",
     "what-does-a-bookkeeper-actually-do-for-a-small-business.html",
@@ -654,7 +657,7 @@
     "state-records/wyoming.html"
   ],
   "status": "Saved Google translations. No visitor API calls. Native speaker review pending.",
-  "successful_characters_saved": 1136142,
+  "successful_characters_saved": 1260360,
   "workflow": "whole-site",
   "blog_sync_successful_characters": 508230,
   "usage_scope": "Restored incremental ledger only; historical account usage and charges remain unknown",
