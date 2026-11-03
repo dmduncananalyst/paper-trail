@@ -631,3 +631,9 @@ html{scrollbar-gutter:stable}.service-inquiry-actions{display:flex;align-items:c
 @media(min-width:651px) and (max-width:980px){
  html[lang="tl"] .pt-preview .pt-header.has-billing-nav .pt-nav{flex-wrap:wrap}
 }
+
+/* Keep the existing navigation spacing when the additional direct service item
+   exceeds a saved language's available width. Reuse the established wrapping. */
+@media(min-width:651px){
+ html .pt-preview .pt-header.has-billing-nav .pt-nav:has([data-financial-analysis-navigation]){flex-wrap:wrap}
+}

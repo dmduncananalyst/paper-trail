@@ -32,7 +32,11 @@ class Restoration(unittest.TestCase):
     def test_saved_sources_only_and_no_network_inventory(self):
         with patch.object(runner, 'google_translate', side_effect=AssertionError('Offline')), patch.object(runner, 'access_token', side_effect=AssertionError('Offline')):
             pages, refs, fields, missing, report = runner.inventory()
-            self.assertEqual(len(pages), 210)
+            expected = json.loads(
+                (ROOT / 'tools/production-pages.json').read_text(encoding='utf-8')
+            )['english']
+            self.assertEqual(len(expected), len(set(expected)))
+            self.assertSetEqual(set(pages), set(expected))
             for locale, sources in missing.items():
                 self.assertTrue(all(runner.key(s, locale) not in fields for s in sources))
                 self.assertEqual(len(sources), len(set(sources)))

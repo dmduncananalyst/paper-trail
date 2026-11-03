@@ -5,7 +5,14 @@
   }));
   const form=document.querySelector('#quote-questionnaire');
   if(!form)return;
-  try{
+  const financialAnalysis=form.dataset.serviceKey==='financial-analysis';
+  if(financialAnalysis){
+    // URL preselection survives reloads and works without session storage.
+    if(new URLSearchParams(location.search).get('service')!=='financial-analysis')return;
+    form.hidden=false;
+    document.querySelector('.selection-grid').hidden=true;
+    document.querySelector('[data-quote-back]').hidden=false;
+  }else try{
     if(sessionStorage.getItem('paper-trail-quote-service')!==form.dataset.serviceKey){location.replace('request-a-custom-quote.html');return}
   }catch{location.replace('request-a-custom-quote.html');return}
   const config=window.PAPER_TRAIL_QUOTE_CONFIG;
@@ -158,4 +165,12 @@
     success.focus({preventScroll:true});
     success.scrollIntoView({block:'center'});
   });
+  if(financialAnalysis){
+    // Reuse the published quote form, its native validation, uploads, delivery,
+    // notifications and confirmation events. Never submit through a new endpoint.
+    const embed=document.createElement('script');
+    embed.src=config.embedScript;
+    embed.defer=true;
+    document.body.append(embed);
+  }
 })();

@@ -397,8 +397,8 @@
       "provider_verified": true
     }
   },
-  "google_calls": 189,
-  "google_characters_sent": 752130,
+  "google_calls": 198,
+  "google_characters_sent": 790182,
   "guided_chat": {
     "file": "chat.json",
     "languages": [
@@ -433,7 +433,7 @@
   "reference_only": [
     "assets/locales/ui.js"
   ],
-  "revision": "a16260d0decdb820df8686c0092431bf4bc91a0c9a2551370462916cebb11e9c",
+  "revision": "c7d16884b61d24cb8bffd7da1f71066921d186894796aea8c97783464b3878c2",
   "source_pages": [
     "about.html",
     "accounts-billing.html",
@@ -481,6 +481,7 @@
     "enterprise-monthly-bookkeeping-quote.html",
     "enterprise-weekly-bookkeeping-quote.html",
     "faq.html",
+    "financial-analysis.html",
     "five-reasons-every-business-needs-bookkeeping.html",
     "how-can-i-see-whether-my-business-is-improving.html",
     "how-can-i-tell-how-much-my-business-earned-this-month.html",
@@ -657,7 +658,7 @@
     "state-records/wyoming.html"
   ],
   "status": "Saved Google translations. No visitor API calls. Native speaker review pending.",
-  "successful_characters_saved": 1260360,
+  "successful_characters_saved": 1298412,
   "workflow": "whole-site",
   "blog_sync_successful_characters": 508230,
   "usage_scope": "Restored incremental ledger only; historical account usage and charges remain unknown",
