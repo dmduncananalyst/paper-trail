@@ -12,7 +12,7 @@
     form.hidden=false;
     document.querySelector('.selection-grid').hidden=true;
     document.querySelector('[data-quote-back]').hidden=false;
-  }else try{
+  }else if(form.dataset.serviceKey!=='payroll')try{
     if(sessionStorage.getItem('paper-trail-quote-service')!==form.dataset.serviceKey){location.replace('request-a-custom-quote.html');return}
   }catch{location.replace('request-a-custom-quote.html');return}
   const config=window.PAPER_TRAIL_QUOTE_CONFIG;
@@ -108,6 +108,8 @@
   }
   function quoteDetails(){
     const lines=['Selected service: '+form.dataset.service];
+    const bundle=new URLSearchParams(location.search).get('bundle');
+    if(['1','2'].includes(bundle))lines.push('Bundle '+bundle+': Bookkeeping + Financial Analysis + Payroll'+(bundle==='2'?' + Accounts & Billing':''));
     form.querySelectorAll('.quote-field[data-question]').forEach(field=>{
       const answers=[],details=[];
       field.querySelectorAll('input,select,textarea').forEach(input=>{

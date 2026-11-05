@@ -637,3 +637,31 @@ html{scrollbar-gutter:stable}.service-inquiry-actions{display:flex;align-items:c
 @media(min-width:651px){
  html .pt-preview .pt-header.has-billing-nav .pt-nav:has([data-financial-analysis-navigation]){flex-wrap:wrap}
 }
+
+/* November 4 owner correction: shared, centered navigation in every language. */
+html .pt-preview .pt-header .pt-nav,
+html .pt-preview .pt-header.has-billing-nav .pt-nav,
+html .pt-preview .pt-header.has-billing-nav .pt-nav:has([data-financial-analysis-navigation]){
+ display:flex;flex-wrap:wrap;justify-content:center;align-items:center;
+ gap:12px 24px;min-width:0;max-width:100%;width:100%;margin:0;
+ padding-block:14px 18px;font-size:15px;line-height:1.5;overflow:visible;
+}
+html .pt-preview .pt-header .pt-nav>*{flex:0 1 auto;min-width:0;max-width:100%}
+html .pt-preview .pt-header .pt-nav>a,
+html .pt-preview .pt-header .pt-nav>.nav-family>a{
+ white-space:normal;overflow-wrap:break-word;word-break:normal;
+ text-align:center;line-height:1.5;padding:7px 0;font-size:inherit;
+}
+html .pt-preview .pt-header .pt-nav>.nav-family{position:relative}
+html .pt-preview .payroll-opening>.payroll-page-title{
+ font:400 48px/1.12 Georgia,serif;letter-spacing:-.04em;
+ text-align:center;width:100%;margin:0 0 30px;
+}
+.pt-preview .payroll-schedules h3{margin-block:0 24px}
+.pt-preview .payroll-schedules p+h3{margin-block-start:38px}
+.pt-preview .payroll-schedules p+p{margin-block-start:22px}
+.pt-preview .payroll-opening+.service-work .work-card .section-copy p+p{margin-block-start:22px}
+@media(max-width:650px){
+ html .pt-preview .pt-header .pt-nav{gap:12px 20px;font-size:15px}
+ html .pt-preview .payroll-opening>.payroll-page-title{font-size:36px;margin-bottom:26px}
+}

@@ -18,7 +18,8 @@ if(@(Compare-Object @($inventory.english) $actualEnglish).Count){$errors.Add('Ap
 $expectedPages=New-Object 'Collections.Generic.HashSet[string]' ([StringComparer]::Ordinal)
 foreach($name in $inventory.english){[void]$expectedPages.Add($name)}
 foreach($language in $languages){foreach($name in $inventory.locales.$language){[void]$expectedPages.Add($language+'/'+$name)}}
-$withoutChat=@('financial-analysis.html','weekly-bookkeeping.html','packages.html','request-a-custom-quote.html','enterprise-monthly-bookkeeping-quote.html','enterprise-weekly-bookkeeping-quote.html','enterprise-accounts-billing-quote.html','bookkeeping-repair-quote.html')
+# All Bundles uses the existing Packages template and existing quote/consultation links.
+$withoutChat=@('all-bundles.html','financial-analysis.html','weekly-bookkeeping.html','packages.html','request-a-custom-quote.html','enterprise-monthly-bookkeeping-quote.html','enterprise-weekly-bookkeeping-quote.html','enterprise-accounts-billing-quote.html','bookkeeping-repair-quote.html')
 $pages=@(Get-ChildItem $publicRoot -Filter '*.html' -Recurse)
 $files=New-Object 'Collections.Generic.HashSet[string]' ([StringComparer]::OrdinalIgnoreCase)
 Get-ChildItem $publicRoot -Recurse -Force | ForEach-Object {
