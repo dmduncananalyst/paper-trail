@@ -1,0 +1,128 @@
+{
+  "5d529bf1368fe377dcf10a735fc2c73b68e9b65753f3d9656b92d4c96634d248|es": {
+    "source": "View Packages",
+    "locale": "es",
+    "text": "Ver paquetes",
+    "provider": "google",
+    "receipt": "21246eaf96ed42fcb523a55f89e91460.json"
+  },
+  "701d7b158a499ec55427f38344c94718d8b08b2faaeb4b63e246698b215489b9|es": {
+    "source": "View Bundles",
+    "locale": "es",
+    "text": "Ver paquetes",
+    "provider": "google",
+    "receipt": "21246eaf96ed42fcb523a55f89e91460.json"
+  },
+  "5d529bf1368fe377dcf10a735fc2c73b68e9b65753f3d9656b92d4c96634d248|fa": {
+    "source": "View Packages",
+    "locale": "fa",
+    "text": "مشاهده بسته‌ها",
+    "provider": "google",
+    "receipt": "2f5236e779d04e99bb0f43b44a73262f.json"
+  },
+  "701d7b158a499ec55427f38344c94718d8b08b2faaeb4b63e246698b215489b9|fa": {
+    "source": "View Bundles",
+    "locale": "fa",
+    "text": "مشاهده بسته‌ها",
+    "provider": "google",
+    "receipt": "2f5236e779d04e99bb0f43b44a73262f.json"
+  },
+  "5d529bf1368fe377dcf10a735fc2c73b68e9b65753f3d9656b92d4c96634d248|hy": {
+    "source": "View Packages",
+    "locale": "hy",
+    "text": "Դիտել փաթեթները",
+    "provider": "google",
+    "receipt": "b605f96bbd0747979714e7ac1e5d125e.json"
+  },
+  "701d7b158a499ec55427f38344c94718d8b08b2faaeb4b63e246698b215489b9|hy": {
+    "source": "View Bundles",
+    "locale": "hy",
+    "text": "Դիտել փաթեթները",
+    "provider": "google",
+    "receipt": "b605f96bbd0747979714e7ac1e5d125e.json"
+  },
+  "5d529bf1368fe377dcf10a735fc2c73b68e9b65753f3d9656b92d4c96634d248|zh-CN": {
+    "source": "View Packages",
+    "locale": "zh-CN",
+    "text": "查看套餐",
+    "provider": "google",
+    "receipt": "a86d9faa5f184cd48a392c4880b54c3b.json"
+  },
+  "701d7b158a499ec55427f38344c94718d8b08b2faaeb4b63e246698b215489b9|zh-CN": {
+    "source": "View Bundles",
+    "locale": "zh-CN",
+    "text": "查看套餐",
+    "provider": "google",
+    "receipt": "a86d9faa5f184cd48a392c4880b54c3b.json"
+  },
+  "5d529bf1368fe377dcf10a735fc2c73b68e9b65753f3d9656b92d4c96634d248|ko": {
+    "source": "View Packages",
+    "locale": "ko",
+    "text": "패키지 보기",
+    "provider": "google",
+    "receipt": "1470a787bfe9402588c8070e584f92bb.json"
+  },
+  "701d7b158a499ec55427f38344c94718d8b08b2faaeb4b63e246698b215489b9|ko": {
+    "source": "View Bundles",
+    "locale": "ko",
+    "text": "번들 보기",
+    "provider": "google",
+    "receipt": "1470a787bfe9402588c8070e584f92bb.json"
+  },
+  "5d529bf1368fe377dcf10a735fc2c73b68e9b65753f3d9656b92d4c96634d248|tl": {
+    "source": "View Packages",
+    "locale": "tl",
+    "text": "Tingnan ang mga Pakete",
+    "provider": "google",
+    "receipt": "41f1e5d9a2d24c3da2ccdbae45774fb4.json"
+  },
+  "701d7b158a499ec55427f38344c94718d8b08b2faaeb4b63e246698b215489b9|tl": {
+    "source": "View Bundles",
+    "locale": "tl",
+    "text": "Tingnan ang mga Bundle",
+    "provider": "google",
+    "receipt": "41f1e5d9a2d24c3da2ccdbae45774fb4.json"
+  },
+  "5d529bf1368fe377dcf10a735fc2c73b68e9b65753f3d9656b92d4c96634d248|te": {
+    "source": "View Packages",
+    "locale": "te",
+    "text": "ప్యాకేజీలను వీక్షించండి",
+    "provider": "google",
+    "receipt": "73f3b2b2a4e0408e8f0d6dbdba8dff0e.json"
+  },
+  "701d7b158a499ec55427f38344c94718d8b08b2faaeb4b63e246698b215489b9|te": {
+    "source": "View Bundles",
+    "locale": "te",
+    "text": "బండిల్స్‌ను వీక్షించండి",
+    "provider": "google",
+    "receipt": "73f3b2b2a4e0408e8f0d6dbdba8dff0e.json"
+  },
+  "5d529bf1368fe377dcf10a735fc2c73b68e9b65753f3d9656b92d4c96634d248|ru": {
+    "source": "View Packages",
+    "locale": "ru",
+    "text": "Просмотреть пакеты",
+    "provider": "google",
+    "receipt": "2a761e8f25b14ab18d74cdf182c9b3d0.json"
+  },
+  "701d7b158a499ec55427f38344c94718d8b08b2faaeb4b63e246698b215489b9|ru": {
+    "source": "View Bundles",
+    "locale": "ru",
+    "text": "Просмотреть пакеты",
+    "provider": "google",
+    "receipt": "2a761e8f25b14ab18d74cdf182c9b3d0.json"
+  },
+  "5d529bf1368fe377dcf10a735fc2c73b68e9b65753f3d9656b92d4c96634d248|ar": {
+    "source": "View Packages",
+    "locale": "ar",
+    "text": "عرض الباقات",
+    "provider": "google",
+    "receipt": "97b3ea6f8be5435eb4765cca15aa376a.json"
+  },
+  "701d7b158a499ec55427f38344c94718d8b08b2faaeb4b63e246698b215489b9|ar": {
+    "source": "View Bundles",
+    "locale": "ar",
+    "text": "عرض الباقات",
+    "provider": "google",
+    "receipt": "97b3ea6f8be5435eb4765cca15aa376a.json"
+  }
+}

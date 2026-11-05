@@ -44,6 +44,11 @@ class Inventory(OriginalInventory):
   before=len(self.slots);super().handle_data(s);self.slots[before:]=[x for x in self.slots[before:] if eligible(x['source'])]
 def load_cache():
  fields=json.loads(CACHE.read_text(encoding='utf-8')) if CACHE.exists() else {}
+ # Reuse the separately scoped navigation actions without rebuilding approved
+ # package sections or billing these labels again in a fresh checkout.
+ actions=ROOT/'assets/locales/service-package-actions.json'
+ if actions.exists():
+  for k,v in json.loads(actions.read_text(encoding='utf-8')).items():fields.setdefault(k,v)
  checkpoint=ROOT/BASE/'current.json'
  if checkpoint.exists():
   revision=json.loads(checkpoint.read_text(encoding='utf-8')).get('revision','')

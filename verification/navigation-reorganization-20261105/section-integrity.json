@@ -1,0 +1,88 @@
+{
+  "verbatim_sections": 60,
+  "unchanged_service_and_bundle_files": 70,
+  "canonical_hreflang_and_selector_checks": 80,
+  "sitemap_page_urls": 2370,
+  "section_sha256": {
+    "en": {
+      "weekly-bookkeeping": "845c96a8af168c94acfff7ce22f80148a77aba940ae6afaa5b64dd9fea647508",
+      "monthly-bookkeeping": "bdbfb0848b5b9737dbf723efbc4b80091bc222a2a66a8b857c6ffdc617483444",
+      "bookkeeping-repair": "f57186b75b5195cefc700621d4fe807b4ad18035af936b5b10278a3ffdfef710",
+      "accounts-billing": "20a4e08d68921606be6c664b18737961dc51bbadce281998865e7d3088565065",
+      "financial-analysis": "afaf16a63247263ebaf2fefdcdb28c7e6d2220970e82d9e6417fe49ddd209cdb",
+      "payroll": "c2b2f008ecc7a4bae1fb4280d9964d65ed7c73722c5d456146e3af582a81d320"
+    },
+    "es": {
+      "weekly-bookkeeping": "4a0855e87a3c7323bb0862d6bcf122da0473cd09cce39436567f91b8e2ebc595",
+      "monthly-bookkeeping": "7e7472a54d379c145a94d0728700d52c2d33e4d6f0206bd103b66b0a36d36008",
+      "bookkeeping-repair": "1fcf733427b3b07e86d3ba5b9486a7384867a00f3f4c052730aea5a0a81e5fdf",
+      "accounts-billing": "ef84abc91142ffc903b2f7c74be4809ee0c41f6d9eb8f2752abaf5e3e9fb1603",
+      "financial-analysis": "e877dd910c2c6d5f378d8fb9fd5e10a04ba70eec8dc88b3368276fd356225293",
+      "payroll": "464d7ff187296fe5d210a0440eca12f4feb5a0c42ca9c64bb550aeb0b40fe5a1"
+    },
+    "fa": {
+      "weekly-bookkeeping": "dd138bc9cedb41a90c023d6b76c9473b91bd6e42e4fab030b966dec5524b4c11",
+      "monthly-bookkeeping": "27fdccaee4ee2b735a5e34829bb160f260256e31e78411a6938fa318b441dbc5",
+      "bookkeeping-repair": "1dbb544be224ed0fe296632a8996948db9160da3caa5a1e66fbdc986a4a97c91",
+      "accounts-billing": "bbb23cbae33a0c5d97f9c969416d02c1ae58423db0e95dcc81816ae6837658cf",
+      "financial-analysis": "a9c0ee8e8f9ff386833e6eb89315ba5d1a1e9574b113eb2ca790e85f4aa1bc15",
+      "payroll": "60114a9fe880c6ea3a227f1368ca34aade1fbcf161dc6b85a3263187e432c2fb"
+    },
+    "hy": {
+      "weekly-bookkeeping": "0fb68135e199988be716730e0c4e7019ec2b0a8c39ac63041c64c5c148348c0d",
+      "monthly-bookkeeping": "91e300084ca7f668ab6962b01778fd3a3f406cb5a4d6d5da942b956d840cd5b0",
+      "bookkeeping-repair": "1b2ef8ce273b6dfc0e60043fb49f59277c7de961bb1d34501f4fc2adb3a128f2",
+      "accounts-billing": "4a031ce16235c6eb55316e75919ed9e4922135163c375c06499e44b37af0f38b",
+      "financial-analysis": "1a9c98e379ffe4a249a56d353a1ca440cfdebd60071dcaea7ec7159a4a35a381",
+      "payroll": "fd2cbc27c605835c9f56b21e41e3c7f19d389c7b9e85393e88e52b61cae36a7f"
+    },
+    "zh-CN": {
+      "weekly-bookkeeping": "8086fe664720fde03fb774d3da73f0f0f9fefd404533ad092abe24412cba504f",
+      "monthly-bookkeeping": "b3d5d530b07c26fc9f8a7a7c2808da089ca2b7c88889e75363a98e07f348c66c",
+      "bookkeeping-repair": "952298788287d38a5b3be81204e546c0a599f86f2f967b4b9ce653ea36eb53bc",
+      "accounts-billing": "dce316dc2ef6100256161f2077bdc58457402022f9f1d965acfd4159a24c9bce",
+      "financial-analysis": "a6429a0c23932edce830cbd284e74706b1de43095d75c3db469fe1231b320080",
+      "payroll": "0c491b8f61a729dfb6a468193b01ed1ebfcfa12e8c6f6ee9674bbdad2a2d186d"
+    },
+    "ko": {
+      "weekly-bookkeeping": "0671ef1b3a8c31c8987164dcba768a80a513e16688019d49d408ec21cfba14b7",
+      "monthly-bookkeeping": "ab1d1f850da48c3248f946e1784705f4867f8438295a9b9b10776bcebdd56c6f",
+      "bookkeeping-repair": "9658ec72f14a6087356bf6cea020f7bf8f5e3ec9fd4674f66d9527ad03fbe371",
+      "accounts-billing": "b8931b721b26ce4c7d492c6ac944d9adfe9a63340551abd0b3ceb4bb22c0b66b",
+      "financial-analysis": "51bc66b8cf9609d39f21e799036c1b00af890fce93f6fb8a7d20c4dbbe8cb261",
+      "payroll": "8f66b48aa3211c5dac366e0a9597ea262a072fdebc1e5de0d02a4eb2e35a8a0e"
+    },
+    "tl": {
+      "weekly-bookkeeping": "c356abc9ece53636ee7ba6bf2563b4a8f3f2aa6ac70683658842453707de4903",
+      "monthly-bookkeeping": "ac1668077c4f9962e52b4bdceb24ec9f4805fef4f00fce3757006dbe4a027201",
+      "bookkeeping-repair": "db0163ca8a6dd384df817906ee66231c7e316325cc5cecac3f72f57ca0b12fd0",
+      "accounts-billing": "31c47c13459ac7a7ff793e602eecde26e8983b9e7d15eb83ea609094efe7cca9",
+      "financial-analysis": "04b467a08ae41b7f5c9b2108ab8a0d480140ac98a8b7f7ac542683121f49920f",
+      "payroll": "b93c0d5ee738abb608b80116dbd36e5b58f8baace17930655a36936ad9087250"
+    },
+    "te": {
+      "weekly-bookkeeping": "936145c406e7905d0e406d77db0de08ae5c5570e9bc01a36dc2da6c5bed003cb",
+      "monthly-bookkeeping": "a30a2a2745330f7e55d9fc83d0dc229348b8e7ede928db59c36a1e6908e96a26",
+      "bookkeeping-repair": "923fcf93bbf8e57da8dc119349f5e0a0762c5f9ea418164102d4aff0ed7e3a5e",
+      "accounts-billing": "fd7f153a299ff8ecbc0f89f1985e7cce2fd7353cdd5a43eaa7ca29ecd5c1c7c6",
+      "financial-analysis": "eb092180e72e3b468cdbd86e63638afbe29aa0c312d12d1a6abac2057d0abe39",
+      "payroll": "69e56940c6b273364ffd55722fd0965c25be9b270913dcecad0ae0c71fa2183c"
+    },
+    "ru": {
+      "weekly-bookkeeping": "c87c8ac11dab440ec58dfbe5e9ab16c083b28631dd04a66ddb1fadb6073c41d8",
+      "monthly-bookkeeping": "240f4fe83a29b6afd8b24346e370ae08fa59f66c78f185bc5ad0e62e5853ef0d",
+      "bookkeeping-repair": "4fee6ffb2c6d2dc852a6020d95bb2344526fb31ba08b151622386b7876bf4708",
+      "accounts-billing": "aa40feb906c66abe8dac141a15ae7053cab753fc93a20767091864c42f1da13e",
+      "financial-analysis": "a06259ba9de653b3ebdc5bac16553cb0916e8097b9f037a0ac2cbcdfda42babc",
+      "payroll": "558a551c4da6be857a0bbe8ac35363c5b8826c0eff7ad9bad1c344da2489d213"
+    },
+    "ar": {
+      "weekly-bookkeeping": "22873cef4b2653f0469f66d2c6bb4d204cd77327df73d66d1d34e6e4d3c19fbe",
+      "monthly-bookkeeping": "8c18e46db9a8a9040fed1d70ce0642c5c817eda7efc8f75570eefdfc7fdde3c4",
+      "bookkeeping-repair": "f9f95f14d614df1a4b6363a14a7a231b8c08460aa4836ef90747fcb6a7de3d1e",
+      "accounts-billing": "8c6e96afe21cf292fc85754554bb06ce7d4e70f7def9d294e978ebd676fcff5b",
+      "financial-analysis": "ab4c39bc5c6b49741ce1faace113940518cb04da559bebb1e2036de0f1aa6c01",
+      "payroll": "1f6e94bde9241556a748078fe9307bdee68f14af65fbe5f5a3ce29f58e949971"
+    }
+  }
+}
