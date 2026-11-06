@@ -1,0 +1,19 @@
+{
+  "approved_page_transformations": 90,
+  "unchanged_service_and_bundle_sources": 60,
+  "payroll_paragraph_separations_with_no_word_changes": 10,
+  "bundle_overview_headings_copied_from_same_language_dedicated_page": 20,
+  "unchanged_service_overviews": 10,
+  "unchanged_translations_checklists_terms_and_destinations": true,
+  "weekly_prices_usd_per_month": {
+    "Bronze": 700,
+    "Silver": 1300,
+    "Gold": 2100,
+    "Enterprise": "Custom Quote"
+  },
+  "translation_api_calls": 0,
+  "translation_characters_sent": 0,
+  "incremental_translation_cost_usd": 0,
+  "saved_localized_price_and_tier_templates_reused": true,
+  "screenshot_reference_note": "Screenshot (557).png shows Financial Analysis; Screenshot (558).png shows Accounts & Billing. Follow Financial Analysis as required by the written request."
+}

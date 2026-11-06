@@ -1,24 +1,28 @@
 /* Preserve the Paper Trail header and Notes typography; organize destinations. */
-html body .pt-header .pt-nav[data-organized-navigation]{display:flex!important;flex-wrap:wrap!important;justify-content:center!important;gap:12px 24px!important;overflow:visible!important}
+html body .pt-header .pt-nav[data-organized-navigation]{display:flex!important;flex-wrap:wrap!important;justify-content:center!important;gap:12px 24px!important;overflow:visible!important;font-size:16px!important}
 html body .pt-header .pt-nav[data-organized-navigation]>*{flex:0 1 auto;grid-column:auto;max-width:100%;margin:0}
 html body .pt-header .pt-nav[data-organized-navigation] .nav-family{position:relative;display:block}
 html body .pt-header .pt-nav[data-organized-navigation] a::after,
 html body .pt-header .pt-nav[data-organized-navigation] a::before{content:none!important;display:none!important}
 html body .pt-header .pt-nav[data-organized-navigation]>.nav-family>a,
 html body .pt-header .pt-nav[data-organized-navigation]>a{display:flex;align-items:center;justify-content:center;min-height:44px;white-space:normal;padding:7px 0;font-size:inherit;text-align:center}
-html body .pt-header .pt-nav[data-organized-navigation] .nav-panel{position:absolute!important;inset:auto!important;top:100%!important;inset-inline-start:0!important;z-index:50;display:flex!important;flex-direction:column!important;gap:0!important;width:max-content;min-width:230px;max-width:min(370px,85vw);max-height:65dvh!important;overflow:auto!important;margin:0!important;padding:8px!important;background:#fff;border:1px solid #ccc;border-bottom:4px solid #202020;box-shadow:0 8px 15px rgb(0 0 0 / .12)}
+html body .pt-header .pt-nav[data-organized-navigation] .nav-panel{position:fixed!important;inset:auto!important;left:var(--menu-left,0px)!important;top:var(--menu-top,0px)!important;transform:none!important;z-index:50;display:flex!important;flex-direction:column!important;gap:0!important;width:max-content;min-width:230px;max-width:min(370px,85vw);max-height:var(--menu-height,65dvh)!important;overflow:auto!important;margin:0!important;padding:8px!important;background:#fff;border:1px solid #ccc;border-bottom:4px solid #202020;box-shadow:0 8px 15px rgb(0 0 0 / .12)}
 html body .pt-header .pt-nav[data-organized-navigation] .nav-panel[hidden]{display:none!important}
 html body .pt-header .pt-nav[data-organized-navigation] .nav-panel>a{display:block;white-space:normal;border:0;padding:10px 14px;font-size:15px;line-height:1.5;text-align:start;overflow-wrap:break-word}
 html body .pt-header .pt-nav[data-organized-navigation] .nav-panel>a:hover,
 html body .pt-header .pt-nav[data-organized-navigation] .nav-panel>a:focus-visible{background:#686868;color:#fff}
 @media(min-width:981px){html body .pt-header .pt-nav[data-organized-navigation]{flex-wrap:nowrap!important;gap:clamp(10px,1.6vw,24px)!important}html body .pt-header .pt-nav[data-organized-navigation]>a,html body .pt-header .pt-nav[data-organized-navigation]>.nav-family>a{white-space:nowrap}}
-@media(max-width:650px){html body .pt-header .pt-nav[data-organized-navigation]{display:grid!important;grid-template-columns:repeat(4,minmax(0,1fr));gap:8px 10px!important;font-size:14px}html body .pt-header .pt-nav[data-organized-navigation] .nav-panel{position:fixed!important;top:auto!important;inset-inline:16px!important;width:auto!important;max-width:none;max-height:55dvh!important}html body .pt-header .pt-nav[data-organized-navigation] .nav-family{position:static}}
+@media(max-width:650px){html body .pt-header .pt-nav[data-organized-navigation]{display:grid!important;grid-template-columns:repeat(4,minmax(0,1fr));gap:8px 10px!important;font-size:15px!important}html body .pt-header .pt-nav[data-organized-navigation] .nav-family{position:static}}
 .services-intro-photo{max-width:560px;margin:0 auto 36px;padding-inline:20px}
 .services-intro-photo img{display:block;width:100%;height:auto!important;object-fit:contain}
-.services-overview .service-overview-card{border-bottom:1px solid var(--pt-rule,#ccc);padding:26px 0;display:flex;flex-direction:column;align-items:flex-start;gap:16px}
+.services-overview{gap:28px}
+.services-overview .service-overview-card{position:relative;border:1px solid var(--pt-rule,#ccc);padding:28px;display:flex;flex-direction:column;align-items:flex-start;gap:16px;min-width:0}
 .services-overview .service-overview-card h2{font:400 28px/1.2 Georgia,serif;margin:0}
 .services-overview .service-overview-card p{margin:0;font-size:16px;line-height:1.7}
 .services-overview .service-overview-card>.action{margin-top:auto}
+.services-overview .service-overview-card>.action::after{content:"";position:absolute;inset:0;z-index:1}
+.services-overview .service-overview-card:hover,.services-overview .service-overview-card:focus-within{border-color:#686868}
+.services-overview .service-overview-card:focus-within{outline:2px solid #686868;outline-offset:3px}
 .package-overview-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:28px}
 .category-overview-card{border:1px solid var(--pt-rule,#ccc);padding:28px;display:flex;flex-direction:column;align-items:flex-start;gap:20px;min-width:0;scroll-margin-top:24px}
 .category-overview-card>h2{font:400 30px/1.2 Georgia,serif;margin:0}
@@ -32,3 +36,27 @@ html body .pt-header .pt-nav[data-organized-navigation] .nav-panel>a:focus-visib
 .bundle-preview>h2{font:400 24px/1.3 Georgia,serif;margin:0 0 14px}
 .bundle-preview .category-preview-tier{margin-bottom:14px}
 @media(max-width:650px){.package-overview-grid{grid-template-columns:1fr}.category-overview-card{padding:22px}.category-overview-card>h2{font-size:26px}}
+
+/* Use the approved Financial Analysis component on dedicated package pages. */
+.pt-dedicated-packages .package-plans,.pt-dedicated-packages .repair-package-grid{display:flex;flex-wrap:wrap;justify-content:center;align-items:stretch;gap:22px}
+.pt-dedicated-packages .package-plan,.pt-dedicated-packages .repair-package{box-sizing:border-box;flex:0 1 calc((100% - 44px)/3);width:calc((100% - 44px)/3);min-width:0;background:#fff;border:1px solid #ccc;padding:26px;display:flex;flex-direction:column;align-items:flex-start}
+.pt-dedicated-packages .package-plan>h3,.pt-dedicated-packages .package-enterprise h3,.pt-dedicated-packages .repair-package h3{font:500 24px/1.3 'DM Sans',sans-serif;letter-spacing:-.025em;min-height:2.6em;margin:0 0 16px;overflow-wrap:anywhere}
+.pt-dedicated-packages .package-plan .plan-price{font:500 36px/1.15 'DM Sans',sans-serif;letter-spacing:-.04em;margin:0 0 24px;overflow-wrap:anywhere}
+.pt-prices-inline .plan-price>span{display:inline;font:inherit;letter-spacing:inherit;margin:0 0 0 .2em}
+.pt-dedicated-packages .package-plan>.action{margin-top:auto}
+.pt-dedicated-packages .package-plan.package-enterprise{gap:0;background:#fff}
+.pt-dedicated-packages .package-plan.package-enterprise>div{margin-bottom:24px}
+.pt-dedicated-packages .package-plan.package-enterprise p:not(.plan-price){font-size:15px;line-height:1.75}
+.pt-dedicated-packages .package-plan.package-enterprise>.action{justify-self:auto}
+.pt-dedicated-packages .plan-limits p{border:0;padding:0;margin:0 0 12px}
+.pt-dedicated-packages .repair-package p{font-size:15px;line-height:1.75}
+.pt-dedicated-packages .package-repair-action{display:flex;justify-content:center}
+.pt-dedicated-packages .weekly-custom-quote{padding:24px 28px!important}
+.pt-dedicated-packages .weekly-custom-quote>h3{margin-bottom:18px}
+.pt-dedicated-packages .weekly-quote-actions{margin-top:24px}
+.pt-dedicated-packages .payroll-price-label{display:block;font-size:15px;margin-bottom:8px}
+.pt-dedicated-packages .payroll-price-amount{display:block;font:500 28px/1.25 'DM Sans',sans-serif;letter-spacing:-.025em;overflow-wrap:anywhere}
+.pt-dedicated-packages .payroll-price{margin:0 0 24px}
+@media(max-width:900px){.pt-dedicated-packages .package-plan,.pt-dedicated-packages .repair-package{padding:20px}.pt-dedicated-packages .package-plan .plan-price{font-size:30px}}
+@media(min-width:651px) and (max-width:900px){.pt-dedicated-packages .package-plan>h3{min-height:3.9em}}
+@media(max-width:650px){.services-overview .service-overview-card{padding:24px}.pt-dedicated-packages .package-plan,.pt-dedicated-packages .repair-package{flex-basis:100%;width:100%;padding:24px}}

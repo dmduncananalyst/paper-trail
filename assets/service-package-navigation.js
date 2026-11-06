@@ -36,7 +36,14 @@
     nav.append(link('Bundle & Save', 'all-bundles.html'), link('Notes', 'notes.html'), link('Blog', 'blog.html'), link('Contact Us', 'areas-we-serve.html'));
     let timer, touch = false;
     const close = () => { clearTimeout(timer); groups.forEach(({a, panel}) => { panel.hidden = true; a.setAttribute('aria-expanded', 'false'); }); };
-    const open = current => { close(); current.panel.hidden = false; current.a.setAttribute('aria-expanded', 'true'); };
+    function position(current) {
+      const anchor = current.a.getBoundingClientRect(), panel = current.panel;
+      const width = panel.getBoundingClientRect().width;
+      panel.style.setProperty('--menu-left', Math.max(12, Math.min(innerWidth - width - 12, anchor.left + anchor.width / 2 - width / 2)) + 'px');
+      panel.style.setProperty('--menu-top', anchor.bottom + 'px');
+      panel.style.setProperty('--menu-height', Math.max(80, Math.min(innerHeight * .65, innerHeight - anchor.bottom - 12)) + 'px');
+    }
+    const open = current => { close(); current.panel.hidden = false; current.a.setAttribute('aria-expanded', 'true'); position(current); };
     groups.forEach(current => {
       const {group, a, panel} = current;
       group.addEventListener('pointerenter', e => { clearTimeout(timer); if (e.pointerType === 'mouse') open(current); });
@@ -53,6 +60,7 @@
     document.addEventListener('pointerdown', e => { if (!nav.contains(e.target)) close(); });
     document.addEventListener('keydown', e => { if (e.key === 'Escape') { const current = groups.find(g => !g.panel.hidden); if (current) { current.a.focus(); close(); } } });
     addEventListener('resize', close);
+    addEventListener('scroll', () => { const current = groups.find(g => !g.panel.hidden); if (current) position(current); }, {passive:true});
   };
   if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', init); else init();
 })();
