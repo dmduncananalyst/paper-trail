@@ -1,0 +1,10 @@
+{
+  "scope": "QuickBooks service only",
+  "candidate_fields": 306,
+  "candidate_characters": 52074,
+  "google_calls": 18,
+  "actual_characters_sent": 52074,
+  "successful_characters": 52074,
+  "failures": [],
+  "estimated_incremental_usd": "1.04148"
+}

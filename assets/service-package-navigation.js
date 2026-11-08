@@ -13,8 +13,8 @@
     const root = new URL('../', scriptRoot);
     const path = name => new URL((locale === 'en' ? '' : locale + '/') + name, root).href;
     const kinds = ['weekly-bookkeeping', 'monthly-bookkeeping', 'bookkeeping-repair', 'accounts-billing', 'financial-analysis', 'payroll'];
-    const names = ['Weekly Bookkeeping', 'Monthly Bookkeeping', 'Bookkeeping Repair', 'Accounts & Billing', 'Financial Analysis', 'Payroll'];
-    const services = ['weekly-bookkeeping.html', 'paper-trail-monthly-bookkeeping.html', 'paper-trail-services.html', 'accounts-billing.html', 'financial-analysis.html', 'payroll.html'];
+    const names = ['Weekly Bookkeeping', 'Monthly Bookkeeping', 'Bookkeeping Repair', 'Accounts & Billing', 'Financial Analysis', 'Payroll', 'QuickBooks Bookkeeping Services'];
+    const services = ['weekly-bookkeeping.html', 'paper-trail-monthly-bookkeeping.html', 'paper-trail-services.html', 'accounts-billing.html', 'financial-analysis.html', 'payroll.html', 'quickbooks-bookkeeping-services.html'];
     function link(name, route) {
       const a = document.createElement('a'); a.href = path(route); a.textContent = labels[name];
       if (new URL(a.href).pathname === location.pathname) a.setAttribute('aria-current', 'page');

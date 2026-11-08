@@ -46,9 +46,10 @@ def load_cache():
  fields=json.loads(CACHE.read_text(encoding='utf-8')) if CACHE.exists() else {}
  # Reuse the separately scoped navigation actions without rebuilding approved
  # package sections or billing these labels again in a fresh checkout.
- actions=ROOT/'assets/locales/service-package-actions.json'
- if actions.exists():
-  for k,v in json.loads(actions.read_text(encoding='utf-8')).items():fields.setdefault(k,v)
+ for bundle in ['service-package-actions.json','quickbooks-service.json']:
+  actions=ROOT/'assets/locales'/bundle
+  if actions.exists():
+   for k,v in json.loads(actions.read_text(encoding='utf-8')).items():fields.setdefault(k,v)
  checkpoint=ROOT/BASE/'current.json'
  if checkpoint.exists():
   revision=json.loads(checkpoint.read_text(encoding='utf-8')).get('revision','')
