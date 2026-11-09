@@ -21,7 +21,7 @@ for filename in ['pilots.json', 'additional-a.json', 'additional-b.json', 'addit
 shell = (ROOT / 'about.html').read_text(encoding='utf-8')
 head = re.search(r'<head>(.*?)</head>', shell, re.S)[1]
 head = re.sub(r'<script type="application/ld\+json">.*?</script>', '', head, flags=re.S)
-head = re.sub(r'<meta name="robots"[^>]*>', '<meta name="robots" content="noindex,follow">', head)
+head = re.sub(r'<meta name="robots"[^>]*>', '<meta name="robots" content="index,follow">', head)
 head=re.sub(r'<link rel="preload" as="image"[^>]*>', '', head)
 head = '<base href="../">' + head
 header = re.search(r'<body[^>]*>(.*?)<main', shell, re.S)[1]
