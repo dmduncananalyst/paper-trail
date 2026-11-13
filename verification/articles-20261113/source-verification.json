@@ -1,0 +1,14 @@
+{
+  "method": "web open: all nine URLs returned the expected IRS or SBA pages",
+  "urls": [
+    "https://www.irs.gov/businesses/small-businesses-self-employed/burden-of-proof",
+    "https://www.irs.gov/businesses/small-businesses-self-employed/employment-tax-recordkeeping",
+    "https://www.irs.gov/businesses/small-businesses-self-employed/estimated-taxes",
+    "https://www.irs.gov/businesses/small-businesses-self-employed/how-should-i-record-my-business-transactions",
+    "https://www.irs.gov/businesses/small-businesses-self-employed/what-kind-of-records-should-i-keep",
+    "https://www.irs.gov/businesses/small-businesses-self-employed/why-should-i-keep-records",
+    "https://www.irs.gov/publications/p334",
+    "https://www.irs.gov/publications/p583",
+    "https://www.sba.gov/counseling/manage-your-business/"
+  ]
+}

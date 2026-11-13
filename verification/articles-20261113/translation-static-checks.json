@@ -1,0 +1,1358 @@
+{
+  "pages": 270,
+  "blogs": 29,
+  "languages": 9,
+  "missing_fields": 0,
+  "checks": [
+    {
+      "language": "es",
+      "page": "blog.html",
+      "status": "passed"
+    },
+    {
+      "language": "es",
+      "page": "accounts-payable-and-receivable.html",
+      "status": "passed"
+    },
+    {
+      "language": "es",
+      "page": "bookkeeping-checklist-for-new-businesses.html",
+      "status": "passed"
+    },
+    {
+      "language": "es",
+      "page": "5-ways-to-cut-your-small-business-tax-bill-in-2025.html",
+      "status": "passed"
+    },
+    {
+      "language": "es",
+      "page": "3-ways-to-save-money-on-your-small-business-taxes.html",
+      "status": "passed"
+    },
+    {
+      "language": "es",
+      "page": "how-to-prepare-for-tax-season-as-a-small-business-owner.html",
+      "status": "passed"
+    },
+    {
+      "language": "es",
+      "page": "what-is-a-bookkeeper-and-do-i-need-one.html",
+      "status": "passed"
+    },
+    {
+      "language": "es",
+      "page": "how-to-prepare-your-books-for-tax-season.html",
+      "status": "passed"
+    },
+    {
+      "language": "es",
+      "page": "what-small-business-owners-need-to-know-about-bookkeeping.html",
+      "status": "passed"
+    },
+    {
+      "language": "es",
+      "page": "business-loan-proceeds-nobody-can-show-where-money-went.html",
+      "status": "passed"
+    },
+    {
+      "language": "es",
+      "page": "gift-cards-sold-money-collected-work-still-owed-in-january.html",
+      "status": "passed"
+    },
+    {
+      "language": "es",
+      "page": "sales-report-bank-deposits-never-agree.html",
+      "status": "passed"
+    },
+    {
+      "language": "es",
+      "page": "can-a-bank-feed-change-a-reconciled-month.html",
+      "status": "passed"
+    },
+    {
+      "language": "es",
+      "page": "can-a-bookkeeper-catch-up-months-of-missing-transactions.html",
+      "status": "passed"
+    },
+    {
+      "language": "es",
+      "page": "can-a-monthly-review-catch-payroll-and-sales-tax-gaps.html",
+      "status": "passed"
+    },
+    {
+      "language": "es",
+      "page": "secure-access-approvals-outsourced-bookkeeping.html",
+      "status": "passed"
+    },
+    {
+      "language": "es",
+      "page": "switch-bookkeeping-providers-midyear-record-transfer.html",
+      "status": "passed"
+    },
+    {
+      "language": "es",
+      "page": "outsourced-bookkeeping-vs-first-in-house-bookkeeper.html",
+      "status": "passed"
+    },
+    {
+      "language": "es",
+      "page": "five-reasons-every-business-needs-bookkeeping.html",
+      "status": "passed"
+    },
+    {
+      "language": "es",
+      "page": "vendor-paid-twice-nobody-noticed-for-months.html",
+      "status": "passed"
+    },
+    {
+      "language": "es",
+      "page": "lender-asked-for-clean-financials-books-could-not-answer.html",
+      "status": "passed"
+    },
+    {
+      "language": "es",
+      "page": "customer-deposits-spent-like-earnings-work-still-owed.html",
+      "status": "passed"
+    },
+    {
+      "language": "es",
+      "page": "the-receipts-that-disappear-before-the-year-ends.html",
+      "status": "passed"
+    },
+    {
+      "language": "es",
+      "page": "when-personal-and-business-spending-become-one.html",
+      "status": "passed"
+    },
+    {
+      "language": "es",
+      "page": "the-contractor-records-that-make-january-difficult.html",
+      "status": "passed"
+    },
+    {
+      "language": "es",
+      "page": "the-real-cost-of-monthly-bookkeeping-for-small-businesses.html",
+      "status": "passed"
+    },
+    {
+      "language": "es",
+      "page": "the-point-when-managing-your-own-books-stops-making-sense.html",
+      "status": "passed"
+    },
+    {
+      "language": "es",
+      "page": "catch-up-bookkeeping-overdue-books.html",
+      "status": "passed"
+    },
+    {
+      "language": "es",
+      "page": "profit-vs-cash-flow-business-money.html",
+      "status": "passed"
+    },
+    {
+      "language": "es",
+      "page": "tax-ready-bookkeeping-records.html",
+      "status": "passed"
+    },
+    {
+      "language": "fa",
+      "page": "blog.html",
+      "status": "passed"
+    },
+    {
+      "language": "fa",
+      "page": "accounts-payable-and-receivable.html",
+      "status": "passed"
+    },
+    {
+      "language": "fa",
+      "page": "bookkeeping-checklist-for-new-businesses.html",
+      "status": "passed"
+    },
+    {
+      "language": "fa",
+      "page": "5-ways-to-cut-your-small-business-tax-bill-in-2025.html",
+      "status": "passed"
+    },
+    {
+      "language": "fa",
+      "page": "3-ways-to-save-money-on-your-small-business-taxes.html",
+      "status": "passed"
+    },
+    {
+      "language": "fa",
+      "page": "how-to-prepare-for-tax-season-as-a-small-business-owner.html",
+      "status": "passed"
+    },
+    {
+      "language": "fa",
+      "page": "what-is-a-bookkeeper-and-do-i-need-one.html",
+      "status": "passed"
+    },
+    {
+      "language": "fa",
+      "page": "how-to-prepare-your-books-for-tax-season.html",
+      "status": "passed"
+    },
+    {
+      "language": "fa",
+      "page": "what-small-business-owners-need-to-know-about-bookkeeping.html",
+      "status": "passed"
+    },
+    {
+      "language": "fa",
+      "page": "business-loan-proceeds-nobody-can-show-where-money-went.html",
+      "status": "passed"
+    },
+    {
+      "language": "fa",
+      "page": "gift-cards-sold-money-collected-work-still-owed-in-january.html",
+      "status": "passed"
+    },
+    {
+      "language": "fa",
+      "page": "sales-report-bank-deposits-never-agree.html",
+      "status": "passed"
+    },
+    {
+      "language": "fa",
+      "page": "can-a-bank-feed-change-a-reconciled-month.html",
+      "status": "passed"
+    },
+    {
+      "language": "fa",
+      "page": "can-a-bookkeeper-catch-up-months-of-missing-transactions.html",
+      "status": "passed"
+    },
+    {
+      "language": "fa",
+      "page": "can-a-monthly-review-catch-payroll-and-sales-tax-gaps.html",
+      "status": "passed"
+    },
+    {
+      "language": "fa",
+      "page": "secure-access-approvals-outsourced-bookkeeping.html",
+      "status": "passed"
+    },
+    {
+      "language": "fa",
+      "page": "switch-bookkeeping-providers-midyear-record-transfer.html",
+      "status": "passed"
+    },
+    {
+      "language": "fa",
+      "page": "outsourced-bookkeeping-vs-first-in-house-bookkeeper.html",
+      "status": "passed"
+    },
+    {
+      "language": "fa",
+      "page": "five-reasons-every-business-needs-bookkeeping.html",
+      "status": "passed"
+    },
+    {
+      "language": "fa",
+      "page": "vendor-paid-twice-nobody-noticed-for-months.html",
+      "status": "passed"
+    },
+    {
+      "language": "fa",
+      "page": "lender-asked-for-clean-financials-books-could-not-answer.html",
+      "status": "passed"
+    },
+    {
+      "language": "fa",
+      "page": "customer-deposits-spent-like-earnings-work-still-owed.html",
+      "status": "passed"
+    },
+    {
+      "language": "fa",
+      "page": "the-receipts-that-disappear-before-the-year-ends.html",
+      "status": "passed"
+    },
+    {
+      "language": "fa",
+      "page": "when-personal-and-business-spending-become-one.html",
+      "status": "passed"
+    },
+    {
+      "language": "fa",
+      "page": "the-contractor-records-that-make-january-difficult.html",
+      "status": "passed"
+    },
+    {
+      "language": "fa",
+      "page": "the-real-cost-of-monthly-bookkeeping-for-small-businesses.html",
+      "status": "passed"
+    },
+    {
+      "language": "fa",
+      "page": "the-point-when-managing-your-own-books-stops-making-sense.html",
+      "status": "passed"
+    },
+    {
+      "language": "fa",
+      "page": "catch-up-bookkeeping-overdue-books.html",
+      "status": "passed"
+    },
+    {
+      "language": "fa",
+      "page": "profit-vs-cash-flow-business-money.html",
+      "status": "passed"
+    },
+    {
+      "language": "fa",
+      "page": "tax-ready-bookkeeping-records.html",
+      "status": "passed"
+    },
+    {
+      "language": "hy",
+      "page": "blog.html",
+      "status": "passed"
+    },
+    {
+      "language": "hy",
+      "page": "accounts-payable-and-receivable.html",
+      "status": "passed"
+    },
+    {
+      "language": "hy",
+      "page": "bookkeeping-checklist-for-new-businesses.html",
+      "status": "passed"
+    },
+    {
+      "language": "hy",
+      "page": "5-ways-to-cut-your-small-business-tax-bill-in-2025.html",
+      "status": "passed"
+    },
+    {
+      "language": "hy",
+      "page": "3-ways-to-save-money-on-your-small-business-taxes.html",
+      "status": "passed"
+    },
+    {
+      "language": "hy",
+      "page": "how-to-prepare-for-tax-season-as-a-small-business-owner.html",
+      "status": "passed"
+    },
+    {
+      "language": "hy",
+      "page": "what-is-a-bookkeeper-and-do-i-need-one.html",
+      "status": "passed"
+    },
+    {
+      "language": "hy",
+      "page": "how-to-prepare-your-books-for-tax-season.html",
+      "status": "passed"
+    },
+    {
+      "language": "hy",
+      "page": "what-small-business-owners-need-to-know-about-bookkeeping.html",
+      "status": "passed"
+    },
+    {
+      "language": "hy",
+      "page": "business-loan-proceeds-nobody-can-show-where-money-went.html",
+      "status": "passed"
+    },
+    {
+      "language": "hy",
+      "page": "gift-cards-sold-money-collected-work-still-owed-in-january.html",
+      "status": "passed"
+    },
+    {
+      "language": "hy",
+      "page": "sales-report-bank-deposits-never-agree.html",
+      "status": "passed"
+    },
+    {
+      "language": "hy",
+      "page": "can-a-bank-feed-change-a-reconciled-month.html",
+      "status": "passed"
+    },
+    {
+      "language": "hy",
+      "page": "can-a-bookkeeper-catch-up-months-of-missing-transactions.html",
+      "status": "passed"
+    },
+    {
+      "language": "hy",
+      "page": "can-a-monthly-review-catch-payroll-and-sales-tax-gaps.html",
+      "status": "passed"
+    },
+    {
+      "language": "hy",
+      "page": "secure-access-approvals-outsourced-bookkeeping.html",
+      "status": "passed"
+    },
+    {
+      "language": "hy",
+      "page": "switch-bookkeeping-providers-midyear-record-transfer.html",
+      "status": "passed"
+    },
+    {
+      "language": "hy",
+      "page": "outsourced-bookkeeping-vs-first-in-house-bookkeeper.html",
+      "status": "passed"
+    },
+    {
+      "language": "hy",
+      "page": "five-reasons-every-business-needs-bookkeeping.html",
+      "status": "passed"
+    },
+    {
+      "language": "hy",
+      "page": "vendor-paid-twice-nobody-noticed-for-months.html",
+      "status": "passed"
+    },
+    {
+      "language": "hy",
+      "page": "lender-asked-for-clean-financials-books-could-not-answer.html",
+      "status": "passed"
+    },
+    {
+      "language": "hy",
+      "page": "customer-deposits-spent-like-earnings-work-still-owed.html",
+      "status": "passed"
+    },
+    {
+      "language": "hy",
+      "page": "the-receipts-that-disappear-before-the-year-ends.html",
+      "status": "passed"
+    },
+    {
+      "language": "hy",
+      "page": "when-personal-and-business-spending-become-one.html",
+      "status": "passed"
+    },
+    {
+      "language": "hy",
+      "page": "the-contractor-records-that-make-january-difficult.html",
+      "status": "passed"
+    },
+    {
+      "language": "hy",
+      "page": "the-real-cost-of-monthly-bookkeeping-for-small-businesses.html",
+      "status": "passed"
+    },
+    {
+      "language": "hy",
+      "page": "the-point-when-managing-your-own-books-stops-making-sense.html",
+      "status": "passed"
+    },
+    {
+      "language": "hy",
+      "page": "catch-up-bookkeeping-overdue-books.html",
+      "status": "passed"
+    },
+    {
+      "language": "hy",
+      "page": "profit-vs-cash-flow-business-money.html",
+      "status": "passed"
+    },
+    {
+      "language": "hy",
+      "page": "tax-ready-bookkeeping-records.html",
+      "status": "passed"
+    },
+    {
+      "language": "zh-CN",
+      "page": "blog.html",
+      "status": "passed"
+    },
+    {
+      "language": "zh-CN",
+      "page": "accounts-payable-and-receivable.html",
+      "status": "passed"
+    },
+    {
+      "language": "zh-CN",
+      "page": "bookkeeping-checklist-for-new-businesses.html",
+      "status": "passed"
+    },
+    {
+      "language": "zh-CN",
+      "page": "5-ways-to-cut-your-small-business-tax-bill-in-2025.html",
+      "status": "passed"
+    },
+    {
+      "language": "zh-CN",
+      "page": "3-ways-to-save-money-on-your-small-business-taxes.html",
+      "status": "passed"
+    },
+    {
+      "language": "zh-CN",
+      "page": "how-to-prepare-for-tax-season-as-a-small-business-owner.html",
+      "status": "passed"
+    },
+    {
+      "language": "zh-CN",
+      "page": "what-is-a-bookkeeper-and-do-i-need-one.html",
+      "status": "passed"
+    },
+    {
+      "language": "zh-CN",
+      "page": "how-to-prepare-your-books-for-tax-season.html",
+      "status": "passed"
+    },
+    {
+      "language": "zh-CN",
+      "page": "what-small-business-owners-need-to-know-about-bookkeeping.html",
+      "status": "passed"
+    },
+    {
+      "language": "zh-CN",
+      "page": "business-loan-proceeds-nobody-can-show-where-money-went.html",
+      "status": "passed"
+    },
+    {
+      "language": "zh-CN",
+      "page": "gift-cards-sold-money-collected-work-still-owed-in-january.html",
+      "status": "passed"
+    },
+    {
+      "language": "zh-CN",
+      "page": "sales-report-bank-deposits-never-agree.html",
+      "status": "passed"
+    },
+    {
+      "language": "zh-CN",
+      "page": "can-a-bank-feed-change-a-reconciled-month.html",
+      "status": "passed"
+    },
+    {
+      "language": "zh-CN",
+      "page": "can-a-bookkeeper-catch-up-months-of-missing-transactions.html",
+      "status": "passed"
+    },
+    {
+      "language": "zh-CN",
+      "page": "can-a-monthly-review-catch-payroll-and-sales-tax-gaps.html",
+      "status": "passed"
+    },
+    {
+      "language": "zh-CN",
+      "page": "secure-access-approvals-outsourced-bookkeeping.html",
+      "status": "passed"
+    },
+    {
+      "language": "zh-CN",
+      "page": "switch-bookkeeping-providers-midyear-record-transfer.html",
+      "status": "passed"
+    },
+    {
+      "language": "zh-CN",
+      "page": "outsourced-bookkeeping-vs-first-in-house-bookkeeper.html",
+      "status": "passed"
+    },
+    {
+      "language": "zh-CN",
+      "page": "five-reasons-every-business-needs-bookkeeping.html",
+      "status": "passed"
+    },
+    {
+      "language": "zh-CN",
+      "page": "vendor-paid-twice-nobody-noticed-for-months.html",
+      "status": "passed"
+    },
+    {
+      "language": "zh-CN",
+      "page": "lender-asked-for-clean-financials-books-could-not-answer.html",
+      "status": "passed"
+    },
+    {
+      "language": "zh-CN",
+      "page": "customer-deposits-spent-like-earnings-work-still-owed.html",
+      "status": "passed"
+    },
+    {
+      "language": "zh-CN",
+      "page": "the-receipts-that-disappear-before-the-year-ends.html",
+      "status": "passed"
+    },
+    {
+      "language": "zh-CN",
+      "page": "when-personal-and-business-spending-become-one.html",
+      "status": "passed"
+    },
+    {
+      "language": "zh-CN",
+      "page": "the-contractor-records-that-make-january-difficult.html",
+      "status": "passed"
+    },
+    {
+      "language": "zh-CN",
+      "page": "the-real-cost-of-monthly-bookkeeping-for-small-businesses.html",
+      "status": "passed"
+    },
+    {
+      "language": "zh-CN",
+      "page": "the-point-when-managing-your-own-books-stops-making-sense.html",
+      "status": "passed"
+    },
+    {
+      "language": "zh-CN",
+      "page": "catch-up-bookkeeping-overdue-books.html",
+      "status": "passed"
+    },
+    {
+      "language": "zh-CN",
+      "page": "profit-vs-cash-flow-business-money.html",
+      "status": "passed"
+    },
+    {
+      "language": "zh-CN",
+      "page": "tax-ready-bookkeeping-records.html",
+      "status": "passed"
+    },
+    {
+      "language": "ko",
+      "page": "blog.html",
+      "status": "passed"
+    },
+    {
+      "language": "ko",
+      "page": "accounts-payable-and-receivable.html",
+      "status": "passed"
+    },
+    {
+      "language": "ko",
+      "page": "bookkeeping-checklist-for-new-businesses.html",
+      "status": "passed"
+    },
+    {
+      "language": "ko",
+      "page": "5-ways-to-cut-your-small-business-tax-bill-in-2025.html",
+      "status": "passed"
+    },
+    {
+      "language": "ko",
+      "page": "3-ways-to-save-money-on-your-small-business-taxes.html",
+      "status": "passed"
+    },
+    {
+      "language": "ko",
+      "page": "how-to-prepare-for-tax-season-as-a-small-business-owner.html",
+      "status": "passed"
+    },
+    {
+      "language": "ko",
+      "page": "what-is-a-bookkeeper-and-do-i-need-one.html",
+      "status": "passed"
+    },
+    {
+      "language": "ko",
+      "page": "how-to-prepare-your-books-for-tax-season.html",
+      "status": "passed"
+    },
+    {
+      "language": "ko",
+      "page": "what-small-business-owners-need-to-know-about-bookkeeping.html",
+      "status": "passed"
+    },
+    {
+      "language": "ko",
+      "page": "business-loan-proceeds-nobody-can-show-where-money-went.html",
+      "status": "passed"
+    },
+    {
+      "language": "ko",
+      "page": "gift-cards-sold-money-collected-work-still-owed-in-january.html",
+      "status": "passed"
+    },
+    {
+      "language": "ko",
+      "page": "sales-report-bank-deposits-never-agree.html",
+      "status": "passed"
+    },
+    {
+      "language": "ko",
+      "page": "can-a-bank-feed-change-a-reconciled-month.html",
+      "status": "passed"
+    },
+    {
+      "language": "ko",
+      "page": "can-a-bookkeeper-catch-up-months-of-missing-transactions.html",
+      "status": "passed"
+    },
+    {
+      "language": "ko",
+      "page": "can-a-monthly-review-catch-payroll-and-sales-tax-gaps.html",
+      "status": "passed"
+    },
+    {
+      "language": "ko",
+      "page": "secure-access-approvals-outsourced-bookkeeping.html",
+      "status": "passed"
+    },
+    {
+      "language": "ko",
+      "page": "switch-bookkeeping-providers-midyear-record-transfer.html",
+      "status": "passed"
+    },
+    {
+      "language": "ko",
+      "page": "outsourced-bookkeeping-vs-first-in-house-bookkeeper.html",
+      "status": "passed"
+    },
+    {
+      "language": "ko",
+      "page": "five-reasons-every-business-needs-bookkeeping.html",
+      "status": "passed"
+    },
+    {
+      "language": "ko",
+      "page": "vendor-paid-twice-nobody-noticed-for-months.html",
+      "status": "passed"
+    },
+    {
+      "language": "ko",
+      "page": "lender-asked-for-clean-financials-books-could-not-answer.html",
+      "status": "passed"
+    },
+    {
+      "language": "ko",
+      "page": "customer-deposits-spent-like-earnings-work-still-owed.html",
+      "status": "passed"
+    },
+    {
+      "language": "ko",
+      "page": "the-receipts-that-disappear-before-the-year-ends.html",
+      "status": "passed"
+    },
+    {
+      "language": "ko",
+      "page": "when-personal-and-business-spending-become-one.html",
+      "status": "passed"
+    },
+    {
+      "language": "ko",
+      "page": "the-contractor-records-that-make-january-difficult.html",
+      "status": "passed"
+    },
+    {
+      "language": "ko",
+      "page": "the-real-cost-of-monthly-bookkeeping-for-small-businesses.html",
+      "status": "passed"
+    },
+    {
+      "language": "ko",
+      "page": "the-point-when-managing-your-own-books-stops-making-sense.html",
+      "status": "passed"
+    },
+    {
+      "language": "ko",
+      "page": "catch-up-bookkeeping-overdue-books.html",
+      "status": "passed"
+    },
+    {
+      "language": "ko",
+      "page": "profit-vs-cash-flow-business-money.html",
+      "status": "passed"
+    },
+    {
+      "language": "ko",
+      "page": "tax-ready-bookkeeping-records.html",
+      "status": "passed"
+    },
+    {
+      "language": "tl",
+      "page": "blog.html",
+      "status": "passed"
+    },
+    {
+      "language": "tl",
+      "page": "accounts-payable-and-receivable.html",
+      "status": "passed"
+    },
+    {
+      "language": "tl",
+      "page": "bookkeeping-checklist-for-new-businesses.html",
+      "status": "passed"
+    },
+    {
+      "language": "tl",
+      "page": "5-ways-to-cut-your-small-business-tax-bill-in-2025.html",
+      "status": "passed"
+    },
+    {
+      "language": "tl",
+      "page": "3-ways-to-save-money-on-your-small-business-taxes.html",
+      "status": "passed"
+    },
+    {
+      "language": "tl",
+      "page": "how-to-prepare-for-tax-season-as-a-small-business-owner.html",
+      "status": "passed"
+    },
+    {
+      "language": "tl",
+      "page": "what-is-a-bookkeeper-and-do-i-need-one.html",
+      "status": "passed"
+    },
+    {
+      "language": "tl",
+      "page": "how-to-prepare-your-books-for-tax-season.html",
+      "status": "passed"
+    },
+    {
+      "language": "tl",
+      "page": "what-small-business-owners-need-to-know-about-bookkeeping.html",
+      "status": "passed"
+    },
+    {
+      "language": "tl",
+      "page": "business-loan-proceeds-nobody-can-show-where-money-went.html",
+      "status": "passed"
+    },
+    {
+      "language": "tl",
+      "page": "gift-cards-sold-money-collected-work-still-owed-in-january.html",
+      "status": "passed"
+    },
+    {
+      "language": "tl",
+      "page": "sales-report-bank-deposits-never-agree.html",
+      "status": "passed"
+    },
+    {
+      "language": "tl",
+      "page": "can-a-bank-feed-change-a-reconciled-month.html",
+      "status": "passed"
+    },
+    {
+      "language": "tl",
+      "page": "can-a-bookkeeper-catch-up-months-of-missing-transactions.html",
+      "status": "passed"
+    },
+    {
+      "language": "tl",
+      "page": "can-a-monthly-review-catch-payroll-and-sales-tax-gaps.html",
+      "status": "passed"
+    },
+    {
+      "language": "tl",
+      "page": "secure-access-approvals-outsourced-bookkeeping.html",
+      "status": "passed"
+    },
+    {
+      "language": "tl",
+      "page": "switch-bookkeeping-providers-midyear-record-transfer.html",
+      "status": "passed"
+    },
+    {
+      "language": "tl",
+      "page": "outsourced-bookkeeping-vs-first-in-house-bookkeeper.html",
+      "status": "passed"
+    },
+    {
+      "language": "tl",
+      "page": "five-reasons-every-business-needs-bookkeeping.html",
+      "status": "passed"
+    },
+    {
+      "language": "tl",
+      "page": "vendor-paid-twice-nobody-noticed-for-months.html",
+      "status": "passed"
+    },
+    {
+      "language": "tl",
+      "page": "lender-asked-for-clean-financials-books-could-not-answer.html",
+      "status": "passed"
+    },
+    {
+      "language": "tl",
+      "page": "customer-deposits-spent-like-earnings-work-still-owed.html",
+      "status": "passed"
+    },
+    {
+      "language": "tl",
+      "page": "the-receipts-that-disappear-before-the-year-ends.html",
+      "status": "passed"
+    },
+    {
+      "language": "tl",
+      "page": "when-personal-and-business-spending-become-one.html",
+      "status": "passed"
+    },
+    {
+      "language": "tl",
+      "page": "the-contractor-records-that-make-january-difficult.html",
+      "status": "passed"
+    },
+    {
+      "language": "tl",
+      "page": "the-real-cost-of-monthly-bookkeeping-for-small-businesses.html",
+      "status": "passed"
+    },
+    {
+      "language": "tl",
+      "page": "the-point-when-managing-your-own-books-stops-making-sense.html",
+      "status": "passed"
+    },
+    {
+      "language": "tl",
+      "page": "catch-up-bookkeeping-overdue-books.html",
+      "status": "passed"
+    },
+    {
+      "language": "tl",
+      "page": "profit-vs-cash-flow-business-money.html",
+      "status": "passed"
+    },
+    {
+      "language": "tl",
+      "page": "tax-ready-bookkeeping-records.html",
+      "status": "passed"
+    },
+    {
+      "language": "te",
+      "page": "blog.html",
+      "status": "passed"
+    },
+    {
+      "language": "te",
+      "page": "accounts-payable-and-receivable.html",
+      "status": "passed"
+    },
+    {
+      "language": "te",
+      "page": "bookkeeping-checklist-for-new-businesses.html",
+      "status": "passed"
+    },
+    {
+      "language": "te",
+      "page": "5-ways-to-cut-your-small-business-tax-bill-in-2025.html",
+      "status": "passed"
+    },
+    {
+      "language": "te",
+      "page": "3-ways-to-save-money-on-your-small-business-taxes.html",
+      "status": "passed"
+    },
+    {
+      "language": "te",
+      "page": "how-to-prepare-for-tax-season-as-a-small-business-owner.html",
+      "status": "passed"
+    },
+    {
+      "language": "te",
+      "page": "what-is-a-bookkeeper-and-do-i-need-one.html",
+      "status": "passed"
+    },
+    {
+      "language": "te",
+      "page": "how-to-prepare-your-books-for-tax-season.html",
+      "status": "passed"
+    },
+    {
+      "language": "te",
+      "page": "what-small-business-owners-need-to-know-about-bookkeeping.html",
+      "status": "passed"
+    },
+    {
+      "language": "te",
+      "page": "business-loan-proceeds-nobody-can-show-where-money-went.html",
+      "status": "passed"
+    },
+    {
+      "language": "te",
+      "page": "gift-cards-sold-money-collected-work-still-owed-in-january.html",
+      "status": "passed"
+    },
+    {
+      "language": "te",
+      "page": "sales-report-bank-deposits-never-agree.html",
+      "status": "passed"
+    },
+    {
+      "language": "te",
+      "page": "can-a-bank-feed-change-a-reconciled-month.html",
+      "status": "passed"
+    },
+    {
+      "language": "te",
+      "page": "can-a-bookkeeper-catch-up-months-of-missing-transactions.html",
+      "status": "passed"
+    },
+    {
+      "language": "te",
+      "page": "can-a-monthly-review-catch-payroll-and-sales-tax-gaps.html",
+      "status": "passed"
+    },
+    {
+      "language": "te",
+      "page": "secure-access-approvals-outsourced-bookkeeping.html",
+      "status": "passed"
+    },
+    {
+      "language": "te",
+      "page": "switch-bookkeeping-providers-midyear-record-transfer.html",
+      "status": "passed"
+    },
+    {
+      "language": "te",
+      "page": "outsourced-bookkeeping-vs-first-in-house-bookkeeper.html",
+      "status": "passed"
+    },
+    {
+      "language": "te",
+      "page": "five-reasons-every-business-needs-bookkeeping.html",
+      "status": "passed"
+    },
+    {
+      "language": "te",
+      "page": "vendor-paid-twice-nobody-noticed-for-months.html",
+      "status": "passed"
+    },
+    {
+      "language": "te",
+      "page": "lender-asked-for-clean-financials-books-could-not-answer.html",
+      "status": "passed"
+    },
+    {
+      "language": "te",
+      "page": "customer-deposits-spent-like-earnings-work-still-owed.html",
+      "status": "passed"
+    },
+    {
+      "language": "te",
+      "page": "the-receipts-that-disappear-before-the-year-ends.html",
+      "status": "passed"
+    },
+    {
+      "language": "te",
+      "page": "when-personal-and-business-spending-become-one.html",
+      "status": "passed"
+    },
+    {
+      "language": "te",
+      "page": "the-contractor-records-that-make-january-difficult.html",
+      "status": "passed"
+    },
+    {
+      "language": "te",
+      "page": "the-real-cost-of-monthly-bookkeeping-for-small-businesses.html",
+      "status": "passed"
+    },
+    {
+      "language": "te",
+      "page": "the-point-when-managing-your-own-books-stops-making-sense.html",
+      "status": "passed"
+    },
+    {
+      "language": "te",
+      "page": "catch-up-bookkeeping-overdue-books.html",
+      "status": "passed"
+    },
+    {
+      "language": "te",
+      "page": "profit-vs-cash-flow-business-money.html",
+      "status": "passed"
+    },
+    {
+      "language": "te",
+      "page": "tax-ready-bookkeeping-records.html",
+      "status": "passed"
+    },
+    {
+      "language": "ru",
+      "page": "blog.html",
+      "status": "passed"
+    },
+    {
+      "language": "ru",
+      "page": "accounts-payable-and-receivable.html",
+      "status": "passed"
+    },
+    {
+      "language": "ru",
+      "page": "bookkeeping-checklist-for-new-businesses.html",
+      "status": "passed"
+    },
+    {
+      "language": "ru",
+      "page": "5-ways-to-cut-your-small-business-tax-bill-in-2025.html",
+      "status": "passed"
+    },
+    {
+      "language": "ru",
+      "page": "3-ways-to-save-money-on-your-small-business-taxes.html",
+      "status": "passed"
+    },
+    {
+      "language": "ru",
+      "page": "how-to-prepare-for-tax-season-as-a-small-business-owner.html",
+      "status": "passed"
+    },
+    {
+      "language": "ru",
+      "page": "what-is-a-bookkeeper-and-do-i-need-one.html",
+      "status": "passed"
+    },
+    {
+      "language": "ru",
+      "page": "how-to-prepare-your-books-for-tax-season.html",
+      "status": "passed"
+    },
+    {
+      "language": "ru",
+      "page": "what-small-business-owners-need-to-know-about-bookkeeping.html",
+      "status": "passed"
+    },
+    {
+      "language": "ru",
+      "page": "business-loan-proceeds-nobody-can-show-where-money-went.html",
+      "status": "passed"
+    },
+    {
+      "language": "ru",
+      "page": "gift-cards-sold-money-collected-work-still-owed-in-january.html",
+      "status": "passed"
+    },
+    {
+      "language": "ru",
+      "page": "sales-report-bank-deposits-never-agree.html",
+      "status": "passed"
+    },
+    {
+      "language": "ru",
+      "page": "can-a-bank-feed-change-a-reconciled-month.html",
+      "status": "passed"
+    },
+    {
+      "language": "ru",
+      "page": "can-a-bookkeeper-catch-up-months-of-missing-transactions.html",
+      "status": "passed"
+    },
+    {
+      "language": "ru",
+      "page": "can-a-monthly-review-catch-payroll-and-sales-tax-gaps.html",
+      "status": "passed"
+    },
+    {
+      "language": "ru",
+      "page": "secure-access-approvals-outsourced-bookkeeping.html",
+      "status": "passed"
+    },
+    {
+      "language": "ru",
+      "page": "switch-bookkeeping-providers-midyear-record-transfer.html",
+      "status": "passed"
+    },
+    {
+      "language": "ru",
+      "page": "outsourced-bookkeeping-vs-first-in-house-bookkeeper.html",
+      "status": "passed"
+    },
+    {
+      "language": "ru",
+      "page": "five-reasons-every-business-needs-bookkeeping.html",
+      "status": "passed"
+    },
+    {
+      "language": "ru",
+      "page": "vendor-paid-twice-nobody-noticed-for-months.html",
+      "status": "passed"
+    },
+    {
+      "language": "ru",
+      "page": "lender-asked-for-clean-financials-books-could-not-answer.html",
+      "status": "passed"
+    },
+    {
+      "language": "ru",
+      "page": "customer-deposits-spent-like-earnings-work-still-owed.html",
+      "status": "passed"
+    },
+    {
+      "language": "ru",
+      "page": "the-receipts-that-disappear-before-the-year-ends.html",
+      "status": "passed"
+    },
+    {
+      "language": "ru",
+      "page": "when-personal-and-business-spending-become-one.html",
+      "status": "passed"
+    },
+    {
+      "language": "ru",
+      "page": "the-contractor-records-that-make-january-difficult.html",
+      "status": "passed"
+    },
+    {
+      "language": "ru",
+      "page": "the-real-cost-of-monthly-bookkeeping-for-small-businesses.html",
+      "status": "passed"
+    },
+    {
+      "language": "ru",
+      "page": "the-point-when-managing-your-own-books-stops-making-sense.html",
+      "status": "passed"
+    },
+    {
+      "language": "ru",
+      "page": "catch-up-bookkeeping-overdue-books.html",
+      "status": "passed"
+    },
+    {
+      "language": "ru",
+      "page": "profit-vs-cash-flow-business-money.html",
+      "status": "passed"
+    },
+    {
+      "language": "ru",
+      "page": "tax-ready-bookkeeping-records.html",
+      "status": "passed"
+    },
+    {
+      "language": "ar",
+      "page": "blog.html",
+      "status": "passed"
+    },
+    {
+      "language": "ar",
+      "page": "accounts-payable-and-receivable.html",
+      "status": "passed"
+    },
+    {
+      "language": "ar",
+      "page": "bookkeeping-checklist-for-new-businesses.html",
+      "status": "passed"
+    },
+    {
+      "language": "ar",
+      "page": "5-ways-to-cut-your-small-business-tax-bill-in-2025.html",
+      "status": "passed"
+    },
+    {
+      "language": "ar",
+      "page": "3-ways-to-save-money-on-your-small-business-taxes.html",
+      "status": "passed"
+    },
+    {
+      "language": "ar",
+      "page": "how-to-prepare-for-tax-season-as-a-small-business-owner.html",
+      "status": "passed"
+    },
+    {
+      "language": "ar",
+      "page": "what-is-a-bookkeeper-and-do-i-need-one.html",
+      "status": "passed"
+    },
+    {
+      "language": "ar",
+      "page": "how-to-prepare-your-books-for-tax-season.html",
+      "status": "passed"
+    },
+    {
+      "language": "ar",
+      "page": "what-small-business-owners-need-to-know-about-bookkeeping.html",
+      "status": "passed"
+    },
+    {
+      "language": "ar",
+      "page": "business-loan-proceeds-nobody-can-show-where-money-went.html",
+      "status": "passed"
+    },
+    {
+      "language": "ar",
+      "page": "gift-cards-sold-money-collected-work-still-owed-in-january.html",
+      "status": "passed"
+    },
+    {
+      "language": "ar",
+      "page": "sales-report-bank-deposits-never-agree.html",
+      "status": "passed"
+    },
+    {
+      "language": "ar",
+      "page": "can-a-bank-feed-change-a-reconciled-month.html",
+      "status": "passed"
+    },
+    {
+      "language": "ar",
+      "page": "can-a-bookkeeper-catch-up-months-of-missing-transactions.html",
+      "status": "passed"
+    },
+    {
+      "language": "ar",
+      "page": "can-a-monthly-review-catch-payroll-and-sales-tax-gaps.html",
+      "status": "passed"
+    },
+    {
+      "language": "ar",
+      "page": "secure-access-approvals-outsourced-bookkeeping.html",
+      "status": "passed"
+    },
+    {
+      "language": "ar",
+      "page": "switch-bookkeeping-providers-midyear-record-transfer.html",
+      "status": "passed"
+    },
+    {
+      "language": "ar",
+      "page": "outsourced-bookkeeping-vs-first-in-house-bookkeeper.html",
+      "status": "passed"
+    },
+    {
+      "language": "ar",
+      "page": "five-reasons-every-business-needs-bookkeeping.html",
+      "status": "passed"
+    },
+    {
+      "language": "ar",
+      "page": "vendor-paid-twice-nobody-noticed-for-months.html",
+      "status": "passed"
+    },
+    {
+      "language": "ar",
+      "page": "lender-asked-for-clean-financials-books-could-not-answer.html",
+      "status": "passed"
+    },
+    {
+      "language": "ar",
+      "page": "customer-deposits-spent-like-earnings-work-still-owed.html",
+      "status": "passed"
+    },
+    {
+      "language": "ar",
+      "page": "the-receipts-that-disappear-before-the-year-ends.html",
+      "status": "passed"
+    },
+    {
+      "language": "ar",
+      "page": "when-personal-and-business-spending-become-one.html",
+      "status": "passed"
+    },
+    {
+      "language": "ar",
+      "page": "the-contractor-records-that-make-january-difficult.html",
+      "status": "passed"
+    },
+    {
+      "language": "ar",
+      "page": "the-real-cost-of-monthly-bookkeeping-for-small-businesses.html",
+      "status": "passed"
+    },
+    {
+      "language": "ar",
+      "page": "the-point-when-managing-your-own-books-stops-making-sense.html",
+      "status": "passed"
+    },
+    {
+      "language": "ar",
+      "page": "catch-up-bookkeeping-overdue-books.html",
+      "status": "passed"
+    },
+    {
+      "language": "ar",
+      "page": "profit-vs-cash-flow-business-money.html",
+      "status": "passed"
+    },
+    {
+      "language": "ar",
+      "page": "tax-ready-bookkeeping-records.html",
+      "status": "passed"
+    }
+  ]
+}

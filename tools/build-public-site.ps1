@@ -1,6 +1,11 @@
 param([string]$Output = '.release/public')
 $ErrorActionPreference = 'Stop'
 $root = Split-Path $PSScriptRoot
+# The approved replacement release must preserve older content and all 80 pages.
+$integrityPython=Join-Path $root '../sun-and-sage/.tools/python/python.exe'
+if(!(Test-Path -LiteralPath $integrityPython)){$integrityPython=(Get-Command python -ErrorAction Stop).Source}
+& $integrityPython (Join-Path $PSScriptRoot 'verify-articles-20261113.py') --require-translations
+if($LASTEXITCODE -ne 0){throw 'Article publication integrity failed; build stopped.'}
 $destination = [IO.Path]::GetFullPath((Join-Path $root $Output))
 if (!$destination.StartsWith($root+[IO.Path]::DirectorySeparatorChar)) {throw 'Build output must be inside the repository.'}
 if (Test-Path $destination) {throw 'Build output already exists. Use a fresh output directory.'}

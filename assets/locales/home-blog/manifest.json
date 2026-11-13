@@ -121,7 +121,7 @@
       "provider_verified": true
     },
     "chatReply": {
-      "source": "Write a reply…",
+      "source": "Write a replyÃ¢â‚¬Â¦",
       "source_sha256": "182fe0aac991af4414c564d8b155ecdfd71fe4315caaadfd3d4acd2feba6cdad",
       "origin": "google",
       "provider_verified": true
@@ -157,7 +157,7 @@
       "provider_verified": true
     },
     "copyright": {
-      "source": "© 2026 Paper Trail. All rights reserved.",
+      "source": "Ã‚Â© 2026 Paper Trail. All rights reserved.",
       "source_sha256": "1d85232fd2c890fb646c4f8cc3eaf1d5885c373792bf1301fdc7c01251cee743",
       "origin": "google",
       "provider_verified": true
@@ -247,7 +247,7 @@
       "provider_verified": true
     },
     "location": {
-      "source": "Nationwide – Based Out Of Los Angeles, California",
+      "source": "Nationwide Ã¢â‚¬â€œ Based Out Of Los Angeles, California",
       "source_sha256": "b070975c03bb5afa874ce48218055f6752a7e771df5093bbccc66ee45a11c93e",
       "origin": "google",
       "provider_verified": true
@@ -397,8 +397,8 @@
       "provider_verified": true
     }
   },
-  "google_calls": 378,
-  "google_characters_sent": 1447389,
+  "google_calls": 432,
+  "google_characters_sent": 1642455,
   "guided_chat": {
     "file": "chat.json",
     "languages": [
@@ -433,11 +433,14 @@
   "reference_only": [
     "assets/locales/ui.js"
   ],
-  "revision": "913b54d473ea2c2ca320066595c4406a545ad97d3fd2c517a09c401baa0f11fc",
+  "revision": "55cd9644724b71ce2ab7b151010dcac2cd09acee919ca56386e5fcdf9e595a19",
   "source_pages": [
+    "3-ways-to-save-money-on-your-small-business-taxes.html",
+    "5-ways-to-cut-your-small-business-tax-bill-in-2025.html",
     "about.html",
     "accounts-billing.html",
     "accounts-payable-and-receivable-questions.html",
+    "accounts-payable-and-receivable.html",
     "accounts-payable-receivable.html",
     "all-bundles.html",
     "areas-we-serve.html",
@@ -450,6 +453,7 @@
     "bookkeeping-burbank.html",
     "bookkeeping-calabasas.html",
     "bookkeeping-chatsworth.html",
+    "bookkeeping-checklist-for-new-businesses.html",
     "bookkeeping-culver-city.html",
     "bookkeeping-glendale.html",
     "bookkeeping-hollywood.html",
@@ -515,6 +519,8 @@
     "how-should-old-bookkeeping-mistakes-be-corrected.html",
     "how-should-owner-payments-be-shown-before-tax-preparation.html",
     "how-should-partial-customer-payments-be-applied.html",
+    "how-to-prepare-for-tax-season-as-a-small-business-owner.html",
+    "how-to-prepare-your-books-for-tax-season.html",
     "income-and-expense-tracking-questions.html",
     "income-expense-tracking.html",
     "index.html",
@@ -638,6 +644,7 @@
     "what-if-my-books-show-negative-cash-at-tax-time.html",
     "what-if-old-bookkeeping-software-no-longer-has-my-data.html",
     "what-is-a-balance-sheet-supposed-to-tell-me.html",
+    "what-is-a-bookkeeper-and-do-i-need-one.html",
     "what-is-the-difference-between-accounts-payable-and-receivable.html",
     "what-is-the-difference-between-bookkeeping-and-accounting.html",
     "what-is-the-difference-between-revenue-and-cash-flow.html",
@@ -652,6 +659,7 @@
     "what-should-i-give-my-bookkeeper-every-month.html",
     "what-should-i-prepare-before-hiring-a-bookkeeper.html",
     "what-should-my-books-look-like-before-i-give-them-to-my-tax-preparer.html",
+    "what-small-business-owners-need-to-know-about-bookkeeping.html",
     "when-personal-and-business-spending-become-one.html",
     "when-should-monthly-bookkeeping-reports-be-ready.html",
     "where-do-owner-contributions-belong-in-my-books.html",
@@ -670,9 +678,9 @@
     "year-end-bookkeeping.html"
   ],
   "status": "Saved Google translations. No visitor API calls. Native speaker review pending.",
-  "successful_characters_saved": 1955619,
+  "successful_characters_saved": 2150685,
   "workflow": "whole-site",
-  "blog_sync_successful_characters": 1165437,
+  "blog_sync_successful_characters": 1360503,
   "usage_scope": "Restored incremental ledger only; historical account usage and charges remain unknown",
   "actual_charges_usd": null
 }

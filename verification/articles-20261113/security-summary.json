@@ -1,0 +1,21 @@
+{
+  "staged_files": 134,
+  "sensitive_value_findings": 0,
+  "whitespace_errors": 0,
+  "security_hook_selftest": {
+    "blocked_cases": 26,
+    "allowed_cases": 27,
+    "passed": true
+  },
+  "precommit_hook": "Unchanged and passed against the real staged inventory",
+  "prepush_hook": "No pre-push hook is installed; normal push remains required",
+  "regression_tests": {
+    "blog_translation_repair": 4,
+    "blog_image_assignment": 6,
+    "paper_trail_translation": 9,
+    "restored_translation": 7,
+    "source_section_policy": 12
+  },
+  "mandatory_checks_bypassed": false,
+  "prior_worktree_changes_excluded": true
+}

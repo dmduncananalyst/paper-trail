@@ -1,0 +1,22 @@
+﻿{
+    "chats":  1900,
+    "internalReferences":  183122,
+    "pages":  2490,
+    "sitemapUrls":  2490,
+    "expectedPages":  2490,
+    "errors":  [
+
+               ],
+    "languages":  [
+                      "en",
+                      "es",
+                      "fa",
+                      "hy",
+                      "zh-CN",
+                      "ko",
+                      "tl",
+                      "te",
+                      "ru",
+                      "ar"
+                  ]
+}

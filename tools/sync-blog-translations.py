@@ -111,8 +111,13 @@ def load_fields():
             if value.strip(): fields[key(source, receipt['locale'])] = {'source':normal(source), 'locale':receipt['locale'], 'text':value, 'provider':'google', 'receipt':path.name}
     return pointer, fields
 
-def inventory():
-    names = discover(); pages = {}; refs = set()
+def inventory(only_pages=None):
+    names = discover()
+    if only_pages:
+        unknown = set(only_pages) - set(names)
+        if unknown: raise ValueError('Requested pages are absent from the blog archive: ' + ', '.join(sorted(unknown)))
+        names = [name for name in names if name in only_pages]
+    pages = {}; refs = set()
     for name in names:
         inv = Inventory((ROOT / name).read_text(encoding='utf-8')); pages[name] = inv
         refs.update(s[2] for s in inv.slots)
@@ -270,10 +275,16 @@ def build(pages, pointer, fields, report):
     save_json(OUT/'results.json',report)
 
 def main():
-    parser=argparse.ArgumentParser(description=__doc__); parser.add_argument('--refresh',action='store_true'); args=parser.parse_args()
-    pages,pointer,fields,missing,report=inventory(); save_json(OUT/'inventory.json',report)
+    parser=argparse.ArgumentParser(description=__doc__)
+    parser.add_argument('--refresh',action='store_true')
+    parser.add_argument('--only-pages',nargs='+',help='Limit rendering and translation to listed archive/article filenames; preserve all other pages.')
+    parser.add_argument('--max-cost-usd',type=float,help='Refuse dispatch if the inventory gross estimate exceeds this owner-approved ceiling.')
+    args=parser.parse_args()
+    pages,pointer,fields,missing,report=inventory(args.only_pages); save_json(OUT/'inventory.json',report)
     print(json.dumps(report,indent=2),flush=True)
     if not args.refresh: return
+    if args.max_cost_usd is not None and report['estimated_gross_cost_usd'] > args.max_cost_usd:
+        raise ValueError('Missing translations exceed the approved cost ceiling; no paid calls made')
     STATE.mkdir(exist_ok=True); lock=STATE/'full-site.lock'
     descriptor=os.open(lock,os.O_CREAT|os.O_EXCL|os.O_WRONLY);os.close(descriptor)
     try:

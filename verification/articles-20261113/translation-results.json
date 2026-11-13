@@ -1,0 +1,35 @@
+{
+  "blogs": 8,
+  "pages": [
+    "blog.html",
+    "accounts-payable-and-receivable.html",
+    "bookkeeping-checklist-for-new-businesses.html",
+    "5-ways-to-cut-your-small-business-tax-bill-in-2025.html",
+    "3-ways-to-save-money-on-your-small-business-taxes.html",
+    "how-to-prepare-for-tax-season-as-a-small-business-owner.html",
+    "what-is-a-bookkeeper-and-do-i-need-one.html",
+    "how-to-prepare-your-books-for-tax-season.html",
+    "what-small-business-owners-need-to-know-about-bookkeeping.html"
+  ],
+  "languages": [
+    "es",
+    "fa",
+    "hy",
+    "zh-CN",
+    "ko",
+    "tl",
+    "te",
+    "ru",
+    "ar"
+  ],
+  "missing_fields": 0,
+  "source_characters_to_translate": 195066,
+  "estimated_gross_cost_usd": 3.90132,
+  "paid_calls": 54,
+  "local_only": true,
+  "characters_sent": 195066,
+  "total_saved_blog_paid_calls": 360,
+  "total_saved_blog_paid_characters": 1360503,
+  "rendered_language_pages": 81,
+  "revision": "55cd9644724b71ce2ab7b151010dcac2cd09acee919ca56386e5fcdf9e595a19"
+}

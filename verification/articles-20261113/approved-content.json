@@ -1,0 +1,522 @@
+[
+  {
+    "title": "Accounts Payable and Accounts Receivable: Keeping Bills and Customer Payments Organized",
+    "article": [
+      {
+        "heading": true,
+        "text": "Two balances that tell different stories"
+      },
+      {
+        "heading": false,
+        "text": "A company can make plenty of sales and still struggle to pay its bills on time. The missing information is often the difference between money customers owe the business and money the business owes its vendors. Accounts receivable tracks invoices issued to customers that remain unpaid. Accounts payable tracks approved vendor bills that have not yet been paid. Both are important, but neither balance by itself tells you how much cash is available today."
+      },
+      {
+        "heading": false,
+        "text": "Imagine a small service company completes $14,000 of work this month and sends invoices with payment due in 30 days. Its suppliers, insurance provider, and subcontractors expect $9,000 before those customers pay. The company has earned revenue and created receivables, yet it still needs enough cash to cover near term obligations. That timing gap is why orderly records matter."
+      },
+      {
+        "heading": true,
+        "text": "Build a reliable receivables process"
+      },
+      {
+        "heading": false,
+        "text": "Issue an invoice promptly after the agreed service or milestone. Use a unique invoice number, customer name, description of work, amount, due date, and payment instructions. Record payments against the correct invoice rather than as unexplained deposits. Review an aging report every week so invoices that are 15, 30, or 60 days overdue are visible."
+      },
+      {
+        "heading": false,
+        "text": "When a customer disputes an invoice, document the issue and the resolution. Do not simply erase an unpaid balance to make the report look cleaner. Credit memos, adjustments, and write offs should follow an approved process so the records explain what happened."
+      },
+      {
+        "heading": true,
+        "text": "Keep payables organized without duplicate payments"
+      },
+      {
+        "heading": false,
+        "text": "Enter vendor bills when received, attach the original invoice, check the vendor name and due date, and confirm the bill has not already been entered. If approval is required, record who approved it. Match payments to bills and reconcile the bank and credit card accounts. A recurring subscription should be recorded consistently, while an unusual bill deserves closer review before payment."
+      },
+      {
+        "heading": false,
+        "text": "Good payable records also make spending patterns visible. A business can identify late fees, repeated vendor charges, and expenses that have grown beyond the budget."
+      },
+      {
+        "heading": true,
+        "text": "Turn both lists into a cash plan"
+      },
+      {
+        "heading": false,
+        "text": "Review upcoming customer collections alongside the next two to four weeks of bills, payroll, and other commitments. This is an operating forecast, not a guarantee of when customers will pay. Update it as invoices are settled and new obligations arrive. Paper Trail can keep invoices, vendor bills, payment records, and reconciliations organized so the owner sees outstanding balances without searching through messages and bank statements."
+      }
+    ],
+    "references": [
+      {
+        "label": "IRS Publication 583, Starting a Business and Keeping Records",
+        "url": "https://www.irs.gov/publications/p583"
+      },
+      {
+        "label": "SBA, Manage Your Business",
+        "url": "https://www.sba.gov/counseling/manage-your-business/"
+      }
+    ],
+    "slug": "accounts-payable-and-receivable.html",
+    "canonical": "https://www.papertrailusa.com/accounts-payable-and-receivable.html",
+    "meta_title": "Accounts Payable and Accounts Receivable: Keeping Bills and Customer Payments Organized",
+    "description": "Learn how accurate accounts payable and receivable records support invoice tracking, vendor payments, reconciliations, and cash planning.",
+    "date": "2026-11-13",
+    "image": "assets/photos/accounts-payable-and-receivable-20261113.jpg",
+    "alt": "Finance professional comparing customer invoices and vendor bills beside a laptop and calculator."
+  },
+  {
+    "title": "A Bookkeeping Checklist for New Businesses Before Transactions Pile Up",
+    "article": [
+      {
+        "heading": true,
+        "text": "Set up the foundation before the first busy month"
+      },
+      {
+        "heading": false,
+        "text": "New businesses often begin with a checking account, a payment processor, and a folder of receipts. Within weeks, deposits, vendor payments, taxes, refunds, and owner transfers can become difficult to separate. A simple bookkeeping setup prevents the first quarter from turning into a reconstruction project."
+      },
+      {
+        "heading": false,
+        "text": "Start by keeping business activity separate from personal activity. Open a dedicated business bank account when appropriate for the entity and banking requirements. Choose a bookkeeping system capable of recording income, expenses, assets, liabilities, and owner transactions. Decide who will enter activity, how often it will be reviewed, and where supporting documents will be stored."
+      },
+      {
+        "heading": true,
+        "text": "Create the working checklist"
+      },
+      {
+        "heading": false,
+        "text": "Record the legal business name, entity type, tax year, business address, and relevant tax identification information in secure administrative records. Connect each active business bank and credit card account to the bookkeeping process. List any payment processors, financing accounts, sales platforms, and payroll systems. Set up a practical chart of accounts that reflects what the company actually sells and spends."
+      },
+      {
+        "heading": false,
+        "text": "Establish how invoices will be issued, how customer payments will be matched, and who approves vendor bills. Decide how refunds, discounts, deposits, reimbursements, and owner contributions will be coded. Keep copies of contracts, receipts, invoices, bank statements, loan documents, and asset purchase records. Make sure backup access and document permissions are controlled."
+      },
+      {
+        "heading": true,
+        "text": "Choose a weekly and monthly rhythm"
+      },
+      {
+        "heading": false,
+        "text": "Each week, record newly issued invoices, customer receipts, bills, purchases, and any cash transactions that the bank feed does not explain. Review overdue invoices and scheduled payments. Check for duplicates, unrecognized merchant names, and uncategorized transfers."
+      },
+      {
+        "heading": false,
+        "text": "At month end, reconcile the bank and credit card balances to statements, investigate outstanding items, and review the profit and loss statement and balance sheet. Confirm payroll and sales tax liabilities are recorded correctly when applicable. Save a dated month end report package and note unresolved items. Do not assume a bank balance is the same thing as profit."
+      },
+      {
+        "heading": false,
+        "text": "Avoid an expensive first year cleanup The IRS expects business records to support income and deductions, regardless of whether the records are on paper or electronic. Keeping transaction evidence as the business operates is generally easier than asking owners to locate missing receipts months later. Paper Trail can set up a consistent bookkeeping routine and help maintain organized records from the beginning. The business owner and tax professional should confirm entity specific tax and filing obligations separately."
+      }
+    ],
+    "references": [
+      {
+        "label": "IRS Publication 583, Starting a Business and Keeping Records",
+        "url": "https://www.irs.gov/publications/p583"
+      },
+      {
+        "label": "IRS, What Kind of Records Should I Keep?",
+        "url": "https://www.irs.gov/businesses/small-businesses-self-employed/what-kind-of-records-should-i-keep"
+      }
+    ],
+    "slug": "bookkeeping-checklist-for-new-businesses.html",
+    "canonical": "https://www.papertrailusa.com/bookkeeping-checklist-for-new-businesses.html",
+    "meta_title": "A Bookkeeping Checklist for New Businesses Before Transactions Pile Up",
+    "description": "Use this bookkeeping checklist to organize business accounts, receipts, invoices, reconciliations, and records from the start.",
+    "date": "2026-11-13",
+    "image": "assets/photos/bookkeeping-checklist-for-new-businesses-20261113.jpg",
+    "alt": "Business owner organizing receipts and account records in a new design studio."
+  },
+  {
+    "title": "Five Recordkeeping Steps That Could Help a Business Avoid Overpaying Taxes for 2025",
+    "article": [
+      {
+        "heading": true,
+        "text": "Treat this as a 2025 tax year review"
+      },
+      {
+        "heading": false,
+        "text": "This article addresses records for the 2025 tax year. Tax rules, thresholds, and eligibility can change, so a qualified tax professional should confirm the law that applies to the business and the year of the return. Bookkeeping cannot guarantee a tax reduction, but accurate records can help taxpayers claim deductions and credits they are legitimately entitled to and avoid reporting errors."
+      },
+      {
+        "heading": false,
+        "text": "1. Locate ordinary and necessary business expenses Review vendor bills, card statements, subscriptions, business insurance, professional services, and other operating costs. The IRS generally requires deductible business expenses to be ordinary and necessary, subject to additional restrictions and exceptions. Do not assume every bank withdrawal is deductible. Personal purchases, debt principal, and certain assets require different treatment."
+      },
+      {
+        "heading": false,
+        "text": "2. Reconcile payment processor deposits Credit card and online payment services may deduct processing fees or refund amounts before sending deposits to the bank. Recording only the net deposit can leave both revenue and fees misstated. Reconcile sales records, processor statements, chargebacks, refunds, and bank deposits to show the underlying activity correctly."
+      },
+      {
+        "heading": false,
+        "text": "3. Separate assets from routine expenses Equipment, furniture, computers, and certain improvements may require capitalization, depreciation, or special treatment rather than automatic expense recognition. Keep the invoice, purchase date, business use information, and disposal records. Your tax preparer can determine whether any deduction election is available for the applicable year."
+      },
+      {
+        "heading": false,
+        "text": "4. Review owner payments and reimbursements Separate owner draws, contributions, payroll, contractor payments, and documented business reimbursements. Their treatment differs by entity and transaction. Leaving all payments in one expense category can distort the books and the tax return. Obtain appropriate documentation before making reclassifications."
+      },
+      {
+        "heading": false,
+        "text": "5. Recheck estimated payments and supporting records Match tax payments to confirmation records and the correct tax year. For businesses or owners subject to estimated tax requirements, underpayment rules may apply. The IRS provides estimated tax guidance, but calculation and filing decisions belong with the taxpayer and tax professional."
+      },
+      {
+        "heading": false,
+        "text": "Paper Trail can organize 2025 transactions, reconcile accounts, and prepare complete books for a tax professional. It does not promise a particular tax saving, and it does not replace tax advice."
+      }
+    ],
+    "references": [
+      {
+        "label": "IRS Publication 334 (2025), Tax Guide for business",
+        "url": "https://www.irs.gov/publications/p334"
+      },
+      {
+        "label": "IRS Publication 583, Starting a Business and Keeping Records",
+        "url": "https://www.irs.gov/publications/p583"
+      },
+      {
+        "label": "IRS, Estimated Taxes",
+        "url": "https://www.irs.gov/businesses/small-businesses-self-employed/estimated-taxes"
+      }
+    ],
+    "slug": "5-ways-to-cut-your-small-business-tax-bill-in-2025.html",
+    "canonical": "https://www.papertrailusa.com/5-ways-to-cut-your-small-business-tax-bill-in-2025.html",
+    "meta_title": "Five Recordkeeping Steps That Could Help a Business Avoid Overpaying Taxes for 2025",
+    "description": "Review five recordkeeping practices that help businesses document deductible expenses, payments, and financial activity for tax preparation.",
+    "date": "2026-11-13",
+    "image": "assets/photos/5-ways-to-cut-your-small-business-tax-bill-in-2025-20261113.jpg",
+    "alt": "Finance professional reviewing archived expense receipts and monthly recordkeeping folders."
+  },
+  {
+    "title": "Three Ways Better Bookkeeping Can Support Accurate Business Taxes",
+    "article": [
+      {
+        "heading": true,
+        "text": "Good tax preparation begins before the return"
+      },
+      {
+        "heading": false,
+        "text": "Businesses often think about taxes when the filing deadline approaches. By then, missing receipts and misclassified payments can make the work slower and less reliable. Clean bookkeeping does not create deductions that do not exist, but it can help a qualified preparer identify legitimate items and avoid costly reporting mistakes."
+      },
+      {
+        "heading": false,
+        "text": "1. Capture business expenses with their evidence Maintain a consistent method for collecting invoices, receipts, merchant statements, and payment confirmations. Label transactions so it is clear who was paid, what the purchase was for, and which business activity it supported. For certain deductions, additional substantiation rules apply. A transaction description alone may not be enough."
+      },
+      {
+        "heading": false,
+        "text": "Separate personal spending from business expenses and track shared expenses carefully. A tax preparer should determine what portion, if any, qualifies under the applicable rules."
+      },
+      {
+        "heading": false,
+        "text": "2. Keep revenue and deposits correctly matched Deposits can represent customer payments, loans, owner contributions, transfers, or refunds. Not every deposit is revenue, and the timing of income recognition depends on the business's accounting method and applicable rules. Reconcile bank deposits with invoices, merchant statements, and other records so the tax preparer can understand what money came in and why."
+      },
+      {
+        "heading": false,
+        "text": "Do not erase or ignore payments that appear inconsistent. Flag unresolved items and document their eventual resolution."
+      },
+      {
+        "heading": false,
+        "text": "3. Review books before year end A year end review gives the business time to identify missing documents, review outstanding invoices and bills, confirm asset purchases, and correct duplicate transactions. Compare account balances with actual statements and verify payroll or contractor information when applicable. Discuss unusual items with the accountant before filing rather than guessing at tax treatment."
+      },
+      {
+        "heading": false,
+        "text": "Paper Trail can maintain the records and provide organized financial reports for tax preparation. The tax professional determines applicable deductions, credits, and filing positions, while the bookkeeping process keeps supporting information available."
+      }
+    ],
+    "references": [
+      {
+        "label": "IRS, Why Should I Keep Records?",
+        "url": "https://www.irs.gov/businesses/small-businesses-self-employed/why-should-i-keep-records"
+      },
+      {
+        "label": "IRS, Burden of Proof",
+        "url": "https://www.irs.gov/businesses/small-businesses-self-employed/burden-of-proof"
+      },
+      {
+        "label": "IRS Publication 334 (2025), Tax Guide for business",
+        "url": "https://www.irs.gov/publications/p334"
+      }
+    ],
+    "slug": "3-ways-to-save-money-on-your-small-business-taxes.html",
+    "canonical": "https://www.papertrailusa.com/3-ways-to-save-money-on-your-small-business-taxes.html",
+    "meta_title": "Three Ways Better Bookkeeping Can Support Accurate Business Taxes",
+    "description": "Explore how reconciled accounts, organized expense records, and reliable reports support business tax preparation.",
+    "date": "2026-11-13",
+    "image": "assets/photos/3-ways-to-save-money-on-your-small-business-taxes-20261113.jpg",
+    "alt": "Accountant matching payment processor records with bank statements at an office desk."
+  },
+  {
+    "title": "Preparing for Tax Season as a Business Owner",
+    "article": [
+      {
+        "heading": true,
+        "text": "Prepare the records before preparing the return"
+      },
+      {
+        "heading": false,
+        "text": "Tax season becomes harder when the business has months of uncategorized transactions, old bank statements, and missing customer records. The goal is to assemble a complete, reconciled record of business activity for the tax year. A bookkeeper can help organize these records, while the tax preparer determines how they appear on the return."
+      },
+      {
+        "heading": true,
+        "text": "Collect a complete account list"
+      },
+      {
+        "heading": false,
+        "text": "Identify all checking, savings, credit card, financing, merchant processing, and payment platform accounts used for business. Include accounts opened or closed during the year. Collect statements for the entire reporting period, not just December. Provide records for business cash transactions and transactions paid personally on behalf of the business."
+      },
+      {
+        "heading": false,
+        "text": "The tax professional may also need ownership, entity, and prior year information. Avoid sending identification numbers through unsecured email when a secure client portal is available."
+      },
+      {
+        "heading": true,
+        "text": "Reconcile and classify transactions"
+      },
+      {
+        "heading": false,
+        "text": "Reconcile every bank and credit card account through year end. Review unrecognized payments, transfers between accounts, loan proceeds, refunds, and large asset purchases. Confirm that customer payments and invoices are matched and that unpaid vendor bills are represented correctly under the business's accounting method."
+      },
+      {
+        "heading": false,
+        "text": "For companies with employees, collect payroll summaries, employment tax filings, and payment records. The IRS requires employment tax records to be retained for at least four years, and some circumstances can require longer retention."
+      },
+      {
+        "heading": true,
+        "text": "Prepare the handoff package"
+      },
+      {
+        "heading": false,
+        "text": "A useful package includes a year end profit and loss statement, balance sheet, general ledger, bank reconciliation summaries, asset purchases, loan information, payroll reports where applicable, and a list of unresolved transactions. Include supporting documents for unusual expenses or transactions whose classification is uncertain."
+      },
+      {
+        "heading": false,
+        "text": "Review the reports for obvious inconsistencies before submitting them. A negative account balance, duplicate income, unexplained owner payments, or a bank account that does not reconcile deserves attention. Paper Trail can organize the bookkeeping portion of this handoff so the business and tax professional can work from the same underlying records."
+      }
+    ],
+    "references": [
+      {
+        "label": "IRS Publication 583, Starting a Business and Keeping Records",
+        "url": "https://www.irs.gov/publications/p583"
+      },
+      {
+        "label": "IRS, Burden of Proof",
+        "url": "https://www.irs.gov/businesses/small-businesses-self-employed/burden-of-proof"
+      },
+      {
+        "label": "IRS, Employment Tax Recordkeeping",
+        "url": "https://www.irs.gov/businesses/small-businesses-self-employed/employment-tax-recordkeeping"
+      }
+    ],
+    "slug": "how-to-prepare-for-tax-season-as-a-small-business-owner.html",
+    "canonical": "https://www.papertrailusa.com/how-to-prepare-for-tax-season-as-a-small-business-owner.html",
+    "meta_title": "Preparing for Tax Season as a Business Owner",
+    "description": "Prepare for tax season with organized transactions, reconciled accounts, supporting documents, and reports for your tax professional.",
+    "date": "2026-11-13",
+    "image": "assets/photos/how-to-prepare-for-tax-season-as-a-small-business-owner-20261113.jpg",
+    "alt": "Business owner and accountant reviewing an organized tax season document package."
+  },
+  {
+    "title": "What a Bookkeeper Does for Your Business",
+    "article": [
+      {
+        "heading": true,
+        "text": "The role behind organized business records"
+      },
+      {
+        "heading": false,
+        "text": "A bookkeeper records and organizes financial activity so the business can understand money coming in, money going out, and balances that still need attention. The work often includes categorizing transactions, maintaining the general ledger, reconciling bank and credit card statements, tracking invoices and bills, and preparing routine financial reports."
+      },
+      {
+        "heading": false,
+        "text": "Bookkeeping is not the same thing as auditing or preparing a tax return. Accountants and tax professionals may use the bookkeeper's records for broader accounting, filing, and advisory work. The specific responsibilities depend on the engagement and the provider's qualifications."
+      },
+      {
+        "heading": true,
+        "text": "What regular bookkeeping looks like"
+      },
+      {
+        "heading": false,
+        "text": "During a normal month, sales and expenses are entered into the records, deposits are matched to their sources, vendor bills are logged, and unclear transactions are flagged. At month end, balances are reconciled to outside statements and reports are reviewed for discrepancies. The bookkeeper may also track unpaid customer invoices, upcoming bills, and supporting documents."
+      },
+      {
+        "heading": false,
+        "text": "A well run process makes corrections visible. Rather than masking an unreconciled amount with a generic adjustment, the bookkeeper documents the missing information and requests clarification."
+      },
+      {
+        "heading": true,
+        "text": "Why ongoing bookkeeping matters for every business"
+      },
+      {
+        "heading": false,
+        "text": "Every business benefits from reliable, consistently maintained financial records. Recording income and expenses, reconciling accounts, and tracking invoices and bills are ongoing responsibilities, whether the business is new, established, growing, or operating with a steady transaction volume."
+      },
+      {
+        "heading": false,
+        "text": "Accurate bookkeeping also prevents avoidable backlogs. Unreviewed bank transactions, duplicate bills, overdue invoices, and outdated reports can make it difficult to understand financial obligations and prepare accurate records for tax season."
+      },
+      {
+        "heading": true,
+        "text": "How Paper Trail supports ongoing bookkeeping"
+      },
+      {
+        "heading": false,
+        "text": "Paper Trail offers bookkeeping support for recurring transaction entries, bank and credit card reconciliations, invoicing, bill tracking, financial reporting, and historical bookkeeping repair. The work is organized around the company's account structure, transaction activity, and chosen bookkeeping schedule. A consultation can establish the appropriate scope and quote for the services needed."
+      }
+    ],
+    "references": [
+      {
+        "label": "IRS, How Should I Record My Business Transactions?",
+        "url": "https://www.irs.gov/businesses/small-businesses-self-employed/how-should-i-record-my-business-transactions"
+      },
+      {
+        "label": "SBA, Manage Your Business",
+        "url": "https://www.sba.gov/counseling/manage-your-business/"
+      }
+    ],
+    "slug": "what-is-a-bookkeeper-and-do-i-need-one.html",
+    "canonical": "https://www.papertrailusa.com/what-is-a-bookkeeper-and-do-i-need-one.html",
+    "meta_title": "What a Bookkeeper Does for Your Business",
+    "description": "Understand a bookkeeper's ongoing role in tracking transactions, reconciling accounts, managing invoices, and preparing financial reports.",
+    "date": "2026-11-13",
+    "image": "assets/photos/what-is-a-bookkeeper-and-do-i-need-one-20261113.jpg",
+    "alt": "Bookkeeper reconciling monthly transactions with invoices and financial records at her workstation."
+  },
+  {
+    "title": "How to Prepare Your Books for Tax Season Without Guessing at Balances",
+    "article": [
+      {
+        "heading": true,
+        "text": "Begin with the accounts that can be verified"
+      },
+      {
+        "heading": false,
+        "text": "Before a tax preparer can rely on reports, the underlying bank, credit card, and loan balances should be reviewed. Download the full year's statements and reconcile each account through the reporting date. Identify accounts that were closed, payment platforms that hold balances, and transfers that may be counted twice. A report can look polished while its balances remain wrong; reconciliation is the basic test."
+      },
+      {
+        "heading": true,
+        "text": "Clear transaction problems"
+      },
+      {
+        "heading": false,
+        "text": "Review any uncategorized spending, unidentified deposits, duplicate invoices, unapplied customer payments, outstanding checks, and vendor credits. Separate loan proceeds from earned revenue, and debt principal payments from interest or other charges. Verify the purpose and documentation of large or unusual expenses."
+      },
+      {
+        "heading": false,
+        "text": "Do not force adjustments just to make an account match. If an item cannot be substantiated, document the question and leave a clear exception for review."
+      },
+      {
+        "heading": true,
+        "text": "Check reports and supporting schedules"
+      },
+      {
+        "heading": false,
+        "text": "Once transactions are reconciled, review the profit and loss statement, balance sheet, and general ledger. Look for negative balances where they do not make sense, income recorded in the wrong period, duplicated expenses, missing liabilities, or unexplained owner activity. Create or update supporting schedules for fixed assets, loans, prepaid items, and other material balances as applicable."
+      },
+      {
+        "heading": false,
+        "text": "Where payroll is involved, compare payroll reports, employer tax payments, and relevant liability accounts. If inventory is material, coordinate with the person responsible for inventory counts and the accounting method."
+      },
+      {
+        "heading": true,
+        "text": "Send a clean, documented package"
+      },
+      {
+        "heading": false,
+        "text": "Provide your tax professional with reconciled reports and access to the documents supporting unusual transactions. Clearly distinguish completed reconciliations from open questions. Keep a dated copy of the package and a record of any later corrections. The IRS emphasizes that records must support items reported on tax returns."
+      },
+      {
+        "heading": false,
+        "text": "Paper Trail can reconcile accounts, organize supporting records, and prepare routine financial statements for this process. Determining the correct tax treatment remains the responsibility of the business and its qualified tax adviser."
+      }
+    ],
+    "references": [
+      {
+        "label": "IRS Publication 583, Starting a Business and Keeping Records",
+        "url": "https://www.irs.gov/publications/p583"
+      },
+      {
+        "label": "IRS, Burden of Proof",
+        "url": "https://www.irs.gov/businesses/small-businesses-self-employed/burden-of-proof"
+      }
+    ],
+    "slug": "how-to-prepare-your-books-for-tax-season.html",
+    "canonical": "https://www.papertrailusa.com/how-to-prepare-your-books-for-tax-season.html",
+    "meta_title": "How to Prepare Your Books for Tax Season Without Guessing at Balances",
+    "description": "Learn how to reconcile accounts, review balances, organize supporting records, and prepare a clear bookkeeping package for tax season.",
+    "date": "2026-11-13",
+    "image": "assets/photos/how-to-prepare-your-books-for-tax-season-20261113.jpg",
+    "alt": "Finance professional checking ledger balances against bank statements before the tax handoff."
+  },
+  {
+    "title": "What Business Owners Need to Know About Bookkeeping",
+    "article": [
+      {
+        "heading": true,
+        "text": "Bookkeeping records what is happening"
+      },
+      {
+        "heading": false,
+        "text": "Bookkeeping is the ongoing record of the financial transactions of a business. It includes customer sales, collections, bills, purchases, bank activity, credit card activity, financing, and owner transactions. The records form the basis for financial reports and help explain why a bank balance changed from one month to the next."
+      },
+      {
+        "heading": false,
+        "text": "A payment received is not always new income, and a payment sent is not always a deductible operating expense. Money may move between business accounts, represent a customer deposit, repay loan principal, or reimburse an owner. Correct classification matters."
+      },
+      {
+        "heading": true,
+        "text": "Know the main reports"
+      },
+      {
+        "heading": false,
+        "text": "A profit and loss statement shows revenue and expenses for a period under the accounting method used. A balance sheet shows assets, liabilities, and equity at a specific date. A cash flow view helps explain when cash is expected to enter or leave the business. These reports answer different questions and should not be treated as interchangeable."
+      },
+      {
+        "heading": false,
+        "text": "The SBA identifies bookkeeping and basic financial understanding as important parts of managing a business. The reports are only as reliable as the transactions and reconciliations behind them."
+      },
+      {
+        "heading": true,
+        "text": "Make monthly reconciliation a standard task"
+      },
+      {
+        "heading": false,
+        "text": "Compare the books with bank and card statements and investigate differences. Check that customer payments were applied to invoices, vendor bills were not duplicated, and transfers were recorded once on each appropriate account. File supporting documents in an organized location with sensible access controls and backups."
+      },
+      {
+        "heading": false,
+        "text": "Avoid waiting until the tax deadline to make the first review. Small monthly corrections are usually easier to understand than an entire year of unidentified activity."
+      },
+      {
+        "heading": true,
+        "text": "Decide what to handle and what to delegate"
+      },
+      {
+        "heading": false,
+        "text": "An owner can remain responsible for approving payments and reviewing results while a bookkeeper handles data entry, reconciliations, and reporting. A qualified accountant or tax professional may be needed for tax positions, formal accounting judgments, or specialized compliance matters. Decide who owns each part of the process and document the handoffs."
+      },
+      {
+        "heading": false,
+        "text": "Paper Trail supports recurring bookkeeping and cleanup needs. The purpose is to maintain records the business can actually use, with clear reporting, consistent documentation, and timely identification of unresolved transactions."
+      }
+    ],
+    "references": [
+      {
+        "label": "IRS Publication 583, Starting a Business and Keeping Records",
+        "url": "https://www.irs.gov/publications/p583"
+      },
+      {
+        "label": "IRS, Why Should I Keep Records?",
+        "url": "https://www.irs.gov/businesses/small-businesses-self-employed/why-should-i-keep-records"
+      },
+      {
+        "label": "SBA, Manage Your Business",
+        "url": "https://www.sba.gov/counseling/manage-your-business/"
+      }
+    ],
+    "slug": "what-small-business-owners-need-to-know-about-bookkeeping.html",
+    "canonical": "https://www.papertrailusa.com/what-small-business-owners-need-to-know-about-bookkeeping.html",
+    "meta_title": "What Business Owners Need to Know About Bookkeeping",
+    "description": "Learn the essential bookkeeping records and routines business owners should understand, including cash flow, invoices, bills, and reconciliations.",
+    "date": "2026-11-13",
+    "image": "assets/photos/what-small-business-owners-need-to-know-about-bookkeeping-20261113.jpg",
+    "alt": "Business owner and bookkeeper reviewing financial reports and supporting records together."
+  }
+]

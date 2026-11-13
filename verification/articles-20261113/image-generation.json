@@ -1,0 +1,45 @@
+{
+  "mode": "built-in image_gen",
+  "images": [
+    {
+      "name": "photo1",
+      "prompt": "Create one original photorealistic editorial photograph for a bookkeeping article about accounts payable and receivable. A Black female finance professional in a realistic office compares two orderly sets of customer invoices and vendor bills beside a laptop and calculator, thoughtful candid activity, natural daylight, landscape 4:3 composition, no readable text, no logos, anatomically correct hands, authentic restrained business photography. Save the generated image for use as a website asset and provide its local file path.",
+      "source": "C:\\Users\\Owner\\.codex\\generated_images\\01a1d616-bafe-70d3-8554-8e8ff14005a5\\exec-943d3e03-d6a5-4477-94cd-be9e4b9971fd.png"
+    },
+    {
+      "name": "02-new-business-checklist",
+      "prompt": "Use case: photorealistic-natural. Original professional editorial photograph for a Paper Trail bookkeeping article. A Mexican business owner setting up a new design studio, organizing first receipts into folders beside a laptop, dedicated business bank paperwork and a simple checklist notebook, airy startup workspace, candid side angle. Landscape 4:3, realistic proportions and anatomically correct hands, natural restrained lighting, no logos or watermarks, no legible artificial text or invented document headings, credible documents viewed at an angle. Each image must have its own distinct composition.",
+      "source": "C:\\Users\\Owner\\.codex\\generated_images\\01a1d616-bafe-70d3-8554-8e8ff14005a5\\exec-b903a038-2998-49f5-af71-3a70a987db42.png"
+    },
+    {
+      "name": "03-recordkeeping-2025",
+      "prompt": "Use case: photorealistic-natural. Original professional editorial photograph for a Paper Trail bookkeeping article. An Asian financial professional reviewing a year's archived expense receipts with a calculator and orderly monthly document folders on a broad office table, overhead three-quarter view, precise careful recordkeeping for tax preparation. Landscape 4:3, realistic proportions and anatomically correct hands, natural restrained lighting, no logos or watermarks, no legible artificial text or invented document headings, credible documents viewed at an angle. Each image must have its own distinct composition.",
+      "source": "C:\\Users\\Owner\\.codex\\generated_images\\01a1d616-bafe-70d3-8554-8e8ff14005a5\\exec-74cfa43c-b1b8-4ffd-8650-7aea4b874971.png"
+    },
+    {
+      "name": "04-accurate-business-taxes",
+      "prompt": "Use case: photorealistic-natural. Original professional editorial photograph for a Paper Trail bookkeeping article. A Middle Eastern accountant matching payment processor statements against bank records on a desk with two monitors showing indistinct financial rows, realistic modern office, candid profile, expense evidence neatly arranged. Landscape 4:3, realistic proportions and anatomically correct hands, natural restrained lighting, no logos or watermarks, no legible artificial text or invented document headings, credible documents viewed at an angle. Each image must have its own distinct composition.",
+      "source": "C:\\Users\\Owner\\.codex\\generated_images\\01a1d616-bafe-70d3-8554-8e8ff14005a5\\exec-4dd8aee3-c14d-4a0e-b526-bb991063cbb1.png"
+    },
+    {
+      "name": "05-tax-season-owner",
+      "prompt": "Use case: photorealistic-natural. Original professional editorial photograph for a Paper Trail bookkeeping article. A Black male business owner preparing a complete document handoff package with an Asian female accountant across a modest office meeting table, organized folders, laptop and annual financial reports, attentive professional discussion. Landscape 4:3, realistic proportions and anatomically correct hands, natural restrained lighting, no logos or watermarks, no legible artificial text or invented document headings, credible documents viewed at an angle. Each image must have its own distinct composition.",
+      "source": "C:\\Users\\Owner\\.codex\\generated_images\\01a1d616-bafe-70d3-8554-8e8ff14005a5\\exec-c55a8ad8-88a1-4fe2-a0b4-c61b1f4c5512.png"
+    },
+    {
+      "name": "06-bookkeeper-role",
+      "prompt": "Use case: photorealistic-natural. Original professional editorial photograph for a Paper Trail bookkeeping article. A Mexican female bookkeeper performing monthly transaction reconciliation at her workstation, laptop, second monitor with softly defocused ledger rows, invoice tray and calculator, authentic working office, natural window light. Landscape 4:3, realistic proportions and anatomically correct hands, natural restrained lighting, no logos or watermarks, no legible artificial text or invented document headings, credible documents viewed at an angle. Each image must have its own distinct composition.",
+      "source": "C:\\Users\\Owner\\.codex\\generated_images\\01a1d616-bafe-70d3-8554-8e8ff14005a5\\exec-afcc7838-f29e-4568-90c8-23d8c6938a8e.png"
+    },
+    {
+      "name": "07-books-tax-season",
+      "prompt": "Use case: photorealistic-natural. Original professional editorial photograph for a Paper Trail bookkeeping article. A Middle Eastern female finance professional checking account balances against bank statements and a general ledger, focused hands resting naturally beside calculator, close wide view of desk and professional, calm realistic office. Landscape 4:3, realistic proportions and anatomically correct hands, natural restrained lighting, no logos or watermarks, no legible artificial text or invented document headings, credible documents viewed at an angle. Each image must have its own distinct composition.",
+      "source": "C:\\Users\\Owner\\.codex\\generated_images\\01a1d616-bafe-70d3-8554-8e8ff14005a5\\exec-2fcf15f0-40c8-4a26-9d2e-2b78c720ad43.png"
+    },
+    {
+      "name": "08-owner-bookkeeping",
+      "prompt": "Use case: photorealistic-natural. Original professional editorial photograph for a Paper Trail bookkeeping article. An Asian business owner reviewing profit-and-loss, balance sheet and cash planning reports with a Black bookkeeper at a neighborhood business office, organized receipts and laptop, collaborative candid wide composition. Landscape 4:3, realistic proportions and anatomically correct hands, natural restrained lighting, no logos or watermarks, no legible artificial text or invented document headings, credible documents viewed at an angle. Each image must have its own distinct composition.",
+      "source": "C:\\Users\\Owner\\.codex\\generated_images\\01a1d616-bafe-70d3-8554-8e8ff14005a5\\exec-adb3f273-92a2-46e8-8405-9ed983c01b6d.png"
+    }
+  ]
+}
