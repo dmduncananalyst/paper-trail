@@ -397,8 +397,8 @@
       "provider_verified": true
     }
   },
-  "google_calls": 324,
-  "google_characters_sent": 1218150,
+  "google_calls": 378,
+  "google_characters_sent": 1447389,
   "guided_chat": {
     "file": "chat.json",
     "languages": [
@@ -433,7 +433,7 @@
   "reference_only": [
     "assets/locales/ui.js"
   ],
-  "revision": "385840a6a76a00bac27c8f667c929a2abc171c0ff2cf2af91a6ec1a20cc6acf6",
+  "revision": "913b54d473ea2c2ca320066595c4406a545ad97d3fd2c517a09c401baa0f11fc",
   "source_pages": [
     "about.html",
     "accounts-billing.html",
@@ -457,6 +457,7 @@
     "bookkeeping-santa-monica.html",
     "bookkeeping-west-hollywood.html",
     "bookkeeping-woodland-hills.html",
+    "business-loan-proceeds-nobody-can-show-where-money-went.html",
     "california-payroll-record-retention.html",
     "can-a-bank-feed-change-a-reconciled-month.html",
     "can-a-bank-feed-replace-reconciliations.html",
@@ -487,6 +488,7 @@
     "faq.html",
     "financial-analysis.html",
     "five-reasons-every-business-needs-bookkeeping.html",
+    "gift-cards-sold-money-collected-work-still-owed-in-january.html",
     "how-can-i-see-whether-my-business-is-improving.html",
     "how-can-i-tell-how-much-my-business-earned-this-month.html",
     "how-can-missing-bank-transactions-be-found.html",
@@ -544,6 +546,7 @@
     "quickbooks-xero-professional-bookkeeping.html",
     "request-a-custom-quote.html",
     "roles-bookkeepers-accountants-cpas.html",
+    "sales-report-bank-deposits-never-agree.html",
     "secure-access-approvals-outsourced-bookkeeping.html",
     "services.html",
     "should-every-business-credit-card-be-reconciled.html",
@@ -667,9 +670,9 @@
     "year-end-bookkeeping.html"
   ],
   "status": "Saved Google translations. No visitor API calls. Native speaker review pending.",
-  "successful_characters_saved": 1726380,
+  "successful_characters_saved": 1955619,
   "workflow": "whole-site",
-  "blog_sync_successful_characters": 936198,
+  "blog_sync_successful_characters": 1165437,
   "usage_scope": "Restored incremental ledger only; historical account usage and charges remain unknown",
   "actual_charges_usd": null
 }

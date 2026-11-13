@@ -1,0 +1,32 @@
+{
+  "blogs": 3,
+  "pages": [
+    "blog.html",
+    "business-loan-proceeds-nobody-can-show-where-money-went.html",
+    "gift-cards-sold-money-collected-work-still-owed-in-january.html",
+    "sales-report-bank-deposits-never-agree.html"
+  ],
+  "languages": [
+    "es",
+    "fa",
+    "hy",
+    "zh-CN",
+    "ko",
+    "tl",
+    "te",
+    "ru",
+    "ar"
+  ],
+  "missing_fields": 0,
+  "source_characters_to_translate": 229239,
+  "estimated_gross_cost_usd": 4.58478,
+  "paid_calls": 0,
+  "local_only": true,
+  "characters_sent": 0,
+  "original_job_paid_calls": 54,
+  "original_job_characters_sent": 229239,
+  "total_saved_blog_paid_calls": 306,
+  "total_saved_blog_paid_characters": 1165437,
+  "rendered_language_pages": 36,
+  "revision": "913b54d473ea2c2ca320066595c4406a545ad97d3fd2c517a09c401baa0f11fc"
+}

@@ -1,0 +1,25 @@
+{
+  "blogs": 3,
+  "pages": [
+    "blog.html",
+    "business-loan-proceeds-nobody-can-show-where-money-went.html",
+    "gift-cards-sold-money-collected-work-still-owed-in-january.html",
+    "sales-report-bank-deposits-never-agree.html"
+  ],
+  "languages": [
+    "es",
+    "fa",
+    "hy",
+    "zh-CN",
+    "ko",
+    "tl",
+    "te",
+    "ru",
+    "ar"
+  ],
+  "missing_fields": 0,
+  "source_characters_to_translate": 0,
+  "estimated_gross_cost_usd": 0.0,
+  "paid_calls": 0,
+  "local_only": true
+}

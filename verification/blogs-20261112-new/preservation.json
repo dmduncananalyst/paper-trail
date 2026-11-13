@@ -1,0 +1,56 @@
+{
+  "archives": [
+    {
+      "language": "en",
+      "new_cards": 3,
+      "previous_archive_markup_preserved": true
+    },
+    {
+      "language": "es",
+      "new_cards": 3,
+      "previous_archive_markup_preserved": true
+    },
+    {
+      "language": "fa",
+      "new_cards": 3,
+      "previous_archive_markup_preserved": true
+    },
+    {
+      "language": "hy",
+      "new_cards": 3,
+      "previous_archive_markup_preserved": true
+    },
+    {
+      "language": "zh-CN",
+      "new_cards": 3,
+      "previous_archive_markup_preserved": true
+    },
+    {
+      "language": "ko",
+      "new_cards": 3,
+      "previous_archive_markup_preserved": true
+    },
+    {
+      "language": "tl",
+      "new_cards": 3,
+      "previous_archive_markup_preserved": true
+    },
+    {
+      "language": "te",
+      "new_cards": 3,
+      "previous_archive_markup_preserved": true
+    },
+    {
+      "language": "ru",
+      "new_cards": 3,
+      "previous_archive_markup_preserved": true
+    },
+    {
+      "language": "ar",
+      "new_cards": 3,
+      "previous_archive_markup_preserved": true
+    }
+  ],
+  "old_cached_fields_preserved": 46188,
+  "cached_field_additions": 657
+}

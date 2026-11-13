@@ -1,0 +1,28 @@
+{
+  "blogs": 3,
+  "pages": [
+    "blog.html",
+    "business-loan-proceeds-nobody-can-show-where-money-went.html",
+    "gift-cards-sold-money-collected-work-still-owed-in-january.html",
+    "sales-report-bank-deposits-never-agree.html"
+  ],
+  "languages": [
+    "es",
+    "fa",
+    "hy",
+    "zh-CN",
+    "ko",
+    "tl",
+    "te",
+    "ru",
+    "ar"
+  ],
+  "missing_fields": 657,
+  "source_characters_to_translate": 229239,
+  "estimated_gross_cost_usd": 4.58478,
+  "paid_calls": 0,
+  "local_only": true,
+  "approval": "Standing owner approval for every blog in all nine languages; local only",
+  "dispatch_character_ceiling": 229239,
+  "historical_shared_ledger": "Original private ledger absent in this checkout; this durable job ledger records incremental blog calls without claiming an account-wide balance."
+}

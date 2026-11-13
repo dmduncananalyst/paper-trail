@@ -10,6 +10,30 @@ m=importlib.util.module_from_spec(spec);spec.loader.exec_module(m)
 def require(condition, message):
     if not condition: raise AssertionError(message)
 
+def verify_image_assignments(source, output, name, lang):
+    images=lambda text:re.findall(r'<img\b[^>]*src="([^"]+)"',text)
+    if name!='blog.html':
+        expected=images(source)
+        require(images(output)[:len(expected)]==expected,'Original image assignment changed')
+        return
+    # Published archives can retain a different order for cards sharing a date.
+    # Verify the photograph against its article identity, never its grid position.
+    pattern=r'<article\b[^>]*class="[^"]*\bblog-story\b[^"]*"[^>]*>.*?</article>'
+    def assignments(markup):
+        result={}
+        for card in re.findall(pattern,markup,re.S):
+            links=re.findall(r'<a\b[^>]*href="([^"]+)"',card)
+            require(bool(links),'Archive card article link missing')
+            route=urlsplit(html_unescape(links[-1])).path
+            if route.startswith(lang+'/'):route=route[len(lang)+1:]
+            require(route not in result,'Duplicate archive article card')
+            result[route]=images(card)
+        return result,images(re.sub(pattern,'',markup,flags=re.S))
+    html_unescape=m.html.unescape
+    expected,shared=assignments(source);actual,shared_output=assignments(output)
+    require(expected==actual,'Archive article photograph assignment changed')
+    require(shared_output[:len(shared)]==shared,'Shared archive image assignment changed')
+
 def static_checks():
     pages,pointer,fields,missing,inventory=m.inventory()
     require(inventory['missing_fields']==0,'Untranslated source fields remain')
@@ -46,9 +70,7 @@ def static_checks():
                     if 'articleBody' in article: require(bool(article['articleBody'].strip()),'Empty articleBody')
             for source_schema,schema in zip(source_schemas,schemas):
                 require(schema.get('citation')==source_schema.get('citation'),'Sources changed')
-            source_images=re.findall(r'<img\b[^>]*src="([^"]+)"',source.markup)
-            output_images=re.findall(r'<img\b[^>]*src="([^"]+)"',markup)
-            require(output_images[:len(source_images)]==source_images,'Original image assignment changed')
+            verify_image_assignments(source.markup,markup,name,lang)
             results.append({'language':lang,'page':name,'status':'passed'})
     report={'pages':len(results),'blogs':len(pages)-1,'languages':len(m.LANGUAGES),'missing_fields':0,'checks':results}
     m.save_json(m.OUT/'static-checks.json',report)
