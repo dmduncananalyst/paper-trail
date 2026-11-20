@@ -397,8 +397,8 @@
       "provider_verified": true
     }
   },
-  "google_calls": 432,
-  "google_characters_sent": 1642455,
+  "google_calls": 450,
+  "google_characters_sent": 1714815,
   "guided_chat": {
     "file": "chat.json",
     "languages": [
@@ -433,7 +433,7 @@
   "reference_only": [
     "assets/locales/ui.js"
   ],
-  "revision": "55cd9644724b71ce2ab7b151010dcac2cd09acee919ca56386e5fcdf9e595a19",
+  "revision": "929bf3ff6c566963b2af3e41b7bedb328913db4b52a099aa0469c8085952863c",
   "source_pages": [
     "3-ways-to-save-money-on-your-small-business-taxes.html",
     "5-ways-to-cut-your-small-business-tax-bill-in-2025.html",
@@ -461,6 +461,7 @@
     "bookkeeping-santa-monica.html",
     "bookkeeping-west-hollywood.html",
     "bookkeeping-woodland-hills.html",
+    "business-expenses-paid-personal-credit-card.html",
     "business-loan-proceeds-nobody-can-show-where-money-went.html",
     "california-payroll-record-retention.html",
     "can-a-bank-feed-change-a-reconciled-month.html",
@@ -524,6 +525,7 @@
     "income-and-expense-tracking-questions.html",
     "income-expense-tracking.html",
     "index.html",
+    "inventory-does-not-match-bookkeeping-records.html",
     "is-buying-equipment-the-same-as-buying-office-supplies.html",
     "is-monthly-bookkeeping-necessary-for-a-small-business.html",
     "lender-asked-for-clean-financials-books-could-not-answer.html",
@@ -678,9 +680,9 @@
     "year-end-bookkeeping.html"
   ],
   "status": "Saved Google translations. No visitor API calls. Native speaker review pending.",
-  "successful_characters_saved": 2150685,
+  "successful_characters_saved": 2223045,
   "workflow": "whole-site",
-  "blog_sync_successful_characters": 1360503,
+  "blog_sync_successful_characters": 1432863,
   "usage_scope": "Restored incremental ledger only; historical account usage and charges remain unknown",
   "actual_charges_usd": null
 }

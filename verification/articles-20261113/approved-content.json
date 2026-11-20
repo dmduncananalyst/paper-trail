@@ -380,70 +380,58 @@
     "alt": "Bookkeeper reconciling monthly transactions with invoices and financial records at her workstation."
   },
   {
-    "title": "How to Prepare Your Books for Tax Season Without Guessing at Balances",
+    "title": "Monthly Bookkeeping Cleanup Before Tax Preparation",
     "article": [
       {
-        "heading": true,
-        "text": "Begin with the accounts that can be verified"
+        "tag": "h2",
+        "text": "Tax preparation is harder when the books are not ready"
       },
       {
-        "heading": false,
-        "text": "Before a tax preparer can rely on reports, the underlying bank, credit card, and loan balances should be reviewed. Download the full year's statements and reconcile each account through the reporting date. Identify accounts that were closed, payment platforms that hold balances, and transfers that may be counted twice. A report can look polished while its balances remain wrong; reconciliation is the basic test."
+        "tag": "p",
+        "text": "A tax preparer needs business records that explain income, expenses and other transactions. When the bank balance has not been reconciled for months, old payments remain uncategorized and invoices are missing, the first challenge is not completing a tax form. It is finding out what actually happened. A monthly cleanup process can reduce reconstruction work and give the preparer a clearer starting point."
       },
       {
-        "heading": true,
-        "text": "Clear transaction problems"
+        "tag": "h2",
+        "text": "Reconcile every account used for business activity"
       },
       {
-        "heading": false,
-        "text": "Review any uncategorized spending, unidentified deposits, duplicate invoices, unapplied customer payments, outstanding checks, and vendor credits. Separate loan proceeds from earned revenue, and debt principal payments from interest or other charges. Verify the purpose and documentation of large or unusual expenses."
+        "tag": "p",
+        "text": "Start with the final statement for every business checking account, savings account, credit card and payment processor that feeds the books. Compare beginning balances, transactions and ending balances. Look for duplicated transfers, missing deposits, deposits recorded as sales twice and outstanding items that should have cleared. A reconciliation is complete only when the recorded activity agrees with the external source, not when the accounting software merely displays a green check."
       },
       {
-        "heading": false,
-        "text": "Do not force adjustments just to make an account match. If an item cannot be substantiated, document the question and leave a clear exception for review."
+        "tag": "h2",
+        "text": "Review transactions that change the story of the year"
       },
       {
-        "heading": true,
-        "text": "Check reports and supporting schedules"
+        "tag": "p",
+        "text": "Separate owner transfers from customer revenue and ordinary business expenses. Review loan proceeds and principal payments so they are not confused with sales or routine expenses. Examine unpaid customer invoices, vendor bills, refunds, merchant fees and purchases paid personally. Confirm that supporting documentation exists for unusually large or unfamiliar transactions. The IRS emphasizes that business books and retained source documents support financial statements and tax return items."
       },
       {
-        "heading": false,
-        "text": "Once transactions are reconciled, review the profit and loss statement, balance sheet, and general ledger. Look for negative balances where they do not make sense, income recorded in the wrong period, duplicated expenses, missing liabilities, or unexplained owner activity. Create or update supporting schedules for fixed assets, loans, prepaid items, and other material balances as applicable."
+        "tag": "h2",
+        "text": "Prepare a useful package for the tax professional"
       },
       {
-        "heading": false,
-        "text": "Where payroll is involved, compare payroll reports, employer tax payments, and relevant liability accounts. If inventory is material, coordinate with the person responsible for inventory counts and the accounting method."
-      },
-      {
-        "heading": true,
-        "text": "Send a clean, documented package"
-      },
-      {
-        "heading": false,
-        "text": "Provide your tax professional with reconciled reports and access to the documents supporting unusual transactions. Clearly distinguish completed reconciliations from open questions. Keep a dated copy of the package and a record of any later corrections. The IRS emphasizes that records must support items reported on tax returns."
-      },
-      {
-        "heading": false,
-        "text": "Paper Trail can reconcile accounts, organize supporting records, and prepare routine financial statements for this process. Determining the correct tax treatment remains the responsibility of the business and its qualified tax adviser."
+        "tag": "p",
+        "text": "Create current income statements, a balance sheet if maintained, reconciled account records, and a list of unresolved items requiring the owner's input. The business tax professional may need additional schedules or records depending on entity type. Do not guess at uncertain tax classifications. Paper Trail provides bookkeeping repair and recurring bookkeeping services for businesses that want organized records before tax preparation. Request a Quote to discuss the months requiring cleanup and which systems already hold the transactions."
       }
     ],
     "references": [
       {
-        "label": "IRS Publication 583, Starting a Business and Keeping Records",
-        "url": "https://www.irs.gov/publications/p583"
+        "url": "https://www.irs.gov/businesses/small-businesses-self-employed/why-should-i-keep-records",
+        "label": "IRS, Why should I keep records"
       },
       {
-        "label": "IRS, Burden of Proof",
-        "url": "https://www.irs.gov/businesses/small-businesses-self-employed/burden-of-proof"
+        "url": "https://www.irs.gov/publications/p583",
+        "label": "IRS, Publication 583"
       }
     ],
     "slug": "how-to-prepare-your-books-for-tax-season.html",
     "canonical": "https://www.papertrailusa.com/how-to-prepare-your-books-for-tax-season.html",
-    "meta_title": "How to Prepare Your Books for Tax Season Without Guessing at Balances",
-    "description": "Learn how to reconcile accounts, review balances, organize supporting records, and prepare a clear bookkeeping package for tax season.",
+    "meta_title": "Monthly Bookkeeping Cleanup Before Tax Preparation | Paper Trail",
+    "description": "Review bank reconciliations, expense categories, unpaid invoices and missing records before delivering books to a tax preparer.",
     "date": "2026-11-13",
-    "image": "assets/photos/how-to-prepare-your-books-for-tax-season-20261113.jpg",
-    "alt": "Finance professional checking ledger balances against bank statements before the tax handoff."
+    "image": "assets/blog-20261119/monthly-bookkeeping-cleanup-before-tax-preparation.jpg",
+    "alt": "Hands sorting bookkeeping folders and receipts beside a laptop"
   },
   {
     "title": "What Business Owners Need to Know About Bookkeeping",
