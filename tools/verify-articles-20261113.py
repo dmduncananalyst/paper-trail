@@ -1,6 +1,7 @@
 """Release checks; never publish an incomplete multilingual release."""
 from pathlib import Path
 from html.parser import HTMLParser
+from datetime import date
 import hashlib, html, json, re, sys, xml.etree.ElementTree as ET
 ROOT=Path(__file__).resolve().parents[1]
 OUT=ROOT/'verification/articles-20261113'
@@ -20,14 +21,16 @@ for a in A:
     check(html.unescape(re.search(r'<title>(.*?)</title>',s,re.S)[1])==a['meta_title'],a['slug']+': meta title')
     check('content="'+html.escape(a['description'],quote=True)+'"' in s,a['slug']+': description')
     check('rel="canonical" href="'+a['canonical']+'"' in s,a['slug']+': canonical')
-    check('<time datetime="2026-11-13">11/13/2026</time>' in s,a['slug']+': date')
+    published = a['date']
+    display = date.fromisoformat(published).strftime('%m/%d/%Y')
+    check(f'<time datetime="{published}">{display}</time>' in s,a['slug']+': date')
     body=s.split('<div class="reading-spread">',1)[1].split('<section class="reference-list">',1)[0]
     actual=[text(m[1]) for m in re.finditer(r'<(?:p|h2)\b[^>]*>(.*?)</(?:p|h2)>',body,re.S)]
     check(actual==[b['text'] for b in a['article']],a['slug']+': PDF body mismatch')
     check('small business' not in ' '.join(actual+[a['title']]).lower(),a['slug']+': prohibited visible wording')
     schemas=[json.loads(m[1]) for m in re.finditer(r'<script type="application/ld\+json">(.*?)</script>',s,re.S)]
     schema=next(x for x in schemas if x.get('@type')=='BlogPosting')
-    check(schema['datePublished']=='2026-11-13',a['slug']+': schema date')
+    check(schema['datePublished']==a['date'],a['slug']+': schema date')
     check(schema['articleBody']=='\n\n'.join(b['text'] for b in a['article']),a['slug']+': schema body')
     for r in a['references']:check('href="'+html.escape(r['url'],quote=True)+'"' in s,a['slug']+': source '+r['url'])
     check((ROOT/a['image']).is_file(),a['slug']+': photograph missing')
@@ -58,7 +61,7 @@ if '--require-translations' in sys.argv:
             s=path.read_text(encoding='utf8')
             url='https://www.papertrailusa.com/'+route
             check('rel="canonical" href="'+url+'"' in s,route+': canonical')
-            check('datetime="2026-11-13"' in s,route+': date')
+            check(f'datetime="{a["date"]}"' in s,route+': date')
             check(url in maps['sitemap-translations.xml'],route+': sitemap')
             check('href="'+route+'"' in archive,route+': archive card')
             check(a['image'] in s,route+': photo')
@@ -67,7 +70,7 @@ if '--require-translations' in sys.argv:
             check(hero is not None and social is not None and html.unescape(hero[1])==html.unescape(social[1]),route+': localized social image alt')
             check(len(re.findall(r'rel="alternate" hreflang=',s))==11,route+': hreflang')
             schema=next(json.loads(m[1]) for m in re.finditer(r'<script type="application/ld\+json">(.*?)</script>',s,re.S) if json.loads(m[1]).get('@type')=='BlogPosting')
-            check(schema['datePublished']=='2026-11-13',route+': schema date')
+            check(schema['datePublished']==a['date'],route+': schema date')
             check(schema['inLanguage']==lang,route+': schema language')
             check(schema['citation']==[r['url'] for r in a['references']],route+': source references')
             body=s.split('<div class="reading-spread">',1)[1].split('<section class="reference-list">',1)[0]
