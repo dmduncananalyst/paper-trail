@@ -1,0 +1,542 @@
+{
+  "063e8d7db4444e95d671c2a4745bc0985987c572aa0b57feffe141d9937c18fe|ar": {
+    "locale": "ar",
+    "provider": "google",
+    "source": "Financial Analysis",
+    "text": "التحليل المالي"
+  },
+  "063e8d7db4444e95d671c2a4745bc0985987c572aa0b57feffe141d9937c18fe|es": {
+    "locale": "es",
+    "provider": "google",
+    "source": "Financial Analysis",
+    "text": "Análisis financiero"
+  },
+  "063e8d7db4444e95d671c2a4745bc0985987c572aa0b57feffe141d9937c18fe|fa": {
+    "locale": "fa",
+    "provider": "google",
+    "source": "Financial Analysis",
+    "text": "تحلیل مالی"
+  },
+  "063e8d7db4444e95d671c2a4745bc0985987c572aa0b57feffe141d9937c18fe|hy": {
+    "locale": "hy",
+    "provider": "google",
+    "source": "Financial Analysis",
+    "text": "Ֆինանսական վերլուծություն"
+  },
+  "063e8d7db4444e95d671c2a4745bc0985987c572aa0b57feffe141d9937c18fe|ko": {
+    "locale": "ko",
+    "provider": "google",
+    "source": "Financial Analysis",
+    "text": "재무 분석"
+  },
+  "063e8d7db4444e95d671c2a4745bc0985987c572aa0b57feffe141d9937c18fe|ru": {
+    "locale": "ru",
+    "provider": "google",
+    "source": "Financial Analysis",
+    "text": "Финансовый анализ"
+  },
+  "063e8d7db4444e95d671c2a4745bc0985987c572aa0b57feffe141d9937c18fe|te": {
+    "locale": "te",
+    "provider": "google",
+    "source": "Financial Analysis",
+    "text": "ఆర్థిక విశ్లేషణ"
+  },
+  "063e8d7db4444e95d671c2a4745bc0985987c572aa0b57feffe141d9937c18fe|tl": {
+    "locale": "tl",
+    "provider": "google",
+    "source": "Financial Analysis",
+    "text": "Pagsusuri sa Pananalapi"
+  },
+  "063e8d7db4444e95d671c2a4745bc0985987c572aa0b57feffe141d9937c18fe|zh-CN": {
+    "locale": "zh-CN",
+    "provider": "google",
+    "source": "Financial Analysis",
+    "text": "财务分析"
+  },
+  "22b3ce35951f1bd8a2b3cced15087fc18fa50af8496acb92d3be8e142e60a342|ar": {
+    "locale": "ar",
+    "provider": "google",
+    "source": "Monthly Bookkeeping",
+    "text": "مسك الدفاتر الشهرية"
+  },
+  "22b3ce35951f1bd8a2b3cced15087fc18fa50af8496acb92d3be8e142e60a342|es": {
+    "locale": "es",
+    "provider": "google",
+    "source": "Monthly Bookkeeping",
+    "text": "Contabilidad mensual"
+  },
+  "22b3ce35951f1bd8a2b3cced15087fc18fa50af8496acb92d3be8e142e60a342|fa": {
+    "locale": "fa",
+    "provider": "google",
+    "source": "Monthly Bookkeeping",
+    "text": "حسابداری ماهانه"
+  },
+  "22b3ce35951f1bd8a2b3cced15087fc18fa50af8496acb92d3be8e142e60a342|hy": {
+    "locale": "hy",
+    "provider": "google",
+    "source": "Monthly Bookkeeping",
+    "text": "Ամսական հաշվապահություն"
+  },
+  "22b3ce35951f1bd8a2b3cced15087fc18fa50af8496acb92d3be8e142e60a342|ko": {
+    "locale": "ko",
+    "provider": "google",
+    "source": "Monthly Bookkeeping",
+    "text": "월별 장부 정리"
+  },
+  "22b3ce35951f1bd8a2b3cced15087fc18fa50af8496acb92d3be8e142e60a342|ru": {
+    "locale": "ru",
+    "provider": "google",
+    "source": "Monthly Bookkeeping",
+    "text": "Ежемесячное ведение бухгалтерского учета"
+  },
+  "22b3ce35951f1bd8a2b3cced15087fc18fa50af8496acb92d3be8e142e60a342|te": {
+    "locale": "te",
+    "provider": "google",
+    "source": "Monthly Bookkeeping",
+    "text": "నెలవారీ బుక్‌కీపింగ్"
+  },
+  "22b3ce35951f1bd8a2b3cced15087fc18fa50af8496acb92d3be8e142e60a342|tl": {
+    "locale": "tl",
+    "provider": "google",
+    "source": "Monthly Bookkeeping",
+    "text": "Buwanang Pagbabayad ng Aklat"
+  },
+  "22b3ce35951f1bd8a2b3cced15087fc18fa50af8496acb92d3be8e142e60a342|zh-CN": {
+    "locale": "zh-CN",
+    "provider": "google",
+    "source": "Monthly Bookkeeping",
+    "text": "每月记账"
+  },
+  "53fe8dfb6d9e1b03219adddcc3ffb741557dd579dc653d026097c463def4a8fe|ar": {
+    "locale": "ar",
+    "provider": "google",
+    "source": "Payroll",
+    "text": "كشوف المرتبات"
+  },
+  "53fe8dfb6d9e1b03219adddcc3ffb741557dd579dc653d026097c463def4a8fe|es": {
+    "locale": "es",
+    "provider": "google",
+    "source": "Payroll",
+    "text": "Nómina de sueldos"
+  },
+  "53fe8dfb6d9e1b03219adddcc3ffb741557dd579dc653d026097c463def4a8fe|fa": {
+    "locale": "fa",
+    "provider": "google",
+    "source": "Payroll",
+    "text": "حقوق و دستمزد"
+  },
+  "53fe8dfb6d9e1b03219adddcc3ffb741557dd579dc653d026097c463def4a8fe|hy": {
+    "locale": "hy",
+    "provider": "google",
+    "source": "Payroll",
+    "text": "Աշխատավարձ"
+  },
+  "53fe8dfb6d9e1b03219adddcc3ffb741557dd579dc653d026097c463def4a8fe|ko": {
+    "locale": "ko",
+    "provider": "google",
+    "source": "Payroll",
+    "text": "급여"
+  },
+  "53fe8dfb6d9e1b03219adddcc3ffb741557dd579dc653d026097c463def4a8fe|ru": {
+    "locale": "ru",
+    "provider": "google",
+    "source": "Payroll",
+    "text": "Расчет заработной платы"
+  },
+  "53fe8dfb6d9e1b03219adddcc3ffb741557dd579dc653d026097c463def4a8fe|te": {
+    "locale": "te",
+    "provider": "google",
+    "source": "Payroll",
+    "text": "పేరోల్"
+  },
+  "53fe8dfb6d9e1b03219adddcc3ffb741557dd579dc653d026097c463def4a8fe|tl": {
+    "locale": "tl",
+    "provider": "google",
+    "source": "Payroll",
+    "text": "Sweldo"
+  },
+  "53fe8dfb6d9e1b03219adddcc3ffb741557dd579dc653d026097c463def4a8fe|zh-CN": {
+    "locale": "zh-CN",
+    "provider": "google",
+    "source": "Payroll",
+    "text": "工资单"
+  },
+  "6eb4c23aaf2602ad3f31dd312c8afd1814b13e3c28c6fbebdc3d89a04f2cde80|ar": {
+    "locale": "ar",
+    "provider": "google",
+    "source": "Keep QuickBooks transactions organized, reconcile accounts and review financial reports for your business.",
+    "text": "حافظ على تنظيم معاملات QuickBooks ، وقم بمطابقة الحسابات ومراجعة التقارير المالية الخاصة بعملك."
+  },
+  "6eb4c23aaf2602ad3f31dd312c8afd1814b13e3c28c6fbebdc3d89a04f2cde80|es": {
+    "locale": "es",
+    "provider": "google",
+    "source": "Keep QuickBooks transactions organized, reconcile accounts and review financial reports for your business.",
+    "text": "Mantén organizadas las transacciones QuickBooks , concilia las cuentas y revisa los informes financieros de tu negocio."
+  },
+  "6eb4c23aaf2602ad3f31dd312c8afd1814b13e3c28c6fbebdc3d89a04f2cde80|fa": {
+    "locale": "fa",
+    "provider": "google",
+    "source": "Keep QuickBooks transactions organized, reconcile accounts and review financial reports for your business.",
+    "text": "تراکنش‌های QuickBooks را سازماندهی کنید، حساب‌ها را تطبیق دهید و گزارش‌های مالی کسب و کار خود را بررسی کنید."
+  },
+  "6eb4c23aaf2602ad3f31dd312c8afd1814b13e3c28c6fbebdc3d89a04f2cde80|hy": {
+    "locale": "hy",
+    "provider": "google",
+    "source": "Keep QuickBooks transactions organized, reconcile accounts and review financial reports for your business.",
+    "text": "Պահպանեք QuickBooks գործարքները կազմակերպված, համաձայնեցրեք հաշիվները և վերանայեք ձեր բիզնեսի ֆինանսական հաշվետվությունները։"
+  },
+  "6eb4c23aaf2602ad3f31dd312c8afd1814b13e3c28c6fbebdc3d89a04f2cde80|ko": {
+    "locale": "ko",
+    "provider": "google",
+    "source": "Keep QuickBooks transactions organized, reconcile accounts and review financial reports for your business.",
+    "text": "QuickBooks 거래를 체계적으로 관리하고, 계정을 대조하고, 사업체의 재무 보고서를 검토하세요."
+  },
+  "6eb4c23aaf2602ad3f31dd312c8afd1814b13e3c28c6fbebdc3d89a04f2cde80|ru": {
+    "locale": "ru",
+    "provider": "google",
+    "source": "Keep QuickBooks transactions organized, reconcile accounts and review financial reports for your business.",
+    "text": "Организуйте транзакции QuickBooks , сверяйте счета и анализируйте финансовые отчеты для своего бизнеса."
+  },
+  "6eb4c23aaf2602ad3f31dd312c8afd1814b13e3c28c6fbebdc3d89a04f2cde80|te": {
+    "locale": "te",
+    "provider": "google",
+    "source": "Keep QuickBooks transactions organized, reconcile accounts and review financial reports for your business.",
+    "text": "మీ వ్యాపారం కోసం QuickBooks లావాదేవీలను క్రమబద్ధంగా ఉంచండి, ఖాతాలను సరిపోల్చండి మరియు ఆర్థిక నివేదికలను సమీక్షించండి."
+  },
+  "6eb4c23aaf2602ad3f31dd312c8afd1814b13e3c28c6fbebdc3d89a04f2cde80|tl": {
+    "locale": "tl",
+    "provider": "google",
+    "source": "Keep QuickBooks transactions organized, reconcile accounts and review financial reports for your business.",
+    "text": "Panatilihing organisado ang mga transaksyon QuickBooks , i-reconcile ang mga account, at suriin ang mga ulat sa pananalapi para sa iyong negosyo."
+  },
+  "6eb4c23aaf2602ad3f31dd312c8afd1814b13e3c28c6fbebdc3d89a04f2cde80|zh-CN": {
+    "locale": "zh-CN",
+    "provider": "google",
+    "source": "Keep QuickBooks transactions organized, reconcile accounts and review financial reports for your business.",
+    "text": "整理QuickBooks交易记录，核对账目，并审核企业的财务报告。"
+  },
+  "8bdc98cf2cd4576957370543a1d83eb96a558eebd895b250ce182a4d4cca8f05|ar": {
+    "locale": "ar",
+    "provider": "google",
+    "source": "Payroll specialist comparing employee timesheets with a payroll register",
+    "text": "أخصائي الرواتب يقارن جداول دوام الموظفين بسجل الرواتب"
+  },
+  "8bdc98cf2cd4576957370543a1d83eb96a558eebd895b250ce182a4d4cca8f05|es": {
+    "locale": "es",
+    "provider": "google",
+    "source": "Payroll specialist comparing employee timesheets with a payroll register",
+    "text": "Especialista en nóminas comparando las hojas de horas de los empleados con un registro de nóminas."
+  },
+  "8bdc98cf2cd4576957370543a1d83eb96a558eebd895b250ce182a4d4cca8f05|fa": {
+    "locale": "fa",
+    "provider": "google",
+    "source": "Payroll specialist comparing employee timesheets with a payroll register",
+    "text": "متخصص حقوق و دستمزد، مقایسه‌ی برگه‌های زمانی کارکنان با ثبت حقوق و دستمزد"
+  },
+  "8bdc98cf2cd4576957370543a1d83eb96a558eebd895b250ce182a4d4cca8f05|hy": {
+    "locale": "hy",
+    "provider": "google",
+    "source": "Payroll specialist comparing employee timesheets with a payroll register",
+    "text": "Աշխատավարձի մասնագետը համեմատում է աշխատակիցների աշխատանքային ժամանակացույցը աշխատավարձի գրանցամատյանի հետ"
+  },
+  "8bdc98cf2cd4576957370543a1d83eb96a558eebd895b250ce182a4d4cca8f05|ko": {
+    "locale": "ko",
+    "provider": "google",
+    "source": "Payroll specialist comparing employee timesheets with a payroll register",
+    "text": "급여 담당자가 직원 근무 시간표와 급여 대장을 비교하고 있습니다."
+  },
+  "8bdc98cf2cd4576957370543a1d83eb96a558eebd895b250ce182a4d4cca8f05|ru": {
+    "locale": "ru",
+    "provider": "google",
+    "source": "Payroll specialist comparing employee timesheets with a payroll register",
+    "text": "Специалист по расчету заработной платы сравнивает табели учета рабочего времени сотрудников с платежной ведомостью."
+  },
+  "8bdc98cf2cd4576957370543a1d83eb96a558eebd895b250ce182a4d4cca8f05|te": {
+    "locale": "te",
+    "provider": "google",
+    "source": "Payroll specialist comparing employee timesheets with a payroll register",
+    "text": "పేరోల్ స్పెషలిస్ట్ ఉద్యోగి టైమ్‌షీట్‌లను పేరోల్ రిజిస్టర్‌తో పోల్చి చూస్తున్నారు"
+  },
+  "8bdc98cf2cd4576957370543a1d83eb96a558eebd895b250ce182a4d4cca8f05|tl": {
+    "locale": "tl",
+    "provider": "google",
+    "source": "Payroll specialist comparing employee timesheets with a payroll register",
+    "text": "Espesyalista sa payroll na naghahambing ng mga timesheet ng empleyado sa isang payroll register"
+  },
+  "8bdc98cf2cd4576957370543a1d83eb96a558eebd895b250ce182a4d4cca8f05|zh-CN": {
+    "locale": "zh-CN",
+    "provider": "google",
+    "source": "Payroll specialist comparing employee timesheets with a payroll register",
+    "text": "薪资专员将员工工时表与薪资登记册进行比对"
+  },
+  "976b544012fda164204d5753ee598f97f58819f2ef3f1a53a72b1450ef72c787|ar": {
+    "locale": "ar",
+    "provider": "google",
+    "source": "Bookkeeper reviewing account balances and bank transactions in QuickBooks",
+    "text": "محاسب يراجع أرصدة الحسابات والمعاملات المصرفية في QuickBooks"
+  },
+  "976b544012fda164204d5753ee598f97f58819f2ef3f1a53a72b1450ef72c787|es": {
+    "locale": "es",
+    "provider": "google",
+    "source": "Bookkeeper reviewing account balances and bank transactions in QuickBooks",
+    "text": "Contable revisando saldos de cuentas y transacciones bancarias en QuickBooks"
+  },
+  "976b544012fda164204d5753ee598f97f58819f2ef3f1a53a72b1450ef72c787|fa": {
+    "locale": "fa",
+    "provider": "google",
+    "source": "Bookkeeper reviewing account balances and bank transactions in QuickBooks",
+    "text": "حسابدار در حال بررسی مانده حساب‌ها و تراکنش‌های بانکی در QuickBooks"
+  },
+  "976b544012fda164204d5753ee598f97f58819f2ef3f1a53a72b1450ef72c787|hy": {
+    "locale": "hy",
+    "provider": "google",
+    "source": "Bookkeeper reviewing account balances and bank transactions in QuickBooks",
+    "text": "Հաշվապահը վերանայում է հաշիվների մնացորդները և բանկային գործարքները QuickBooks ում"
+  },
+  "976b544012fda164204d5753ee598f97f58819f2ef3f1a53a72b1450ef72c787|ko": {
+    "locale": "ko",
+    "provider": "google",
+    "source": "Bookkeeper reviewing account balances and bank transactions in QuickBooks",
+    "text": "회계 담당자가 QuickBooks 에서 계좌 잔액과 은행 거래 내역을 검토하고 있습니다."
+  },
+  "976b544012fda164204d5753ee598f97f58819f2ef3f1a53a72b1450ef72c787|ru": {
+    "locale": "ru",
+    "provider": "google",
+    "source": "Bookkeeper reviewing account balances and bank transactions in QuickBooks",
+    "text": "Бухгалтер проверяет остатки на счетах и ​​банковские операции в QuickBooks"
+  },
+  "976b544012fda164204d5753ee598f97f58819f2ef3f1a53a72b1450ef72c787|te": {
+    "locale": "te",
+    "provider": "google",
+    "source": "Bookkeeper reviewing account balances and bank transactions in QuickBooks",
+    "text": "QuickBooks ఖాతా నిల్వలు మరియు బ్యాంకు లావాదేవీలను సమీక్షిస్తున్న బుక్‌కీపర్"
+  },
+  "976b544012fda164204d5753ee598f97f58819f2ef3f1a53a72b1450ef72c787|tl": {
+    "locale": "tl",
+    "provider": "google",
+    "source": "Bookkeeper reviewing account balances and bank transactions in QuickBooks",
+    "text": "Sinusuri ng bookkeeper ang mga balanse ng account at mga transaksyon sa bangko sa QuickBooks"
+  },
+  "976b544012fda164204d5753ee598f97f58819f2ef3f1a53a72b1450ef72c787|zh-CN": {
+    "locale": "zh-CN",
+    "provider": "google",
+    "source": "Bookkeeper reviewing account balances and bank transactions in QuickBooks",
+    "text": "簿记员正在QuickBooks中审核账户余额和银行交易记录"
+  },
+  "a1e85680798332257c1fc630a282dc17f664a767995ea6472c8999576b36efdc|ar": {
+    "locale": "ar",
+    "provider": "google",
+    "source": "Understand revenue, expenses and profit trends with a review of your business’s financial reports.",
+    "text": "افهم اتجاهات الإيرادات والمصروفات والأرباح من خلال مراجعة التقارير المالية لشركتك."
+  },
+  "a1e85680798332257c1fc630a282dc17f664a767995ea6472c8999576b36efdc|es": {
+    "locale": "es",
+    "provider": "google",
+    "source": "Understand revenue, expenses and profit trends with a review of your business’s financial reports.",
+    "text": "Comprenda las tendencias de ingresos, gastos y ganancias mediante el análisis de los informes financieros de su empresa."
+  },
+  "a1e85680798332257c1fc630a282dc17f664a767995ea6472c8999576b36efdc|fa": {
+    "locale": "fa",
+    "provider": "google",
+    "source": "Understand revenue, expenses and profit trends with a review of your business’s financial reports.",
+    "text": "با بررسی گزارش‌های مالی کسب و کار خود، روند درآمد، هزینه‌ها و سود را درک کنید."
+  },
+  "a1e85680798332257c1fc630a282dc17f664a767995ea6472c8999576b36efdc|hy": {
+    "locale": "hy",
+    "provider": "google",
+    "source": "Understand revenue, expenses and profit trends with a review of your business’s financial reports.",
+    "text": "Հասկացեք եկամուտների, ծախսերի և շահույթի միտումները՝ վերանայելով ձեր բիզնեսի ֆինանսական հաշվետվությունները։"
+  },
+  "a1e85680798332257c1fc630a282dc17f664a767995ea6472c8999576b36efdc|ko": {
+    "locale": "ko",
+    "provider": "google",
+    "source": "Understand revenue, expenses and profit trends with a review of your business’s financial reports.",
+    "text": "사업체의 재무 보고서를 검토하여 수익, 비용 및 이익 추세를 파악하십시오."
+  },
+  "a1e85680798332257c1fc630a282dc17f664a767995ea6472c8999576b36efdc|ru": {
+    "locale": "ru",
+    "provider": "google",
+    "source": "Understand revenue, expenses and profit trends with a review of your business’s financial reports.",
+    "text": "Анализ финансовых отчетов вашей компании позволит вам понять тенденции роста доходов, расходов и прибыли."
+  },
+  "a1e85680798332257c1fc630a282dc17f664a767995ea6472c8999576b36efdc|te": {
+    "locale": "te",
+    "provider": "google",
+    "source": "Understand revenue, expenses and profit trends with a review of your business’s financial reports.",
+    "text": "మీ వ్యాపార ఆర్థిక నివేదికలను సమీక్షించడం ద్వారా ఆదాయం, ఖర్చులు మరియు లాభాల ధోరణులను అర్థం చేసుకోండి."
+  },
+  "a1e85680798332257c1fc630a282dc17f664a767995ea6472c8999576b36efdc|tl": {
+    "locale": "tl",
+    "provider": "google",
+    "source": "Understand revenue, expenses and profit trends with a review of your business’s financial reports.",
+    "text": "Unawain ang mga trend ng kita, gastos, at tubo sa pamamagitan ng pagsusuri ng mga ulat sa pananalapi ng iyong negosyo."
+  },
+  "a1e85680798332257c1fc630a282dc17f664a767995ea6472c8999576b36efdc|zh-CN": {
+    "locale": "zh-CN",
+    "provider": "google",
+    "source": "Understand revenue, expenses and profit trends with a review of your business’s financial reports.",
+    "text": "通过审阅公司财务报告，了解收入、支出和利润趋势。"
+  },
+  "a235ad78671c1998fa149045db0ea1c6c24bcb666beaad81216fa6ba24743fce|ar": {
+    "locale": "ar",
+    "provider": "google",
+    "source": "Financial analyst presenting monthly revenue, expenses and profit trends",
+    "text": "محلل مالي يعرض اتجاهات الإيرادات والمصروفات والأرباح الشهرية"
+  },
+  "a235ad78671c1998fa149045db0ea1c6c24bcb666beaad81216fa6ba24743fce|es": {
+    "locale": "es",
+    "provider": "google",
+    "source": "Financial analyst presenting monthly revenue, expenses and profit trends",
+    "text": "Analista financiero que presenta las tendencias mensuales de ingresos, gastos y ganancias."
+  },
+  "a235ad78671c1998fa149045db0ea1c6c24bcb666beaad81216fa6ba24743fce|fa": {
+    "locale": "fa",
+    "provider": "google",
+    "source": "Financial analyst presenting monthly revenue, expenses and profit trends",
+    "text": "تحلیلگر مالی که روند درآمد، هزینه‌ها و سود ماهانه را ارائه می‌دهد"
+  },
+  "a235ad78671c1998fa149045db0ea1c6c24bcb666beaad81216fa6ba24743fce|hy": {
+    "locale": "hy",
+    "provider": "google",
+    "source": "Financial analyst presenting monthly revenue, expenses and profit trends",
+    "text": "Ֆինանսական վերլուծաբան, որը ներկայացնում է ամսական եկամուտների, ծախսերի և շահույթի միտումները"
+  },
+  "a235ad78671c1998fa149045db0ea1c6c24bcb666beaad81216fa6ba24743fce|ko": {
+    "locale": "ko",
+    "provider": "google",
+    "source": "Financial analyst presenting monthly revenue, expenses and profit trends",
+    "text": "재무 분석가가 월별 매출, 비용 및 이익 추세를 발표합니다."
+  },
+  "a235ad78671c1998fa149045db0ea1c6c24bcb666beaad81216fa6ba24743fce|ru": {
+    "locale": "ru",
+    "provider": "google",
+    "source": "Financial analyst presenting monthly revenue, expenses and profit trends",
+    "text": "Финансовый аналитик представляет ежемесячные данные о доходах, расходах и прибыли."
+  },
+  "a235ad78671c1998fa149045db0ea1c6c24bcb666beaad81216fa6ba24743fce|te": {
+    "locale": "te",
+    "provider": "google",
+    "source": "Financial analyst presenting monthly revenue, expenses and profit trends",
+    "text": "ఆర్థిక విశ్లేషకుడు నెలవారీ ఆదాయం, ఖర్చులు మరియు లాభాల ధోరణులను సమర్పిస్తున్నారు"
+  },
+  "a235ad78671c1998fa149045db0ea1c6c24bcb666beaad81216fa6ba24743fce|tl": {
+    "locale": "tl",
+    "provider": "google",
+    "source": "Financial analyst presenting monthly revenue, expenses and profit trends",
+    "text": "Analistang pinansyal na nagpapakita ng buwanang kita, gastos, at mga trend ng kita"
+  },
+  "a235ad78671c1998fa149045db0ea1c6c24bcb666beaad81216fa6ba24743fce|zh-CN": {
+    "locale": "zh-CN",
+    "provider": "google",
+    "source": "Financial analyst presenting monthly revenue, expenses and profit trends",
+    "text": "财务分析师展示月度收入、支出和利润趋势"
+  },
+  "b3afb14f99ef30e1f9f1559d0ff0a1c38355425af18ce77cd007069f2a57335f|ar": {
+    "locale": "ar",
+    "provider": "google",
+    "source": "QuickBooks Bookkeeping",
+    "text": "برنامج QuickBooks للمحاسبة"
+  },
+  "b3afb14f99ef30e1f9f1559d0ff0a1c38355425af18ce77cd007069f2a57335f|es": {
+    "locale": "es",
+    "provider": "google",
+    "source": "QuickBooks Bookkeeping",
+    "text": "Contabilidad QuickBooks"
+  },
+  "b3afb14f99ef30e1f9f1559d0ff0a1c38355425af18ce77cd007069f2a57335f|fa": {
+    "locale": "fa",
+    "provider": "google",
+    "source": "QuickBooks Bookkeeping",
+    "text": "حسابداری QuickBooks"
+  },
+  "b3afb14f99ef30e1f9f1559d0ff0a1c38355425af18ce77cd007069f2a57335f|hy": {
+    "locale": "hy",
+    "provider": "google",
+    "source": "QuickBooks Bookkeeping",
+    "text": "QuickBooks հաշվապահություն"
+  },
+  "b3afb14f99ef30e1f9f1559d0ff0a1c38355425af18ce77cd007069f2a57335f|ko": {
+    "locale": "ko",
+    "provider": "google",
+    "source": "QuickBooks Bookkeeping",
+    "text": "QuickBooks 회계"
+  },
+  "b3afb14f99ef30e1f9f1559d0ff0a1c38355425af18ce77cd007069f2a57335f|ru": {
+    "locale": "ru",
+    "provider": "google",
+    "source": "QuickBooks Bookkeeping",
+    "text": "Ведение бухгалтерского учета QuickBooks"
+  },
+  "b3afb14f99ef30e1f9f1559d0ff0a1c38355425af18ce77cd007069f2a57335f|te": {
+    "locale": "te",
+    "provider": "google",
+    "source": "QuickBooks Bookkeeping",
+    "text": "QuickBooks బుక్‌కీపింగ్"
+  },
+  "b3afb14f99ef30e1f9f1559d0ff0a1c38355425af18ce77cd007069f2a57335f|tl": {
+    "locale": "tl",
+    "provider": "google",
+    "source": "QuickBooks Bookkeeping",
+    "text": "QuickBooks Bookkeeping"
+  },
+  "b3afb14f99ef30e1f9f1559d0ff0a1c38355425af18ce77cd007069f2a57335f|zh-CN": {
+    "locale": "zh-CN",
+    "provider": "google",
+    "source": "QuickBooks Bookkeeping",
+    "text": "QuickBooks记账"
+  },
+  "fd3cde7dc7642e397b635038bec688a77cb411b83ed6aad1ac5eb462ab3a0265|ar": {
+    "locale": "ar",
+    "provider": "google",
+    "source": "Keep payroll records organized with support for employee hours, pay details and payroll reporting.",
+    "text": "حافظ على تنظيم سجلات الرواتب مع توفير الدعم لساعات عمل الموظفين وتفاصيل الدفع وتقارير الرواتب."
+  },
+  "fd3cde7dc7642e397b635038bec688a77cb411b83ed6aad1ac5eb462ab3a0265|es": {
+    "locale": "es",
+    "provider": "google",
+    "source": "Keep payroll records organized with support for employee hours, pay details and payroll reporting.",
+    "text": "Mantenga organizados los registros de nómina con soporte para las horas de los empleados, los detalles de pago y los informes de nómina."
+  },
+  "fd3cde7dc7642e397b635038bec688a77cb411b83ed6aad1ac5eb462ab3a0265|fa": {
+    "locale": "fa",
+    "provider": "google",
+    "source": "Keep payroll records organized with support for employee hours, pay details and payroll reporting.",
+    "text": "سوابق حقوق و دستمزد را با پشتیبانی از ساعات کاری کارمندان، جزئیات پرداخت و گزارش حقوق و دستمزد، سازماندهی کنید."
+  },
+  "fd3cde7dc7642e397b635038bec688a77cb411b83ed6aad1ac5eb462ab3a0265|hy": {
+    "locale": "hy",
+    "provider": "google",
+    "source": "Keep payroll records organized with support for employee hours, pay details and payroll reporting.",
+    "text": "Պահեք աշխատավարձի գրառումները կազմակերպված՝ աշխատակիցների աշխատանքային ժամերի, վճարման մանրամասների և աշխատավարձի հաշվետվությունների աջակցությամբ։"
+  },
+  "fd3cde7dc7642e397b635038bec688a77cb411b83ed6aad1ac5eb462ab3a0265|ko": {
+    "locale": "ko",
+    "provider": "google",
+    "source": "Keep payroll records organized with support for employee hours, pay details and payroll reporting.",
+    "text": "직원 근무 시간, 급여 내역 및 급여 보고서를 지원하여 급여 기록을 체계적으로 관리하세요."
+  },
+  "fd3cde7dc7642e397b635038bec688a77cb411b83ed6aad1ac5eb462ab3a0265|ru": {
+    "locale": "ru",
+    "provider": "google",
+    "source": "Keep payroll records organized with support for employee hours, pay details and payroll reporting.",
+    "text": "Обеспечьте упорядоченное ведение учета заработной платы с поддержкой учета рабочего времени сотрудников, сведений о выплатах и ​​составления отчетов по заработной плате."
+  },
+  "fd3cde7dc7642e397b635038bec688a77cb411b83ed6aad1ac5eb462ab3a0265|te": {
+    "locale": "te",
+    "provider": "google",
+    "source": "Keep payroll records organized with support for employee hours, pay details and payroll reporting.",
+    "text": "ఉద్యోగి పని గంటలు, జీతం వివరాలు మరియు పేరోల్ రిపోర్టింగ్ మద్దతుతో పేరోల్ రికార్డులను క్రమబద్ధంగా ఉంచండి."
+  },
+  "fd3cde7dc7642e397b635038bec688a77cb411b83ed6aad1ac5eb462ab3a0265|tl": {
+    "locale": "tl",
+    "provider": "google",
+    "source": "Keep payroll records organized with support for employee hours, pay details and payroll reporting.",
+    "text": "Panatilihing organisado ang mga talaan ng payroll na may suporta para sa mga oras ng empleyado, mga detalye ng suweldo, at pag-uulat ng payroll."
+  },
+  "fd3cde7dc7642e397b635038bec688a77cb411b83ed6aad1ac5eb462ab3a0265|zh-CN": {
+    "locale": "zh-CN",
+    "provider": "google",
+    "source": "Keep payroll records organized with support for employee hours, pay details and payroll reporting.",
+    "text": "保持工资记录井然有序，支持员工工时、工资明细和工资报表。"
+  }
+}

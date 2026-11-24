@@ -87,7 +87,7 @@ try{
     $layout=Eval '({overflow:document.documentElement.scrollWidth>innerWidth+2,brokenImages:[...document.images].filter(i=>!i.naturalWidth).length,h1:document.querySelectorAll("main h1").length})'
     Assert (!$layout.overflow -and !$layout.brokenImages -and $layout.h1 -eq 1) ('Layout failure: '+$language+$name+' '+$width+' '+($layout|ConvertTo-Json -Compress))
     if($name -eq 'all-services.html'){
-     Assert (Eval 'document.querySelectorAll(".service-overview-card").length===6&&document.querySelectorAll(".service-overview-card>.action").length===6&&!document.querySelector("main .package-plan")') 'Service cards failed'
+     Assert (Eval 'document.querySelectorAll(".service-overview-card").length===7&&document.querySelectorAll(".service-overview-card>.action").length===7&&!document.querySelector("main .package-plan")') 'Service cards failed'
     }
     if($name -eq 'packages.html'){
      Assert (Eval 'document.querySelectorAll(".category-overview-card").length===7&&document.querySelector(".category-overview-card:last-child").id==="bundle-save"&&!document.querySelector("main img,main .package-checklist")') 'Package overview cards failed'
@@ -106,9 +106,10 @@ try{
  }
  Cdp 'Emulation.setDeviceMetricsOverride' @{width=1440;height=1000;deviceScaleFactor=1;mobile=$false}|Out-Null
  Cdp 'Emulation.setTouchEmulationEnabled' @{enabled=$false}|Out-Null
- $serviceRoutes=@('weekly-bookkeeping.html','paper-trail-monthly-bookkeeping.html','paper-trail-services.html','accounts-billing.html','financial-analysis.html','payroll.html')
+ $serviceRoutes=@('weekly-bookkeeping.html','paper-trail-monthly-bookkeeping.html','paper-trail-services.html','accounts-billing.html','financial-analysis.html','payroll.html','quickbooks-bookkeeping-services.html')
  foreach($language in $languages){
   Write-Output ('Checking selectors, keyboard and actual card navigation: '+$(if($language){$language}else{'en'}))
+  Eval 'localStorage.removeItem("paper-trail-language")'|Out-Null
   Load ($language+'all-services.html')
   Eval 'document.querySelector(".pt-nav>.nav-family>a").focus()'|Out-Null
   Cdp 'Input.dispatchKeyEvent' @{type='keyDown';key='ArrowDown';code='ArrowDown';windowsVirtualKeyCode=40}|Out-Null
@@ -125,6 +126,10 @@ try{
    Eval ('document.querySelectorAll(".category-overview-card>.action")['+$i+'].click()')|Out-Null
    Wait ('location.pathname==="/'+$language+$kinds[$i]+'-packages.html"&&document.readyState==="complete"')
   }
+  Load ($language+'all-services.html')
+  Eval 'document.querySelector(".service-overview-card:last-child>.action").click()'|Out-Null
+  Wait ('location.pathname==="/'+$language+$serviceRoutes[6]+'"&&document.readyState==="complete"')
+  Assert (Eval 'document.querySelectorAll(".pt-nav>.nav-family").length===2') 'QuickBooks service page navigation failed'
   Load ($language+'packages.html')
   Eval 'document.querySelector(".category-overview-card:last-child>.action").click()'|Out-Null
   Wait ('location.pathname==="/'+$language+'all-bundles.html"&&document.readyState==="complete"')
@@ -142,8 +147,8 @@ try{
  }
  Assert ($script:exceptions.Count -eq 0) ('JavaScript exceptions: '+($script:exceptions -join ', '))
  Assert (@($script:requests|Where-Object {$_.method -notin @('GET','HEAD','OPTIONS')}).Count -eq 0) 'Unexpected write request'
- @{page_viewport_checks=$results.Count;card_main_label_and_language_switch_checks=160;keyboard_dropdown_checks=10;languages=10;widths=@(1440,1024,834,390);javascript_errors=$script:exceptions;external_requests_blocked=$true;forms_submitted=0;checks=$results}|ConvertTo-Json -Depth 10|Set-Content -LiteralPath (Join-Path $out 'results.json') -Encoding UTF8
- Write-Output ('PASS: '+$results.Count+' page/viewport checks, 160 actual navigations, 10 keyboard dropdown checks. Results: '+$out)
+ @{page_viewport_checks=$results.Count;card_main_label_and_language_switch_checks=170;keyboard_dropdown_checks=10;languages=10;widths=@(1440,1024,834,390);javascript_errors=$script:exceptions;external_requests_blocked=$true;forms_submitted=0;checks=$results}|ConvertTo-Json -Depth 10|Set-Content -LiteralPath (Join-Path $out 'results.json') -Encoding UTF8
+ Write-Output ('PASS: '+$results.Count+' page/viewport checks, 170 actual navigations, 10 keyboard dropdown checks. Results: '+$out)
 }finally{
  if($socket){$socket.Dispose()}
  if($browser -and !$browser.HasExited){Stop-Process -Id $browser.Id -ErrorAction SilentlyContinue}

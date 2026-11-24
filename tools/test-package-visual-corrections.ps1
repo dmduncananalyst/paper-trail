@@ -57,7 +57,8 @@ try{
     $selector='.pt-nav>.nav-family:nth-of-type('+$(if($family -eq 'services'){1}else{2})+')>a'
     if($width -ge 981){Mouse $selector}else{Tap $selector}
     $position=Eval ('(()=>{const a=document.querySelector('+($selector|ConvertTo-Json -Compress)+'),p=document.querySelector("#navigation-'+$family+'"),r=a.getBoundingClientRect(),s=p.getBoundingClientRect();return {open:!p.hidden,topError:Math.abs(s.top-r.bottom),centerError:Math.abs(s.left-Math.max(12,Math.min(innerWidth-s.width-12,r.left+r.width/2-s.width/2))),within:s.left>=11&&s.right<=innerWidth-11,nested:!!p.querySelector(".nav-panel"),links:p.querySelectorAll("a").length}})()')
-    Assert ($position.open -and $position.topError -le 1 -and $position.centerError -le 1 -and $position.within -and !$position.nested -and $position.links -eq 7) ('Dropdown alignment failed: '+$family+' '+($position|ConvertTo-Json -Compress))
+    $expectedLinks=if($family -eq 'services'){8}else{7}
+    Assert ($position.open -and $position.topError -le 1 -and $position.centerError -le 1 -and $position.within -and !$position.nested -and $position.links -eq $expectedLinks) ('Dropdown alignment failed: '+$family+' '+($position|ConvertTo-Json -Compress))
     if($width -ge 981){Mouse ('#navigation-'+$family+'>a:nth-child(2)');Assert (Eval ('!document.querySelector("#navigation-'+$family+'").hidden')) 'Hover bridge failed'}
     Cdp 'Input.dispatchKeyEvent' @{type='keyDown';key='Escape';code='Escape';windowsVirtualKeyCode=27}|Out-Null
     Assert (Eval ('document.querySelector("#navigation-'+$family+'").hidden')) 'Escape did not close dropdown'
@@ -69,7 +70,7 @@ try{
     if($width -ge 981){Assert ($layout.rows -eq 1 -and $layout.font -ge 16) ('Desktop navigation size or row failed: '+$language+$name+' '+($layout|ConvertTo-Json -Compress))}
     if($name -eq 'all-services.html'){
      $cards=Eval '(()=>{const c=[...document.querySelectorAll(".service-overview-card")];return {count:c.length,bordered:c.every(e=>["Top","Right","Bottom","Left"].every(side=>parseFloat(getComputedStyle(e)["border"+side+"Width"])>=1)),buttons:c.every(e=>{const a=e.querySelector(".action"),r=e.getBoundingClientRect(),b=a.getBoundingClientRect();return b.height>0&&Math.abs(r.bottom-b.bottom-parseFloat(getComputedStyle(e).paddingBottom)-1)<2}),stretched:c.every(e=>getComputedStyle(e.querySelector(".action"),"::after").position==="absolute")}})()'
-     Assert ($cards.count -eq 6 -and $cards.bordered -and $cards.buttons -and $cards.stretched) ('Service cards failed: '+($cards|ConvertTo-Json -Compress))
+     Assert ($cards.count -eq 7 -and $cards.bordered -and $cards.buttons -and $cards.stretched) ('Service cards failed: '+($cards|ConvertTo-Json -Compress))
     }
     if($name -like '*-packages.html'){
      $design=Eval '(()=>{const group=document.querySelector("main>.pricing-category>.package-plans,main>.pricing-category>.repair-package-grid"),cards=[...group.children],last=cards.at(-1),a=last.getBoundingClientRect(),r=group.getBoundingClientRect();return {display:getComputedStyle(group).display,justify:getComputedStyle(group).justifyContent,count:cards.length,centerError:Math.abs((a.left+a.right-r.left-r.right)/2),borders:cards.every(e=>parseFloat(getComputedStyle(e).borderTopWidth)===1),inline:[...document.querySelectorAll("main .plan-price>span")].every(e=>getComputedStyle(e).display==="inline")}})()'
@@ -96,7 +97,7 @@ try{
     }
    }
    if($width -eq 1440){
-    for($i=0;$i -lt 6;$i++){
+    for($i=0;$i -lt 7;$i++){
      Load ($language+'all-services.html')
      $point=Eval ('(()=>{const c=document.querySelectorAll(".service-overview-card")['+$i+'];c.scrollIntoView({block:"center",behavior:"instant"});const r=c.getBoundingClientRect(),a=c.querySelector(".action");return {x:r.left+5,y:r.top+5,path:new URL(a.href).pathname}})()')
      Cdp 'Input.dispatchMouseEvent' @{type='mousePressed';button='left';clickCount=1;x=$point.x;y=$point.y}|Out-Null
