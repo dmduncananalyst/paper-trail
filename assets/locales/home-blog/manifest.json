@@ -121,7 +121,7 @@
       "provider_verified": true
     },
     "chatReply": {
-      "source": "Write a replyÃ¢â‚¬Â¦",
+      "source": "Write a replyÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¦",
       "source_sha256": "182fe0aac991af4414c564d8b155ecdfd71fe4315caaadfd3d4acd2feba6cdad",
       "origin": "google",
       "provider_verified": true
@@ -157,7 +157,7 @@
       "provider_verified": true
     },
     "copyright": {
-      "source": "Ã‚Â© 2026 Paper Trail. All rights reserved.",
+      "source": "Ãƒâ€šÃ‚Â© 2026 Paper Trail. All rights reserved.",
       "source_sha256": "1d85232fd2c890fb646c4f8cc3eaf1d5885c373792bf1301fdc7c01251cee743",
       "origin": "google",
       "provider_verified": true
@@ -247,7 +247,7 @@
       "provider_verified": true
     },
     "location": {
-      "source": "Nationwide Ã¢â‚¬â€œ Based Out Of Los Angeles, California",
+      "source": "Nationwide ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Å“ Based Out Of Los Angeles, California",
       "source_sha256": "b070975c03bb5afa874ce48218055f6752a7e771df5093bbccc66ee45a11c93e",
       "origin": "google",
       "provider_verified": true
@@ -397,8 +397,8 @@
       "provider_verified": true
     }
   },
-  "google_calls": 450,
-  "google_characters_sent": 1714815,
+  "google_calls": 468,
+  "google_characters_sent": 1786554,
   "guided_chat": {
     "file": "chat.json",
     "languages": [
@@ -433,7 +433,7 @@
   "reference_only": [
     "assets/locales/ui.js"
   ],
-  "revision": "929bf3ff6c566963b2af3e41b7bedb328913db4b52a099aa0469c8085952863c",
+  "revision": "429c17f753942206686d94b433f0f17fb733046ae010505e2fee597f1e2307f5",
   "source_pages": [
     "3-ways-to-save-money-on-your-small-business-taxes.html",
     "5-ways-to-cut-your-small-business-tax-bill-in-2025.html",
@@ -454,6 +454,7 @@
     "bookkeeping-calabasas.html",
     "bookkeeping-chatsworth.html",
     "bookkeeping-checklist-for-new-businesses.html",
+    "bookkeeping-cleanup-before-tax-season.html",
     "bookkeeping-culver-city.html",
     "bookkeeping-glendale.html",
     "bookkeeping-hollywood.html",
@@ -552,6 +553,7 @@
     "payroll.html",
     "profit-vs-cash-flow-business-money.html",
     "quickbooks-xero-professional-bookkeeping.html",
+    "reconcile-delivery-app-sales-fees-refunds-deposits.html",
     "request-a-custom-quote.html",
     "roles-bookkeepers-accountants-cpas.html",
     "sales-report-bank-deposits-never-agree.html",
@@ -564,6 +566,7 @@
     "should-loans-be-recorded-before-preparing-taxes.html",
     "should-payroll-records-be-reviewed-at-year-end.html",
     "should-sales-tax-collected-be-treated-as-revenue.html",
+    "square-stripe-booking-app-deposits-not-matching-bank.html",
     "startup-bookkeeping.html",
     "state-records/alabama.html",
     "state-records/alaska.html",
@@ -680,9 +683,9 @@
     "year-end-bookkeeping.html"
   ],
   "status": "Saved Google translations. No visitor API calls. Native speaker review pending.",
-  "successful_characters_saved": 2223045,
+  "successful_characters_saved": 2294784,
   "workflow": "whole-site",
-  "blog_sync_successful_characters": 1432863,
+  "blog_sync_successful_characters": 1504602,
   "usage_scope": "Restored incremental ledger only; historical account usage and charges remain unknown",
   "actual_charges_usd": null
 }
