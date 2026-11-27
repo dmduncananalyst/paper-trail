@@ -673,3 +673,45 @@ html .pt-preview .payroll-opening>.payroll-page-title{
   margin-inline: auto;
   text-align: center;
 }
+
+/* Stack photographic service and industry cards when the text column is too narrow. */
+@media (max-width:650px) {
+ .pt-preview :is(.service-grid,.about-service-choices,.named-service-list,.photo-card-grid,.support-note-cards,.county-cards):has(> a img) {
+  grid-template-columns:minmax(0,1fr);
+  gap:18px;
+ }
+ .pt-preview main a:is(.service-tile,.named-service,.about-service-choices > a,.county-card,.photo-card,.service-notes .support-note-cards .photo-card):has(> img,> .card-photo > img) {
+  display:grid;
+  grid-template-columns:minmax(0,1fr);
+  gap:0;
+  padding:0;
+  border:1px solid #ccc;
+ }
+ .pt-preview main a:is(.service-tile,.named-service,.about-service-choices > a,.county-card,.photo-card,.service-notes .support-note-cards .photo-card):has(> img,> .card-photo > img)>:is(img,.card-photo),
+ .pt-preview main a.photo-card > .card-photo > img {
+  display:block;
+  width:100%;
+  height:auto;
+  max-height:none;
+  aspect-ratio:auto;
+  align-self:start;
+  object-fit:contain;
+ }
+ .pt-preview main a:is(.service-tile,.named-service,.about-service-choices > a,.county-card,.photo-card,.service-notes .support-note-cards .photo-card):has(> img,> .card-photo > img)>div:not(.card-photo) {
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+  justify-content:center;
+  gap:8px;
+  min-width:0;
+  padding:12px 14px 14px;
+  text-align:center;
+  overflow-wrap:anywhere;
+ }
+ .pt-preview main a:is(.service-tile,.named-service,.about-service-choices > a,.county-card,.photo-card,.service-notes .support-note-cards .photo-card):has(> img,> .card-photo > img)>div>:is(h2,h3,p,.action) {
+  margin:0;
+ }
+ .pt-preview .service-tile:has(> img)>div>.pt-icon[aria-hidden="true"] {
+  display:none;
+ }
+}
