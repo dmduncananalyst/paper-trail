@@ -20,6 +20,17 @@ foreach($name in $inventory.english){[void]$expectedPages.Add($name)}
 foreach($language in $languages){foreach($name in $inventory.locales.$language){[void]$expectedPages.Add($language+'/'+$name)}}
 # All Bundles uses the existing Packages template and existing quote/consultation links.
 $withoutChat=@('all-bundles.html','financial-analysis.html','weekly-bookkeeping.html','packages.html','request-a-custom-quote.html','enterprise-monthly-bookkeeping-quote.html','enterprise-weekly-bookkeeping-quote.html','enterprise-accounts-billing-quote.html','bookkeeping-repair-quote.html')
+# Approved November industry and service layouts use quote and consultation links.
+# Require zero chat configurations on these exact routes in every language.
+$withoutChat+=@(
+ 'industries.html','construction-bookkeeping.html','restaurant-bookkeeping.html',
+ 'retail-store-bookkeeping.html','membership-business-bookkeeping.html',
+ 'professional-services-bookkeeping.html','real-estate-bookkeeping.html',
+ 'fitness-bookkeeping.html','pilates-studio-bookkeeping.html','yoga-studio-bookkeeping.html','gym-bookkeeping.html',
+ 'fishing-tackle-store-bookkeeping.html','bicycle-shop-bookkeeping.html',
+ 'clothing-store-bookkeeping.html','furniture-store-bookkeeping.html','jewelry-store-bookkeeping.html',
+ 'pet-supply-store-bookkeeping.html','sporting-goods-store-bookkeeping.html','outsourced-bookkeeping.html'
+)
 $pages=@(Get-ChildItem $publicRoot -Filter '*.html' -Recurse)
 $files=New-Object 'Collections.Generic.HashSet[string]' ([StringComparer]::OrdinalIgnoreCase)
 Get-ChildItem $publicRoot -Recurse -Force | ForEach-Object {
