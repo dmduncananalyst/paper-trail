@@ -60,7 +60,7 @@ class Inventory(HTMLParser):
         if not blocked:
             for match in re.finditer(r'''([\w:-]+)\s*=\s*(["'])(.*?)\2''', raw, re.S):
                 name = match[1].lower(); source = normal(html.unescape(match[3]))
-                meta = tag == 'meta' and name == 'content' and (attrs.get('name') in {'description', 'twitter:title', 'twitter:description'} or attrs.get('property') in {'og:title', 'og:description'})
+                meta = tag == 'meta' and name == 'content' and (attrs.get('name') in {'description', 'twitter:title', 'twitter:description', 'twitter:image:alt'} or attrs.get('property') in {'og:title', 'og:description', 'og:image:alt'})
                 if eligible(source) and (name in {'alt', 'title', 'placeholder', 'aria-label', 'aria-description'} or meta):
                     self.slots.append((start + match.start(3), start + match.end(3), source, True))
         if tag not in {'area','base','br','col','embed','hr','img','input','link','meta','param','source','track','wbr'}: self.stack.append((tag, blocked))
@@ -108,14 +108,22 @@ def load_fields():
     for path in (STATE / 'provider-responses').glob('*.json'):
         receipt = json.loads(path.read_text(encoding='utf-8'))
         for source, value in zip(receipt['sources'], receipt['values']):
-            if value.strip(): fields[key(source, receipt['locale'])] = {'source':normal(source), 'locale':receipt['locale'], 'text':value, 'provider':'google', 'receipt':path.name}
+            field = key(source, receipt['locale'])
+            if value.strip() and fields.get(field, {}).get('provider') != 'authored':
+                fields[field] = {'source':normal(source), 'locale':receipt['locale'], 'text':value, 'provider':'google', 'receipt':path.name}
     return pointer, fields
 
-def inventory(only_pages=None):
-    names = discover()
+def inventory(only_pages=None, additional_pages=()):
+    blog_names = discover()
+    names = blog_names.copy()
+    if additional_pages:
+        public = json.loads((ROOT / 'tools/production-pages.json').read_text(encoding='utf-8'))['english']
+        unknown = set(additional_pages) - set(public)
+        if unknown: raise ValueError('Requested pages are outside the English public inventory: ' + ', '.join(sorted(unknown)))
+        names.extend(name for name in additional_pages if name not in names)
     if only_pages:
         unknown = set(only_pages) - set(names)
-        if unknown: raise ValueError('Requested pages are absent from the blog archive: ' + ', '.join(sorted(unknown)))
+        if unknown: raise ValueError('Requested pages are outside the translation scope: ' + ', '.join(sorted(unknown)))
         names = [name for name in names if name in only_pages]
     pages = {}; refs = set()
     for name in names:
@@ -125,7 +133,7 @@ def inventory(only_pages=None):
     pointer, fields = load_fields()
     missing = {lang: sorted(s for s in refs if key(s, lang) not in fields) for lang in LANGUAGES}
     characters = sum(len(s) for values in missing.values() for s in values)
-    report = {'blogs':len(names)-1, 'pages':names, 'languages':LANGUAGES, 'missing_fields':sum(map(len,missing.values())), 'source_characters_to_translate':characters, 'estimated_gross_cost_usd':characters * 20 / 1_000_000, 'paid_calls':0, 'local_only':True}
+    report = {'blogs':sum(name in blog_names[1:] for name in names), 'pages':names, 'languages':LANGUAGES, 'missing_fields':sum(map(len,missing.values())), 'source_characters_to_translate':characters, 'estimated_gross_cost_usd':characters * 20 / 1_000_000, 'paid_calls':0, 'local_only':True}
     return pages, pointer, fields, missing, report
 
 def dispatch(fields, missing, report):
@@ -153,7 +161,7 @@ def dispatch(fields, missing, report):
     database.execute('CREATE TABLE IF NOT EXISTS segments (id TEXT PRIMARY KEY, request TEXT, source TEXT, locale TEXT)')
     database.commit()
     ceiling = report['source_characters_to_translate']; sent = 0
-    save_json(OUT / 'authorized-scope.json', {**report, 'approval':'Standing owner approval for every blog in all nine languages; local only', 'dispatch_character_ceiling':ceiling, 'historical_shared_ledger':'Original private ledger absent in this checkout; this durable job ledger records incremental blog calls without claiming an account-wide balance.'})
+    save_json(OUT / 'authorized-scope.json', {**report, 'approval':'Owner approval for scoped content in all nine languages; local only', 'dispatch_character_ceiling':ceiling, 'historical_shared_ledger':'Original private ledger absent in this checkout; this durable job ledger records incremental calls without claiming an account-wide balance.'})
     for lang, sources in missing.items():
         groups = []; group = []; size = 0
         for source in sources:
@@ -235,6 +243,12 @@ def build(pages, pointer, fields, report):
             body = None
             if body_match:
                 body = '\n\n'.join(fields[key(normal(html.unescape(re.sub('<[^>]+>','',m[1]))),lang)]['text'] for m in re.finditer(r'<(?:p|h2)\b[^>]*>(.*?)</(?:p|h2)>',body_match[1],re.S))
+            else:
+                column = re.search(r'<div class="reading-column">(.*?)(?:<section class="reference-list">|</article>)', markup, re.S)
+                if column:
+                    body = '\n\n'.join(normal(html.unescape(re.sub('<[^>]+>', '', match[2])))
+                                       for match in re.finditer(r'<(?:p|h2)\b([^>]*)>(.*?)</(?:p|h2)>', column[1], re.S)
+                                       if 'publication-date' not in match[1])
             markup = re.sub(r'<script type="application/ld\+json">(.*?)</script>',lambda m:'<script type="application/ld+json">'+json.dumps(translated_schema(json.loads(m[1]),lang,fields,routes[lang],body),ensure_ascii=True)+'</script>',markup,flags=re.S)
             markup = alternates(markup,name)
             # Retain the site's saved Google attribution and translated notice.
@@ -252,6 +266,11 @@ def build(pages, pointer, fields, report):
     pointer['source_pages'] = len(set(n for values in routes.values() for n in values))
     save_json(BASE/'current.json',pointer)
     atomic(BASE/'routes.js','window.paperTrailTranslationRoutes='+json.dumps(routes)+';\n')
+    production_path = ROOT/'tools/production-pages.json'
+    production = json.loads(production_path.read_text(encoding='utf-8'))
+    for lang in LANGUAGES:
+        production['locales'][lang] = sorted(set(production['locales'].get(lang, [])) | set(pages))
+    save_json(production_path, production)
     provider_path = ROOT/'assets/locales/home-blog/provider-current.json'
     provider = json.loads(provider_path.read_text()); provider['revision']=revision; save_json(provider_path,provider)
     manifest_path = ROOT/'assets/locales/home-blog/manifest.json'
@@ -277,10 +296,11 @@ def build(pages, pointer, fields, report):
 def main():
     parser=argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--refresh',action='store_true')
-    parser.add_argument('--only-pages',nargs='+',help='Limit rendering and translation to listed archive/article filenames; preserve all other pages.')
+    parser.add_argument('--only-pages',nargs='+',help='Limit rendering and translation to the listed filenames; preserve all other pages.')
+    parser.add_argument('--include-public-pages',nargs='+',default=(),help='Include explicitly authorized pages from the English public inventory in the translation scope.')
     parser.add_argument('--max-cost-usd',type=float,help='Refuse dispatch if the inventory gross estimate exceeds this owner-approved ceiling.')
     args=parser.parse_args()
-    pages,pointer,fields,missing,report=inventory(args.only_pages); save_json(OUT/'inventory.json',report)
+    pages,pointer,fields,missing,report=inventory(args.only_pages,args.include_public_pages); save_json(OUT/'inventory.json',report)
     print(json.dumps(report,indent=2),flush=True)
     if not args.refresh: return
     if args.max_cost_usd is not None and report['estimated_gross_cost_usd'] > args.max_cost_usd:

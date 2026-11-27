@@ -4,6 +4,8 @@ $root = Split-Path $PSScriptRoot
 # The approved replacement release must preserve older content and all 80 pages.
 $integrityPython=Join-Path $root '../sun-and-sage/.tools/python/python.exe'
 if(!(Test-Path -LiteralPath $integrityPython)){$integrityPython=(Get-Command python -ErrorAction Stop).Source}
+& $integrityPython (Join-Path $PSScriptRoot 'verify-fitness-industry.py')
+if($LASTEXITCODE -ne 0){throw 'Fitness industry release verification failed; build stopped.'}
 & $integrityPython (Join-Path $PSScriptRoot 'verify-articles-20261113.py') --require-translations
 if($LASTEXITCODE -ne 0){throw 'Article publication integrity failed; build stopped.'}
 $destination = [IO.Path]::GetFullPath((Join-Path $root $Output))

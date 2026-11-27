@@ -55,6 +55,14 @@ def ancestors(node):
 
 
 BLOG_ROUTES=frozenset(['blog.html', 'catch-up-bookkeeping-overdue-books.html', 'customer-deposits-spent-like-earnings-work-still-owed.html', 'lender-asked-for-clean-financials-books-could-not-answer.html', 'profit-vs-cash-flow-business-money.html', 'tax-ready-bookkeeping-records.html', 'the-contractor-records-that-make-january-difficult.html', 'the-point-when-managing-your-own-books-stops-making-sense.html', 'the-real-cost-of-monthly-bookkeeping-for-small-businesses.html', 'the-receipts-that-disappear-before-the-year-ends.html', 'vendor-paid-twice-nobody-noticed-for-months.html', 'when-personal-and-business-spending-become-one.html'])
+BLOG_ROUTES = BLOG_ROUTES.union({
+    'when-your-business-makes-money-but-you-cannot-afford-to-pay-yourself.html',
+    'managing-business-expenses-when-customers-pay-late.html',
+    'hiring-a-bookkeeper-for-your-quickbooks.html',
+    'bookkeeper-vs-accountant-vs-cpa.html',
+    'california-payroll-record-retention-requirements.html',
+})
+
 
 # Blog membership is explicit: service/location pages cannot become citation
 # exceptions merely by using an <article> wrapper or Article structured data.

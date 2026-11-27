@@ -665,3 +665,11 @@ html .pt-preview .payroll-opening>.payroll-page-title{
  html .pt-preview .pt-header .pt-nav{gap:12px 20px;font-size:15px}
  html .pt-preview .payroll-opening>.payroll-page-title{font-size:36px;margin-bottom:26px}
 }
+
+/* Center the Industries landing-page introduction with its directory. */
+.pt-interior .industries-opening .opening-copy,
+.pt-interior .industries-opening .opening-copy h1,
+.pt-interior .industries-opening .opening-copy .summary {
+  margin-inline: auto;
+  text-align: center;
+}
