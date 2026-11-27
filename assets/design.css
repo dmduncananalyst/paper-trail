@@ -676,14 +676,18 @@ html .pt-preview .payroll-opening>.payroll-page-title{
 
 /* Stack photographic service and industry cards when the text column is too narrow. */
 @media (max-width:650px) {
- .pt-preview :is(.service-grid,.about-service-choices,.named-service-list,.photo-card-grid,.support-note-cards,.county-cards):has(> a img) {
+ .pt-preview main :is(.service-grid,.about-service-choices,.coverage-services .about-service-choices,.named-service-list,.photo-card-grid,.support-note-cards,.county-cards):has(> a img) {
   grid-template-columns:minmax(0,1fr);
+  grid-auto-rows:auto;
   gap:18px;
  }
  .pt-preview main a:is(.service-tile,.named-service,.about-service-choices > a,.county-card,.photo-card,.service-notes .support-note-cards .photo-card):has(> img,> .card-photo > img) {
   display:grid;
   grid-template-columns:minmax(0,1fr);
+  grid-template-rows:auto auto;
+  align-content:start;
   gap:0;
+  min-height:0;
   padding:0;
   border:1px solid #ccc;
  }
